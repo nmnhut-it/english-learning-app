@@ -387,8 +387,23 @@ function normalizeStrict(text) {
 }
 
 /**
+ * Multi-level severity thresholds for content comparison.
+ * CRITICAL: <50% match - content largely fabricated
+ * HIGH: 50-70% match - significant differences
+ * MEDIUM: 70-90% match - moderate changes
+ * LOW: 90-98% match - minor wording differences
+ * PASS: >98% match - near identical
+ */
+const STRICT_THRESHOLDS = {
+  CRITICAL: 50,  // Below this = CRITICAL
+  HIGH: 70,      // Below this = HIGH
+  MEDIUM: 90,    // Below this = MEDIUM
+  LOW: 98        // Below this = LOW, above = PASS
+};
+
+/**
  * Compare two texts using strict normalized sentence matching.
- * Any source sentence not found in voice = flagged.
+ * Multi-level severity based on match rate.
  * Returns: matchRate, unmatched sentences, severity
  */
 function compareNormalizedSentences(sourceText, voiceText) {
@@ -414,14 +429,27 @@ function compareNormalizedSentences(sourceText, voiceText) {
 
   const matchRate = (matched / sourceSentences.length) * 100;
 
-  // STRICT: Any unmatched sentence = CRITICAL flag
+  // Multi-level severity based on match rate
+  let severity;
+  if (matchRate < STRICT_THRESHOLDS.CRITICAL) {
+    severity = 'CRITICAL';  // <50% - largely fabricated
+  } else if (matchRate < STRICT_THRESHOLDS.HIGH) {
+    severity = 'HIGH';      // 50-70% - significant changes
+  } else if (matchRate < STRICT_THRESHOLDS.MEDIUM) {
+    severity = 'MEDIUM';    // 70-90% - moderate changes
+  } else if (matchRate < STRICT_THRESHOLDS.LOW) {
+    severity = 'LOW';       // 90-98% - minor differences
+  } else {
+    severity = 'PASS';      // >98% - near identical
+  }
+
   return {
     matchRate,
     unmatched,
     total: sourceSentences.length,
     matched,
-    passed: unmatched.length === 0,
-    severity: unmatched.length > 0 ? 'CRITICAL' : 'PASS'
+    passed: severity === 'PASS',
+    severity
   };
 }
 
@@ -430,6 +458,7 @@ function compareNormalizedSentences(sourceText, voiceText) {
  * Simpler approach: just get text between markers, filter out Vietnamese.
  */
 function extractSourceBlocks(content) {
+  content = content.replace(/\r\n/g, '\n'); // Normalize line endings
   const blocks = { dialogueText: '', questionText: '', readingText: '' };
 
   // Dialogue: Between Bài 1 and Tạm dịch (or Bài 2)
@@ -450,9 +479,21 @@ function extractSourceBlocks(content) {
     .join(' ');
 
   // Reading: Look for substantial English paragraphs
+  // Strip ALL leading image markdown tags before checking if paragraph starts with capital
+  const stripLeadingImages = (text) => {
+    let result = text.trim(); // Trim leading whitespace first
+    while (/^!\[[^\]]*\]\([^)]*\)\s*/.test(result)) {
+      result = result.replace(/^!\[[^\]]*\]\([^)]*\)\s*/, '');
+    }
+    return result.trim();
+  };
   const paragraphs = content.split(/\n\n+/);
   const englishParagraphs = paragraphs
-    .filter(p => p.length > 100 && !isVietnamese(p) && /^[A-Z]/.test(p.trim()))
+    .filter(p => {
+      const cleaned = stripLeadingImages(p);
+      return cleaned.length > 100 && !isVietnamese(cleaned) && /^[A-Z]/.test(cleaned);
+    })
+    .map(p => stripLeadingImages(p))
     .join(' ');
   blocks.readingText = englishParagraphs;
 
@@ -474,6 +515,16 @@ function extractVoiceBlocks(content) {
       .map(line => line.replace(/^\*\*[A-Za-z]+:\*\*\s*/, '').replace(/\|/g, '').trim())
       .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
     blocks.dialogueText += ' ' + lines.join(' ');
+  }
+
+  // Fallback: bare markdown dialogue format (**Speaker:** text) when no <dialogue> tags
+  if (!blocks.dialogueText.trim()) {
+    const bareDialoguePattern = /\*\*([A-Z][a-z]+):\*\*\s*([^\n]+)/g;
+    const bareMatches = content.match(bareDialoguePattern) || [];
+    const bareLines = bareMatches
+      .map(line => line.replace(/\*\*[A-Za-z]+:\*\*\s*/, '').trim())
+      .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
+    blocks.dialogueText = bareLines.join(' ');
   }
 
   // Questions: Inside <questions> tags
@@ -499,32 +550,87 @@ function extractVoiceBlocks(content) {
 }
 
 /**
+ * Downgrade severity by one level (for lower-priority content types like task instructions).
+ */
+function downgradeSeverity(severity) {
+  const levels = ['PASS', 'LOW', 'MEDIUM', 'HIGH', 'CRITICAL'];
+  const currentIndex = levels.indexOf(severity);
+  return currentIndex > 0 ? levels[currentIndex - 1] : 'PASS';
+}
+
+/**
  * Run strict comparison between source and voice blocks.
  * Returns array of results for each content type.
+ * Questions/task instructions get deprioritized (one severity level lower).
  */
-function runStrictComparison(sourceBlocks, voiceBlocks) {
+/**
+ * Detect speaker names from dialogue text (e.g., "Phong", "Mi", "Ann").
+ */
+function detectSpeakers(text) {
+  const speakerPattern = /\b([A-Z][a-z]{2,12})(?::|'s|,|\s+said)/g;
+  const speakers = new Set();
+  let match;
+  while ((match = speakerPattern.exec(text)) !== null) {
+    speakers.add(match[1]);
+  }
+  return Array.from(speakers);
+}
+
+/**
+ * Check if voice content has Vietnamese dialogue lines with matching speakers.
+ * Returns true if voice has Vietnamese translations (intentional format, not fabrication).
+ */
+function hasVietnameseTranslation(voiceContent, sourceSpeakers) {
+  if (!sourceSpeakers || sourceSpeakers.length === 0) return false;
+  // Check if voice has Vietnamese lines with same speaker names
+  for (const speaker of sourceSpeakers) {
+    const pattern = new RegExp(`\\*\\*${speaker}:\\*\\*\\s*.+`, 'g');
+    const matches = voiceContent.match(pattern) || [];
+    // Check if any of these lines are Vietnamese
+    const hasVietnamese = matches.some(line => isVietnamese(line));
+    if (hasVietnamese) return true;
+  }
+  return false;
+}
+
+function runStrictComparison(sourceBlocks, voiceBlocks, voiceContent = '') {
   const results = [];
 
-  // Compare dialogues
+  // Compare dialogues - HIGH PRIORITY (educational content)
   if (sourceBlocks.dialogueText && sourceBlocks.dialogueText.length > 20) {
     const result = compareNormalizedSentences(sourceBlocks.dialogueText, voiceBlocks.dialogueText);
+
+    // Check for Vietnamese translation format (intentional, not fabrication)
+    const sourceSpeakers = detectSpeakers(sourceBlocks.dialogueText);
+    if (result.severity === 'CRITICAL' && hasVietnameseTranslation(voiceContent, sourceSpeakers)) {
+      result.severity = 'LOW';
+      result.note = 'Voice has Vietnamese translation of English dialogue';
+    }
+
     results.push({ type: 'Dialogue', ...result });
   }
 
-  // Compare questions
+  // Compare questions/task instructions - LOWER PRIORITY (can be paraphrased)
   if (sourceBlocks.questionText && sourceBlocks.questionText.length > 20) {
     const result = compareNormalizedSentences(sourceBlocks.questionText, voiceBlocks.questionText);
+    // Downgrade severity for task instructions (they're often paraphrased)
+    result.severity = downgradeSeverity(result.severity);
     results.push({ type: 'Questions', ...result });
   }
 
-  // Compare reading
+  // Compare reading - HIGH PRIORITY (educational content)
   if (sourceBlocks.readingText && sourceBlocks.readingText.length > 50) {
     const result = compareNormalizedSentences(sourceBlocks.readingText, voiceBlocks.readingText);
     results.push({ type: 'Reading', ...result });
   }
 
-  const hasIssues = results.some(r => r.unmatched && r.unmatched.length > 0);
-  return { results, overallSeverity: hasIssues ? 'CRITICAL' : 'PASS' };
+  // Overall severity = highest among results (excluding downgraded Questions)
+  const severityOrder = { 'PASS': 0, 'LOW': 1, 'MEDIUM': 2, 'HIGH': 3, 'CRITICAL': 4 };
+  const maxSeverity = results.reduce((max, r) => {
+    return severityOrder[r.severity] > severityOrder[max] ? r.severity : max;
+  }, 'PASS');
+
+  return { results, overallSeverity: maxSeverity };
 }
 
 // =============================================================================
@@ -1366,6 +1472,14 @@ function compareAnswersBidirectional(sourceAnswers, voiceAnswers) {
           // Different types - could be format difference, mark as matched
           // (e.g., source has "b" for MC, voice has actual answer text)
           matched.push({ key, value: srcValue, note: 'format-diff' });
+        } else if (srcType === 'word') {
+          // Word-type answers: use fuzzy matching to handle typos (80% threshold)
+          const similarity = levenshteinSimilarity(normSrc, normVoice);
+          if (similarity >= 80) {
+            matched.push({ key, value: srcValue, note: `fuzzy-${similarity.toFixed(0)}%` });
+          } else {
+            wrong.push({ key, source: srcValue, voice: voiceValue });
+          }
         } else {
           wrong.push({ key, source: srcValue, voice: voiceValue });
         }
@@ -2033,13 +2147,21 @@ function generateReport(grade, unit, section, comparison) {
       }
     }
 
-    // Summary table
+    // Summary table with multi-level severity
     report += `### Match Summary\n\n`;
     report += `| Content Type | Match Rate | Unmatched | Status |\n`;
     report += `|--------------|------------|-----------|--------|\n`;
     for (const result of sc.results) {
-      const status = result.passed ? '✅ PASS' : '❌ CRITICAL';
       const unmatchedCount = result.unmatched ? result.unmatched.length : 0;
+      // Multi-level status icons
+      let status;
+      switch (result.severity) {
+        case 'CRITICAL': status = '🔴 CRITICAL'; break;
+        case 'HIGH': status = '🟠 HIGH'; break;
+        case 'MEDIUM': status = '🟡 MEDIUM'; break;
+        case 'LOW': status = '🔵 LOW'; break;
+        default: status = '✅ PASS';
+      }
       report += `| ${result.type} | ${result.matchRate.toFixed(0)}% | ${unmatchedCount}/${result.total} | ${status} |\n`;
     }
     report += `\n`;
@@ -2111,20 +2233,31 @@ async function main() {
       // Run STRICT normalized comparison (new - favors false positives)
       const sourceBlocks = extractSourceBlocks(sourceContent);
       const voiceBlocks = extractVoiceBlocks(voiceContent);
-      const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks);
+      const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks, voiceContent);
       comparison.strictComparison = strictComparison;
       comparison.sourceBlocks = sourceBlocks;  // For side-by-side report
       comparison.voiceBlocks = voiceBlocks;
 
-      // Add strict comparison issues to main issues list
+      // Add strict comparison issues to main issues list (using multi-level severity)
       for (const result of strictComparison.results) {
-        if (result.unmatched && result.unmatched.length > 0) {
+        if (result.unmatched && result.unmatched.length > 0 && result.severity !== 'PASS') {
           comparison.issues.push({
-            type: 'CRITICAL',
+            type: result.severity,  // Use multi-level severity
             block: `STRICT ${result.type} - Unmatched Sentences`,
             detail: `${result.unmatched.length}/${result.total} sentences not found: "${result.unmatched.slice(0, 2).join('", "')}${result.unmatched.length > 2 ? '...' : ''}"`
           });
         }
+      }
+
+      // Reconcile: Downgrade "Reading - Fabricated Content" if strict shows good match
+      const strictReading = strictComparison.results.find(r => r.type === 'Reading');
+      if (strictReading && strictReading.matchRate >= 70) {
+        comparison.issues = comparison.issues.map(issue => {
+          if (issue.block === 'Reading - Fabricated Content' && issue.type === 'CRITICAL') {
+            return { ...issue, type: 'LOW', note: `Strict match: ${strictReading.matchRate}%` };
+          }
+          return issue;
+        });
       }
 
       // Run quality checks
@@ -2178,12 +2311,16 @@ async function main() {
       const reportFile = path.join(reportsDir, `fabrication-g${grade}-unit-${unitNum}-${sect}.md`);
       fs.writeFileSync(reportFile, report);
 
+      // Count issues by severity level
       const criticalIssues = comparison.issues.filter(i => i.type === 'CRITICAL');
       const highIssues = comparison.issues.filter(i => i.type === 'HIGH');
+      const mediumIssues = comparison.issues.filter(i => i.type === 'MEDIUM');
+      const lowIssues = comparison.issues.filter(i => i.type === 'LOW');
 
+      // Show highest severity issues in console
       if (criticalIssues.length > 0) {
         totalFailed++;
-        console.log(`  ❌ CRITICAL (${criticalIssues.length})`);
+        console.log(`  🔴 CRITICAL (${criticalIssues.length})`);
         for (const issue of criticalIssues.slice(0, 2)) {
           console.log(`     ${issue.block}: ${issue.detail.substring(0, 60)}...`);
         }
@@ -2193,9 +2330,15 @@ async function main() {
         for (const issue of highIssues.slice(0, 2)) {
           console.log(`     ${issue.block}: ${issue.detail.substring(0, 60)}...`);
         }
+      } else if (mediumIssues.length > 0) {
+        totalPassed++;
+        console.log(`  🟡 MEDIUM (${mediumIssues.length})`);
+      } else if (lowIssues.length > 0) {
+        totalPassed++;
+        console.log(`  🔵 LOW (${lowIssues.length})`);
       } else if (comparison.issues.length > 0) {
         totalPassed++;
-        console.log(`  ⚠️ REVIEW (${comparison.issues.length} minor)`);
+        console.log(`  ⚠️ REVIEW (${comparison.issues.length})`);
       } else {
         totalPassed++;
         console.log(`  ✅ PASSED`);
@@ -2204,7 +2347,7 @@ async function main() {
   }
 
   console.log(`\n${'='.repeat(50)}`);
-  console.log(`SUMMARY: ${totalPassed} passed, ${totalFailed} critical failures`);
+  console.log(`SUMMARY: ${totalPassed} passed, ${totalFailed} need review (CRITICAL/HIGH)`);
   console.log(`Reports: ${reportsDir}`);
 }
 
