@@ -562,9 +562,9 @@ function extractVoiceBlocks(content) {
   const dialogueMatches = content.match(/<dialogue>([\s\S]*?)<\/dialogue>/g) || [];
   for (const match of dialogueMatches) {
     const inner = match.replace(/<\/?dialogue>/g, '');
-    // Extract English text, remove speaker markers and Vietnamese
+    // Extract English text, remove speaker markers, bold markers, and Vietnamese
     const lines = inner.split('\n')
-      .map(line => line.replace(/^\*\*[A-Za-z]+:\*\*\s*/, '').replace(/\|/g, '').trim())
+      .map(line => line.replace(/^\*\*[A-Za-z ]+:\*\*\s*/, '').replace(/\*\*/g, '').replace(/\|/g, '').trim())
       .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
     blocks.dialogueText += ' ' + lines.join(' ');
   }
@@ -574,7 +574,7 @@ function extractVoiceBlocks(content) {
     const bareDialoguePattern = /\*\*([A-Z][a-z]+):\*\*\s*([^\n]+)/g;
     const bareMatches = content.match(bareDialoguePattern) || [];
     const bareLines = bareMatches
-      .map(line => line.replace(/\*\*[A-Za-z]+:\*\*\s*/, '').trim())
+      .map(line => line.replace(/\*\*[A-Za-z ]+:\*\*\s*/, '').replace(/\*\*/g, '').trim())
       .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
     blocks.dialogueText = bareLines.join(' ');
   }
@@ -589,12 +589,33 @@ function extractVoiceBlocks(content) {
     blocks.questionText += ' ' + lines.join(' ');
   }
 
+  // Task instructions: Inside <task> tags (numbered or bullet-list questions)
+  // These are often source numbered questions that live in <task> in voice lectures
+  const taskMatches = content.match(/<task>([\s\S]*?)<\/task>/g) || [];
+  for (const match of taskMatches) {
+    const inner = match.replace(/<\/?task>/g, '');
+    const lines = inner.split('\n')
+      .map(line => line
+        .replace(/^[-*]\s+/, '')
+        .replace(/^\*\*[^:]+:\*\*\s*/, '')
+        .replace(/^\d+\.\s+/, '')
+        // Strip inline Vietnamese parentheticals: *(Vietnamese text)* or (Vietnamese text)
+        .replace(/\s*\*\([^)]+\)\*/g, '')
+        .replace(/\s*\([^\)]*[àáảãạăắặẳẵằâấậẩẫầèéẻẽẹêếệểễềìíỉĩịòóỏõọôốộổỗồơớợởỡờùúủũụưứựửữừỳýỷỹỵđ][^)]*\)/gi, '')
+        .trim()
+      )
+      .filter(line => line.length > 10 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
+    blocks.questionText += ' ' + lines.join(' ');
+  }
+
   // Reading: Inside <reading> tags
   const readingMatches = content.match(/<reading>([\s\S]*?)<\/reading>/g) || [];
   for (const match of readingMatches) {
     const inner = match.replace(/<\/?reading>/g, '');
     const lines = inner.split('\n')
-      .filter(line => line.length > 5 && !isVietnamese(line));
+      .filter(line => line.length > 5 && !isVietnamese(line))
+      // Strip audio link lines (🎧 [Track N](url.mp3) or [Audio](url.mp3))
+      .filter(line => !/^\s*[🎧]?\s*\[[^\]]*\]\([^)]*\.mp3[^)]*\)/.test(line.trim()));
     blocks.readingText += ' ' + lines.join(' ');
   }
 
@@ -676,7 +697,10 @@ function runStrictComparison(sourceBlocks, voiceBlocks, voiceContent = '', secti
   // Compare reading - HIGH PRIORITY (educational content)
   // Skip for sections that don't have reading passages (only exercises)
   if (sourceBlocks.readingText && sourceBlocks.readingText.length > 50 && !noReadingSections.includes(section)) {
-    const result = compareNormalizedSentences(sourceBlocks.readingText, voiceBlocks.readingText);
+    // Include voice questionText in search space: source exercises (numbered sentences)
+    // may be stored in <questions> tags rather than <reading> tags in voice lecture
+    const voiceReadingAndQuestions = [voiceBlocks.readingText, voiceBlocks.questionText].filter(Boolean).join(' ');
+    const result = compareNormalizedSentences(sourceBlocks.readingText, voiceReadingAndQuestions);
     // Downgrade by 1 level if >60% match (minor changes acceptable)
     if (result.matchRate >= 60) {
       result.severity = downgradeSeverity(result.severity);
@@ -1721,7 +1745,11 @@ function parseVoiceLecture(content) {
   // Extract reading/tapescript
   const readingRegex = /<reading>([\s\S]*?)<\/reading>/g;
   while ((match = readingRegex.exec(content)) !== null) {
-    result.readings.push(match[1].trim());
+    // Strip audio links (🎧 [Track N](url.mp3)) and <audio> tags before comparison
+    let readingContent = match[1].trim();
+    readingContent = readingContent.replace(/[🎧]?\s*\[[^\]]*\]\([^)]*\.mp3[^)]*\)/g, '').trim();
+    readingContent = readingContent.replace(/<audio[^>]*>[\s\S]*?<\/audio>/gi, '').trim();
+    if (readingContent) result.readings.push(readingContent);
   }
 
   // Extract questions
