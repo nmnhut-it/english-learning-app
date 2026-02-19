@@ -53,41 +53,48 @@ Ví dụ:
 ### Bài 1 trang 10 - Match
 
 <teacher_script pause="60">
-Bài 1. Nối cụm từ với nghĩa tương đương nha. 1 phút.
+Bài 1. Nối cột A với cột B để tạo cụm từ hoàn chỉnh nha. Chú ý giới từ đi kèm mỗi cụm từ. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match the phrases with similar meanings.
-**Dịch đề:** Nối các cụm từ với nghĩa tương đương.
+**Đề:** Match a word/phrase in column A with a word in column B to make expressions about likes.
+**Dịch đề:** Nối một từ/cụm từ ở cột A với một từ ở cột B để tạo cụm từ diễn đạt sở thích.
 </task>
 
 <questions type="matching">
-**1.** be fond of
-**2.** be keen on
-**3.** be interested in
-**4.** be crazy about
-**5.** be into
+**Cột A:**
+1. be fond
+2. be keen
+3. be interested
+4. be crazy
+5. be
 
-a. yêu thích
-b. say mê, quan tâm đến
-c. phát cuồng vì
-d. thích
-e. quan tâm đến, thích
+**Cột B:**
+a. about
+b. in
+c. on
+d. into
+e. of
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè. Thực ra 5 cụm từ này đều có nghĩa gần giống nhau - đều là "thích" nhưng mức độ khác nhau.
+Đáp án nè. Mỗi cụm từ có giới từ riêng, phải nhớ đúng nha.
 </teacher_script>
 
 <answer>
-**Bài 1 - Đáp án:** 1-a | 2-b | 3-e | 4-c | 5-d
+**Bài 1 - Đáp án:** 1-e | 2-c | 3-b | 4-a | 5-d
 </answer>
 
 <explanation>
-Mức độ từ thấp đến cao:
-- **be into / be fond of** - thích bình thường
-- **be keen on / be interested in** - thích, say mê hơn
-- **be crazy about** - phát cuồng, cực kỳ thích
+**1 → e (of):** be fond **of** = yêu thích.
+
+**2 → c (on):** be keen **on** = say mê, thích.
+
+**3 → b (in):** be interested **in** = quan tâm đến, thích.
+
+**4 → a (about):** be crazy **about** = phát cuồng vì.
+
+**5 → d (into):** be **into** = mê, thích.
 </explanation>
 
 <!-- chunk: exercise_2 -->

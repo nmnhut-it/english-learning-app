@@ -71,26 +71,26 @@ Bài 1. Điền từ thích hợp vào chỗ trống nha. Dùng các từ trong 
 ### Bài 2 trang 20 - Matching
 
 <teacher_script pause="60">
-Bài 2. Nối từ với định nghĩa đúng nha. 1 phút.
+Bài 2. Nối tính từ với định nghĩa tiếng Anh tương ứng nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match each word with its definition.
-**Dịch đề:** Nối mỗi từ với định nghĩa của nó.
+**Đề:** Match the following adjectives with their definitions.
+**Dịch đề:** Nối các tính từ sau với định nghĩa của chúng.
 </task>
 
 <questions type="matching">
-**1.** orchard *(n)*
-**2.** hospitable *(adj)*
-**3.** picturesque *(adj)*
-**4.** harvest *(v)*
-**5.** vast *(adj)*
+**1.** vast
+**2.** hospitable
+**3.** well-trained
+**4.** surrounded
+**5.** picturesque
 
-a. very large in size or area *(rộng lớn)*
-b. an area of land planted with fruit trees *(vườn cây ăn quả)*
-c. beautiful, like a picture *(đẹp như tranh)*
-d. friendly and generous to guests *(hiếu khách)*
-e. to collect crops from the fields *(thu hoạch)*
+a. pretty, especially in a way that looks old-fashioned
+b. having something near or around
+c. extremely large in area, size, amount, etc
+d. pleased to welcome guests; generous and friendly to visitors
+e. having received good or thorough training
 </questions>
 
 <teacher_script pause="0">
@@ -98,15 +98,19 @@ e. to collect crops from the fields *(thu hoạch)*
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1-b | 2-d | 3-c | 4-e | 5-a
+**Bài 2 - Đáp án:** 1-c | 2-d | 3-e | 4-b | 5-a
 </answer>
 
 <explanation>
-- **1-b. orchard:** Vườn cây ăn quả = "an area planted with fruit trees".
-- **2-d. hospitable:** Hiếu khách = "friendly and generous to guests".
-- **3-c. picturesque:** Đẹp như tranh = "beautiful, like a picture".
-- **4-e. harvest:** Thu hoạch = "to collect crops from the fields".
-- **5-a. vast:** Rộng lớn = "very large in size or area".
+**1-c. vast** — "extremely large in area" = **bao la, rộng lớn**. *(The Sahara is a vast desert.)*
+
+**2-d. hospitable** — "generous and friendly to visitors" = **hiếu khách**. *(The local people are kind and hospitable.)*
+
+**3-e. well-trained** — "having received good training" = **được đào tạo tốt**. *(Our factory needs well-trained workers.)*
+
+**4-b. surrounded** — "having something near or around" = **được bao quanh**. *(The lake is surrounded by trees.)*
+
+**5-a. picturesque** — "pretty, looks old-fashioned" = **đẹp như tranh vẽ**. *(Visitors stop to take photos of the picturesque scenery.)*
 </explanation>
 
 <!-- chunk: exercise_3 -->

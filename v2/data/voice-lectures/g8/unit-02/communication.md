@@ -157,15 +157,15 @@ Hollum is one of the oldest villages on Ameland Island in the Netherlands. Many 
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. Both | 2. Đường Lâm | 3. Hollum | 4. Đường Lâm | 5. Hollum
+**Bài 3 - Đáp án:** 1. B | 2. D | 3. H | 4. D | 5. H
 </answer>
 
 <explanation>
-- **1. Both:** Cả hai đều là "one of the oldest ancient villages".
-- **2. Đường Lâm:** "visitors can observe the locals making specialties" = chỉ Đường Lâm có làm kẹo dồi, chè lam.
-- **3. Hollum:** "kite-flying and surfing" = chỉ Hollum có thể thao nước.
-- **4. Đường Lâm:** "situated in Son Tay District" gần Hà Nội (thủ đô Việt Nam).
-- **5. Hollum:** "Visitors can get to the village by air or by ferry" = đi phà.
+- **1. B (Both):** Cả hai đều là "one of the oldest ancient villages".
+- **2. D (Đường Lâm):** "visitors can observe the locals making specialties" = chỉ Đường Lâm có làm kẹo dồi, chè lam.
+- **3. H (Hollum):** "kite-flying and surfing" = chỉ Hollum có thể thao nước.
+- **4. D (Đường Lâm):** "situated in Son Tay District" gần Hà Nội (thủ đô Việt Nam).
+- **5. H (Hollum):** "Visitors can get to the village by air or by ferry" = đi phà.
 </explanation>
 
 <!-- chunk: speaking -->

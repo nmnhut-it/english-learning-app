@@ -69,39 +69,49 @@ Ok đáp án nè.
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 trang 20 nha. Chọn từ đúng trong ngoặc để điền vào chỗ trống. Làm 1 phút.
+Bài 2 trang 20 nha. Chọn đáp án đúng A, B, C hoặc D để hoàn thành mỗi câu. Làm 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct word/phrase in brackets to complete each sentence.
-**Dịch đề:** Chọn từ/cụm từ đúng trong ngoặc để hoàn thành mỗi câu.
+**Đề:** Choose the correct answer A, B, C, or D to complete each sentence.
+**Dịch đề:** Chọn đáp án đúng A, B, C hoặc D để hoàn thành mỗi câu.
 </task>
 
 <questions type="multiple_choice">
-**1.** The sky train is ________ commuters at rush hour. *(full of / packed with)*
-*Tàu trên cao thì ________ người đi làm xa vào giờ cao điểm.*
-- A. full of
-- B. packed with
+**1.** The sky train is ________ with commuters at rush hour.
+*Tàu trên cao ________ hành khách đi làm xa vào giờ cao điểm.*
+- A. packed
+- B. full
+- C. busy
+- D. interesting
 
-**2.** The town's ________ make it a liveable place for its residents. *(public amenities / business area)*
-*________ của thị trấn làm cho nó thành một nơi đáng sống cho các cư dân.*
-- A. public amenities
-- B. business area
+**2.** The town's public amenities make it a ________ place for its residents.
+*Các tiện ích công cộng của thị trấn làm cho nó trở thành một nơi ________ cho người dân.*
+- A. crowded
+- B. boring
+- C. liveable
+- D. dull
 
-**3.** It's not always safe in the ________. Pickpocketing sometimes takes place. *(metro / sky train)*
-*Không phải lúc nào cũng an toàn trong ________. Móc túi đôi khi xảy ra.*
-- A. metro
-- B. sky train
+**3.** It's not always ________ on the metro. Pickpocketing sometimes takes place.
+*Không phải lúc nào cũng ________ trên tàu điện ngầm. Móc túi đôi khi vẫn xảy ra.*
+- A. careful
+- B. dangerous
+- C. noisy
+- D. safe
 
-**4.** It is usually more convenient to live ________ than in the suburbs. *(downtown / in a concrete jungle)*
-*Thường tiện nghi hơn khi sống ________ hơn là ở ngoại ô.*
-- A. downtown
-- B. in a concrete jungle
+**4.** It is often more ________ to live in the downtown than in the suburbs.
+*Sống ở trung tâm thành phố thường ________ hơn ở ngoại ô.*
+- A. convenient
+- B. peaceful
+- C. quiet
+- D. silent
 
-**5.** Hong Kong is like a concrete jungle with too many people. It is a ________ city. *(liveable / bustling)*
-*Hồng Kông như một rừng bê tông với quá nhiều người. Đó là một thành phố ________.*
-- A. liveable
-- B. bustling
+**5.** Hong Kong is like a concrete jungle with so many people in it. It's a ________ city.
+*Hồng Kông giống như một khu rừng bê tông với rất nhiều người. Đó là một thành phố ________.*
+- A. calm
+- B. quiet
+- C. bustling
+- D. high
 </questions>
 
 <teacher_script pause="0">
@@ -109,15 +119,63 @@ Xong chưa? Đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.B | 2.A | 3.A | 4.A | 5.B
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.D | 4.A | 5.C
 </answer>
 
 <explanation>
-1. **packed with** — *full of* và *packed with* đều nghĩa là "đầy", nhưng *packed with* mang nghĩa "chật ních, đầy cứng" — phù hợp hơn khi nói về tàu giờ cao điểm.
-2. **public amenities** — công trình công cộng như công viên, trung tâm thương mại mới làm cho nơi đó *liveable* (đáng sống).
-3. **metro** — tàu điện ngầm dưới lòng đất thường tối và dễ xảy ra *pickpocketing* (móc túi) hơn. Lưu ý: *take place = happen* (xảy ra).
-4. **downtown** — khu trung tâm có đủ tiện nghi, giao thông thuận tiện hơn ngoại ô (suburbs).
-5. **bustling** — thành phố đông đúc, ồn ào = *bustling*. Còn *liveable* nghĩa là "đáng sống" — không hợp với ngữ cảnh quá đông người.
+**1.A** — *packed (+ with)*: chật kín, đầy ních người. *be packed with sb/sth* = chật ních người/vật. Còn *full of* đúng ngữ pháp nhưng không phải đáp án vì câu hỏi dùng *packed with* — B. full thiếu giới từ *of*.
+
+**2.C** — *liveable*: đáng sống. Các tiện ích công cộng như công viên, bệnh viện, trường học → làm thành phố *đáng sống*. A. crowded (đông đúc), B. boring (chán), D. dull (tẻ nhạt) — đều không hợp.
+
+**3.D** — *safe*: an toàn. Câu nói tàu điện ngầm "không phải lúc nào cũng _____" → vì có *pickpocketing* (móc túi) → không an toàn (*not safe*). A. careful (cẩn thận), B. dangerous (nguy hiểm), C. noisy (ồn ào) — không hợp ngữ cảnh.
+
+**4.A** — *convenient*: thuận tiện. Sống ở trung tâm gần tiện nghi hơn ngoại ô (suburbs). B. peaceful (yên bình), C. quiet (yên tĩnh), D. silent (im lặng) — đặc điểm của ngoại ô, không hợp trung tâm.
+
+**5.C** — *bustling*: nhộn nhịp, náo nhiệt. Hồng Kông "như rừng bê tông với rất nhiều người" → thành phố *bustling*. A. calm (bình tĩnh), B. quiet (yên tĩnh), D. high (cao) — đều không hợp.
+</explanation>
+
+<!-- chunk: exercise-3 -->
+<teacher_script pause="90">
+Bài 3 trang 20 nha. Điền từ vào chỗ trống trong đoạn hội thoại. Có 6 từ cho sẵn trong hộp. Đọc kỹ ngữ cảnh rồi chọn từ phù hợp. Làm 2 phút.
+</teacher_script>
+
+<task>
+**Đề:** Complete the texts, using the words and phrases from the box.
+**Dịch đề:** Hoàn thành đoạn văn bằng các từ và cụm từ trong hộp.
+
+**Word box:** *metro / safe / liveable / concrete jungles / downtown / public amenities*
+</task>
+
+<questions type="fill_blanks">
+**John:** City life is great! People can travel by public transport, like buses and the (1) ________. There are good schools and hospitals, and other (2) ________ such as parks, cinemas, and sports facilities. They make cities (3) ________ places for people.
+
+*John: Cuộc sống ở thành phố thật tuyệt vời! Mọi người có thể đi lại bằng phương tiện giao thông công cộng, như xe buýt và (1) ________. Có trường học và bệnh viện tốt, và (2) ________ khác như công viên, rạp chiếu phim và cơ sở thể thao. Chúng làm cho thành phố trở thành nơi (3) ________ cho người dân.*
+
+**Jenny:** City life is terrible! The (4) ________ area is too crowded. Public transport is always packed with people. Some cities are like (5) ________ with so many buildings. Some cities are not (6) ________ because of high crime rates.
+
+*Jenny: Cuộc sống ở thành phố thật tồi tệ! Khu vực (4) ________ quá đông đúc. Phương tiện công cộng luôn chật cứng người. Một số thành phố như (5) ________ với rất nhiều tòa nhà. Một số thành phố không (6) ________ vì tỉ lệ tội phạm cao.*
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Bài 3 - Đáp án:** 1. metro | 2. public amenities | 3. liveable | 4. downtown | 5. concrete jungles | 6. safe
+</answer>
+
+<explanation>
+**1. metro** — phương tiện giao thông công cộng dưới lòng đất → *tàu điện ngầm*.
+
+**2. public amenities** — liệt kê thêm: công viên, rạp chiếu phim, cơ sở thể thao → *tiện ích công cộng*.
+
+**3. liveable** — kết quả của việc có trường tốt, bệnh viện, tiện ích → thành phố *đáng sống*.
+
+**4. downtown** — khu vực *trung tâm thành phố* thường rất đông đúc.
+
+**5. concrete jungles** — so sánh thành phố nhiều tòa nhà với *rừng bê tông* (số nhiều vì nói về "some cities").
+
+**6. safe** — tỉ lệ tội phạm cao → thành phố không *an toàn*.
 </explanation>
 
 <!-- chunk: end -->

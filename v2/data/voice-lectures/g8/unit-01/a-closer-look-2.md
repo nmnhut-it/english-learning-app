@@ -95,42 +95,42 @@ Bài 1. Xếp các động từ vào đúng cột nha. 1 phút.
 </explanation>
 
 <!-- chunk: exercise_2 -->
-### Bài 2 trang 11 - Choose the Correct Form
+### Bài 2 trang 11 - Choose the Correct Answer
 
 <teacher_script pause="60">
-Bài 2. Chọn dạng động từ đúng nha. 1 phút.
+Bài 2. Chọn đáp án đúng A, B, hoặc C nha. Chú ý động từ chính trong câu để biết theo sau là V-ing hay to-V. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct option(s) for each sentence. (A = V-ing, B = to-V, C = both)
-**Dịch đề:** Chọn đáp án đúng cho mỗi câu. (A = V-ing, B = to-V, C = cả hai)
+**Đề:** Choose the correct answer A, B, or C.
+**Dịch đề:** Chọn đáp án đúng A, B, hoặc C.
 </task>
 
 <questions type="multiple_choice">
-**1.** Tom enjoys _______ football with his friends.
-- A. playing (V-ing)
-- B. to play (to-V)
-- C. Both A and B
+**1.** I love _______, so in my leisure time, I go to some villages near Ha Noi to relax and enjoy the outdoors.
+- A. travelling
+- B. travelled
+- C. a travel
 
-**2.** Trang dislikes _______ to the cinema alone.
-- A. going (V-ing)
-- B. to go (to-V)
-- C. Both A and B
+**2.** Tom enjoys _______ puzzles, especially Sudoku.
+- A. doing
+- B. do
+- C. to do
 
-**3.** My sister loves _______ jigsaw puzzles.
-- A. doing (V-ing)
-- B. to do (to-V)
-- C. Both A and B
+**3.** When do you like _______ TV?
+- A. watched
+- B. watch
+- C. to watch
 
-**4.** I fancy _______ skateboarding this weekend.
-- A. trying (V-ing)
-- B. to try (to-V)
-- C. Both A and B
+**4.** Do you fancy _______ to the cinema this weekend?
+- A. go
+- B. going
+- C. to go
 
-**5.** We prefer _______ indoors on rainy days.
-- A. staying (V-ing)
-- B. to stay (to-V)
-- C. Both A and B
+**5.** I detest _______. I think it's cruel to harm animals.
+- A. hunting
+- B. to hunt
+- C. hunt
 </questions>
 
 <teacher_script pause="0">
@@ -138,15 +138,19 @@ Bài 2. Chọn dạng động từ đúng nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.A | 2.A | 3.C | 4.A | 5.C
+**Bài 2 - Đáp án:** 1.A | 2.A | 3.C | 4.B | 5.A
 </answer>
 
 <explanation>
-- **Câu 1 - A:** "enjoy" chỉ dùng với V-ing → "enjoys **playing**". Không dùng to play.
-- **Câu 2 - A:** "dislike" chỉ dùng với V-ing → "dislikes **going**". Không dùng to go.
-- **Câu 3 - C:** "love" dùng được cả hai → "loves **doing**" hoặc "loves **to do**". Cả hai đều đúng.
-- **Câu 4 - A:** "fancy" chỉ dùng với V-ing → "fancy **trying**". Không dùng to try.
-- **Câu 5 - C:** "prefer" dùng được cả hai → "prefer **staying**" hoặc "prefer **to stay**". Cả hai đều đúng.
+**1. A (travelling)** — "love" + V-ing → "love **travelling**". *(Tôi thích đi du lịch.)*
+
+**2. A (doing)** — "enjoy" chỉ dùng V-ing → "enjoy **doing**" puzzles. KHÔNG dùng to do.
+
+**3. C (to watch)** — "like" dùng được cả V-ing lẫn to-V → "like **to watch**" TV. *(Khi nào bạn thích xem TV?)*
+
+**4. B (going)** — "fancy" chỉ dùng V-ing → "fancy **going**". KHÔNG dùng "go" hay "to go".
+
+**5. A (hunting)** — "detest" chỉ dùng V-ing → "detest **hunting**". KHÔNG dùng to hunt. *(Tôi ghét việc săn bắn.)*
 </explanation>
 
 <!-- chunk: exercise_3 -->

@@ -35,132 +35,118 @@ Ok, học từ vựng xong rồi nha. Làm bài trắc nghiệm từ vựng đi,
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Giờ mình đọc hội thoại bài <eng>Getting Started</eng> nha. Đây là cuộc trò chuyện giữa thầy cô và các bạn Mi, Nam, Lan về các địa điểm di sản. Đọc và hiểu nội dung, rồi mình dịch ra tiếng Việt sau.
+Hội thoại hôm nay là buổi thuyết trình dự án theo nhóm trong giờ tiếng Anh. Mi, Nam và Lan sẽ giới thiệu về các địa điểm di sản. Nghe audio, đọc theo rồi dịch nha.
 </teacher_script>
 
+<reading>
+🎧 [Track](https://img.loigiaihay.com/picture/2024/0515/21.mp3)
+</reading>
+
 <dialogue>
-**Teacher:** Can anyone tell me about an impressive heritage site they know?
-**Mi:** I know Angkor Wat in Cambodia, teacher. It's over 900 years old and has magnificent architecture.
-**Nam:** I'd like to mention Dinh Bang Communal House in Bac Ninh. It's about 300 years old and it's very well-preserved.
-**Lan:** I read about Windsor Castle in England. It's been used for over 1,000 years and it's still occupied by the royal family.
-**Teacher:** Excellent! Now, why do you think it's important to preserve these heritage sites?
-**Mi:** So that future generations can learn about their ancestors, teacher.
-**Nam:** Heritage sites show how people lived in the past. They are like a window into history.
-**Lan:** And they attract tourists who help the local economy. Thanks to heritage tourism, many communities benefit.
-**Teacher:** Very well said! Heritage sites are both culturally significant and economically important.
+**Teacher:** Now let's look at what you've done on your projects. Group one first, please.
+**Mi:** OK. This is Angkor Wat in Cambodia. It's a temple complex, the largest religious monument in the world.
+**Teacher:** Fantastic! When did people build it?
+**Mi:** They built it in the 12th century. It's a World Heritage Site. Millions of visitors go there every year.
+**Teacher:** Thank you. I wish I could go there one day too. And now group two, please.
+**Nam:** Our project is about Dinh Bang Communal House in Bac Ninh Province - a national historic site. People were building it for 36 years, and it's about 300 years old!
+**Teacher:** Great! It's quite magnificent! Now group three, please.
+**Lan:** Well, this is Windsor Castle in England. It was built about a thousand years ago. It's been the home for about 40 English kings and queens.
+**Teacher:** Yeah. It's the oldest and largest occupied castle in the world.
+**Mi & Nam:** Amazing! So we need to preserve our heritage for future generations.
+**Teacher:** Right. Thanks to preservation efforts, we know a lot about our history and life in the past.
 </dialogue>
 
 <translation>
-**Thầy/Cô:** Ai có thể kể cho cô nghe về một địa điểm di sản ấn tượng mà em biết không?
-**Mi:** Em biết Angkor Wat ở Campuchia ạ. Nó hơn 900 năm tuổi và có kiến trúc hùng vĩ.
-**Nam:** Em muốn nhắc đến Đình Làng Đình Bảng ở Bắc Ninh ạ. Nó khoảng 300 năm tuổi và được bảo tồn rất tốt.
-**Lan:** Em đọc về Lâu đài Windsor ở Anh ạ. Nó đã được sử dụng hơn 1.000 năm và vẫn đang có hoàng gia sinh sống.
-**Thầy/Cô:** Xuất sắc! Bây giờ, theo em, tại sao việc bảo tồn các địa điểm di sản này lại quan trọng?
-**Mi:** Để các thế hệ tương lai có thể tìm hiểu về tổ tiên của họ ạ.
-**Nam:** Các địa điểm di sản cho thấy người xưa đã sống như thế nào. Chúng giống như một cửa sổ nhìn vào lịch sử.
-**Lan:** Và chúng thu hút khách du lịch, giúp ích cho nền kinh tế địa phương. Nhờ vào du lịch di sản, nhiều cộng đồng được hưởng lợi.
-**Thầy/Cô:** Nói rất hay! Các địa điểm di sản vừa có ý nghĩa văn hóa vừa quan trọng về mặt kinh tế.
+**Giáo viên:** Bây giờ chúng ta hãy xem các em đã làm gì trong các dự án của mình. Mời nhóm một trước.
+**Mi:** Vâng ạ. Đây là Angkor Wat ở Campuchia. Đó là một quần thể đền thờ, di tích tôn giáo lớn nhất thế giới.
+**Giáo viên:** Tuyệt vời! Người ta xây dựng nó khi nào?
+**Mi:** Họ đã xây dựng nó vào thế kỷ thứ 12. Đó là một di sản thế giới. Hàng triệu du khách đến đó mỗi năm.
+**Giáo viên:** Cảm ơn em. Cô ước gì cô cũng có thể đến đó một ngày nào đó. Và bây giờ xin mời nhóm hai.
+**Nam:** Dự án của chúng em là về Đình Đình Bảng ở tỉnh Bắc Ninh — một di tích lịch sử quốc gia. Người ta đã xây dựng nó trong 36 năm và nó đã khoảng 300 năm tuổi!
+**Giáo viên:** Tuyệt vời! Nó khá hoành tráng! Bây giờ xin mời nhóm ba.
+**Lan:** Dạ, đây là Lâu đài Windsor ở Anh. Nó được xây dựng khoảng một ngàn năm trước. Đây là nơi ở của khoảng 40 vị vua và hoàng hậu Anh.
+**Giáo viên:** Ừm. Đây là lâu đài có người ở lâu đời nhất và lớn nhất trên thế giới.
+**Mi & Nam:** Tuyệt vời! Vì vậy chúng ta cần bảo tồn di sản của mình cho thế hệ mai sau.
+**Giáo viên:** Đúng vậy. Nhờ nỗ lực bảo tồn, chúng ta biết được nhiều điều về lịch sử và cuộc sống ngày xưa.
 </translation>
 
 <teacher_script pause="180">
-Ok, mình dịch hội thoại vô vở nha. 3 phút thôi, cố lên!
-</teacher_script>
-
-<!-- chunk: translation -->
-<translation>
-**Dịch hội thoại — Bài Getting Started trang 41**
-
-- **Thầy/Cô:** Ai có thể kể cho cô nghe về một địa điểm di sản ấn tượng mà em biết không?
-- **Mi:** Em biết Angkor Wat ở Campuchia ạ. Nó hơn 900 năm tuổi và có kiến trúc hùng vĩ.
-- **Nam:** Em muốn nhắc đến Đình Làng Đình Bảng ở Bắc Ninh ạ. Nó khoảng 300 năm tuổi và được bảo tồn rất tốt.
-- **Lan:** Em đọc về Lâu đài Windsor ở Anh ạ. Nó đã được sử dụng hơn 1.000 năm và vẫn đang có hoàng gia sinh sống.
-- **Thầy/Cô:** Xuất sắc! Bây giờ, theo em, tại sao việc bảo tồn các địa điểm di sản này lại quan trọng?
-- **Mi:** Để các thế hệ tương lai có thể tìm hiểu về tổ tiên của họ ạ.
-- **Nam:** Các địa điểm di sản cho thấy người xưa đã sống như thế nào. Chúng giống như một cửa sổ nhìn vào lịch sử.
-- **Lan:** Và chúng thu hút khách du lịch, giúp ích cho nền kinh tế địa phương. Nhờ vào du lịch di sản, nhiều cộng đồng được hưởng lợi.
-- **Thầy/Cô:** Nói rất hay! Các địa điểm di sản vừa có ý nghĩa văn hóa vừa quan trọng về mặt kinh tế.
-</translation>
-
-<teacher_script pause="0">
-Ok dịch xong rồi nha. Giờ mình làm bài tập thôi.
+Dịch hội thoại vô vở nha. Ba nhóm giới thiệu ba di sản: Angkor Wat (Campuchia), Đình Đình Bảng (Bắc Ninh), Windsor Castle (Anh). Ba phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 nha — trả lời câu hỏi về hội thoại. Đọc kỹ rồi viết câu trả lời vô tập. 1 phút nha.
+Bài 2 — đọc lại hội thoại và trả lời các câu hỏi. Viết câu trả lời đầy đủ vô tập nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Answer the questions about the dialogue.
-**Dịch đề:** Trả lời các câu hỏi về hội thoại.
+**Đề:** Read the conversation again and answer the questions.
+**Dịch đề:** Đọc lại hội thoại và trả lời các câu hỏi.
 </task>
 
 <questions type="complete_sentences">
 **1.** How old is Angkor Wat?
 *Angkor Wat bao nhiêu tuổi?*
 
-**2.** Why does Mi describe Angkor Wat as "magnificent"?
-*Tại sao Mi mô tả Angkor Wat là "hùng vĩ"?*
+**2.** What is Dinh Bang Communal House like?
+*Đình làng Đình Bảng như thế nào?*
 
-**3.** Where is Windsor Castle located?
-*Lâu đài Windsor nằm ở đâu?*
+**3.** Where is Windsor Castle?
+*Lâu đài Windsor ở đâu?*
 
-**4.** Why is it important to preserve heritage sites, according to Mi?
-*Theo Mi, tại sao việc bảo tồn các địa điểm di sản lại quan trọng?*
-
-**5.** How do heritage sites help the local economy?
-*Các địa điểm di sản giúp ích cho kinh tế địa phương như thế nào?*
+**4.** What helps us know about our history and life in the past?
+*Điều gì giúp chúng ta biết về lịch sử và cuộc sống ngày xưa?*
 </questions>
 
 <teacher_script pause="0">
-Ok, xem đáp án nè.
+Ok xem đáp án nè.
 </teacher_script>
 
 <answer>
 **Bài 2 - Đáp án:**
-1. Angkor Wat is about 900 years old. *(Angkor Wat khoảng 900 năm tuổi.)*
-2. Because it has beautiful and impressive architecture. *(Vì nó có kiến trúc đẹp và ấn tượng.)*
-3. Windsor Castle is in England. *(Lâu đài Windsor ở Anh.)*
-4. So that future generations can learn about their ancestors. *(Để các thế hệ tương lai có thể tìm hiểu về tổ tiên.)*
-5. By attracting tourists who help support the local economy. *(Bằng cách thu hút khách du lịch giúp hỗ trợ nền kinh tế địa phương.)*
+1. Angkor Wat is about 900 years old (it was built in the 12th century).
+2. It is a national historic site. It was built for 36 years and is about 300 years old. It's quite magnificent.
+3. Windsor Castle is in England.
+4. Preservation efforts help us know about our history and life in the past.
 </answer>
 
 <explanation>
-**Giải thích:**
-- **Câu 1:** Mi nói "over 900 years old" → khoảng 900 năm.
-- **Câu 2:** "Magnificent" = tráng lệ, hùng vĩ → Mi khen kiến trúc của Angkor Wat đẹp và ấn tượng.
-- **Câu 3:** Lan đề cập Windsor Castle ở England (Anh).
-- **Câu 4:** Mi nói rõ: "so future generations can learn about their ancestors" → để thế hệ sau học về tổ tiên.
-- **Câu 5:** Lan giải thích: heritage tourism giúp cộng đồng địa phương — du khách chi tiêu tiền bạc ở đó.
+**1.** Mi nói: *"They built it in the 12th century"* → thế kỷ 12. Thế kỷ 21 − thế kỷ 12 = 9 thế kỷ = khoảng 900 năm.
+
+**2.** Nam mô tả: *"a national historic site"* (di tích lịch sử quốc gia), xây trong 36 năm, khoảng 300 tuổi. Giáo viên khen: *"quite magnificent"* (khá hoành tráng).
+
+**3.** Lan nói: *"this is Windsor Castle in England"* → ở Anh.
+
+**4.** Giáo viên kết luận: *"Thanks to preservation efforts, we know a lot about our history and life in the past."* → Nhờ nỗ lực bảo tồn.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 — điền từ vô chỗ trống nha. Dùng từ trong hộp. 1 phút thôi.
+Bài 3 — điền từ đúng vào chỗ trống. Chọn trong khung 5 từ. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words from the box.
-**Dịch đề:** Điền từ đúng vào chỗ trống từ hộp từ.
+**Đề:** Complete each sentence with a word or a phrase from the box.
+**Dịch đề:** Hoàn thành mỗi câu bằng một từ hoặc cụm từ trong khung.
 
-*heritage — well-preserved — magnificent — Thanks to — occupied*
+**Word box:** *occupied / magnificent / thanks to / heritage / well preserved*
 </task>
 
 <questions type="fill_blanks">
-**1.** The ancient temple is an important part of our ________ and must be protected.
-*Ngôi đền cổ là một phần quan trọng của ________ của chúng ta và phải được bảo vệ.*
+**1.** The best way to preserve our cultural ________ is to share it with others.
+*Cách tốt nhất để bảo tồn ________ văn hóa là chia sẻ nó với người khác.*
 
-**2.** The communal house is over 300 years old but it is still ________.
-*Ngôi đình hơn 300 năm tuổi nhưng vẫn còn ________ tốt.*
+**2.** Vietnamese people take great pride in their culture which has been ________ for thousands of years.
+*Người Việt Nam rất tự hào về nền văn hóa đã được ________ hàng nghìn năm.*
 
-**3.** The view from the top of the mountain was ________ — we couldn't stop taking photos.
-*Khung cảnh từ đỉnh núi thật ________ — chúng tôi không thể ngừng chụp ảnh.*
+**3.** The foreign tourists gave a ________ performance of the Vietnamese folk songs and dances.
+*Du khách nước ngoài đã biểu diễn những làn điệu dân ca Việt Nam ________.*
 
-**4.** ________ tourism, the local village has grown significantly.
-*________ du lịch, ngôi làng địa phương đã phát triển đáng kể.*
+**4.** ________ your kind contribution, we were able to save the ancient monument.
+*________ sự đóng góp tử tế của bạn, chúng tôi đã có thể cứu được di tích cổ.*
 
-**5.** Windsor Castle is still ________ by the British royal family today.
-*Lâu đài Windsor vẫn đang được hoàng gia Anh ________ ngày nay.*
+**5.** Many beautiful old castles are no longer ________.
+*Nhiều lâu đài cổ xinh đẹp không còn có người ở nữa.*
 </questions>
 
 <teacher_script pause="0">
@@ -168,41 +154,48 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. heritage | 2. well-preserved | 3. magnificent | 4. Thanks to | 5. occupied
+**Bài 3 - Đáp án:** 1. heritage | 2. well preserved | 3. magnificent | 4. Thanks to | 5. occupied
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1. heritage** = di sản → "ancient temple" là một phần di sản.
-- **2. well-preserved** = được bảo tồn tốt → mặc dù 300 tuổi nhưng vẫn tốt.
-- **3. magnificent** = hùng vĩ, tráng lệ → dùng để tả cảnh đẹp ngoạn mục.
-- **4. Thanks to** = nhờ vào → diễn tả nguyên nhân tích cực.
-- **5. occupied** = đang có người ở/sử dụng → hoàng gia vẫn đang ở đó.
+**1. heritage** — *di sản văn hóa* = *cultural heritage*. Cách bảo tồn tốt nhất là chia sẻ với người khác.
+
+**2. well preserved** — *được bảo tồn tốt*. Văn hóa Việt Nam được gìn giữ hàng nghìn năm.
+
+**3. magnificent** — *hoành tráng, tráng lệ*. Du khách biểu diễn màn trình diễn dân ca *ấn tượng*.
+
+**4. Thanks to** — *nhờ vào* (sự đóng góp) → kết quả tích cực. *Thanks to + noun/noun phrase*.
+
+**5. occupied** — *có người ở*. Nhiều lâu đài cổ nay không còn người sinh sống.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 — nối từ với định nghĩa nha. Làm nhanh, 1 phút.
+Bài 4 — nhìn tranh và điền từ đúng vào chỗ trống. 5 câu, 5 từ cần điền. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match each item (1–5) with its correct description (a–e).
-**Dịch đề:** Nối mỗi mục (1–5) với mô tả đúng (a–e).
+**Đề:** Look at the pictures and complete the sentences.
+**Dịch đề:** Nhìn tranh và hoàn thành câu.
+
+**Word box:** *fish and chips / communal / monument / castle / temple*
 </task>
 
-<questions type="matching">
-**1.** fish and chips
-**2.** communal house
-**3.** monument
-**4.** castle
-**5.** temple
+<questions type="fill_blanks">
+**1.** This is a standard serving of ________ with a slice of lemon.
+*Đây là khẩu phần tiêu chuẩn gồm ________ với một lát chanh.*
 
----
-**a.** A traditional gathering place for villagers in Vietnam *(Nơi tụ họp truyền thống của dân làng ở Việt Nam)*
-**b.** A large medieval building used for defence or royalty *(Công trình thời trung cổ dùng để phòng thủ hoặc cho hoàng gia)*
-**c.** A place where people go to worship or pray *(Nơi mọi người đến để thờ cúng hoặc cầu nguyện)*
-**d.** A traditional food associated with England *(Món ăn truyền thống liên quan đến nước Anh)*
-**e.** A structure built to honour an important person or event *(Công trình được xây dựng để tưởng niệm một người hoặc sự kiện quan trọng)*
+**2.** The ________ house has a significant meaning in the Bahnar community.
+*Nhà ________ có ý nghĩa quan trọng trong cộng đồng người Bahnar.*
+
+**3.** In the square, there is a ________ dedicated to the people killed in the war.
+*Trong quảng trường có một ________ tưởng nhớ những người đã thiệt mạng trong chiến tranh.*
+
+**4.** They have decided to rebuild the ________ which was damaged in the disaster.
+*Họ đã quyết định xây dựng lại ________ đã bị hư hại trong thảm họa.*
+
+**5.** In Nam Dinh City, there is a complex of three ________ where people worship the Tran Dynasty's Kings and royal family members.
+*Ở thành phố Nam Định có quần thể ba ________ thờ các vị vua nhà Trần và hoàng tộc.*
 </questions>
 
 <teacher_script pause="0">
@@ -210,60 +203,79 @@ Bài 4 — nối từ với định nghĩa nha. Làm nhanh, 1 phút.
 </teacher_script>
 
 <answer>
-**Bài 4 - Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
+**Bài 4 - Đáp án:** 1. fish and chips | 2. communal | 3. monument | 4. castle | 5. temples
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1-d:** Fish and chips = món ăn truyền thống của Anh.
-- **2-a:** Communal house (đình làng) = nơi tụ họp của dân làng Việt Nam.
-- **3-e:** Monument = đài tưởng niệm, được xây để ghi nhớ người hoặc sự kiện quan trọng.
-- **4-b:** Castle = lâu đài thời trung cổ, dùng để phòng thủ hoặc cho hoàng gia ở.
-- **5-c:** Temple = đền/chùa, nơi thờ cúng cầu nguyện.
+**1. fish and chips** — món ăn truyền thống của Anh: cá chiên với khoai tây chiên, thường ăn kèm chanh.
+
+**2. communal** — *communal house* = nhà rông/đình làng. Có ý nghĩa cộng đồng quan trọng với người Bahnar.
+
+**3. monument** — *đài tưởng niệm* = công trình xây để tưởng nhớ người hoặc sự kiện quan trọng. Câu nói rõ: *dedicated to the people killed in the war*.
+
+**4. castle** — *lâu đài* = công trình kiến trúc lớn thời trung cổ. Bị hư hại trong thảm họa → cần xây lại.
+
+**5. temples** — *đền/chùa* = nơi thờ cúng. Số nhiều (*three temples*) vì là quần thể ba ngôi đền.
 </explanation>
 
 <!-- chunk: exercise-5 -->
 <teacher_script pause="60">
-Bài 5 — nối sự kiện lịch sử với năm tương ứng nha. Nhớ lại kiến thức lịch sử một chút. 1 phút.
+Bài 5 — trò chơi ôn lịch sử nha! Trả lời các câu hỏi về sự kiện lịch sử. 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Match each historical event (a–f) with the correct year (1–6).
-**Dịch đề:** Nối mỗi sự kiện lịch sử (a–f) với năm đúng (1–6).
+**Đề:** GAME — Remembering past events. Give short answers to the following questions.
+**Dịch đề:** TRÒ CHƠI — Nhớ lại sự kiện. Trả lời ngắn gọn các câu hỏi sau.
 </task>
 
-<questions type="matching">
-**Events:**
-**a.** King Ly Thai To moved the capital to Hanoi (Thang Long)
-**b.** Columbus arrived in America
-**c.** American independence was declared
-**d.** The Chinese Revolution took place
-**e.** World War I began
-**f.** The last Vietnamese emperor Bao Dai abdicated
+<questions type="complete_sentences">
+**1.** Who decided to move our capital from Hoa Lu to Dai La (Thang Long) in 1010?
+*Ai quyết định dời đô từ Hoa Lư về Đại La (Thăng Long) năm 1010?*
 
----
-**Years:**
-**1.** 1009 | **2.** 1492 | **3.** 1776 | **4.** 1911 | **5.** 1914 | **6.** 1945
+**2.** When did Columbus discover the Americas?
+*Columbus khám phá châu Mỹ khi nào?*
+
+**3.** When was the United States founded?
+*Nước Mỹ được thành lập khi nào?*
+
+**4.** When did Nguyen Ai Quoc first go abroad?
+*Nguyễn Ái Quốc ra nước ngoài lần đầu tiên vào năm nào?*
+
+**5.** What happened in world history in 1914?
+*Điều gì đã xảy ra trong lịch sử thế giới năm 1914?*
+
+**6.** Who was the last king of Viet Nam?
+*Vị vua cuối cùng của Việt Nam là ai?*
 </questions>
 
 <teacher_script pause="0">
-Xem đáp án nha.
+Đáp án nè!
 </teacher_script>
 
 <answer>
-**Bài 5 - Đáp án:** a-1 | b-2 | c-3 | d-4 | e-5 | f-6
+**Bài 5 - Đáp án:**
+1. King Ly Thai To decided to move our capital to Thang Long in 1010.
+2. Columbus discovered the Americas in 1492.
+3. The United States was founded on July 4, 1776.
+4. Nguyen Ai Quoc first went abroad in 1911.
+5. World War I began in 1914.
+6. The last king of Vietnam was Bao Dai.
 </answer>
 
 <explanation>
-**Giải thích:**
-- **a-1 (1009):** Vua Lý Thái Tổ dời đô về Hà Nội (Thăng Long) năm 1009.
-- **b-2 (1492):** Columbus đặt chân đến châu Mỹ năm 1492.
-- **c-3 (1776):** Mỹ tuyên bố độc lập năm 1776.
-- **d-4 (1911):** Cách mạng Trung Quốc nổ ra năm 1911.
-- **e-5 (1914):** Thế chiến I bắt đầu năm 1914.
-- **f-6 (1945):** Vua Bảo Đại thoái vị năm 1945, kết thúc chế độ phong kiến Việt Nam.
+**1.** Vua Lý Thái Tổ (Lý Công Uẩn) dời đô từ Hoa Lư về Đại La — sau đổi tên là Thăng Long — năm 1010.
+
+**2.** Columbus đặt chân đến châu Mỹ năm 1492.
+
+**3.** Mỹ tuyên bố độc lập ngày 4 tháng 7 năm 1776.
+
+**4.** Nguyễn Ái Quốc (Hồ Chí Minh) ra nước ngoài lần đầu năm 1911.
+
+**5.** Thế chiến thứ nhất (World War I) nổ ra năm 1914.
+
+**6.** Vua Bảo Đại là vị vua cuối cùng của Việt Nam (thoái vị năm 1945).
 </explanation>
 
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng> rồi nha! Tụi mình đã học từ vựng, đọc hội thoại về các địa điểm di sản, và làm các bài tập. Hẹn gặp lại ở bài <eng>A Closer Look 1</eng> hen!
+Xong bài <eng>Getting Started Unit 4</eng> rồi nha! Hôm nay đọc hội thoại về ba di sản: Angkor Wat, Đình Đình Bảng, Windsor Castle. Nhớ từ vựng chính: *heritage, monument, magnificent, well-preserved, occupied, thanks to*. Ôn bài hen!
 </teacher_script>
