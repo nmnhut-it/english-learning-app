@@ -377,6 +377,161 @@ app.post('/api/compare-recording', upload.single('audio'), async (req, res) => {
   }
 });
 
+// === Recording Mode API Routes ===
+
+const REMARKS_FILE = path.join(__dirname, 'data/remarks.json');
+
+// Ensure data directory exists
+async function ensureDataDir() {
+  const dataDir = path.join(__dirname, 'data');
+  try {
+    await fs.access(dataDir);
+  } catch {
+    await fs.mkdir(dataDir, { recursive: true });
+  }
+}
+
+// Load remarks from file
+async function loadRemarks() {
+  try {
+    const data = await fs.readFile(REMARKS_FILE, 'utf-8');
+    return JSON.parse(data);
+  } catch {
+    return {};
+  }
+}
+
+// Save remarks to file
+async function saveRemarks(remarks) {
+  await ensureDataDir();
+  await fs.writeFile(REMARKS_FILE, JSON.stringify(remarks, null, 2));
+}
+
+/**
+ * GET /api/file-content/* - Get raw markdown file content
+ */
+app.get('/api/file-content/*', async (req, res) => {
+  try {
+    const relativePath = req.params[0];
+    const fullPath = path.join(__dirname, '../v2/data/voice-lectures', relativePath);
+    const content = await fs.readFile(fullPath, 'utf-8');
+    res.json({ success: true, content, path: relativePath });
+  } catch (error) {
+    if (error.code === 'ENOENT') {
+      res.status(404).json({ success: false, error: 'File not found' });
+    } else {
+      res.status(500).json({ success: false, error: error.message });
+    }
+  }
+});
+
+/**
+ * GET /api/remarks - Get all remarks
+ */
+app.get('/api/remarks', async (req, res) => {
+  try {
+    const remarks = await loadRemarks();
+    res.json({ success: true, remarks });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * POST /api/remarks - Save a remark
+ * Body: { filePath, scriptIndex, remark }
+ */
+app.post('/api/remarks', async (req, res) => {
+  try {
+    const { filePath, scriptIndex, remark } = req.body;
+
+    if (!filePath || scriptIndex === undefined || !remark) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required fields: filePath, scriptIndex, remark'
+      });
+    }
+
+    const remarks = await loadRemarks();
+
+    if (!remarks[filePath]) {
+      remarks[filePath] = {};
+    }
+
+    remarks[filePath][scriptIndex] = {
+      remark,
+      created: new Date().toISOString()
+    };
+
+    await saveRemarks(remarks);
+    res.json({ success: true, message: 'Remark saved' });
+
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * DELETE /api/remarks - Delete a remark
+ * Body: { filePath, scriptIndex }
+ */
+app.delete('/api/remarks', async (req, res) => {
+  try {
+    const { filePath, scriptIndex } = req.body;
+
+    if (!filePath || scriptIndex === undefined) {
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required fields: filePath, scriptIndex'
+      });
+    }
+
+    const remarks = await loadRemarks();
+
+    if (remarks[filePath] && remarks[filePath][scriptIndex]) {
+      delete remarks[filePath][scriptIndex];
+
+      // Clean up empty file entries
+      if (Object.keys(remarks[filePath]).length === 0) {
+        delete remarks[filePath];
+      }
+
+      await saveRemarks(remarks);
+    }
+
+    res.json({ success: true, message: 'Remark deleted' });
+
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
+/**
+ * GET /api/remarks/report - Export all remarks as a report
+ */
+app.get('/api/remarks/report', async (req, res) => {
+  try {
+    const remarks = await loadRemarks();
+
+    // Format as readable report
+    let report = '# Voice Lecture Remarks Report\n\n';
+    report += `Generated: ${new Date().toISOString()}\n\n`;
+
+    for (const [filePath, scripts] of Object.entries(remarks)) {
+      report += `## ${filePath}\n\n`;
+      for (const [index, data] of Object.entries(scripts)) {
+        report += `- **Script #${parseInt(index) + 1}**: ${data.remark}\n`;
+      }
+      report += '\n';
+    }
+
+    res.type('text/markdown').send(report);
+
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+});
+
 // Health check
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', service: 'tts-admin' });

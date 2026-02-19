@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TTS Admin - Recording Mode</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link rel="stylesheet" href="record.css">
+</head>
+<body>
+  <div class="app-container">
+    <header>
+      <div class="header-left">
+        <h1>Recording Mode</h1>
+        <nav>
+          <a href="/">TTS Admin</a>
+          <a href="/record.html" class="active">Record</a>
+          <a href="/compare.html">Compare</a>
+        </nav>
+      </div>
+      <div class="header-right">
+        <select id="fileSelect">
+          <option value="">Select a lesson...</option>
+        </select>
+        <div class="progress-badge" id="progressBadge">0/0</div>
+      </div>
+    </header>
+
+    <div id="statusMessage" class="status-message"></div>
+
+    <div class="main-content">
+      <!-- Markdown content area -->
+      <div class="content-area" id="contentArea">
+        <div class="empty-state" id="emptyState">
+          <p>Select a lesson to start recording</p>
+          <p class="hint">Use arrow keys to navigate, Space to record</p>
+        </div>
+        <div class="markdown-content" id="markdownContent"></div>
+      </div>
+
+      <!-- Bottom toolbar -->
+      <div class="toolbar" id="toolbar" style="display: none;">
+        <div class="toolbar-left">
+          <span class="script-counter" id="scriptCounter">Script 0/0</span>
+          <span class="script-status" id="scriptStatus"></span>
+        </div>
+        <div class="toolbar-center">
+          <button id="prevBtn" class="btn-nav" title="Previous (←)">◀ Prev</button>
+          <button id="recordBtn" class="btn-record" title="Record (Space)">
+            <span class="record-icon">●</span> Record
+          </button>
+          <button id="stopBtn" class="btn-stop" style="display: none;" title="Stop (Space)">
+            <span class="stop-icon">■</span> Stop
+          </button>
+          <button id="playBtn" class="btn-play" title="Play (P)">▶ Play</button>
+          <button id="nextBtn" class="btn-nav" title="Next (→)">Next ▶</button>
+        </div>
+        <div class="toolbar-right">
+          <button id="remarkBtn" class="btn-remark" title="Add Remark (R)">📝 Remark</button>
+          <button id="skipBtn" class="btn-skip" title="Skip (S)">Skip</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Remark Modal -->
+    <div id="remarkModal" class="modal">
+      <div class="modal-content modal-small">
+        <div class="modal-header">
+          <h2>Add Remark</h2>
+          <button class="modal-close" id="remarkModalClose">&times;</button>
+        </div>
+        <div class="modal-body">
+          <textarea id="remarkText" placeholder="Enter your remark (e.g., 'rewrite - too formal')"></textarea>
+        </div>
+        <div class="modal-actions">
+          <button id="saveRemarkBtn" class="btn-success">Save</button>
+          <button id="deleteRemarkBtn" class="btn-danger" style="display: none;">Delete</button>
+          <button id="cancelRemarkBtn" class="btn-secondary">Cancel</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Recording indicator overlay -->
+    <div id="recordingOverlay" class="recording-overlay">
+      <div class="recording-pulse"></div>
+      <span class="recording-time" id="recordingTime">00:00</span>
+      <span>Recording... Press Space to stop</span>
+    </div>
+  </div>
+
+  <script>
+    // State
+    const state = {
+      files: [],
+      currentFile: '',
+      rawMarkdown: '',
+      scripts: [],
+      scriptElements: [],
+      currentIndex: 0,
+      remarks: {},
+      // Recording
+      isRecording: false,
+      mediaRecorder: null,
+      recordedChunks: [],
+      recordingStartTime: null,
+      recordingTimer: null,
+      // Audio statuses
+      scriptStatuses: []
+    };
+
+    // DOM Elements
+    const el = {
+      fileSelect: document.getElementById('fileSelect'),
+      progressBadge: document.getElementById('progressBadge'),
+      contentArea: document.getElementById('contentArea'),
+      emptyState: document.getElementById('emptyState'),
+      markdownContent: document.getElementById('markdownContent'),
+      toolbar: document.getElementById('toolbar'),
+      scriptCounter: document.getElementById('scriptCounter'),
+      scriptStatus: document.getElementById('scriptStatus'),
+      prevBtn: document.getElementById('prevBtn'),
+      nextBtn: document.getElementById('nextBtn'),
+      recordBtn: document.getElementById('recordBtn'),
+      stopBtn: document.getElementById('stopBtn'),
+      playBtn: document.getElementById('playBtn'),
+      remarkBtn: document.getElementById('remarkBtn'),
+      skipBtn: document.getElementById('skipBtn'),
+      remarkModal: document.getElementById('remarkModal'),
+      remarkText: document.getElementById('remarkText'),
+      saveRemarkBtn: document.getElementById('saveRemarkBtn'),
+      deleteRemarkBtn: document.getElementById('deleteRemarkBtn'),
+      cancelRemarkBtn: document.getElementById('cancelRemarkBtn'),
+      remarkModalClose: document.getElementById('remarkModalClose'),
+      recordingOverlay: document.getElementById('recordingOverlay'),
+      recordingTime: document.getElementById('recordingTime'),
+      statusMessage: document.getElementById('statusMessage')
+    };
+
+    // API helper
+    async function api(endpoint, options = {}) {
+      const response = await fetch(`/api${endpoint}`, {
+        headers: { 'Content-Type': 'application/json' },
+        ...options,
+        body: options.body ? JSON.stringify(options.body) : undefined
+      });
+      return response.json();
+    }
+
+    // Initialize
+    async function init() {
+      try {
+        const [filesRes, remarksRes] = await Promise.all([
+          api('/files'),
+          api('/remarks')
+        ]);
+
+        if (filesRes.success) {
+          state.files = filesRes.files;
+          populateFileSelect();
+        }
+
+        if (remarksRes.success) {
+          state.remarks = remarksRes.remarks || {};
+        }
+
+        // Check URL params
+        const params = new URLSearchParams(window.location.search);
+        const file = params.get('file');
+        if (file) {
+          el.fileSelect.value = file;
+          await loadFile(file);
+        }
+      } catch (error) {
+        showStatus('Failed to load: ' + error.message, 'error');
+      }
+    }
+
+    function populateFileSelect() {
+      // Group by grade and unit
+      const groups = {};
+      state.files.forEach(file => {
+        const key = `${file.grade} - ${file.unit}`;
+        if (!groups[key]) groups[key] = [];
+        groups[key].push(file);
+      });
+
+      Object.keys(groups).sort().forEach(key => {
+        const optgroup = document.createElement('optgroup');
+        optgroup.label = key;
+        groups[key].forEach(file => {
+          const option = document.createElement('option');
+          option.value = file.path;
+          option.textContent = file.section;
+          optgroup.appendChild(option);
+        });
+        el.fileSelect.appendChild(optgroup);
+      });
+    }
+
+    async function loadFile(filePath) {
+      if (!filePath) {
+        el.emptyState.style.display = 'block';
+        el.markdownContent.innerHTML = '';
+        el.toolbar.style.display = 'none';
+        return;
+      }
+
+      try {
+        // Load both raw content and parsed scripts
+        const [contentRes, scriptsRes] = await Promise.all([
+          api(`/file-content/${filePath}`),
+          api(`/file/${filePath}`)
+        ]);
+
+        if (!contentRes.success || !scriptsRes.success) {
+          throw new Error('Failed to load file');
+        }
+
+        state.currentFile = filePath;
+        state.rawMarkdown = contentRes.content;
+        state.scripts = scriptsRes.scripts;
+        state.scriptStatuses = new Array(state.scripts.length).fill('none');
+
+        // Update URL
+        history.replaceState(null, '', `?file=${encodeURIComponent(filePath)}`);
+
+        // Scan audio statuses
+        await scanScriptStatuses();
+
+        // Render markdown with highlighted scripts
+        renderMarkdown();
+
+        // Setup navigation
+        state.currentIndex = 0;
+        updateNavigation();
+
+        el.emptyState.style.display = 'none';
+        el.toolbar.style.display = 'flex';
+
+        // Focus first script
+        if (state.scriptElements.length > 0) {
+          highlightScript(0);
+        }
+
+      } catch (error) {
+        showStatus('Failed to load file: ' + error.message, 'error');
+      }
+    }
+
+    async function scanScriptStatuses() {
+      const promises = state.scripts.map(async (script, index) => {
+        if (script.href) {
+          state.scriptStatuses[index] = 'linked';
+          return;
+        }
+        try {
+          const res = await api(`/audio-lookup/${script.hash}`);
+          state.scriptStatuses[index] = (res.success && res.exists) ? 'found' : 'none';
+        } catch {
+          state.scriptStatuses[index] = 'none';
+        }
+      });
+      await Promise.all(promises);
+      updateProgressBadge();
+    }
+
+    function updateProgressBadge() {
+      const linked = state.scriptStatuses.filter(s => s === 'linked').length;
+      const total = state.scripts.length;
+      el.progressBadge.textContent = `${linked}/${total}`;
+      el.progressBadge.className = 'progress-badge' +
+        (linked === total ? ' complete' : linked > 0 ? ' partial' : '');
+    }
+
+    // Custom block tags that need markdown parsing for inner content
+    const CUSTOM_BLOCK_TAGS = [
+      'vocabulary', 'dialogue', 'reading', 'translation', 'task',
+      'questions', 'answer', 'explanation', 'grammar'
+    ];
+
+    function renderMarkdown() {
+      // Configure marked to allow HTML
+      marked.setOptions({ breaks: true });
+
+      let html = state.rawMarkdown;
+      const placeholders = [];
+      let placeholderIdx = 0;
+
+      // Handle teacher_script tags - convert to interactive cards
+      let scriptIndex = 0;
+      html = html.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (match, attrs, content) => {
+        const script = state.scripts[scriptIndex];
+        const status = state.scriptStatuses[scriptIndex];
+        const hasRemark = state.remarks[state.currentFile]?.[scriptIndex];
+        const idx = scriptIndex;
+        scriptIndex++;
+
+        const pauseMatch = attrs.match(/pause="(\d+)"/);
+        const pause = pauseMatch ? pauseMatch[1] : '0';
+
+        // Parse inner content as markdown, handle <eng> tags
+        let displayText = content.trim()
+          .replace(/<eng>(.*?)<\/eng>/gi, '%%%ENG_START%%%$1%%%ENG_END%%%');
+        displayText = marked.parse(displayText);
+        displayText = displayText
+          .replace(/%%%ENG_START%%%/g, '<span class="eng">')
+          .replace(/%%%ENG_END%%%/g, '</span>');
+
+        const cardHtml = `
+          <div class="script-card" data-index="${idx}" data-status="${status}">
+            <div class="script-card-header">
+              <span class="script-number">#${idx + 1}</span>
+              <span class="script-pause">pause: ${pause}s</span>
+              <span class="script-audio-status status-${status}">
+                ${status === 'linked' ? '✓' : status === 'found' ? '◐' : '○'}
+              </span>
+              ${hasRemark ? '<span class="script-remark-badge">📝</span>' : ''}
+            </div>
+            <div class="script-card-content">${displayText}</div>
+            ${hasRemark ? `<div class="script-remark">${escapeHtml(hasRemark.remark)}</div>` : ''}
+          </div>
+        `;
+        const pIdx = placeholderIdx++;
+        placeholders.push({ id: pIdx, html: cardHtml });
+        return `%%%PLACEHOLDER_${pIdx}%%%`;
+      });
+
+      // Handle custom block tags - parse inner markdown content
+      CUSTOM_BLOCK_TAGS.forEach(tag => {
+        const regex = new RegExp(`<${tag}([^>]*)>([\\s\\S]*?)</${tag}>`, 'gi');
+        html = html.replace(regex, (match, attrs, content) => {
+          // Parse inner content as markdown
+          const innerHtml = marked.parse(content.trim());
+          const blockHtml = `<div class="content-block content-${tag}"${attrs}>${innerHtml}</div>`;
+          const pIdx = placeholderIdx++;
+          placeholders.push({ id: pIdx, html: blockHtml });
+          return `%%%PLACEHOLDER_${pIdx}%%%`;
+        });
+      });
+
+      // Parse main markdown
+      html = marked.parse(html);
+
+      // Replace all placeholders with actual HTML
+      placeholders.forEach(({ id, html: blockHtml }) => {
+        html = html.replace(`%%%PLACEHOLDER_${id}%%%`, blockHtml);
+        html = html.replace(`<p>%%%PLACEHOLDER_${id}%%%</p>`, blockHtml);
+      });
+
+      // Render
+      el.markdownContent.innerHTML = html;
+
+      // Collect script elements
+      state.scriptElements = Array.from(el.markdownContent.querySelectorAll('.script-card'));
+
+      // Add click handlers
+      state.scriptElements.forEach((elem, idx) => {
+        elem.addEventListener('click', () => {
+          state.currentIndex = idx;
+          highlightScript(idx);
+        });
+      });
+    }
+
+    function highlightScript(index) {
+      // Remove highlight from all
+      state.scriptElements.forEach(el => el.classList.remove('active'));
+
+      // Add highlight to current
+      const elem = state.scriptElements[index];
+      if (elem) {
+        elem.classList.add('active');
+        elem.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }
+
+      state.currentIndex = index;
+      updateNavigation();
+    }
+
+    function updateNavigation() {
+      const total = state.scripts.length;
+      const current = state.currentIndex + 1;
+
+      el.scriptCounter.textContent = `Script ${current}/${total}`;
+      el.prevBtn.disabled = state.currentIndex === 0;
+      el.nextBtn.disabled = state.currentIndex >= total - 1;
+
+      // Update status
+      const status = state.scriptStatuses[state.currentIndex];
+      el.scriptStatus.textContent = status === 'linked' ? '✓ Recorded' :
+                                     status === 'found' ? '◐ Audio found' :
+                                     '○ Not recorded';
+      el.scriptStatus.className = `script-status status-${status}`;
+
+      // Update play button
+      el.playBtn.disabled = status === 'none';
+    }
+
+    function goToPrev() {
+      if (state.currentIndex > 0) {
+        highlightScript(state.currentIndex - 1);
+      }
+    }
+
+    function goToNext() {
+      if (state.currentIndex < state.scripts.length - 1) {
+        highlightScript(state.currentIndex + 1);
+      }
+    }
+
+    // Recording functions
+    async function startRecording() {
+      if (state.isRecording) return;
+
+      try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        state.mediaRecorder = new MediaRecorder(stream, { mimeType: 'audio/webm' });
+        state.recordedChunks = [];
+
+        state.mediaRecorder.ondataavailable = (e) => {
+          if (e.data.size > 0) {
+            state.recordedChunks.push(e.data);
+          }
+        };
+
+        state.mediaRecorder.onstop = async () => {
+          stream.getTracks().forEach(track => track.stop());
+          const blob = new Blob(state.recordedChunks, { type: 'audio/webm' });
+          await uploadRecording(blob);
+        };
+
+        state.mediaRecorder.start();
+        state.isRecording = true;
+        state.recordingStartTime = Date.now();
+
+        // Update UI
+        el.recordBtn.style.display = 'none';
+        el.stopBtn.style.display = 'inline-flex';
+        el.recordingOverlay.classList.add('active');
+
+        // Start timer
+        updateRecordingTime();
+        state.recordingTimer = setInterval(updateRecordingTime, 1000);
+
+      } catch (error) {
+        showStatus('Microphone access denied: ' + error.message, 'error');
+      }
+    }
+
+    function stopRecording() {
+      if (!state.isRecording || !state.mediaRecorder) return;
+
+      state.mediaRecorder.stop();
+      state.isRecording = false;
+
+      if (state.recordingTimer) {
+        clearInterval(state.recordingTimer);
+        state.recordingTimer = null;
+      }
+
+      el.recordBtn.style.display = 'inline-flex';
+      el.stopBtn.style.display = 'none';
+      el.recordingOverlay.classList.remove('active');
+    }
+
+    function updateRecordingTime() {
+      if (!state.recordingStartTime) return;
+      const elapsed = Math.floor((Date.now() - state.recordingStartTime) / 1000);
+      const mins = Math.floor(elapsed / 60).toString().padStart(2, '0');
+      const secs = (elapsed % 60).toString().padStart(2, '0');
+      el.recordingTime.textContent = `${mins}:${secs}`;
+    }
+
+    async function uploadRecording(blob) {
+      const script = state.scripts[state.currentIndex];
+
+      try {
+        const formData = new FormData();
+        formData.append('audio', blob, 'recording.webm');
+        formData.append('filePath', state.currentFile);
+        formData.append('scriptIndex', script.index);
+        formData.append('hash', script.hash);
+
+        const response = await fetch('/api/upload-recording', {
+          method: 'POST',
+          body: formData
+        });
+
+        const res = await response.json();
+
+        if (res.success) {
+          script.href = res.href;
+          state.scriptStatuses[state.currentIndex] = 'linked';
+          updateScriptCard(state.currentIndex);
+          updateProgressBadge();
+          updateNavigation();
+          showStatus('Recording saved!', 'success');
+
+          // Auto-advance to next
+          if (state.currentIndex < state.scripts.length - 1) {
+            setTimeout(() => goToNext(), 500);
+          }
+        } else {
+          showStatus('Failed to save: ' + res.error, 'error');
+        }
+      } catch (error) {
+        showStatus('Upload error: ' + error.message, 'error');
+      }
+    }
+
+    function updateScriptCard(index) {
+      const elem = state.scriptElements[index];
+      if (!elem) return;
+
+      const status = state.scriptStatuses[index];
+      elem.dataset.status = status;
+
+      const statusElem = elem.querySelector('.script-audio-status');
+      if (statusElem) {
+        statusElem.className = `script-audio-status status-${status}`;
+        statusElem.textContent = status === 'linked' ? '✓' : status === 'found' ? '◐' : '○';
+      }
+    }
+
+    async function playCurrentAudio() {
+      const script = state.scripts[state.currentIndex];
+      if (!script.href && state.scriptStatuses[state.currentIndex] === 'found') {
+        // Try to get href from lookup
+        const res = await api(`/audio-lookup/${script.hash}`);
+        if (res.success && res.exists) {
+          script.href = res.href;
+        }
+      }
+
+      if (script.href) {
+        const audio = new Audio('/' + script.href);
+        audio.play();
+      } else {
+        showStatus('No audio available', 'error');
+      }
+    }
+
+    // Remarks functions
+    function openRemarkModal() {
+      const existing = state.remarks[state.currentFile]?.[state.currentIndex];
+      el.remarkText.value = existing?.remark || '';
+      el.deleteRemarkBtn.style.display = existing ? 'inline-block' : 'none';
+      el.remarkModal.classList.add('active');
+      el.remarkText.focus();
+    }
+
+    function closeRemarkModal() {
+      el.remarkModal.classList.remove('active');
+    }
+
+    async function saveRemark() {
+      const remark = el.remarkText.value.trim();
+      if (!remark) {
+        closeRemarkModal();
+        return;
+      }
+
+      try {
+        const res = await api('/remarks', {
+          method: 'POST',
+          body: {
+            filePath: state.currentFile,
+            scriptIndex: state.currentIndex,
+            remark
+          }
+        });
+
+        if (res.success) {
+          if (!state.remarks[state.currentFile]) {
+            state.remarks[state.currentFile] = {};
+          }
+          state.remarks[state.currentFile][state.currentIndex] = {
+            remark,
+            created: new Date().toISOString()
+          };
+
+          // Re-render to show remark
+          renderMarkdown();
+          highlightScript(state.currentIndex);
+
+          closeRemarkModal();
+          showStatus('Remark saved!', 'success');
+        } else {
+          showStatus('Failed to save remark', 'error');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      }
+    }
+
+    async function deleteRemark() {
+      try {
+        const res = await api('/remarks', {
+          method: 'DELETE',
+          body: {
+            filePath: state.currentFile,
+            scriptIndex: state.currentIndex
+          }
+        });
+
+        if (res.success) {
+          delete state.remarks[state.currentFile]?.[state.currentIndex];
+
+          renderMarkdown();
+          highlightScript(state.currentIndex);
+
+          closeRemarkModal();
+          showStatus('Remark deleted', 'success');
+        }
+      } catch (error) {
+        showStatus('Error: ' + error.message, 'error');
+      }
+    }
+
+    function skipScript() {
+      showStatus('Skipped script #' + (state.currentIndex + 1), 'success');
+      goToNext();
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    function showStatus(message, type) {
+      el.statusMessage.textContent = message;
+      el.statusMessage.className = `status-message ${type}`;
+      setTimeout(() => {
+        el.statusMessage.className = 'status-message';
+      }, 3000);
+    }
+
+    // Event listeners
+    el.fileSelect.addEventListener('change', (e) => loadFile(e.target.value));
+    el.prevBtn.addEventListener('click', goToPrev);
+    el.nextBtn.addEventListener('click', goToNext);
+    el.recordBtn.addEventListener('click', startRecording);
+    el.stopBtn.addEventListener('click', stopRecording);
+    el.playBtn.addEventListener('click', playCurrentAudio);
+    el.remarkBtn.addEventListener('click', openRemarkModal);
+    el.skipBtn.addEventListener('click', skipScript);
+    el.saveRemarkBtn.addEventListener('click', saveRemark);
+    el.deleteRemarkBtn.addEventListener('click', deleteRemark);
+    el.cancelRemarkBtn.addEventListener('click', closeRemarkModal);
+    el.remarkModalClose.addEventListener('click', closeRemarkModal);
+
+    // Keyboard shortcuts
+    document.addEventListener('keydown', (e) => {
+      // Skip if in modal or textarea
+      if (el.remarkModal.classList.contains('active')) {
+        if (e.key === 'Escape') closeRemarkModal();
+        if (e.key === 'Enter' && e.ctrlKey) saveRemark();
+        return;
+      }
+
+      if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+
+      switch (e.key) {
+        case 'ArrowLeft':
+        case 'ArrowUp':
+          e.preventDefault();
+          goToPrev();
+          break;
+        case 'ArrowRight':
+        case 'ArrowDown':
+        case 'Enter':
+          e.preventDefault();
+          goToNext();
+          break;
+        case ' ':
+          e.preventDefault();
+          if (state.isRecording) {
+            stopRecording();
+          } else {
+            startRecording();
+          }
+          break;
+        case 'p':
+        case 'P':
+          playCurrentAudio();
+          break;
+        case 'r':
+        case 'R':
+          openRemarkModal();
+          break;
+        case 's':
+        case 'S':
+          skipScript();
+          break;
+        case 'Escape':
+          if (state.isRecording) {
+            stopRecording();
+          }
+          break;
+      }
+    });
+
+    // Initialize
+    init();
+  </script>
+</body>
+</html>

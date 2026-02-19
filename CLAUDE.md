@@ -179,6 +179,134 @@ vocabulary → tapescript → listening exercises → writing + photo
 
 ---
 
+## Explanation Standards
+
+### Format Template
+```markdown
+<explanation>
+**1. A** - [Rule name]: "[quote from text]" → [reasoning]
+**2. B** - [Rule name]: [explanation with Vietnamese translation]
+</explanation>
+```
+
+### Requirements
+- **Bold answer first** - Use `**1. A**` not plain "1. A"
+- **Name the rule** - "ngôi thứ 3 số ít", "quá khứ tiếp diễn", "mệnh đề quan hệ"
+- **Show transformation** - Use arrows: → (result), ↔ (contrast), = (equivalent)
+- **Address common traps** - Use CAPS: "KHÔNG dùng", "CHỦ NGỮ GIỐNG NHAU"
+- **Vietnamese translation** - Include full translation of example sentences
+
+### Example (Good)
+```markdown
+<explanation>
+**1. was working** - Quá khứ tiếp diễn: Khi Kim đến (QKĐ), Tâm ĐANG LÀM (QKTD) → hành động đang xảy ra bị ngắt.
+**2. was visiting** - Quá khứ tiếp diễn với "while": Trong khi ĐANG THĂM → hành động kéo dài làm nền.
+</explanation>
+```
+
+### Example (Bad - Avoid)
+```markdown
+<answer>
+**Đáp án:** 1.A | 2.B | 3.C | 4.D
+</answer>
+<!-- No explanation of WHY each answer is correct -->
+```
+
+---
+
+## Grammar Section Standards
+
+### Universal Template
+```markdown
+<grammar>
+## Vietnamese Name (English Name)
+
+**Công thức:**
+- (+) S + [affirmative formula]
+- (-) S + [negative formula]
+- (?) [Question formula]
+
+**Dùng khi nào:**
+1. [Use case]: Example. *(Vietnamese translation.)*
+2. [Use case]: Example. *(Vietnamese translation.)*
+
+**Dấu hiệu:** [signal words]
+
+**Lưu ý/Mẹo:** [irregular cases or memory tricks]
+</grammar>
+```
+
+### Required Elements
+| Element | Purpose | Required For |
+|---------|---------|--------------|
+| **Công thức** (+/-/?) | Shows sentence patterns | All tenses |
+| **Dùng khi nào** | Numbered use cases with examples | All grammar |
+| **Dấu hiệu** | Signal words for recognition | Tenses only |
+| **Lưu ý/Mẹo** | Irregular forms, memory tricks | When applicable |
+
+### Memory Anchors
+Use visual/numeric anchors to aid memorization:
+- Frequency adverbs: `always=100%, usually=80%, sometimes=50%, rarely=20%, never=0%`
+- Connectors: `AND=+ (thêm), BUT=↔ (tương phản), SO=→ (kết quả), OR=| (lựa chọn)`
+- Participles: `V-ing=chủ động (tự làm), V-ed/V3=bị động (bị/được làm)`
+
+### Table Format (G8+)
+For connectors and complex comparisons:
+```markdown
+| Từ nối | Nghĩa | Chức năng | Dấu câu |
+|--------|-------|-----------|---------|
+| **and** | và | thêm thông tin | , (phẩy) |
+| **but** | nhưng | tương phản | , (phẩy) |
+| **however** | tuy nhiên | tương phản | ; (chấm phẩy) |
+```
+
+---
+
+## Teacher Script Standards
+
+### Pause Time Reference
+| pause | Use Case | Example |
+|-------|----------|---------|
+| 0 | Instructions, explanations (click to proceed) | "Ok đáp án nè." |
+| 30 | Listen/repeat, short note-taking | "Ghi công thức vô tập đi." |
+| 45-60 | Short exercises (matching, MC, fill blanks) | "Bài 2, làm trong 1 phút nha." |
+| 90-120 | Labeling diagrams, moderate exercises | "Hoàn thành sơ đồ. 2 phút." |
+| 180 | Dialogue/reading translation | "Dịch hội thoại vô vở. 3 phút." |
+| 300-600 | Writing tasks, photo submission | "Viết đoạn văn. 5 phút." |
+
+### Standard Reusable Scripts
+```markdown
+<!-- Vocabulary intro (all sections) -->
+<teacher_script pause="0">
+Các em mở sách ra, bài <eng>[Section]</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
+</teacher_script>
+
+<!-- Before showing answer -->
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<!-- Section ending -->
+<teacher_script pause="0">
+Bài <eng>[Section]</eng> Unit [X] xong rồi nha. Nhớ [2-3 key points]. Ôn bài hen!
+</teacher_script>
+```
+
+### Script Writing Rules
+1. **Action verb first** - "Mở sách", "Ghi vô tập", "Nghe và đọc theo"
+2. **1-4 sentences max** - Split longer instructions across multiple scripts
+3. **Specific references** - "Bài 2 trang 15" not "bài tiếp theo"
+4. **`<eng>` for English terms** - Section names, grammar terms, key vocabulary
+
+### Tone Markers
+| Use These | Avoid These |
+|-----------|-------------|
+| nha, hen, đi, nè, nghen, á, luôn, thôi | Chào các em, Hôm nay chúng ta sẽ học |
+| Ok lớp 6, Unit 7 nha | Xin chào! Bài học hôm nay... |
+| Đáp án nè | Đây là đáp án đúng |
+
+---
+
 ## Checklist
 - [ ] Each chunk has teacher_script before AND after
 - [ ] Grammar split into small concepts
