@@ -23,9 +23,6 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 12 nha — hôm nay luyện nghe và v
 14. **pursue** : (v) theo đuổi /pərˈsjuː/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0516/76.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0516/77.mp3"></audio>
-
 <teacher_script pause="0">
 Từ vựng xong nha. Giờ nghe bài phỏng vấn với Linh. Nghe kỹ vì bài tập sắp tới hỏi nhiều chi tiết về câu chuyện của Linh đó.
 </teacher_script>
@@ -87,6 +84,8 @@ Từ vựng xong nha. Giờ nghe bài phỏng vấn với Linh. Nghe kỹ vì b�
 Đọc lại bài phỏng vấn và dịch vô vở. 3 phút nha. Chú ý những lý do tại sao Linh chọn nghề đầu bếp và cách thuyết phục bố mẹ.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/76.mp3"></audio>
+
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
 Bài 2 trang 136 — đúng hay sai nha. Nghe lại hoặc đọc lại bài phỏng vấn, rồi ghi T hoặc F cho 4 câu. Làm 1 phút đi.
@@ -128,6 +127,8 @@ Bài 2 trang 136 — đúng hay sai nha. Nghe lại hoặc đọc lại bài ph�
 
 **Câu 4 — F:** Sai. Bài phỏng vấn không đề cập đến học bổng. Linh chỉ nói sẽ lấy chứng chỉ để thuyết phục bố mẹ, không nhắc đến scholarship nha.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/77.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

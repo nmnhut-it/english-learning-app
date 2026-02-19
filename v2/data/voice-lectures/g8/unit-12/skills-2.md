@@ -24,9 +24,6 @@ Trước khi nghe, mình học từ vựng trước nha. Bấm nút "Bắt đầ
 10. **rocket** : (n) tên lửa /ˈrɒkɪt/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-78.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-79.mp3"></audio>
-
 <!-- chunk: bai1 -->
 ### Bài 1 trang 130 - Discussion
 
@@ -63,6 +60,8 @@ Ok gợi ý câu trả lời nè.
 2. I think it can do a lot of things at the same time because it has four hands. For example: Four hands can wash the dishes faster than two hands.
 *(Mình nghĩ nó có thể làm nhiều thứ một lúc vì nó có bốn tay. Ví dụ: Bốn tay có thể rửa bát nhanh hơn hai tay.)*
 </answer>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-78.mp3"></audio>
 
 <!-- chunk: tapescript -->
 ### Tapescript - Bài nghe
@@ -176,6 +175,8 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 - Bài nghe nói: "they drink a type of petrol from under the ground" (họ uống một loại dầu từ dưới lòng đất).
 - Họ KHÔNG uống nước lỏng (A), mà uống dầu từ dưới đất. Hay ghê hen!
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-79.mp3"></audio>
 
 <!-- chunk: bai3 -->
 ### Bài 3 trang 131 - Fill in the blanks

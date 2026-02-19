@@ -19,12 +19,11 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 11 nha — hôm nay nghe về robot gi
 10. **tired** : (adj) mệt mỏi /ˈtaɪəd/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0516/71.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0516/72.mp3"></audio>
-
 <teacher_script pause="0">
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Chú ý *patient*, *embarrassed*, và *replace* — ba từ quan trọng nhất trong bài nghe.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/71.mp3"></audio>
 
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
@@ -77,6 +76,8 @@ Bài 2 nha — điền từ vô chỗ trống dựa vào bài nghe. Nghe lại n
 
 **5. problems** — Robot giúp phát hiện *learning problems* = vấn đề học tập — như học sinh nào đang gặp khó khăn, cần hỗ trợ thêm.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/72.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

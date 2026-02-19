@@ -29,12 +29,11 @@ Ok lớp 8, Unit 9 nha — <eng>Natural Disasters</eng>, thảm họa thiên nhi
 20. **second floor** : (n) tầng hai /ˈsekənd flɔːr/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-53.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-54.mp3"></audio>
-
 <teacher_script pause="0">
 Ok từ vựng xong rồi nha. Bây giờ mình đọc hội thoại giữa Mi và Tom. Mi trông có vẻ buồn — Tom hỏi thăm, rồi hai đứa nói về thiên tai ở Việt Nam và Mỹ. Đọc theo máy đi, sau đó mình dịch nha.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-53.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
@@ -121,6 +120,8 @@ Ok đáp án bài 2 nè.
 - **Câu 4 — was having:** Tom nói: "One evening my parents and I were having dinner." → gia đình Tom đang ăn tối = was having. Chú ý chỗ này điền 2 từ: "was having".
 - **Câu 5 — pulled:** Tom nói: "It damaged the roof of our house and pulled up some trees in our yard." → nhổ bật = pulled.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-54.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

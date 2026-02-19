@@ -29,8 +29,6 @@ Các em mở sách ra, Unit 2, bài <eng>A Closer Look 1</eng>, ghi tựa bài. 
 15. **pond** : (n) ao /pɒnd/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-9.mp3"></audio>
-
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 20 - Fill in the Blanks
 
@@ -150,6 +148,8 @@ Bài 3. Điền tính từ thích hợp vào chỗ trống nha. 1 phút.
 - **4. vast:** Không thấy điểm cuối của cánh đồng = **rộng lớn, bao la**.
 - **5. surrounded:** Được núi và sông bao quanh = **được bao quanh**.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-9.mp3"></audio>
 
 <!-- chunk: pronunciation_theory -->
 ### Pronunciation - /ɪ/ and /iː/

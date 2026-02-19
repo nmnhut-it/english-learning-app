@@ -23,8 +23,6 @@ Ok lớp 9, bài <eng>Communication</eng> Unit 11 nha — hôm nay học cách k
 14. **update** : (v/n) cập nhật /ˈʌpdeɪt/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0516/70.mp3"></audio>
-
 <teacher_script pause="0">
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Chú ý *portrait mode*, *storage*, và *filter* — ba từ hay gặp trong bài hội thoại này luôn.
 </teacher_script>
@@ -58,6 +56,8 @@ Trước khi vô hội thoại, mình ôn nhanh các câu để kiểm tra sự 
 <teacher_script pause="0">
 Nhớ chưa nha? Ba nhóm: hỏi → xác nhận → xin giải thích. Giờ đọc hội thoại mẫu và xem cách dùng thực tế nha.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/70.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">

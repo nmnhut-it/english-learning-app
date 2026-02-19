@@ -21,8 +21,6 @@ Chào các em. Mời các em mở sách giáo khoa trang 79. Hôm nay chúng ta 
 7. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/46.mp3"></audio>
-
 ---
 
 <!-- chunk: exercise_1 -->
@@ -41,6 +39,8 @@ The Amazon Rainforest is a magnificent area. It is the largest tropical forest o
 </script>
 
 ---
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/46.mp3"></audio>
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 79 - True or False

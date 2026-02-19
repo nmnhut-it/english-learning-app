@@ -27,9 +27,6 @@ Ok bài <eng>Skills 2</eng> nha — nghe và viết. Hôm nay nghe chương trì
 18. **local authorities** : (n) chính quyền địa phương /ˈloʊkəl ɔːˈθɒrɪtiz/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-58.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2023/0804/track-59.mp3"></audio>
-
 <teacher_script pause="0">
 Từ vựng xong rồi nha. Chú ý mấy từ quan trọng: <eng>plaster</eng> = băng dán vết thương (loại băng dán nhỏ), <eng>strengthen</eng> = gia cố (làm cho vững chắc hơn), <eng>avoid</eng> = tránh (không lại gần), <eng>rubbish bin</eng> = thùng rác. Nhớ hết chưa? Giờ mình nghe chương trình radio nha!
 </teacher_script>
@@ -57,6 +54,8 @@ Bài 1. <eng>Work in pairs. Look at the picture and answer the questions.</eng> 
 1. I can see an emergency kit.
 2. We need these things when there is a natural disaster.
 </answer>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-58.mp3"></audio>
 
 <!-- chunk: listening -->
 <teacher_script pause="0">
@@ -130,6 +129,8 @@ Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct co
 - **1 — After:** SAU bão, nghe hướng dẫn từ chính quyền — "Listen to important instructions from local authorities."
 - **4 — After:** SAU bão, tránh xa khu vực nguy hiểm — "They may warn you about which parts of your area are dangerous."
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-59.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

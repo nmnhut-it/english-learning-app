@@ -17,8 +17,6 @@ Ok bài <eng>Communication</eng> nha. Hôm nay học cách nói chuyện khi ngh
 8. **I hope everyone is safe** : (phrase) tôi hy vọng mọi người đều an toàn /aɪ hoʊp ˈevriwʌn ɪz seɪf/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-57.mp3"></audio>
-
 <teacher_script pause="0">
 Từ quan trọng nhất bài này là 3 câu cuối nha: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everyone is safe</eng>". Ba câu này dùng khi ai đó kể chuyện buồn cho mình nghe — mình đáp lại bằng sự đồng cảm. Học thuộc lòng ba câu này đi nha!
 </teacher_script>
@@ -47,6 +45,8 @@ Trước khi đọc hội thoại, mình xem cách đưa tin buồn và phản �
 <teacher_script pause="0">
 Nhớ nha: khi nghe tin buồn thì KHÔNG NÊN nói "OK" hay im lặng — phải bày tỏ sự đồng cảm. Dùng "<eng>I'm sorry to hear that</eng>" hoặc "<eng>That's awful</eng>" rồi hỏi thêm về gia đình họ. Đó là cách nói chuyện lịch sự và quan tâm nha.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-57.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">

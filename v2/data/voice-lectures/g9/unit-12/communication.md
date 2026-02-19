@@ -21,8 +21,6 @@ Ok lớp 9, bài <eng>Communication</eng> Unit 12 nha. Hôm nay mình học các
 12. **scholarship** : (n) học bổng /ˈskɒlərʃɪp/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0516/75.mp3"></audio>
-
 <teacher_script pause="0">
 Từ vựng xong nha. Giờ mình học mấy mẫu câu để nói về kế hoạch nghề nghiệp. Đây là phần quan trọng để nói chuyện tự nhiên nha.
 </teacher_script>
@@ -59,6 +57,8 @@ Từ vựng xong nha. Giờ mình học mấy mẫu câu để nói về kế ho
 <teacher_script pause="0">
 Nhớ nha: "I'm planning to" + động từ nguyên mẫu. "I look forward to" + V-ing (động từ thêm -ing). Đây là lỗi hay gặp lắm. Giờ nghe hội thoại của Khang và An nha.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/75.mp3"></audio>
 
 <!-- chunk: dialogue-khang -->
 <teacher_script pause="0">

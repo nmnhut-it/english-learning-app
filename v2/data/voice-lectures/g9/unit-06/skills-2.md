@@ -18,12 +18,11 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 6 nha — hôm nay mình nghe và vi�
 9. **obvious** : (adj) rõ ràng /ˈɒbviəs/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/37.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0515/38.mp3"></audio>
-
 <teacher_script pause="0">
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Đặc biệt nhớ hai từ *nuclear family* và *extended family* — hai khái niệm quan trọng trong bài nghe này luôn.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/37.mp3"></audio>
 
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
@@ -69,6 +68,8 @@ Bài 2 nha — phân loại các câu vào <eng>The Past</eng> (ngày xưa) ho�
 - **(4)** Con cái ngày nay được bày tỏ ý kiến — gia đình dân chủ hơn rồi.
 - **(5)** Mỗi thành viên bây giờ coi trọng không gian riêng tư hơn — *privacy* quan trọng hơn với thế hệ trẻ.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/38.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

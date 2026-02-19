@@ -19,12 +19,11 @@ Ok lớp 7, Unit 1 nha — bài <eng>Getting Started</eng>. Mở sách trang 6 �
 10. **gardening** : (n) làm vườn /ˈɡɑːdnɪŋ/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2022/0704/002.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2022/0704/003.mp3"></audio>
-
 <teacher_script pause="0">
 Ok từ vựng xong rồi. Giờ mình qua hội thoại nha. Bài 1 trang 6 — <eng>Listen and read</eng>. Đọc hội thoại của Ann và Trang đi.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2022/0704/002.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
@@ -109,6 +108,8 @@ Xong chưa? Ok đáp án nè.
 
 **5. F** — Không phải 8 giờ tối mà là 8 giờ *sáng*. "At eight in the morning."
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2022/0704/003.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="0">

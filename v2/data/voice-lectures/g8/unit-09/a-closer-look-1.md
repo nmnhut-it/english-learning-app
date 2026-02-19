@@ -23,9 +23,6 @@ Ok tiếp theo là bài <eng>A Closer Look 1</eng> nha. Bài này mình học th
 14. **property** : (n) tài sản /ˈprɒpərti/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-55.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-56.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Chú ý 4 cặp từ đặc biệt này: <eng>destroy → destruction</eng>, <eng>erupt → eruption</eng>, <eng>warn → warning</eng>, <eng>predict → prediction</eng>. Đây là cặp động từ và danh từ tương ứng — rất hay ra bài tập đó. Còn <eng>damage</eng> thì vừa là động từ vừa là danh từ, không đổi dạng luôn nha.
 </teacher_script>
@@ -164,6 +161,9 @@ Bài 3. <eng>Fill in each blank with a word or phrase from the box.</eng> Điề
 - **Câu 4 — predict:** "Cannot predict" — không thể dự đoán. Sau "cannot" cần động từ nguyên mẫu → <eng>predict</eng> (dự đoán).
 - **Câu 5 — property:** "Lost all of their property" — mất hết tài sản. Sau "their" cần danh từ → <eng>property</eng> (tài sản).
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-55.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-56.mp3"></audio>
 
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">

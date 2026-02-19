@@ -25,11 +25,11 @@ Ok lớp 9, Unit 6 nha — <eng>Viet Nam: Then and Now</eng>. Hôm nay mình ôn
 16. **do you mind** : (phrase) bạn có phiền không /duː juː maɪnd/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/33.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Làm bài trắc nghiệm từ vựng đi, sau đó ghi từ vào tập. Nhớ ghi cả nghĩa tiếng Việt nha.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/33.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">

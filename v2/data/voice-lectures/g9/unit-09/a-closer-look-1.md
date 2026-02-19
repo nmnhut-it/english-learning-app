@@ -24,9 +24,6 @@ Học từ vựng về ngôn ngữ trước nha.
 7. **mother tongue** : (n) tiếng mẹ đẻ /ˈmʌðə tʌŋ/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/54.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0515/55.mp3"></audio>
-
 <teacher_script pause="0">
 Phân biệt nha:
 - <eng>Accent</eng>: cách phát âm khác nhau - ví dụ giọng Bắc, giọng Nam trong tiếng Việt
@@ -94,6 +91,9 @@ Cả hai đều đúng, chỉ khác vùng miền!
 </teacher_script>
 
 ---
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/54.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/55.mp3"></audio>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 33 - Listen and practice

@@ -15,8 +15,6 @@ Ok bài <eng>A Closer Look 1</eng> nha. Bài này mình học thêm từ vựng 
 6. **festival goers** : (n) người đi trẩy hội, người tham gia lễ hội /ˈfɛstɪvəl ˌɡoʊərz/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-28.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi. Giờ mình nghe audio bài 1 - nghe và nhìn vào tranh trong sách, nối từ với tranh tương ứng nha.
 </teacher_script>
@@ -157,6 +155,8 @@ Bài 3 - điền từ vào chỗ trống nha. Có 5 câu, các em dùng từ v�
 
 **5. martial arts:** *Martial arts* = võ thuật - nhiều lễ hội truyền thống có màn biểu diễn võ nghệ, đặc biệt là các lễ hội ở miền Bắc.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-28.mp3"></audio>
 
 <!-- chunk: pronunciation-theory -->
 <teacher_script pause="0">

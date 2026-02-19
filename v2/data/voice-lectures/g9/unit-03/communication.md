@@ -21,8 +21,6 @@ Ok lớp 9, bài <eng>Communication — Unit 3</eng> nha. Hôm nay học cách h
 12. **learnt** : (v - past form) đã học được /lɜːnt/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/17.mp3"></audio>
-
 <teacher_script pause="0">
 Ghi xong chưa nha! "Overcome" — vượt qua — hay dùng lắm: *overcome difficulty* = vượt qua khó khăn, *overcome stress* = vượt qua căng thẳng. Giờ học phần ngôn ngữ nha.
 </teacher_script>
@@ -60,6 +58,8 @@ Khi nghe ai nói mà không hiểu hoặc không nghe rõ, người Anh sẽ dù
 <teacher_script pause="0">
 Mẹo nhỏ: trong lớp học, dùng "Could you say that again, please?" là an toàn và lịch sự nhất nha. "Sorry?" thì hơi ngắn, còn "I beg your pardon?" thì nghe formal lắm, dùng khi gặp người lớn hay trong môi trường nghiêm túc. Bây giờ vô hội thoại nha!
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/17.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">

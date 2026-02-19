@@ -29,8 +29,6 @@ Ok lớp 9, tiếp tục Unit 12 nha — bài <eng>A Closer Look 1</eng>. Hôm n
 20. **flexible** : (adj) linh hoạt /ˈfleksɪbl/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0516/74.mp3"></audio>
-
 <teacher_script pause="0">
 Tốt lắm nha. Từ vựng hôm nay có hai nhóm: nhóm tên nghề và nhóm tính từ mô tả nghề hoặc tính cách. Học thuộc hết nha vì bài tập sắp tới dùng hết đó. Giờ vô bài tập 1 nha.
 </teacher_script>
@@ -201,6 +199,8 @@ Bài 3 trang 128 — điền từ vô chỗ trống. Đọc câu rồi chọn t�
 
 **Câu 5:** "His job was repetitive" — lặp đi lặp lại. Câu sau giải thích rõ: làm đúng một việc 8 tiếng mỗi ngày.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/74.mp3"></audio>
 
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">

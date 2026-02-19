@@ -21,9 +21,6 @@ Ok lớp 7, bài <eng>A Closer Look 1</eng> Unit 1 nha. Mở sách trang 8. Bài
 12. **yoga** : (n) yoga /ˈjəʊɡə/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2022/0704/004.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2022/0704/005.mp3"></audio>
-
 <teacher_script pause="0">
 Ok từ vựng xong rồi. Có một điều quan trọng cần nhớ nha: trong tiếng Anh, mình dùng <eng>go</eng> + <eng>V-ing</eng> cho các môn thể thao ngoài trời hoặc hoạt động di chuyển. Dùng <eng>do</eng> cho các môn võ thuật và thể dục. Dùng <eng>collect</eng> cho sở thích sưu tập. Mình qua bài tập để luyện liền nha.
 </teacher_script>
@@ -188,6 +185,9 @@ Xong chưa? Đáp án nè.
 
 **5.** "hate ride" → hates riding (She → thêm s vào hates) a horse.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2022/0704/004.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2022/0704/005.mp3"></audio>
 
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">

@@ -19,9 +19,6 @@ Chào các em. Mời các em mở sách giáo khoa trang 74. Hôm nay chúng ta 
 6. **urgent** : (adj) khẩn cấp /ˈɜːdʒənt/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/42.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0515/43.mp3"></audio>
-
 <teacher_script pause="0" href="audio/tts_778beeba.webm">
 Các em hãy nghe và lặp lại các từ mới nhé.
 </teacher_script>
@@ -135,6 +132,9 @@ Chúng ta cùng chuyển sang phần Phát âm (Pronunciation). Hôm nay chúng 
 </pronunciation_theory>
 
 ---
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/42.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/43.mp3"></audio>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 74 - Listen and repeat

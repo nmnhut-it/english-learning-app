@@ -14,11 +14,11 @@ Ok bài <eng>Skills 2</eng> nha lớp 8 - hôm nay mình luyện nghe về một
 5. **litter** : (v/n) xả rác / rác /ˈlɪtər/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0616/track-31.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Chuẩn bị nghe audio bài nghe về một lễ hội truyền thống. Nghe và làm bài tập nha.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0616/track-31.mp3"></audio>
 
 <!-- chunk: listening -->
 <teacher_script pause="0">

@@ -21,8 +21,6 @@ Ok lớp 9, bài <eng>Communication</eng> nha. Hôm nay tụi mình học cách 
 12. **pray** : (v) cầu nguyện /preɪ/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/24.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Ghi vô tập rồi mình học cách diễn đạt phong tục.
 </teacher_script>
@@ -59,6 +57,8 @@ Trước khi vào hội thoại, mình học một số cụm từ hay dùng khi
 <teacher_script pause="0">
 Nhớ mấy cụm này nha: <eng>"In my culture, we usually..."</eng>, <eng>"It's customary to..."</eng>, <eng>"We have a tradition of..."</eng>. Dùng trong Speaking thi sẽ được điểm cao hơn đó.
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/24.mp3"></audio>
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">

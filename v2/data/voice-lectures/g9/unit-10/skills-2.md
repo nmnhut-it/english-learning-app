@@ -30,9 +30,6 @@ Trước khi nghe, học từ vựng đi. Bấm nút "Bắt đầu" bên dưới
 13. **die out** : (phr.v) chết, biến mất /daɪ aʊt/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0516/65.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0516/66.mp3"></audio>
-
 ---
 
 <!-- chunk: exercise_1 -->
@@ -119,6 +116,8 @@ Dịch bài nghe vô vở. 3 phút nha.
 
 ---
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/65.mp3"></audio>
+
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 113 - Multiple Choice
 
@@ -176,6 +175,8 @@ Giải thích nha:
 </teacher_script>
 
 ---
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/66.mp3"></audio>
 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 113 - Fill in the blanks

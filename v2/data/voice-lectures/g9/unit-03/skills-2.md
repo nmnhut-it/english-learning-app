@@ -19,12 +19,11 @@ Ok lớp 9, bài <eng>Skills 2 — Unit 3</eng> nha. Hôm nay nghe về quản l
 10. **accomplish** : (v) hoàn thành, làm xong /əˈkɒmplɪʃ/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/18.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0515/19.mp3"></audio>
-
 <teacher_script pause="0">
 Ghi xong chưa nha! Chú ý "urgent" — khẩn cấp — là những việc cần làm NGAY, còn "important" là quan trọng nhưng không nhất thiết phải làm ngay. Hai khái niệm này khác nhau nha. Giờ nghe bài nha!
 </teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/18.mp3"></audio>
 
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
@@ -91,6 +90,8 @@ Nghe xong rồi, giờ làm bài tập nha!
 
 **Tom - C (breaks tasks into small steps)** — Tom nói: *"breaking tasks into small steps... Instead of thinking I need to write 500 words, I think today I'll write the introduction."* Tom chia nhỏ nhiệm vụ lớn.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/19.mp3"></audio>
 
 <!-- chunk: exercise-3-mcq -->
 <teacher_script pause="60">

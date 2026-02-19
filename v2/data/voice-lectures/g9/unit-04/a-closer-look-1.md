@@ -21,9 +21,6 @@ Ok lớp 9, bài <eng>A Closer Look 1</eng> — từ vựng và phát âm nha. H
 12. **preserve** : (v) bảo tồn /prɪˈzɜːv/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/22.mp3"></audio>
-<audio src="https://img.loigiaihay.com/picture/2024/0515/23.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Làm bài trắc nghiệm, ghi từ vào tập, rồi mình học ngữ pháp từ vựng — chuyển động từ thành danh từ luôn.
 </teacher_script>
@@ -225,6 +222,9 @@ Bài 4 — điền từ vào chỗ trống nha. Dùng từ trong hộp. Các câ
 - **4. magnificent:** tráng lệ, hùng vĩ → tả cảnh Hạ Long Bay.
 - **5. heritage:** di sản (cultural heritage) → người Việt tự hào về di sản văn hóa.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/22.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/23.mp3"></audio>
 
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">

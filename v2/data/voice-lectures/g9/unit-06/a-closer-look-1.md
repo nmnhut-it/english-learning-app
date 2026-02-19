@@ -24,8 +24,6 @@ Ok lớp 9, tiếp tục Unit 6 nha — bài <eng>A Closer Look 1</eng>. Hôm na
 15. **relationship** : (n) mối quan hệ /rɪˈleɪʃənʃɪp/
 </vocabulary>
 
-<audio src="https://img.loigiaihay.com/picture/2024/0515/35.mp3"></audio>
-
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Làm trắc nghiệm từ vựng đi, rồi ghi vô tập — nhớ ghi cả nghĩa tiếng Việt và phiên âm nha.
 </teacher_script>
@@ -252,6 +250,8 @@ Bài 4 trang 62 nha — nghe và đánh dấu trọng âm cho mỗi từ khi là
 </explanation>
 
 <!-- chunk: end -->
+<audio src="https://img.loigiaihay.com/picture/2024/0515/35.mp3"></audio>
+
 <teacher_script pause="0">
 Xong bài <eng>A Closer Look 1</eng> Unit 6 rồi nha! Các em đã học từ vựng về lối sống Việt Nam — <eng>extended family</eng> = gia đình mở rộng, <eng>democratic</eng> = dân chủ, <eng>family-oriented</eng> = hướng về gia đình. Nhớ quy tắc trọng âm: danh từ nhấn âm đầu, động từ nhấn âm sau. Bài sau là <eng>A Closer Look 2</eng> — ngữ pháp. Hẹn gặp lại hen!
 </teacher_script>
