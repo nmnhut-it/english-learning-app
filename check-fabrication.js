@@ -1985,34 +1985,63 @@ function generateReport(grade, unit, section, comparison) {
     report += `\n`;
   }
 
-  // Strict Comparison Results (new)
+  // Strict Comparison Results (new) - Side-by-side comparison
   if (comparison.strictComparison) {
     const sc = comparison.strictComparison;
-    report += `## Strict Normalized Comparison\n\n`;
+    const sourceBlocks = comparison.sourceBlocks || {};
+    const voiceBlocks = comparison.voiceBlocks || {};
+
+    report += `## Content Comparison (Source vs Voice)\n\n`;
+
+    for (const result of sc.results) {
+      if (!result.passed) {
+        const type = result.type;
+        const sourceKey = type.toLowerCase() + 'Text';
+        const sourceContent = sourceBlocks[sourceKey] || '';
+        const voiceContent = voiceBlocks[sourceKey] || '';
+
+        report += `### ${type} (${result.matchRate.toFixed(0)}% match)\n\n`;
+
+        // Show source content (first 500 chars)
+        if (sourceContent) {
+          report += `**📖 SOURCE (from textbook):**\n\`\`\`\n`;
+          report += sourceContent.substring(0, 800).trim();
+          if (sourceContent.length > 800) report += '\n... (truncated)';
+          report += `\n\`\`\`\n\n`;
+        }
+
+        // Show voice content (first 500 chars)
+        if (voiceContent) {
+          report += `**🎤 VOICE (in lesson file):**\n\`\`\`\n`;
+          report += voiceContent.substring(0, 800).trim();
+          if (voiceContent.length > 800) report += '\n... (truncated)';
+          report += `\n\`\`\`\n\n`;
+        }
+
+        // Show unmatched sentences
+        if (result.unmatched && result.unmatched.length > 0) {
+          report += `**❌ Unmatched source sentences (${result.unmatched.length}):**\n`;
+          for (const sentence of result.unmatched.slice(0, 5)) {
+            report += `- "${sentence}"\n`;
+          }
+          if (result.unmatched.length > 5) {
+            report += `- ... and ${result.unmatched.length - 5} more\n`;
+          }
+          report += `\n`;
+        }
+      }
+    }
+
+    // Summary table
+    report += `### Match Summary\n\n`;
     report += `| Content Type | Match Rate | Unmatched | Status |\n`;
     report += `|--------------|------------|-----------|--------|\n`;
-
     for (const result of sc.results) {
       const status = result.passed ? '✅ PASS' : '❌ CRITICAL';
       const unmatchedCount = result.unmatched ? result.unmatched.length : 0;
       report += `| ${result.type} | ${result.matchRate.toFixed(0)}% | ${unmatchedCount}/${result.total} | ${status} |\n`;
     }
-
     report += `\n`;
-
-    // Show unmatched sentences for review
-    for (const result of sc.results) {
-      if (result.unmatched && result.unmatched.length > 0) {
-        report += `### Unmatched ${result.type} Sentences\n\n`;
-        for (const sentence of result.unmatched.slice(0, 10)) {
-          report += `- "${sentence}"\n`;
-        }
-        if (result.unmatched.length > 10) {
-          report += `- ... and ${result.unmatched.length - 10} more\n`;
-        }
-        report += `\n`;
-      }
-    }
   }
 
   return report;
@@ -2083,6 +2112,8 @@ async function main() {
       const voiceBlocks = extractVoiceBlocks(voiceContent);
       const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks);
       comparison.strictComparison = strictComparison;
+      comparison.sourceBlocks = sourceBlocks;  // For side-by-side report
+      comparison.voiceBlocks = voiceBlocks;
 
       // Add strict comparison issues to main issues list
       for (const result of strictComparison.results) {
