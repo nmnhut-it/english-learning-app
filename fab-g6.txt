@@ -1,0 +1,237 @@
+Checking: G6 U01 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "vy phong and duy go to the sarne s...
+Checking: G6 U01 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G6 U01 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U01 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 16/16 sentences not found: "are you from around here", "do y...
+Checking: G6 U01 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "students live and study in a schoo...
+Checking: G6 U01 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 23/23 sentences not found: "my names janet", "im eleven year...
+Checking: G6 U01 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U02 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 15/15 sentences not found: "your room looks so big nick", "i...
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "elena is nicks", "a in elenas room...
+Checking: G6 U02 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G6 U02 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U02 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 4/4 sentences not found: "my bedroom isnt nice", "how about ...
+     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "hello everyone", "this is the pi...
+Checking: G6 U02 skills-1
+  🟡 MEDIUM (3)
+Checking: G6 U02 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 20/20 sentences not found: "my names mai", "i live in a town...
+Checking: G6 U02 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U03 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 18/18 sentences not found: "that was a great idea nam", "i l...
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "phong and nam are having a", "phon...
+Checking: G6 U03 a-closer-look-1
+  🟡 MEDIUM (3)
+Checking: G6 U03 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U03 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "i live in da nang", "at home i can...
+Checking: G6 U03 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 29/29 sentences not found: "here i am at the superb summer c...
+Checking: G6 U03 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 18/18 sentences not found: "my best friend is minh", "we are...
+Checking: G6 U03 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U04 getting-started
+  🔴 CRITICAL (1)
+     STRICT Dialogue - Unmatched Sentences: 5/5 sentences not found: "look theres a girl", "lets ask her...
+Checking: G6 U04 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 20201130-tienganh6-kntt-b1-25.mp3, 20201130-tienganh6-kntt-b...
+Checking: G6 U04 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U04 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 19/19 sentences not found: "lets start our tour in hoi an", ...
+Checking: G6 U04 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "its great for outdoor activities b...
+Checking: G6 U04 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "vy lives in the centre of ho chi m...
+Checking: G6 U04 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U05 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 14/14 sentences not found: "hello welcome to our geography c...
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "people didnt make ganh da dia", ...
+Checking: G6 U05 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: act5-1-1.mp3...
+Checking: G6 U05 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U05 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 5/5 sentences not found: "duong lets go for a picnic this su...
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "the himalayas is a mountain range"...
+Checking: G6 U05 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "what is the reading about", "wha...
+Checking: G6 U05 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 25/25 sentences not found: "phu quoc is a very beautiful isl...
+Checking: G6 U05 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U06 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 12/12 sentences not found: "phong does viet nam celebrate ne...
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "this year tet is in", "we decorate...
+Checking: G6 U06 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: act5-2-.mp3...
+Checking: G6 U06 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U06 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 3/4 sentences not found: "they go to times square to watch t...
+Checking: G6 U06 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "i often go to times square with ...
+Checking: G6 U06 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 18/18 sentences not found: "tet is coming and im very happy"...
+Checking: G6 U06 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U07 getting-started
+  🟠 HIGH (1)
+     Media - Missing MP3: u7-getting-ex1.mp3...
+Checking: G6 U07 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: u7-look-1-ex4.mp3, u7-look-1-ex5.mp3...
+Checking: G6 U07 a-closer-look-2
+  🟠 HIGH (2)
+     Media - Missing MP3: u7-look2-ex3_1.mp3...
+     STRICT Dialogue - Unmatched Sentences: 2/6 sentences not found: "where is it", "how long is it on"...
+Checking: G6 U07 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 7/7 sentences not found: "pokemon cartoons are from", "bibi ...
+Checking: G6 U07 skills-1
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 1/1 sentences not found: "cuc phuong forest the fox teacher ...
+     STRICT Reading - Unmatched Sentences: 10/10 sentences not found: "whats in the wildlife programme"...
+Checking: G6 U07 skills-2
+  🟡 MEDIUM (4)
+Checking: G6 U07 looking-back
+  🟡 MEDIUM (3)
+Checking: G6 U08 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 7/7 sentences not found: "duong looks", "he often does karat...
+Checking: G6 U08 a-closer-look-1
+  🔵 LOW (3)
+Checking: G6 U08 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U08 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "how many players are there in a ...
+Checking: G6 U08 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 6/6 sentences not found: "what do you know about pele", "wha...
+Checking: G6 U08 skills-2
+  🟠 HIGH (1)
+     STRICT Reading - Unmatched Sentences: 9/21 sentences not found: "i play volleyball at school and i...
+Checking: G6 U08 looking-back
+  🟡 MEDIUM (2)
+Checking: G6 U09 getting-started
+  🟡 MEDIUM (1)
+Checking: G6 U09 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: gs-u9-a-closer-look-1-ex5.mp3...
+Checking: G6 U09 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U09 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "this tower is on the bank of the r...
+Checking: G6 U09 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 2/2 sentences not found: "when do people write a postcard", ...
+Checking: G6 U09 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/17 sentences not found: "what is bangkok famous for", "ban...
+Checking: G6 U09 looking-back
+  🔴 CRITICAL (1)
+     Answers - WRONG: bai1_q2: "A" should be "C"...
+Checking: G6 U10 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "phongs house will be in the mounta...
+Checking: G6 U10 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G6 U10 a-closer-look-2
+  🟡 MEDIUM (2)
+Checking: G6 U10 communication
+  🔴 CRITICAL (2)
+     Reading - Fabricated Content: **Example:**
+
+In the future, Nam will live in a hi-tech hous...
+     STRICT Reading - Unmatched Sentences: 6/6 sentences not found: "will you live in a hitech house", ...
+Checking: G6 U10 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 16/28 sentences not found: "my future house will be a palace...
+Checking: G6 U10 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "what type of house does linda have...
+Checking: G6 U10 looking-back
+  🔵 LOW (1)
+Checking: G6 U11 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "nick is going on tomorrow", "the g...
+Checking: G6 U11 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: gs-u11-a-closer-look-1-ex5.mp3...
+Checking: G6 U11 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G6 U11 communication
+  🟡 MEDIUM (1)
+Checking: G6 U11 skills-1
+  🔴 CRITICAL (3)
+     Reading - Fabricated Content: **Interview: Making Our School Greener**
+
+**Interviewer:** N...
+     STRICT Dialogue - Unmatched Sentences: 15/16 sentences not found: "can you share with us some tips ...
+Checking: G6 U11 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 1/1 sentences not found: "giving explanations and or example...
+Checking: G6 U11 looking-back
+  🟡 MEDIUM (1)
+Checking: G6 U12 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 13/13 sentences not found: "h is a very useful robot", "wb c...
+Checking: G6 U12 a-closer-look-1
+  🟡 MEDIUM (3)
+Checking: G6 U12 a-closer-look-2
+  🔵 LOW (3)
+Checking: G6 U12 communication
+  🟡 MEDIUM (3)
+Checking: G6 U12 skills-1
+  🟡 MEDIUM (2)
+Checking: G6 U12 skills-2
+  🔴 CRITICAL (2)
+     Reading - Fabricated Content: **Dr Adams:** Sure | Robots can do quite a lot today | Home ...
+     STRICT Reading - Unmatched Sentences: 6/7 sentences not found: "robots cant do many things today",...
+Checking: G6 U12 looking-back
+  🟡 MEDIUM (1)
+
+==================================================
+SUMMARY: 34 passed, 50 need review (CRITICAL/HIGH)
+Reports: C:\Users\LAP14364-local\Documents\claude-workspace\english-learning-app\reports

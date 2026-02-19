@@ -1,0 +1,230 @@
+Checking: G7 U01 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 20/21 sentences not found: "your house is very nice trang th...
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "trang needs help with building dol...
+Checking: G7 U01 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 004.mp3, 005.mp3...
+Checking: G7 U01 a-closer-look-2
+  🔴 CRITICAL (1)
+     Answers - WRONG: bai3_q4: "goes" should be "go"...
+Checking: G7 U01 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 5/5 sentences not found: "do you like reading books", "yes v...
+     STRICT Reading - Unmatched Sentences: 3/3 sentences not found: "i have one hour of free time a day...
+Checking: G7 U01 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "people divide hobbies into four ...
+Checking: G7 U01 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 6/6 sentences not found: "in the picture i can see two girls...
+Checking: G7 U01 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U02 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 14/14 sentences not found: "this is a nice picture mark", "t...
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "in the picture mark and his father...
+Checking: G7 U02 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 010.mp3...
+Checking: G7 U02 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U02 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 3/3 sentences not found: "my eyes are tired", "you can use e...
+     STRICT Reading - Unmatched Sentences: 10/10 sentences not found: "the japanese live long lives", "...
+Checking: G7 U02 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 7/7 sentences not found: "acne is a skin condition it causes...
+Checking: G7 U02 skills-2
+  🟠 HIGH (1)
+     STRICT Reading - Unmatched Sentences: 6/12 sentences not found: "eat a lot of meat and cheese", "g...
+Checking: G7 U02 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U03 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 17/17 sentences not found: "are you back in ha noi", "yes i ...
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "we collected clothes and gave them...
+Checking: G7 U03 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 016.mp3...
+Checking: G7 U03 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U03 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 4/4 sentences not found: "what did you do to help your commu...
+     STRICT Reading - Unmatched Sentences: 2/2 sentences not found: "mi helped lonely elderly people", ...
+Checking: G7 U03 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 18/18 sentences not found: "bright future school has many co...
+Checking: G7 U03 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "we did some very interesting activ...
+Checking: G7 U03 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U04 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 17/17 sentences not found: "what are you listening to", "im ...
+     STRICT Reading - Unmatched Sentences: 7/7 sentences not found: "nick wants to go to a n next weeke...
+Checking: G7 U04 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 025.mp3, 026.mp3...
+Checking: G7 U04 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U04 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 4/4 sentences not found: "which do you prefer pop or folk mu...
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "my name is susie", "im from austra...
+Checking: G7 U04 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 16/16 sentences not found: "yesterday i went to see a puppet...
+Checking: G7 U04 skills-2
+  🟠 HIGH (1)
+     Media - Missing MP3: 029.mp3, 28-pham-van-dong-rdha-noi-n1657083432.mp3...
+Checking: G7 U04 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U05 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 12/12 sentences not found: "good evening", "what can i get y...
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "marks family is at a vietnamese re...
+Checking: G7 U05 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 032.mp3, 033.mp3...
+Checking: G7 U05 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U05 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 3/3 sentences not found: "how much is a bottle of mineral wa...
+     STRICT Reading - Unmatched Sentences: 10/10 sentences not found: "whats nams favourite food", "wha...
+Checking: G7 U05 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "pho is a special kind of traditi...
+Checking: G7 U05 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 14/14 sentences not found: "people in my area often have thr...
+Checking: G7 U05 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U06 getting-started
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 16/16 sentences not found: "what are you doing mi", "im prep...
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "the school is very small so not ma...
+Checking: G7 U06 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 040.mp3...
+Checking: G7 U06 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U06 communication
+  🟡 MEDIUM (3)
+Checking: G7 U06 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 16/16 sentences not found: "quoc hoc hue is one of the oldes...
+Checking: G7 U06 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 14/14 sentences not found: "what outdoor activities do they ...
+Checking: G7 U06 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U07 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 7/7 sentences not found: "how does lan often go to school", ...
+Checking: G7 U07 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G7 U07 a-closer-look-2
+  🔴 CRITICAL (1)
+     STRICT Dialogue - Unmatched Sentences: 1/1 sentences not found: "metres my house nearest shop"...
+Checking: G7 U07 communication
+  🟡 MEDIUM (3)
+Checking: G7 U07 skills-1
+  🟡 MEDIUM (4)
+Checking: G7 U07 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 2/2 sentences not found: "in the picture there are numerous ...
+Checking: G7 U07 looking-back
+  🔵 LOW (4)
+Checking: G7 U08 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "a film that tries to make the au...
+Checking: G7 U08 a-closer-look-1
+  🟡 MEDIUM (2)
+Checking: G7 U08 a-closer-look-2
+  🔵 LOW (4)
+Checking: G7 U08 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 3/3 sentences not found: "in our survey we interviewed three...
+Checking: G7 U08 skills-1
+  🟡 MEDIUM (4)
+Checking: G7 U08 skills-2
+  🟡 MEDIUM (2)
+Checking: G7 U08 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U09 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 10/10 sentences not found: "the dancers performed at the tul...
+Checking: G7 U09 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G7 U09 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U09 communication
+  🔴 CRITICAL (1)
+     Reading - Fabricated Content: A lot of festivals have their own symbols | A festival symbo...
+Checking: G7 U09 skills-1
+  🟠 HIGH (1)
+     STRICT Reading - Unmatched Sentences: 13/26 sentences not found: "my family and i arrived in twins...
+Checking: G7 U09 skills-2
+  🟡 MEDIUM (4)
+Checking: G7 U09 looking-back
+  🟡 MEDIUM (1)
+Checking: G7 U10 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "what is lan doing", "what does ene...
+Checking: G7 U10 a-closer-look-1
+  🟡 MEDIUM (2)
+Checking: G7 U10 a-closer-look-2
+  🔵 LOW (3)
+Checking: G7 U10 communication
+  🔴 CRITICAL (1)
+     Reading - Fabricated Content: **Example:**
+Mai saves a lot of energy | She often goes to s...
+Checking: G7 U10 skills-1
+  🟡 MEDIUM (4)
+Checking: G7 U10 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "we use a lot of energy at home and...
+Checking: G7 U10 looking-back
+  🔵 LOW (3)
+Checking: G7 U11 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 13/13 sentences not found: "ann and minh are in a traffic ja...
+Checking: G7 U11 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G7 U11 a-closer-look-2
+  🔵 LOW (2)
+Checking: G7 U11 communication
+  🟡 MEDIUM (3)
+Checking: G7 U11 skills-1
+  🟡 MEDIUM (3)
+Checking: G7 U11 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "i think people will like travellin...
+Checking: G7 U11 looking-back
+  🟡 MEDIUM (2)
+Checking: G7 U12 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "in australia phong used english in...
+Checking: G7 U12 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G7 U12 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G7 U12 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 13/13 sentences not found: "new zealand has the cleanest and...
+Checking: G7 U12 skills-1
+  🔴 CRITICAL (1)
+     Reading - Fabricated Content: You can always find something to do here: skiing, boating, b...
+Checking: G7 U12 skills-2
+  🟡 MEDIUM (2)
+Checking: G7 U12 looking-back
+  🔵 LOW (1)
+
+==================================================
+SUMMARY: 38 passed, 46 need review (CRITICAL/HIGH)
+Reports: C:\Users\LAP14364-local\Documents\claude-workspace\english-learning-app\reports

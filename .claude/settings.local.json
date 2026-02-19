@@ -25,7 +25,11 @@
       "Bash(tee:*)",
       "Bash(npm run test:walk-all:*)",
       "Bash(done)",
-      "Bash(fi:*)"
+      "Bash(fi:*)",
+      "Bash(for:*)",
+      "Bash(do node check-fabrication.js:*)",
+      "Bash(paste:*)",
+      "Bash(bc:*)"
     ],
     "deny": [],
     "ask": []

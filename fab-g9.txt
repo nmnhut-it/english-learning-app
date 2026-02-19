@@ -1,0 +1,229 @@
+Checking: G9 U01 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "mis family moved to a new house ...
+Checking: G9 U01 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G9 U01 a-closer-look-2
+  🔵 LOW (2)
+Checking: G9 U01 communication
+  🔴 CRITICAL (1)
+     Reading - Fabricated Content: It's in the centre of the city and only a kilometre from our...
+Checking: G9 U01 skills-1
+  🟠 HIGH (1)
+     STRICT Reading - Unmatched Sentences: 10/23 sentences not found: "i live in tay ho village kilomet...
+Checking: G9 U01 skills-2
+  🟡 MEDIUM (4)
+Checking: G9 U01 looking-back
+  🔵 LOW (2)
+Checking: G9 U02 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "the bus in trangs city is slow and...
+Checking: G9 U02 a-closer-look-1
+  🔴 CRITICAL (1)
+     Answers - WRONG: bai2_q1: "B" should be "A" | bai2_q2: "A" should be "C" | ba...
+Checking: G9 U02 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U02 communication
+  🔴 CRITICAL (1)
+     STRICT Dialogue - Unmatched Sentences: 3/3 sentences not found: "thanks dad", "would you like me to...
+Checking: G9 U02 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 17/17 sentences not found: "teenovator is an annual competit...
+Checking: G9 U02 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "there are many facilities for publ...
+Checking: G9 U02 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U03 getting-started
+  🔴 CRITICAL (2)
+     Answers - WRONG: bai2_q3: "T" should be "F" | bai2_q4: "F" should be "T"...
+     STRICT Reading - Unmatched Sentences: 10/10 sentences not found: "the counsellor is giving advice ...
+Checking: G9 U03 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 15.mp3, 16.mp3...
+Checking: G9 U03 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U03 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 16/16 sentences not found: "praise or encourage your classma...
+Checking: G9 U03 skills-1
+  🟡 MEDIUM (3)
+Checking: G9 U03 skills-2
+  🟠 HIGH (2)
+     Media - Missing MP3: 18.mp3, 19.mp3...
+     Quality - Listening (MISSING_AUDIO): No <audio src="...mp3"> tags found in listening section...
+Checking: G9 U03 looking-back
+  🔴 CRITICAL (1)
+     Answers - WRONG: bai2_q5: "B" should be "D"...
+Checking: G9 U04 getting-started
+  🔴 CRITICAL (2)
+     Answers - WRONG: bai4_q3: "e" should be "monument"...
+     STRICT Reading - Unmatched Sentences: 19/19 sentences not found: "how old is angkor wat", "what is...
+Checking: G9 U04 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 22.mp3, 23.mp3...
+Checking: G9 U04 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U04 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "most of vietnamese families have c...
+Checking: G9 U04 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 17/17 sentences not found: "englands traditions have been ar...
+Checking: G9 U04 skills-2
+  🟠 HIGH (1)
+     STRICT Reading - Unmatched Sentences: 2/4 sentences not found: "a lot of extra lessons", "chatting...
+Checking: G9 U04 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U05 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "mi and tom had a great time in da ...
+Checking: G9 U05 a-closer-look-1
+  🔴 CRITICAL (1)
+     Answers - WRONG: bai2_q4: "e" should be "embarrassing" | bai3_q1: "B" should ...
+Checking: G9 U05 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U05 communication
+  🔴 CRITICAL (2)
+     STRICT Dialogue - Unmatched Sentences: 2/2 sentences not found: "oops my mistake mum", "i thought i...
+     STRICT Reading - Unmatched Sentences: 2/2 sentences not found: "you submit your project after the ...
+Checking: G9 U05 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 20/21 sentences not found: "i had a hard day course in an ar...
+Checking: G9 U05 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "minhs peers bullied him", "dad cou...
+Checking: G9 U05 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U06 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "a few teenagers in my village have...
+Checking: G9 U06 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 34.mp3, 35.mp3...
+Checking: G9 U06 a-closer-look-2
+  🔵 LOW (1)
+Checking: G9 U06 communication
+  🟡 MEDIUM (3)
+Checking: G9 U06 skills-1
+  🔴 CRITICAL (2)
+     Answers - WRONG: bai2_q3: "C" should be "B"...
+     STRICT Reading - Unmatched Sentences: 22/22 sentences not found: "i was one of the few children in...
+Checking: G9 U06 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 38/38 sentences not found: "firstly nuclear families have re...
+Checking: G9 U06 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U07 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "tom took part in the natural won...
+Checking: G9 U07 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 42.mp3, 43.mp3...
+Checking: G9 U07 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U07 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 12/12 sentences not found: "its an island located off the co...
+Checking: G9 U07 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 16/17 sentences not found: "the dolomites are a mountain ran...
+Checking: G9 U07 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "the amazon rainforest is a magni...
+Checking: G9 U07 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U08 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 14/14 sentences not found: "tom and an are talking about the...
+Checking: G9 U08 a-closer-look-1
+  🟡 MEDIUM (1)
+Checking: G9 U08 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U08 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 2/2 sentences not found: "you ask your younger brother to ma...
+Checking: G9 U08 skills-1
+  🟡 MEDIUM (4)
+Checking: G9 U08 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "the brontes is a family of worldfa...
+Checking: G9 U08 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U09 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "jack is an exchange student from...
+Checking: G9 U09 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 54.mp3, 55.mp3...
+Checking: G9 U09 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U09 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "your friend is giving a presenta...
+Checking: G9 U09 skills-1
+  🟡 MEDIUM (3)
+Checking: G9 U09 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 37/37 sentences not found: "ive learnt english for six years...
+Checking: G9 U09 looking-back
+  🟡 MEDIUM (1)
+Checking: G9 U10 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 14/14 sentences not found: "the students are asking about th...
+Checking: G9 U10 a-closer-look-1
+  🔵 LOW (2)
+Checking: G9 U10 a-closer-look-2
+  ✅ PASSED
+Checking: G9 U10 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "while oceans are water bodies fore...
+Checking: G9 U10 skills-1
+  🟡 MEDIUM (3)
+Checking: G9 U10 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "mr an talked about the effects of ...
+Checking: G9 U10 looking-back
+  🟡 MEDIUM (2)
+Checking: G9 U11 getting-started
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "what does the customer want to buy...
+Checking: G9 U11 a-closer-look-1
+  🔵 LOW (3)
+Checking: G9 U11 a-closer-look-2
+  🔵 LOW (2)
+Checking: G9 U11 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 17/17 sentences not found: "i think dont think that the use ...
+Checking: G9 U11 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 20/20 sentences not found: "you can do a lot of things with ...
+Checking: G9 U11 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 29/29 sentences not found: "my favourite electronic device i...
+Checking: G9 U11 looking-back
+  🔵 LOW (2)
+Checking: G9 U12 getting-started
+  🔴 CRITICAL (2)
+     Answers - WRONG: bai4_q1: "C" should be "A"...
+     STRICT Reading - Unmatched Sentences: 10/10 sentences not found: "where did the guest speakers com...
+Checking: G9 U12 a-closer-look-1
+  🟠 HIGH (1)
+     Media - Missing MP3: 74.mp3...
+Checking: G9 U12 a-closer-look-2
+  🟡 MEDIUM (1)
+Checking: G9 U12 communication
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "a friend has just taken part in a ...
+Checking: G9 U12 skills-1
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 24/24 sentences not found: "when you turn you should start t...
+Checking: G9 U12 skills-2
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "minhs parents were farmers", "minh...
+Checking: G9 U12 looking-back
+  🟡 MEDIUM (1)
+
+==================================================
+SUMMARY: 33 passed, 51 need review (CRITICAL/HIGH)
+Reports: C:\Users\LAP14364-local\Documents\claude-workspace\english-learning-app\reports
