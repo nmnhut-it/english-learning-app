@@ -99,7 +99,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** C. Energy sources
+**Bài 2 - Đáp án:** C. Energy sources
 
 **Giải thích:** Đoạn hội thoại nói về 2 loại nguồn năng lượng: năng lượng không tái tạo <eng>non-renewable</eng> và năng lượng có thể tái tạo <eng>renewable</eng>. Lan đang làm dự án về các nguồn năng lượng nên bố giải thích cho cô ấy. Vậy họ đang nói về <eng>Energy sources</eng> - Các nguồn năng lượng.
 </answer>
@@ -139,7 +139,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 **1.** She's doing a project on energy sources.
 *(Cô ấy đang thực hiện một dự án về các nguồn năng lượng.)*
@@ -187,7 +187,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - d | 2 - a | 3 - b | 4 - c
+**Bài 4 - Đáp án:** 1 - d | 2 - a | 3 - b | 4 - c
 
 **Giải thích:**
 - **1 - d:** <eng>oil</eng> (dầu)
@@ -234,7 +234,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. power | 2. sun | 3. renewable | 4. run | 5. cheap
+**Bài 5 - Đáp án:** 1. power | 2. sun | 3. renewable | 4. run | 5. cheap
 
 **Giải thích:**
 

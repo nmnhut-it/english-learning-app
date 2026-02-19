@@ -43,7 +43,7 @@ Suy nghĩ 1 phút rồi trả lời nha. Có thể trả lời như: <eng>I use 
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 1 - Gợi ý:**
 1. I use solar energy and hydro energy at home.
 *(Tôi sử dụng năng lượng mặt trời và năng lượng thủy điện ở nhà.)*
 
@@ -133,7 +133,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - save energy | 2 - turn off the lights | 4 - use low energy light bulbs | 6 - use solar panels
+**Bài 2 - Đáp án:** 1 - save energy | 2 - turn off the lights | 4 - use low energy light bulbs | 6 - use solar panels
 </answer>
 
 <explanation>
@@ -184,7 +184,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.T | 5.F
+**Bài 3 - Đáp án:** 1.T | 2.F | 3.T | 4.T | 5.F
 </answer>
 
 <explanation>
@@ -226,7 +226,7 @@ Chọn 3 cách mà em hay làm ở nhà rồi viết vào vở nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 4 - Gợi ý:**
 - Use low energy light bulbs *(Sử dụng bóng đèn năng lượng thấp)*
 - Turn off the lights when leaving the room *(Tắt đèn khi rời khỏi phòng)*
 - Turn off electrical appliances when not using them *(Tắt các thiết bị điện khi không sử dụng)*
@@ -263,7 +263,7 @@ Viết đoạn văn khoảng 70 từ nha. Dùng cấu trúc <eng>We should</eng>
 </teacher_script>
 
 <answer>
-**Bài mẫu:**
+**Bài 5 - Bài mẫu:**
 
 We use a lot of energy at home and it costs us a lot. To save energy, we should use low energy light bulbs in our house. It will help us to reduce our electricity bill. Secondly, before going to bed, we should turn off electrical appliances when not using them. Finally, we should turn off the lights in room when we go out, avoid wasting water, shut the kitchen stove when stop cooking. These simple habits help reduce our bills and protect the environment.
 

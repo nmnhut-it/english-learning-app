@@ -39,9 +39,9 @@ Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Dap an:** 1-e | 2-a | 3-d | 4-b | 5-c
+**Bài 1 - Đáp án:** 1-e | 2-a | 3-d | 4-b | 5-c
 
-**Giai thich:**
+**Giải thích:**
 - **1-e: solar energy** /ˈsoʊlər ˈenərʤi/ = nang luong mat troi
 - **2-a: hot water** /hɑːt ˈwɔːtər/ = nuoc nong
 - **3-d: electrical appliances** /ɪˈlektrɪkəl əˈplaɪənsɪz/ = thiet bi dien
@@ -89,7 +89,7 @@ Ok dap an ne. Co giai thich tung cau luon.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 2 - Đáp án:**
 1. low energy light bulbs
 2. electrical appliances
 3. renewable energy sources
@@ -203,9 +203,9 @@ Ok dap an ne. Co giai thich tung cau.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. is raining | 2. start | 3. is walking | 4. does | 5. am writing
+**Bài 3 - Đáp án:** 1. is raining | 2. start | 3. is walking | 4. does | 5. am writing
 
-**Giai thich chi tiet:**
+**Giải thích chi tiết:**
 
 **Cau 1:** Look! It **is raining** heavily.
 *(Nhin kia! Troi dang mua to.)*
@@ -268,7 +268,7 @@ Ok dap an ne. Co giai thich tung cau.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 4 - Đáp án:**
 1. do → are doing
 2. is explain → is explaining
 3. is → are

@@ -55,7 +55,7 @@ Bài 1 trang 51. Điền *a* hoặc *an* vào chỗ trống. 1 phút nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. a | 2. a | 3. a | 4. an | 5. a | 6. an | 7. an | 8. a
+**Bài 1 - Đáp án:** 1. a | 2. a | 3. a | 4. an | 5. a | 6. an | 7. an | 8. a
 </answer>
 
 <explanation>
@@ -101,7 +101,7 @@ Bài 2 trang 52. Điền *a*, *an*, hoặc *the* vào chỗ trống. Cẩn thậ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. a | 2. The - the | 3. An - an | 4. an | 5. the - the
+**Bài 2 - Đáp án:** 1. a | 2. The - the | 3. An - an | 4. an | 5. the - the
 </answer>
 
 <explanation>
@@ -171,7 +171,7 @@ Bài 3 trang 52. Điền dạng đúng của động từ trong ngoặc. 1 phút
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. is - will go | 2. recycle - will help | 3. will save - don't waste | 4. will have - use | 5. isn't - will be
+**Bài 3 - Đáp án:** 1. is - will go | 2. recycle - will help | 3. will save - don't waste | 4. will have - use | 5. isn't - will be
 </answer>
 
 <explanation>

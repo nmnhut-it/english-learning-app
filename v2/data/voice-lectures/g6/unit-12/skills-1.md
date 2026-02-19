@@ -110,7 +110,7 @@ Bài 2 trang 63. Đọc lại bài và chọn câu trả lời đúng nhất cho
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.C | 4.C
+**Bài 2 - Đáp án:** 1.B | 2.C | 3.C | 4.C
 </answer>
 
 <explanation>

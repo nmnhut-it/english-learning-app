@@ -51,7 +51,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 - look after sick people ✓
 - understand what we say ✓
 - build the very high buildings ✓
@@ -128,7 +128,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. T | 3. T | 4. T | 5. F
+**Bài 2 - Đáp án:** 1. F | 2. T | 3. T | 4. T | 5. F
 </answer>
 
 <explanation>

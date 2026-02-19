@@ -77,6 +77,8 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
+**Bài 1 - Đáp án:**
+
 **1.** They are hydro energy and energy from coal.
 
 *(Chúng là năng lượng thủy điện và năng lượng từ than đá.)*
@@ -148,7 +150,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.C | 4.A
+**Bài 2 - Đáp án:** 1.B | 2.A | 3.C | 4.A
 </answer>
 
 <explanation>
@@ -201,6 +203,8 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
+**Bài 3 - Đáp án:**
+
 **1.** There are two energy sources. They are non-renewable sources and renewable sources.
 
 *(Có hai nguồn năng lượng. Chúng là những nguồn không thể tái tạo và những nguồn có thể tái tạo.)*
@@ -260,6 +264,8 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
+**Bài 4 - Đáp án:**
+
 | **Advantages** *(Thuận lợi)* | **Disadvantages** *(Bất lợi)* |
 |------------------------------|-------------------------------|
 | easy to use *(dễ dàng sử dụng)* | run out *(cạn kiệt)* |
@@ -310,7 +316,7 @@ Các em thực hành hỏi và trả lời theo mẫu nha. Ghi âm lại bài n�
 </teacher_script>
 
 <answer>
-**Sample dialogue - Energy from coal:**
+**Bài 5 - Sample dialogue - Energy from coal:**
 
 | English | Vietnamese |
 |---------|------------|

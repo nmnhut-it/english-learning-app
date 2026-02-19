@@ -31,7 +31,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **iron** the clothes
 2. **move** heavy things
 3. **pick** fruit
@@ -74,7 +74,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. work | 2. make | 3. repair | 4. understand | 5. water
+**Bài 2 - Đáp án:** 1. work | 2. make | 3. repair | 4. understand | 5. water
 </answer>
 
 <explanation>
@@ -106,7 +106,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. smartest | 2. smallest | 3. lightest | 4. strongest | 5. cheapest
+**Bài 3 - Đáp án:** 1. smartest | 2. smallest | 3. lightest | 4. strongest | 5. cheapest
 </answer>
 
 <explanation>
@@ -146,7 +146,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. highest | 2. largest | 3. longest | 4. widest | 5. hottest
+**Bài 4 - Đáp án:** 1. highest | 2. largest | 3. longest | 4. widest | 5. hottest
 </answer>
 
 <explanation>

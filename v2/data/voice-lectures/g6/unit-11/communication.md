@@ -143,7 +143,7 @@ Ok, đây là đáp án cho người sống xanh nhất nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.C | 3.B | 4.C | 5.B | 6.C
+**Bài 3 - Đáp án:** 1.C | 2.C | 3.B | 4.C | 5.B | 6.C
 </answer>
 
 <explanation>

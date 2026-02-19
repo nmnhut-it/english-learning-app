@@ -155,7 +155,7 @@ Và đây là mẫu trả lời chi tiết:
 </teacher_script>
 
 <answer>
-**Sample answer:**
+**Bài 4 - Sample answer:**
 Nam saves lots of energy. He walks to school every day. He always turns off the TV when not watching it and his family are using low energy light bulbs at home.
 
 **Dịch:** Nam tiết kiệm nhiều năng lượng. Anh ấy đi bộ đến trường mỗi ngày. Anh ấy luôn tắt TV khi không xem và gia đình anh ấy đang sử dụng bóng đèn tiết kiệm năng lượng ở nhà.
@@ -196,7 +196,7 @@ Và đây là mẫu trả lời:
 </teacher_script>
 
 <answer>
-**Sample answer:**
+**Bài 5 - Sample answer:**
 I save much energy. I don't walk to school but sometimes I use public transport. I always remember to turn off the lights and TV when not using them.
 
 **Dịch:** Tôi tiết kiệm nhiều năng lượng. Tôi không đi bộ đến trường nhưng đôi khi tôi sử dụng phương tiện công cộng. Tôi luôn nhớ tắt đèn và TV khi không sử dụng chúng.

@@ -150,7 +150,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.D | 4.C
+**Bài 3 - Đáp án:** 1.B | 2.A | 3.D | 4.C
 </answer>
 
 <explanation>
@@ -319,7 +319,7 @@ Và đây là mẫu trả lời chi tiết:
 </teacher_script>
 
 <answer>
-**Sample answer:**
+**Bài 5 - Sample answer:**
 I want to use a bamboo-copter because it runs on electricity. It is self-balancing. It is fun and safe to use it.
 
 **Dịch:** Tôi muốn sử dụng một máy trực thăng chong chóng tre vì nó chạy bằng điện. Nó tự cân bằng. Sẽ rất vui và an toàn để sử dụng nó.

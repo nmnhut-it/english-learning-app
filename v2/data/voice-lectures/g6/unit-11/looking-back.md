@@ -73,7 +73,7 @@ Bài 2 trang 56. Điền *a*, *an*, hoặc *the* vào chỗ trống. 1 phút nha
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. a | 2. an | 3. The | 4. The | 5. a - an
+**Bài 2 - Đáp án:** 1. a | 2. an | 3. The | 4. The | 5. a - an
 </answer>
 
 <explanation>
@@ -116,7 +116,7 @@ Bài 3 trang 56. Điền dạng đúng của động từ — câu điều kiệ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. build / will be | 2. will save / reuse | 3. grow / will be | 4. don't have / will be | 5. will be / don't throw
+**Bài 3 - Đáp án:** 1. build / will be | 2. will save / reuse | 3. grow / will be | 4. don't have / will be | 5. will be / don't throw
 </answer>
 
 <explanation>

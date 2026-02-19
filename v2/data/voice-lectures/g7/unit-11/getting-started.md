@@ -105,7 +105,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** B. Future modes of travel
+**Bài 2 - Đáp án:** B. Future modes of travel
 
 **Giải thích:** Đoạn hội thoại giới thiệu về các phương tiện giao thông mới trong tương lai như <eng>hyperloop</eng> (tàu siêu tốc) và <eng>teleporter</eng> (máy dịch chuyển). Tuy có nhắc đến kẹt xe và máy dịch chuyển, nhưng chủ đề chính là các phương thức đi lại trong tương lai. Vậy chọn B.
 </answer>
@@ -148,7 +148,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. F | 3. F | 4. T | 5. T
+**Bài 3 - Đáp án:** 1. T | 2. F | 3. F | 4. T | 5. T
 
 **Giải thích:**
 
@@ -197,7 +197,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 | **hyperloop** *(tàu siêu tốc)* | **teleporter** *(máy dịch chuyển tức thời)* |
 |---|---|
@@ -248,7 +248,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 **1.** bike / bicycle *(xe đạp)*
 → Có hai bánh xe và đạp → xe đạp.

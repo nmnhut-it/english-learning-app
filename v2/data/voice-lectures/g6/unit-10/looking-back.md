@@ -40,7 +40,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 a. computer *(máy vi tính)*
 b. dishwasher *(máy rửa chén)*
 c. wireless TV *(TV không dây)*
@@ -80,7 +80,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 
 | Thiết bị | Chức năng | Nghĩa |
 |----------|-----------|-------|
@@ -155,7 +155,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. won't | 2. will | 3. will | 4. won't | 5. will | 6. won't
+**Bài 3 - Đáp án:** 1. won't | 2. will | 3. will | 4. won't | 5. will | 6. won't
 </answer>
 
 <explanation>
@@ -233,7 +233,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. might | 2. might | 3. might not | 4. might not | 5. might - might
+**Bài 4 - Đáp án:** 1. might | 2. might | 3. might not | 4. might not | 5. might - might
 </answer>
 
 <explanation>

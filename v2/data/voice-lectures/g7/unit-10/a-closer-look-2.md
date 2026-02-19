@@ -103,7 +103,7 @@ Ok dap an nha. Cac em nhin hinh roi mo ta bang thi hien tai tiep dien.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 1 - Đáp án:**
 
 **a.** She is teaching.
 *(Co ay dang day.)*
@@ -169,7 +169,7 @@ Ok dap an nha. Minh giai thich tung cau.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. is talking | 2. are using | 3. are taking | 4. are developing | 5. are reducing
+**Bài 2 - Đáp án:** 1. is talking | 2. are using | 3. are taking | 4. are developing | 5. are reducing
 </answer>
 
 <explanation>
@@ -235,7 +235,7 @@ Ok dap an nha. Bai nay quan trong lam, phan biet 2 thi ne.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. working | 2. are doing | 3. Is she studying | 4. is studying | 5. have
+**Bài 3 - Đáp án:** 1. working | 2. are doing | 3. Is she studying | 4. is studying | 5. have
 </answer>
 
 <explanation>
@@ -301,7 +301,7 @@ Ok dap an nha.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 4 - Đáp án:**
 
 **1.** The students are doing the project now.
 *(Cac sinh vien dang lam du an ngay bay gio.)*
@@ -376,7 +376,7 @@ Ok, day la cau tra loi mau nha.
 </teacher_script>
 
 <answer>
-**Cau tra loi mau:**
+**Bài 5 - Câu trả lời mẫu:**
 
 **1.** I am reading a book named "Power Trip: The Story of Energy" by Michael Webber now.
 *(Hien toi dang doc mot cuon sach co ten "Power Trip: The Story of Energy" cua Michael Webber.)*

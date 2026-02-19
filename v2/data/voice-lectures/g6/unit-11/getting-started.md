@@ -107,7 +107,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **a picnic** *(đi dã ngoại)*
 2. **plastic one** *(túi nhựa)*
 3. **the check-out** *(quầy thanh toán)*
@@ -153,7 +153,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-c | 3-a
+**Bài 3 - Đáp án:** 1-b | 2-c | 3-a
 </answer>
 
 <explanation>
@@ -196,7 +196,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-b | 4-e | 5-d
+**Bài 4 - Đáp án:** 1-c | 2-a | 3-b | 4-e | 5-d
 </answer>
 
 <explanation>

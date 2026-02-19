@@ -1,12 +1,12 @@
 # G7 UNIT-09 GETTING STARTED
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_76d551ce.webm">
 Ok lớp 7, hôm nay mình học Unit 9: <eng>Festivals Around the World</eng> - Các lễ hội trên thế giới nha. Bài này rất hay vì em sẽ học về các lễ hội nổi tiếng như Lễ hội Tulip, Halloween, Christmas, và cả Tết Trung thu của mình. Sau khi học xong, em có thể giới thiệu lễ hội Việt Nam cho bạn bè quốc tế luôn đó. Mở sách trang 92 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_be1b8081.webm">
 Trước tiên học từ vựng nha. Bài này có nhiều từ về lễ hội: <eng>parade</eng> là diễu hành, <eng>costume</eng> là trang phục lễ hội, <eng>folk dance</eng> là múa dân gian. Em nghe và đọc theo hen.
 </teacher_script>
 
@@ -28,7 +28,7 @@ Trước tiên học từ vựng nha. Bài này có nhiều từ về lễ hội
 </vocabulary>
 
 <!-- chunk: audio -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b4fac3db.webm">
 Giờ nghe hội thoại nha. Cô Hoa, Trang và Mark đang nói về Lễ hội Tulip. Em để ý xem họ đã làm gì ở lễ hội và lễ hội đó ở đâu.
 </teacher_script>
 
@@ -37,7 +37,7 @@ Giờ nghe hội thoại nha. Cô Hoa, Trang và Mark đang nói về Lễ hội
 </audio>
 
 <!-- chunk: dialogue -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c2e52b3.webm">
 Đây là nội dung hội thoại. Em đọc theo nha.
 </teacher_script>
 
@@ -68,7 +68,7 @@ Giờ nghe hội thoại nha. Cô Hoa, Trang và Mark đang nói về Lễ hội
 </translation>
 
 <!-- chunk: exercise_2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_320f2bdc.webm">
 Bài 2 trang 93. Ai đã làm gì? Nối người với hoạt động. Đọc lại hội thoại để tìm thông tin. 1 phút nha.
 </teacher_script>
 
@@ -80,12 +80,12 @@ Bài 2 trang 93. Ai đã làm gì? Nối người với hoạt động. Đọc l
 4. Ms. Hoa + Mark - đều xem múa dân gian
 5. Mark - xem xe hoa tulip diễu hành
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_64ba4b69.webm">
 Đáp án nè. Em thấy cả cô Hoa và Mark đều đi lễ hội tulip, nhưng ở hai nơi khác nhau. Cô Hoa đi ở Úc, còn Mark đi ở Hà Lan. Đây là điểm hay của bài - cùng một loại lễ hội nhưng tổ chức ở nhiều nước khác nhau.
 </teacher_script>
 
 <!-- chunk: exercise_3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd8418c5.webm">
 Bài 3 trang 93. Viết từ hoặc cụm từ trong khung dưới mỗi bức hình. Trước tiên học từ vựng nha.
 </teacher_script>
 
@@ -103,7 +103,7 @@ Bài 3 trang 93. Viết từ hoặc cụm từ trong khung dưới mỗi bức h
 **Dịch đề:** Viết một từ hoặc cụm từ trong khung dưới mỗi bức hình.
 </task>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_004cad71.webm">
 Nhìn 6 bức hình trong sách rồi viết từ phù hợp bên dưới. 1 phút nha.
 </teacher_script>
 
@@ -117,12 +117,12 @@ Nhìn 6 bức hình trong sách rồi viết từ phù hợp bên dưới. 1 ph�
 6. folk dance (múa dân gian)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c552e8b8.webm">
 Mấy từ này rất quan trọng nha. <eng>Parade</eng> là diễu hành - như diễu hành ngày 2/9. <eng>Costumes</eng> là trang phục lễ hội - như trang phục Halloween. <eng>Feast</eng> là bữa tiệc lớn - như tiệc Giáng sinh hay tiệc Tết. <eng>Float</eng> là xe hoa trang trí trong diễu hành. <eng>Fireworks display</eng> là bắn pháo hoa - Tết mình hay có cái này. <eng>Folk dance</eng> là múa dân gian.
 </teacher_script>
 
 <!-- chunk: exercise_4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_8dd7c74e.webm">
 Bài 4 trang 93. Điền từ vựng vào câu. Dùng các từ vừa học: <eng>folk dance, fireworks display, feast, parade, float</eng>. 1 phút.
 </teacher_script>
 
@@ -143,12 +143,12 @@ Bài 4 trang 93. Điền từ vựng vào câu. Dùng các từ vừa học: <en
 5. The **floats** carried the dancers in special **costumes**.
    (Xe hoa chở các vũ công trong trang phục lễ hội.)
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_32a80f6d.webm">
 Giải thích nha. Câu 1 điền <eng>folk dances</eng> vì nói về vũ công biểu diễn các điệu múa - số nhiều nha. Câu 2 điền <eng>fireworks display</eng> vì giao thừa ở hồ Hoàn Kiếm hay bắn pháo hoa. Câu 3 điền <eng>feast</eng> vì Tết mình chuẩn bị bữa tiệc lớn. Câu 4 điền <eng>parades</eng> vì nói về diễu hành hoa. Câu 5 có hai chỗ trống nè, điền <eng>floats</eng> và <eng>costumes</eng> vì xe hoa chở vũ công mặc trang phục lễ hội.
 </teacher_script>
 
 <!-- chunk: exercise_5 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_664b5cc7.webm">
 Bài 5 trang 93. Quiz nè! Lễ hội gì? Nối mỗi mô tả với một lễ hội. 1 phút nha.
 </teacher_script>
 
@@ -173,7 +173,7 @@ d. Tet
 e. Mid-Autumn Festival
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.webm">
 Đáp án nè.
 </teacher_script>
 
@@ -190,11 +190,11 @@ e. Mid-Autumn Festival
 5. Đuổi theo một bánh xe pho mát → **Cheese Rolling** (Lễ hội lăn pho mát ở Anh)
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_af448067.webm">
 Hay hen! Mỗi nước có lễ hội riêng với những đặc trưng khác nhau. <eng>La Tomatina</eng> ở Tây Ban Nha thì ném cà chua. <eng>Cheese Rolling</eng> ở Anh thì đuổi theo pho mát lăn xuống đồi. Vui lắm!
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_574176e4.webm">
 Ok hết bài <eng>Getting Started</eng> Unit 9 rồi nha. Hôm nay em học được nhiều từ về lễ hội: <eng>parade</eng> là diễu hành, <eng>float</eng> là xe hoa, <eng>feast</eng> là bữa tiệc, <eng>fireworks display</eng> là bắn pháo hoa. Em cũng biết về các lễ hội như <eng>La Tomatina</eng>, <eng>Cheese Rolling</eng>, <eng>Mid-Autumn Festival</eng>. Bài sau học thêm từ vựng về lễ hội nha. Bye!
 </teacher_script>

@@ -48,7 +48,7 @@ Bài 1 trang 60. Nối động từ ở cột A với từ hoặc cụm từ ở
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-b | 4-e | 5-d
+**Bài 1 - Đáp án:** 1-c | 2-a | 3-b | 4-e | 5-d
 </answer>
 
 <explanation>

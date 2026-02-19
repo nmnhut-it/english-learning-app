@@ -115,7 +115,7 @@ Bài 3 trang 62. Nghe chương trình radio từ <eng>4Teen News</eng> — Tom, 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. understand | 2. smartest | 3. put | 4. water | 5. guard
+**Bài 3 - Đáp án:** 1. understand | 2. smartest | 3. put | 4. water | 5. guard
 </answer>
 
 <explanation>

@@ -51,7 +51,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** A, B, C
+**Bài 1 - Đáp án:** A, B, C
 </answer>
 
 <explanation>
@@ -139,7 +139,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** C. 4
+**Bài 2 - Đáp án:** C. 4
 </answer>
 
 <explanation>
@@ -191,7 +191,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. accidents | 2. autopilot | 3. expensive | 4. Bamboo-copters | 5. eco-friendly
+**Bài 3 - Đáp án:** 1. accidents | 2. autopilot | 3. expensive | 4. Bamboo-copters | 5. eco-friendly
 </answer>
 
 <explanation>
@@ -243,7 +243,7 @@ Ok đáp án gợi ý nè. Cô chọn <eng>bullet trains</eng> làm ví dụ nha
 </teacher_script>
 
 <answer>
-**Gợi ý: Bullet trains** (Tàu cao tốc)
+**Bài 4 - Gợi ý: Bullet trains** (Tàu cao tốc)
 
 | **Advantages** *(Ưu điểm)* | **Tick (V)** |
 |---|---|
@@ -300,7 +300,7 @@ Viết đoạn văn khoảng 70 từ nha. Dùng cấu trúc <eng>I think people 
 </teacher_script>
 
 <answer>
-**Bài mẫu:**
+**Bài 5 - Bài mẫu:**
 
 I think people will like travelling by bullet trains in the future because it has many advantages. First, travelling by bullet trains is very eco-friendly. It helps reducing the huge amount of transport and traffic jams. Second, travelling bullet trains are much faster than driving a car. Finally, using bullet trains are safe. Tens of thousands of people die each year in automobile accidents, but trains are one of the safest forms of transportation we currently have.
 

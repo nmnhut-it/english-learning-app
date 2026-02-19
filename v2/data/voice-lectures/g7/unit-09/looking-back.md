@@ -63,7 +63,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. fireworks | 2. Cannes Film Festival | 3. painting | 4. candy apples | 5. Thanksgiving
+**Bài 1 - Đáp án:** 1. fireworks | 2. Cannes Film Festival | 3. painting | 4. candy apples | 5. Thanksgiving
 
 **Giải thích:**
 1. **fireworks** - Bắn pháo hoa (fireworks display) là hoạt động đêm giao thừa, không phải "light display"
@@ -112,7 +112,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. lion dances | 2. floats | 3. costumes | 4. Bunny | 5. gathering
+**Bài 2 - Đáp án:** 1. lion dances | 2. floats | 3. costumes | 4. Bunny | 5. gathering
 
 **Giải thích:**
 1. **lion dances** - Múa lân là tiết mục đặc sắc của Tết Trung thu
@@ -196,7 +196,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.A | 4.B | 5.B
+**Bài 3 - Đáp án:** 1.A | 2.B | 3.A | 4.B | 5.B
 
 **Giải thích chi tiết:**
 

@@ -96,7 +96,7 @@ Ok dap an ne. Minh giai thich tung cau nha.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. won't | 2. will | 3. will | 4. won't | 5. will
+**Bài 1 - Đáp án:** 1. won't | 2. will | 3. will | 4. won't | 5. will
 </answer>
 
 <explanation>
@@ -155,7 +155,7 @@ Ok dap an ne. Minh giai thich tung cau.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 2 - Đáp án:**
 
 **1.** We will have driverless cars in 2030.
 *(Chung ta se co o to khong nguoi lai vao nam 2030.)*
@@ -227,7 +227,7 @@ Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. will take | 2. won't have | 3. Will - have | 4. won't drive | 5. won't be
+**Bài 3 - Đáp án:** 1. will take | 2. won't have | 3. Will - have | 4. won't drive | 5. won't be
 </answer>
 
 <explanation>
@@ -306,7 +306,7 @@ Ok, day la cau tra loi mau nha.
 </teacher_script>
 
 <answer>
-**Cau tra loi mau:**
+**Bài 4 - Câu trả lời mẫu:**
 
 A: I will travel by hyperloop because it is very fast and has no fumes.
 *(Toi se di chuyen bang tau cao toc vi no rat nhanh va khong co khoi.)*
@@ -398,7 +398,7 @@ Ok dap an ne. Minh giai thich tung cau.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. theirs | 2. mine | 3. His | 4. Yours | 5. Ours
+**Bài 5 - Đáp án:** 1. theirs | 2. mine | 3. His | 4. Yours | 5. Ours
 </answer>
 
 <explanation>

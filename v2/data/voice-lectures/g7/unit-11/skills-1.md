@@ -70,6 +70,8 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
+**Bài 1 - Gợi ý:**
+
 I think she is using a driverless car with a smart navigation system.
 
 *(Tôi nghĩ cô ấy đang sử dụng một chiếc xe không người lái với hệ thống định vị thông minh.)*
@@ -114,7 +116,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** A
+**Bài 2 - Đáp án:** A
 </answer>
 
 <explanation>
@@ -158,6 +160,8 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
+**Bài 3 - Đáp án:**
+
 | **Fact File** | |
 |---|---|
 | **Name of the company** | Roadrunner |
@@ -211,7 +215,7 @@ Các em thực hành hỏi và trả lời theo mẫu nha. Ghi âm lại bài n�
 </teacher_script>
 
 <answer>
-**Sample dialogue:**
+**Bài 4 - Sample dialogue:**
 
 | English | Vietnamese |
 |---------|------------|
@@ -263,6 +267,8 @@ Các em thảo luận nhóm rồi ghi âm lại ý kiến của mình nha.
 </teacher_script>
 
 <answer>
+**Bài 5 - Sample answer:**
+
 - We think Roadrunner's cars will become popular in the near future because they are eco-friendly.
 
 *(Chúng tôi nghĩ rằng xe của Roadrunner sẽ trở nên phổ biến trong tương lai gần vì chúng thân thiện với môi trường.)*

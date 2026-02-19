@@ -65,7 +65,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. solar-powered ship | 2. flying car | 3. bamboo-copter | 4. hyperloop | 5. skyTran
+**Bài 1 - Đáp án:** 1. solar-powered ship | 2. flying car | 3. bamboo-copter | 4. hyperloop | 5. skyTran
 
 **1.** solar-powered ship *(tàu chạy bằng năng lượng mặt trời)*
 **2.** flying car *(ô tô bay)*
@@ -109,7 +109,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 
 | **ride** *(đi, cưỡi)* | **fly** *(bay)* | **sail** *(chèo, lái tàu)* |
 |---|---|---|
@@ -167,7 +167,7 @@ Ok đáp án nè. Cô giải thích từng câu hen.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. bamboo-copter | 2. ride | 3. fly | 4. hyperloop | 5. eco-friendly
+**Bài 3 - Đáp án:** 1. bamboo-copter | 2. ride | 3. fly | 4. hyperloop | 5. eco-friendly
 </answer>
 
 <explanation>
@@ -307,7 +307,7 @@ Ok đáp án nè. Cô giải thích từng câu hen.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. 4 stresses | 2. 4 stresses | 3. 4 stresses | 4. 4 stresses | 5. 5 stresses
+**Bài 5 - Đáp án:** 1. 4 stresses | 2. 4 stresses | 3. 4 stresses | 4. 4 stresses | 5. 5 stresses
 </answer>
 
 <explanation>

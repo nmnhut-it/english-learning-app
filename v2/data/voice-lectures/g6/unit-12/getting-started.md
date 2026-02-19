@@ -100,7 +100,7 @@ Bài 2 trang 58. Đọc hội thoại lại rồi đánh dấu T (True) hoặc F
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
 </answer>
 
 <explanation>
@@ -147,7 +147,7 @@ Bài 3 trang 59. Chọn tính từ đúng điền vào chỗ trống: *fast, sma
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. useful | 2. fast | 3. strong | 4. smart | 5. heavy
+**Bài 3 - Đáp án:** 1. useful | 2. fast | 3. strong | 4. smart | 5. heavy
 </answer>
 
 <explanation>
@@ -184,7 +184,7 @@ f. put toys away *(cất đồ chơi)*
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. b | 2. c | 3. e | 4. d | 5. f | 6. a
+**Bài 4 - Đáp án:** 1. b | 2. c | 3. e | 4. d | 5. f | 6. a
 </answer>
 
 <explanation>

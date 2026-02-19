@@ -98,7 +98,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 - **Nick - picture a** *(bức tranh a - căn hộ trong thành phố)*
 - **Linda - picture c** *(bức tranh c - biệt thự bên biển)*
 </answer>
@@ -140,7 +140,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 
 | | Linda | Nick |
 |--|-------|------|
@@ -198,7 +198,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 **1.** She has a big villa.
 *(Cô ấy có một biệt thự lớn.)*

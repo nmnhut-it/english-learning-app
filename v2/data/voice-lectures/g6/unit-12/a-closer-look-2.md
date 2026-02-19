@@ -55,7 +55,7 @@ Bài 1 trang 61. Viết dạng so sánh nhất của các tính từ trong bản
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. fastest | 2. tallest | 3. noisiest | 4. nicest | 5. hottest | 6. lightest | 7. quietest | 8. heaviest | 9. largest
+**Bài 1 - Đáp án:** 1. fastest | 2. tallest | 3. noisiest | 4. nicest | 5. hottest | 6. lightest | 7. quietest | 8. heaviest | 9. largest
 </answer>
 
 <explanation>
@@ -104,7 +104,7 @@ Bài 2 trang 61. Hoàn thành câu với dạng so sánh nhất. Câu 1 là ví 
 </teacher_script>
 
 <answer>
-**Đáp án:** 2. smartest | 3. tallest | 4. smallest | 5. cheapest
+**Bài 2 - Đáp án:** 2. smartest | 3. tallest | 4. smallest | 5. cheapest
 </answer>
 
 <explanation>
@@ -148,7 +148,7 @@ Bài 3 trang 61. Điền dạng so sánh hơn hoặc so sánh nhất. Chú ý t�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. tidier | 2. hottest | 3. faster | 4. tallest | 5. smarter
+**Bài 3 - Đáp án:** 1. tidier | 2. hottest | 3. faster | 4. tallest | 5. smarter
 </answer>
 
 <explanation>

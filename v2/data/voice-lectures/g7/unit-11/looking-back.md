@@ -40,24 +40,24 @@ Ok dap an ne.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 1 - Đáp án:**
 1. fast, green, carrying many passengers
 2. fast, convenient, autopilot function
 3. electric, green, convenient
 
-**Giai thich chi tiet:**
+**Giải thích chi tiết:**
 
-**Hinh 1:** fast, green, carrying many passengers
-*(nhanh, than thien voi moi truong, cho nhieu hanh khach)*
-→ Day la hyperloop - tau sieu toc, chay nhanh, than thien moi truong va cho duoc nhieu nguoi.
+**Hình 1:** fast, green, carrying many passengers
+*(nhanh, thân thiện với môi trường, chở nhiều hành khách)*
+→ Đây là hyperloop - tàu siêu tốc, chạy nhanh, thân thiện môi trường và chở được nhiều người.
 
-**Hinh 2:** fast, convenient, autopilot function
-*(nhanh, tien nghi, chuc nang tu lai)*
-→ Day la flying car - o to bay, nhanh, tien loi va co chuc nang tu lai.
+**Hình 2:** fast, convenient, autopilot function
+*(nhanh, tiện nghi, chức năng tự lái)*
+→ Đây là flying car - ô tô bay, nhanh, tiện lợi và có chức năng tự lái.
 
-**Hinh 3:** electric, green, convenient
-*(chay bang dien, xanh, tien nghi)*
-→ Day la monowheel - xe mot banh, chay bang dien, than thien moi truong va tien loi.
+**Hình 3:** electric, green, convenient
+*(chạy bằng điện, xanh, tiện nghi)*
+→ Đây là monowheel - xe một bánh, chạy bằng điện, thân thiện môi trường và tiện lợi.
 </answer>
 
 ---
@@ -102,29 +102,29 @@ Ok dap an ne. Co giai thich tung cau luon.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. eco-friendly | 2. runs on | 3. bamboo-copter | 4. driverless | 5. Bullet trains
+**Bài 2 - Đáp án:** 1. eco-friendly | 2. runs on | 3. bamboo-copter | 4. driverless | 5. Bullet trains
 
-**Giai thich chi tiet:**
+**Giải thích chi tiết:**
 
-**Cau 1:** A teleporter is **eco-friendly** so it does not cause pollution.
-*(May dich chuyen than thien voi moi truong nen khong gay o nhiem.)*
-→ "does not cause pollution" (khong gay o nhiem) la manh moi de dien "eco-friendly" - than thien moi truong.
+**Câu 1:** A teleporter is **eco-friendly** so it does not cause pollution.
+*(Máy dịch chuyển thân thiện với môi trường nên không gây ô nhiễm.)*
+→ "does not cause pollution" (không gây ô nhiễm) là manh mối để điền "eco-friendly" - thân thiện môi trường.
 
-**Cau 2:** A solowheel **runs on** electricity, so it is safe for the environment.
-*(Mot solowheel chay bang dien nen rat an toan cho moi truong.)*
-→ "runs on" + electricity = chay bang dien. "runs on" dien ta nguon nang luong ma phuong tien su dung.
+**Câu 2:** A solowheel **runs on** electricity, so it is safe for the environment.
+*(Một solowheel chạy bằng điện nên rất an toàn cho môi trường.)*
+→ "runs on" + electricity = chạy bằng điện. "runs on" diễn tả nguồn năng lượng mà phương tiện sử dụng.
 
-**Cau 3:** A convenient way to go to school is by **bamboo-copter**. Just put it on and fly away.
-*(Mot cach thuan tien de di hoc la bang truc thang chong chong tre. Chi can deo no vao va bay di.)*
-→ "put it on and fly away" (deo vao va bay di) la dac diem cua bamboo-copter - truc thang chong chong tre.
+**Câu 3:** A convenient way to go to school is by **bamboo-copter**. Just put it on and fly away.
+*(Một cách thuận tiện để đi học là bằng trực thăng chong chóng tre. Chỉ cần đeo nó vào và bay đi.)*
+→ "put it on and fly away" (đeo vào và bay đi) là đặc điểm của bamboo-copter - trực thăng chong chóng tre.
 
-**Cau 4:** You can sleep when you travel by **driverless** car.
-*(Ban co the ngu khi ban di chuyen bang o to khong nguoi lai.)*
-→ "can sleep" (co the ngu) vi xe khong can nguoi lai - driverless car.
+**Câu 4:** You can sleep when you travel by **driverless** car.
+*(Bạn có thể ngủ khi bạn di chuyển bằng ô tô không người lái.)*
+→ "can sleep" (có thể ngủ) vì xe không cần người lái - driverless car.
 
-**Cau 5:** **Bullet trains** are faster and greener than normal trains.
-*(Tau cao toc nhanh hon va xanh hon tau binh thuong.)*
-→ "faster and greener than normal trains" (nhanh hon va xanh hon tau thuong) mo ta bullet trains - tau cao toc.
+**Câu 5:** **Bullet trains** are faster and greener than normal trains.
+*(Tàu cao tốc nhanh hơn và xanh hơn tàu bình thường.)*
+→ "faster and greener than normal trains" (nhanh hơn và xanh hơn tàu thường) mô tả bullet trains - tàu cao tốc.
 </answer>
 
 ---
@@ -232,39 +232,39 @@ Ok dap an ne. Co giai thich tung cau luon.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Bài 3 - Đáp án:**
 1. Her → Hers
 2. Our → Ours
 3. My → Mine
 4. its → his
 5. yours → your
 
-**Giai thich chi tiet:**
+**Giải thích chi tiết:**
 
-**Cau 1:** Her → **Hers**
+**Câu 1:** Her → **Hers**
 My motorbike is an electric one. **Hers** is not.
-*(Xe may cua toi la xe dien. Xe cua co ay thi khong.)*
-→ "Her" la tinh tu so huu, bat buoc phai co danh tu theo sau. O day khong co danh tu phia sau (thay the cho "Her motorbike"), nen phai dung dai tu so huu "Hers".
+*(Xe máy của tôi là xe điện. Xe của cô ấy thì không.)*
+→ "Her" là tính từ sở hữu, bắt buộc phải có danh từ theo sau. Ở đây không có danh từ phía sau (thay thế cho "Her motorbike"), nên phải dùng đại từ sở hữu "Hers".
 
-**Cau 2:** Our → **Ours**
+**Câu 2:** Our → **Ours**
 Her car can carry four passengers. **Ours** can carry seven passengers.
-*(Xe cua co ay co the cho bon hanh khach. Xe cua chung toi co the cho bay hanh khach.)*
-→ "Our" la tinh tu so huu, can danh tu theo sau. O day thay the cho "Our car", nen phai dung dai tu so huu "Ours".
+*(Xe của cô ấy có thể chở bốn hành khách. Xe của chúng tôi có thể chở bảy hành khách.)*
+→ "Our" là tính từ sở hữu, cần danh từ theo sau. Ở đây thay thế cho "Our car", nên phải dùng đại từ sở hữu "Ours".
 
-**Cau 3:** My → **Mine**
+**Câu 3:** My → **Mine**
 Their car runs on petrol. **Mine** runs on solar energy.
-*(Xe cua ho chay bang xang. Xe cua toi chay bang nang luong mat troi.)*
-→ "My" la tinh tu so huu, can danh tu theo sau. O day thay the cho "My car", nen phai dung dai tu so huu "Mine".
+*(Xe của họ chạy bằng xăng. Xe của tôi chạy bằng năng lượng mặt trời.)*
+→ "My" là tính từ sở hữu, cần danh từ theo sau. Ở đây thay thế cho "My car", nên phải dùng đại từ sở hữu "Mine".
 
-**Cau 4:** its → **his**
+**Câu 4:** its → **his**
 We go to school together. I ride my bike, and he rides **his**.
-*(Chung toi di hoc cung nhau. Toi di xe dap cua toi, va anh ay di xe cua anh ay.)*
-→ "its" dung cho vat. Chu ngu la "he" (nguoi), nen dai tu so huu tuong ung phai la "his" (= his bike).
+*(Chúng tôi đi học cùng nhau. Tôi đi xe đạp của tôi, và anh ấy đi xe của anh ấy.)*
+→ "its" dùng cho vật. Chủ ngữ là "he" (người), nên đại từ sở hữu tương ứng phải là "his" (= his bike).
 
-**Cau 5:** yours → **your**
+**Câu 5:** yours → **your**
 My city has a skyTran system. Does **your** city have one?
-*(Thanh pho cua toi co he thong skyTran. Thanh pho cua ban co mot he thong nhu vay khong?)*
-→ Phia sau co danh tu "city", nen phai dung tinh tu so huu "your", khong dung dai tu so huu "yours".
+*(Thành phố của tôi có hệ thống skyTran. Thành phố của bạn có một hệ thống như vậy không?)*
+→ Phía sau có danh từ "city", nên phải dùng tính từ sở hữu "your", không dùng đại từ sở hữu "yours".
 </answer>
 
 ---
@@ -302,24 +302,24 @@ Ok dap an ne. Co giai thich luon.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. will travel | 2. will go | 3. will need | 4. will carry | 5. will - come
+**Bài 4 - Đáp án:** 1. will travel | 2. will go | 3. will need | 4. will carry | 5. will - come
 
-**Giai thich chi tiet:**
+**Giải thích chi tiết:**
 
-**Cho 1:** will travel
-→ "In the future" va "Some scientists think..." dien ta du doan ve tuong lai → dung will + V nguyen the.
+**Chỗ 1:** will travel
+→ "In the future" và "Some scientists think..." diễn tả dự đoán về tương lai → dùng will + V nguyên thể.
 
-**Cho 2:** will go
-→ Tiep tuc noi ve viec di chuyen trong tuong lai → will go.
+**Chỗ 2:** will go
+→ Tiếp tục nói về việc di chuyển trong tương lai → will go.
 
-**Cho 3:** will need
-→ Du doan rang chung ta se can phuong tien dac biet moi → will need.
+**Chỗ 3:** will need
+→ Dự đoán rằng chúng ta sẽ cần phương tiện đặc biệt mới → will need.
 
-**Cho 4:** will carry
-→ Mo ta dac diem cua phuong tien trong tuong lai → will carry.
+**Chỗ 4:** will carry
+→ Mô tả đặc điểm của phương tiện trong tương lai → will carry.
 
-**Cho 5:** will ... come
-→ Day la cau hoi tuong lai don: "but **will** many our dreams **come** true soon?" - "will" da co san o dau cau hoi, chi can dien "come" vao cho trong.
+**Chỗ 5:** will ... come
+→ Đây là câu hỏi tương lai đơn: "but **will** many our dreams **come** true soon?" - "will" đã có sẵn ở đầu câu hỏi, chỉ cần điền "come" vào chỗ trống.
 </answer>
 
 <translation>

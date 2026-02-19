@@ -90,7 +90,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **6A** *(Mi từ lớp 6A)*
 2. **recycling** *(thùng rác tái chế)*
 3. **book** *(hội chợ sách)*
@@ -142,7 +142,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.T | 3.F | 4.T
+**Bài 2 - Đáp án:** 1.F | 2.T | 3.F | 4.T
 </answer>
 
 <explanation>

@@ -51,7 +51,7 @@ Bài 1 trang 50 nha. Nối nghĩa với từ đúng. Đọc nghĩa rồi chọn 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. reuse | 2. recycle | 3. reduce
+**Bài 1 - Đáp án:** 1. reuse | 2. recycle | 3. reduce
 </answer>
 
 <explanation>
@@ -88,7 +88,7 @@ Bài 2 trang 50 nha. Nhìn vào hình trong sách — ghi tên đúng cho mỗi 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. plastic bag | 2. glass | 3. rubbish | 4. plastic bottle | 5. noise | 6. paper | 7. water | 8. clothes
+**Bài 2 - Đáp án:** 1. plastic bag | 2. glass | 3. rubbish | 4. plastic bottle | 5. noise | 6. paper | 7. water | 8. clothes
 </answer>
 
 <!-- chunk: exercise-3 -->

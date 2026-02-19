@@ -59,7 +59,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.c | 3.a | 4.b
+**Bài 1 - Đáp án:** 1.d | 2.c | 3.a | 4.b
 
 **1 - d**: solar energy – the sun *(năng lượng mặt trời – mặt trời)*
 **2 - c**: wind energy – wind *(năng lượng gió – gió)*
@@ -104,7 +104,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. nuclear energy *(năng lượng hạt nhân)*
 2. hydro energy *(năng lượng thủy điện)*
 3. solar energy *(năng lượng mặt trời)*
@@ -147,7 +147,7 @@ Ok đáp án nè. Cô giải thích từng câu hen.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. wind | 2. solar energy | 3. water | 4. nuclear energy
+**Bài 3 - Đáp án:** 1. wind | 2. solar energy | 3. water | 4. nuclear energy
 </answer>
 
 <explanation>

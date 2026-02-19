@@ -89,7 +89,7 @@ e. in the place of somebody or something *(thay vì)*
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
+**Bài 2 - Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
 </answer>
 
 <explanation>
@@ -147,7 +147,7 @@ Bài 3 trang 54. Đọc lại bài phỏng vấn và trả lời câu hỏi. 1 p
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.B | 4.A | 5.C
+**Bài 3 - Đáp án:** 1.B | 2.C | 3.B | 4.A | 5.C
 </answer>
 
 <explanation>

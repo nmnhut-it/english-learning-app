@@ -1,12 +1,12 @@
 # G7 UNIT-09 A CLOSER LOOK 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c8b729a5.webm">
 Ok lớp 7, hôm nay học <eng>A Closer Look 1</eng> Unit 9: <eng>Festivals around the World</eng> - Các lễ hội trên thế giới nha. Bài này em sẽ học từ vựng về các lễ hội nổi tiếng như Halloween, Christmas, Trung Thu, và cách nhấn trọng âm từ 2 âm tiết. Mở sách trang 94 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5e4abaac.webm">
 Các em mở sách ra, Unit 9, bài <eng>A Closer Look 1</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
