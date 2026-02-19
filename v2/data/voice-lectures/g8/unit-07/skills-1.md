@@ -105,33 +105,34 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 <questions type="multiple_choice">
 **1.** What is the best title for the passage?
-A. National Parks in Viet Nam | B. Con Dao National Park
+A. National Parks in Viet Nam | B. Con Dao National Park | C. The Protection of Wildlife
 
 **2.** National parks are areas for _______.
-A. the protection of the environment | B. the management of marine life
+A. the protection of the environment | B. the management of marine life | C. the sale of animal products
 
 **3.** What is the area of Con Dao National Park?
-A. 16 hectares | B. 20,000 hectares
+A. 34 hectares | B. 16 hectares | C. 20,000 hectares
 
 **4.** Con Dao National Park has many kinds of _______.
-A. valuable plants | B. ancient trees
+A. valuable plants | B. ancient trees | C. natural values
 
 **5.** Which is NOT true?
-A. Con Dao National Park is rich in animal species.
-B. Con Dao National Park's mission is to help other national parks.
+A. There are more and more national parks in the world.
+B. Con Dao National Park is rich in animal species.
+C. Con Dao National Park's mission is to help other national parks.
 </questions>
 
 <answer>
-**Bài 3 - Đáp án:** 1.B | 2.A | 3.B | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.B | 2.A | 3.C | 4.C | 5.C
 </answer>
 
 <explanation>
 **Giải thích:**
-1. **B**: Bài nói chủ yếu về Côn Đảo.
-2. **A**: Khu vực bảo vệ môi trường.
-3. **B**: 20,000 hectares.
-4. **A**: Valuable plants (woods and medicinal plants). Câu B ancient trees có nhắc đến nhưng valuable plants bao quát hơn.
-5. **B**: Bài không nói nhiệm vụ là giúp các vườn khác.
+1. **B**: Bài nói chủ yếu về Vườn quốc gia Côn Đảo.
+2. **A**: Vườn quốc gia là khu vực bảo vệ môi trường và động vật hoang dã.
+3. **C**: 20,000 hectares (16 đảo nhỏ với tổng diện tích 20,000 hectares).
+4. **C**: Natural values - bao gồm hệ sinh thái đa dạng, san hô, động vật biển, gỗ quý và thảo dược.
+5. **C**: Bài không nói nhiệm vụ của Côn Đảo là giúp các vườn quốc gia khác.
 </explanation>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">

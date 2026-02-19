@@ -313,3 +313,29 @@ Bài <eng>[Section]</eng> Unit [X] xong rồi nha. Nhớ [2-3 key points]. Ôn b
 - [ ] Answers explained individually
 - [ ] Natural Southern Vietnamese tone
 - [ ] Translations for dialogue/reading
+
+---
+
+## Fabrication Checking
+
+Voice lectures must match the source textbook exactly. Do not fabricate dialogues, readings, or exercises.
+
+### Commands
+```bash
+node check-fabrication.js --grade {N}  # Check specific grade
+node generate-checklist.js              # Generate review checklist
+```
+
+### Reference Sources (in order)
+1. `loigiaihay.com/grade{N}/unit-{NN}/{section}.md`
+2. `markdown-files/g{N}/unit-{NN}/g{N}_u{NN}_{section}.md`
+3. `ground-truth/g{N}/g{N}_part_{N}.md`
+
+### Fix Guide
+See **[FABRICATION-FIXES.md](FABRICATION-FIXES.md)** for:
+- List of known fabrication issues
+- How to verify and fix wrong answers
+- How to rewrite fabricated content
+
+### Whitelist
+False positives (common instruction phrases) are in `fabrication-whitelist.json`.
