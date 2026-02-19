@@ -166,7 +166,7 @@ Câu 1 là <eng>True</eng>. Tom <eng>won second prize</eng>, nghĩa là Tom tham
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_f0a9f384.webm">
-Câu 2 là <eng>False</eng>. Lan nói <eng>I'm interested in them, too</eng>, nghĩa là Lan cũng quan tâm. Chữ <eng>not</eng> trong đề làm câu sai.
+Câu 2 là <eng>False</eng>. Lan nói <eng>I'm interested in them too</eng>, nghĩa là Lan cũng quan tâm đến kỳ quan thiên nhiên. Đề nói Lan *not keen on* (không quan tâm) — sai nha.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_0d40e40c.webm">
