@@ -16,7 +16,16 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git diff:*)",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_press_key",
+      "mcp__plugin_playwright_playwright__browser_snapshot",
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "Bash(npx playwright test:*)",
+      "Bash(tee:*)",
+      "Bash(npm run test:walk-all:*)",
+      "Bash(done)",
+      "Bash(fi:*)"
     ],
     "deny": [],
     "ask": []

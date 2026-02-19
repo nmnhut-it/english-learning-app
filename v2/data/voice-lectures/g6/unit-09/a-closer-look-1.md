@@ -1,12 +1,12 @@
 # G6 UNIT-09 A CLOSER LOOK 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_344bca55.webm">
 Ok lớp 6, hôm nay mình học tiếp Unit 9 phần <eng>A Closer Look 1</eng> nha. Phần này mình học thêm từ vựng mô tả thành phố và cách phát âm. Mở sách trang 28 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_afb6847d.webm">
 Trước hết học từ vựng nha. Bài này có nhiều tính từ hay lắm để mô tả người và đồ ăn ở một thành phố. Ví dụ <eng>friendly</eng> là thân thiện - dùng để nói người dân thân thiện. <eng>Delicious</eng> và <eng>tasty</eng> đều là ngon - dùng để khen đồ ăn. Em nghe và đọc theo hen.
 </teacher_script>
 
@@ -28,7 +28,7 @@ Trước hết học từ vựng nha. Bài này có nhiều tính từ hay lắm
 </vocabulary>
 
 <!-- chunk: exercise_1 -->
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_da1bb749.webm">
 Bài 1 trang 28. Nối tính từ với danh từ phù hợp. Mẹo nè: <eng>friendly</eng> và <eng>helpful</eng> thường đi với <eng>people</eng> (người). <eng>Delicious</eng> và <eng>tasty</eng> thường đi với <eng>food</eng> (đồ ăn). <eng>Rainy</eng> và <eng>sunny</eng> thì đi với <eng>weather</eng> (thời tiết). 45 giây nha.
 </teacher_script>
 
@@ -58,7 +58,7 @@ Bài 1 trang 28. Nối tính từ với danh từ phù hợp. Mẹo nè: <eng>fr
 - **weather** → rainy, sunny *(thời tiết - mưa, nắng)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0631bf97.webm">
 Giải thích nha:
 - <eng>Friendly/helpful</eng> mô tả NGƯỜI → đi với <eng>people</eng>
 - <eng>Delicious/tasty</eng> mô tả ĐỒ ĂN → đi với <eng>food</eng>
@@ -67,7 +67,7 @@ Giải thích nha:
 </teacher_script>
 
 <!-- chunk: exercise_2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3fc1e00c.webm">
 Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô tả đồ ăn thì dùng <eng>delicious/tasty</eng>, mô tả thành phố thì dùng <eng>exciting/old</eng>. 1 phút.
 </teacher_script>
 
@@ -108,12 +108,12 @@ Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô t�
 5. **delicious/tasty** - vì mô tả đồ ăn đường phố Hà Nội nổi tiếng ngon
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a0a683e6.webm">
 Đáp án nè. Câu 1 điền <eng>sunny</eng> vì nói về thời tiết mùa hè ở Sydney - nắng và khô. Câu 2 điền <eng>old</eng> vì những tòa nhà cổ ở Edinburgh có thể "kể chuyện" - tức là rất lâu đời. Câu 3 điền <eng>exciting</eng> vì New York có rất nhiều thứ để làm. Câu 4 điền <eng>friendly</eng> vì nói về người dân thân thiện và hay giúp đỡ. Câu 5 điền <eng>delicious</eng> vì nói về <eng>street food</eng> - đồ ăn đường phố của Hà Nội nổi tiếng là ngon.
 </teacher_script>
 
 <!-- chunk: exercise_3 -->
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_9ab7bd5a.webm">
 Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở các thành phố nổi tiếng. 45 giây.
 </teacher_script>
 
@@ -148,12 +148,12 @@ Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở
 4. **stall** - quầy hàng, gian hàng nhỏ
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c975428.webm">
 Đáp án nè. <eng>Palace</eng> là cung điện - như Cung điện Buckingham ở London. <eng>Floating market</eng> là chợ nổi - đặc sản miền Tây Việt Nam mình luôn đó. <eng>Street food</eng> là đồ ăn đường phố - Hà Nội nổi tiếng về cái này. <eng>Stall</eng> là quầy hàng nhỏ bán đồ ăn hay hàng hóa.
 </teacher_script>
 
 <!-- chunk: pronunciation_theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_76c27a98.webm">
 Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Mình sẽ luyện phát âm hai âm /əʊ/ và /aʊ/. Hai âm này giống nhau ở chỗ đều có /ʊ/ ở cuối, nhưng khác nhau ở âm đầu.
 </teacher_script>
 
@@ -189,14 +189,14 @@ Chuyển qua phần <eng>Pronunciation</eng> - Phát âm nha. Mình sẽ luyện
 - ✅ Nhớ: Cả hai âm đều KẾT THÚC bằng /ʊ/ nhẹ!
 </pronunciation_theory>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_428cca77.webm">
 Dễ nhớ nè: /əʊ/ miệng bắt đầu HẸP - như nói "ô" rồi "u". Còn /aʊ/ miệng bắt đầu RỘNG - như nói "a" rồi "u". Em đặt tay lên má, nói <eng>go</eng> rồi nói <eng>how</eng> - thấy miệng mở khác nhau không?
 </teacher_script>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 29 - Listen and write the words
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_487ac443.webm">
 Bài 4 trang 29. Nghe và viết các từ vào đúng cột /əʊ/ hoặc /aʊ/. Nhớ: /əʊ/ miệng hẹp như <eng>go, snow</eng>. /aʊ/ miệng rộng như <eng>how, town</eng>. 1 phút.
 </teacher_script>
 
@@ -244,7 +244,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 29 - Listen and repeat
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9b39ba37.webm">
 Bài 5 trang 29. Nghe và nhắc lại các câu. Chú ý các từ gạch chân có âm /əʊ/ hoặc /aʊ/.
 </teacher_script>
 
@@ -267,11 +267,11 @@ Bài 5 trang 29. Nghe và nhắc lại các câu. Chú ý các từ gạch chân
    *(Anh ấy đang chạy quanh nhà.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6add4a78.webm">
 Em thấy không: câu 1 có <eng>town</eng> và <eng>crowded</eng> - cả hai đều là âm /aʊ/ (miệng mở rộng). Câu 2 có <eng>snow</eng> và <eng>Tokyo</eng> - âm /əʊ/ (miệng hẹp). Câu 3 có <eng>cold</eng> và <eng>boat</eng> - âm /əʊ/. Câu 4 có <eng>around</eng> và <eng>house</eng> - âm /aʊ/. Đọc lại vài lần cho quen nha!
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8a8ce1f6.webm">
 Ok hết bài <eng>A Closer Look 1</eng>. Hôm nay em học được nhiều tính từ mô tả thành phố: <eng>friendly people</eng> = người thân thiện, <eng>delicious food</eng> = đồ ăn ngon, <eng>exciting city</eng> = thành phố thú vị. Bài sau mình học ngữ pháp về tính từ sở hữu và đại từ sở hữu nha. Bye!
 </teacher_script>

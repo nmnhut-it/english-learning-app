@@ -1,12 +1,12 @@
 # G6 UNIT-09 GETTING STARTED
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_11f65a42.webm">
 Ok lớp 6, hôm nay mình học Unit 9: <eng>Cities of the World</eng> - Các thành phố trên thế giới nha. Bài này hay lắm vì mình sẽ học cách mô tả các thành phố nổi tiếng như Sydney, London, New York. Sau này em đi du lịch hay nói chuyện với người nước ngoài, em sẽ biết cách hỏi và kể về thành phố của mình luôn đó. Mở sách trang 26 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_60f1caee.webm">
 Trước khi nghe hội thoại, mình học từ vựng trước nha. Những từ này giúp em mô tả thành phố - như <eng>exciting</eng> là thú vị, <eng>crowded</eng> là đông đúc, <eng>wonderful</eng> là tuyệt vời. Em bấm vào từ để nghe phát âm rồi đọc theo hen.
 </teacher_script>
 
@@ -21,7 +21,7 @@ Trước khi nghe hội thoại, mình học từ vựng trước nha. Những t
 </vocabulary>
 
 <!-- chunk: audio -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f0ff8125.webm">
 Giờ nghe hội thoại giữa Tom và Mai nha. Tom đang khoe ảnh đi du lịch, còn Mai thì hỏi về các thành phố. Em để ý cách họ dùng tính từ mô tả thành phố như thế nào hen.
 </teacher_script>
 
@@ -30,7 +30,7 @@ Giờ nghe hội thoại giữa Tom và Mai nha. Tom đang khoe ảnh đi du l�
 </audio>
 
 <!-- chunk: dialogue -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cb547e99.webm">
 Đây là nội dung hội thoại. Em đọc theo bảng song ngữ - cột trái là tiếng Anh, cột phải là tiếng Việt. Chú ý cách Mai hỏi <eng>What's it like?</eng> và Tom dùng tính từ để mô tả thành phố nhé.
 </teacher_script>
 
@@ -70,7 +70,7 @@ Giờ nghe hội thoại giữa Tom và Mai nha. Tom đang khoe ảnh đi du l�
 **Mai:** Đây là một số hình ảnh của tôi. Đây là...
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_b40401be.webm">
 Dịch hội thoại vô vở. 3 phút nha.
 </teacher_script>
 
@@ -79,7 +79,7 @@ Dịch hội thoại vô vở. 3 phút nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 27 - Write the cities
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_20c0d451.webm">
 Bài 2. Nhìn hình và viết tên thành phố. Em để ý đặc điểm của mỗi thành phố: New York có Times Square đông đúc, London có Big Ben và sông Thames, Sydney có bãi biển đẹp và nhà hát Opera. 45 giây nha.
 </teacher_script>
 
@@ -95,7 +95,7 @@ Bài 2. Nhìn hình và viết tên thành phố. Em để ý đặc điểm c�
 3. _______ (có bãi biển đẹp, nhà hát Opera)
 </questions>
 
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+<teacher_script pause="0" href="audio/tts_29c83a10.webm">
 Ok đáp án nè.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 27 - Matching
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d37f1451.webm">
 Bài 3. Đọc lại hội thoại và nối thành phố với tính từ mô tả. Sydney được mô tả là gì? London thì sao? New York thì sao? Đọc kỹ lại hội thoại để tìm câu trả lời nha. 1 phút.
 </teacher_script>
 
@@ -148,7 +148,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 27 - Match cities with landmarks
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_7f4dc053.webm">
 Bài 4. Nối thành phố với địa danh nổi tiếng của nó. Hà Nội của mình có Chùa Một Cột nổi tiếng nè. London có Big Ben. New York có tượng Nữ thần Tự do. Sydney có nhà hát Opera hình con sò. 45 giây.
 </teacher_script>
 
@@ -185,7 +185,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 27 - Game: What city is it?
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_843911d4.webm">
 Bài 5. Trò chơi đoán thành phố. Một người mô tả thành phố, người khác đoán. Dùng câu hỏi <eng>What's it like?</eng> để hỏi đặc điểm, rồi <eng>Is it in...?</eng> để hỏi vị trí. Xem ví dụ mẫu rồi tập nói nha. 1 phút.
 </teacher_script>
 
@@ -225,11 +225,11 @@ Bài 5. Trò chơi đoán thành phố. Một người mô tả thành phố, ng
 | **B:** Right! | **B:** Đúng rồi! |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_170a127b.webm">
 Em có thể tập nói về các thành phố khác: Đà Nẵng có biển đẹp, Hồ Chí Minh có nhiều trung tâm thương mại, Huế có nhiều di tích lịch sử. Thử tập nói với bạn nha!
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_de0006c6.webm">
 Ok hết bài <eng>Getting Started</eng> rồi. Hôm nay em học được cách hỏi <eng>What's it like?</eng> và dùng tính từ mô tả thành phố. Nhớ mấy từ quan trọng: <eng>exciting</eng> = thú vị, <eng>crowded</eng> = đông đúc, <eng>wonderful</eng> = tuyệt vời, <eng>rainy</eng> = hay mưa. Bài sau mình học thêm từ vựng về thành phố nha. Bye bye!
 </teacher_script>

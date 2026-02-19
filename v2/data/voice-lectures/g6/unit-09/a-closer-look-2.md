@@ -1,12 +1,12 @@
 # G6 UNIT-09 A CLOSER LOOK 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04b5cec4.webm">
 Ok lớp 6, hôm nay học phần <eng>A Closer Look 2</eng> - phần ngữ pháp quan trọng nha. Mình sẽ học về Tính từ sở hữu và Đại từ sở hữu. Hai cái này hay bị nhầm lắm, nên em tập trung nghe kỹ nha. Mở sách trang 29 đi.
 </teacher_script>
 
 <!-- chunk: possessive_adjectives -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f804f35c.webm">
 Đầu tiên là Tính từ sở hữu - <eng>Possessive Adjectives</eng>. Tính từ sở hữu LUÔN đứng trước danh từ, mang nghĩa "của ai đó".
 </teacher_script>
 
@@ -16,7 +16,7 @@ Ok lớp 6, hôm nay học phần <eng>A Closer Look 2</eng> - phần ngữ phá
 
 **Tính từ sở hữu (Possessive Adjectives)**
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eca89ef9.webm">
 Tính từ sở hữu chỉ đứng trước danh từ. Ví dụ: <eng>my house</eng> - nhà của tôi. Chữ <eng>my</eng> đứng trước <eng>house</eng> nên nó là tính từ sở hữu.
 </teacher_script>
 
@@ -30,14 +30,14 @@ Tính từ sở hữu chỉ đứng trước danh từ. Ví dụ: <eng>my house<
 - they → their /ðeə/ (của họ)
 - Khang → Khang's (của Khang)
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_df26c219.webm">
 Mẹo nhớ nè: Tính từ sở hữu giống như cái mũ, luôn đội lên đầu danh từ. <eng>My book</eng>, <eng>your pen</eng>, <eng>his bag</eng> - luôn có danh từ đi sau.
 </teacher_script>
 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 29 - Matching
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_56fc3cca.webm">
 Bài 1 trang 29. Nối câu với hình. Em đọc câu tiếng Anh, tìm tính từ sở hữu, xem nó chỉ ai. 1 phút nha.
 </teacher_script>
 
@@ -72,7 +72,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 29 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b8144069.webm">
 Bài 2 trang 29. Điền tính từ sở hữu. Nhớ nhìn chủ ngữ trong câu để biết điền từ nào. 1 phút.
 </teacher_script>
 
@@ -114,13 +114,13 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: possessive_pronouns -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17a97073.webm">
 Giờ qua phần khó hơn nè: Đại từ sở hữu - <eng>Possessive Pronouns</eng>. Khác với tính từ sở hữu, đại từ sở hữu ĐỨNG MỘT MÌNH, không cần danh từ đi sau.
 </teacher_script>
 
 **Đại từ sở hữu (Possessive Pronouns)**
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_421ff67a.webm">
 Đại từ sở hữu đứng một mình, không đứng trước danh từ. Nó mang nghĩa "cái của ai đó". Ví dụ: <eng>This is my house. Yours is next to mine.</eng> Ở đây <eng>yours</eng> và <eng>mine</eng> đứng một mình, nghĩa là "nhà của bạn" và "nhà của tôi".
 </teacher_script>
 
@@ -133,14 +133,14 @@ Giờ qua phần khó hơn nè: Đại từ sở hữu - <eng>Possessive Pronoun
 - we → ours /aʊəz/ (cái của chúng tôi)
 - they → theirs /ðeəz/ (cái của họ)
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_52f19441.webm">
 Mẹo phân biệt nè: Tính từ sở hữu + danh từ (<eng>my book</eng>). Đại từ sở hữu đứng một mình (<eng>It's mine</eng>). Em thấy <eng>mine, yours, hers, ours, theirs</eng> đều có thêm chữ "s" hoặc "ne" so với tính từ sở hữu.
 </teacher_script>
 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 29 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b9592ccc.webm">
 Bài 3 trang 29. Điền đại từ sở hữu. Nhớ: đại từ sở hữu đứng một mình, không có danh từ đi sau. 1 phút.
 </teacher_script>
 
@@ -184,7 +184,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 30 - Fill in the blanks
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_942a9e2a.webm">
 Bài 4 trang 30. Bài này khó hơn vì em phải phân biệt khi nào dùng tính từ sở hữu, khi nào dùng đại từ sở hữu. Nhìn xem có danh từ đi sau không. 90 giây.
 </teacher_script>
 
@@ -228,7 +228,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 30 - Multiple choice
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a4c06c4c.webm">
 Bài 5 trang 30. Chọn đáp án đúng A hoặc B. 1 phút.
 </teacher_script>
 
@@ -285,7 +285,7 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d0956578.webm">
 Ok hết bài ngữ pháp rồi. Tóm tắt nè: Tính từ sở hữu (<eng>my, your, his, her, its, our, their</eng>) luôn đứng trước danh từ. Đại từ sở hữu (<eng>mine, yours, his, hers, its, ours, theirs</eng>) đứng một mình. Nhớ kỹ nha vì hay ra trong bài kiểm tra lắm đó.
 
 Từ vựng bổ sung nè:
