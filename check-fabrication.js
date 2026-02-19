@@ -630,14 +630,18 @@ function runStrictComparison(sourceBlocks, voiceBlocks, voiceContent = '') {
   // Compare questions/task instructions - LOWER PRIORITY (can be paraphrased)
   if (sourceBlocks.questionText && sourceBlocks.questionText.length > 20) {
     const result = compareNormalizedSentences(sourceBlocks.questionText, voiceBlocks.questionText);
-    // Downgrade severity for task instructions (they're often paraphrased)
-    result.severity = downgradeSeverity(result.severity);
+    // Downgrade severity by 2 levels for task instructions (they're often paraphrased)
+    result.severity = downgradeSeverity(downgradeSeverity(result.severity));
     results.push({ type: 'Questions', ...result });
   }
 
   // Compare reading - HIGH PRIORITY (educational content)
   if (sourceBlocks.readingText && sourceBlocks.readingText.length > 50) {
     const result = compareNormalizedSentences(sourceBlocks.readingText, voiceBlocks.readingText);
+    // Downgrade by 1 level if >60% match (minor changes acceptable)
+    if (result.matchRate >= 60) {
+      result.severity = downgradeSeverity(result.severity);
+    }
     results.push({ type: 'Reading', ...result });
   }
 
