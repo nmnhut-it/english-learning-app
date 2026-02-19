@@ -2,12 +2,12 @@
 ## GETTING STARTED - My future house
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e77c9a6a.webm">
 Ok lớp 6, Unit 10 nha. Mở sách ra bài <eng>Getting Started</eng>, tựa bài là <eng>My future house</eng> - Ngôi nhà trong tương lai của tôi. Ghi tựa bài vô vở đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1a9876b4.webm">
 Bây giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -23,7 +23,7 @@ Bây giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên 
 </vocabulary>
 
 <!-- chunk: bai1-dialogue -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ce9bae9f.webm">
 Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc hội thoại giữa Nick và Phong về ngôi nhà trong tương lai.
 </teacher_script>
 
@@ -67,12 +67,12 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc hội thoại giữa Nick
 **Nick:** Nghe có vẻ thật tuyệt! Và sẽ tốn bao nhiêu...
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_47f25e2b.webm">
 Đọc hội thoại và dịch vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: bai2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1b601d56.webm">
 Bài 2 <eng>Read the conversation again. Find and write down the words or phrases that show</eng>. Đọc lại đoạn hội thoại. Tìm và viết ra các từ hoặc cụm từ thể hiện loại nhà, vị trí, và thiết bị trong nhà.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Bài 2 <eng>Read the conversation again. Find and write down the words or phrase
 *Thiết bị trong nhà: ..........................*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_8c3658ca.webm">
 Đọc lại hội thoại và tìm câu trả lời nha. 1 phút.
 </teacher_script>
 
@@ -115,7 +115,7 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: bai3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_baa54c4c.webm">
 Bài 3 <eng>Read the conversation again. Tick T True or F False</eng>. Đọc lại đoạn hội thoại. Đánh dấu T nếu đúng hoặc F nếu sai nha.
 </teacher_script>
 
@@ -139,7 +139,7 @@ Bài 3 <eng>Read the conversation again. Tick T True or F False</eng>. Đọc l�
 *Anh ta có thể có một chiếc TV thông minh và năm con rô bốt.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b8a076c3.webm">
 Đọc lại hội thoại và đánh dấu True hoặc False nha. 1 phút.
 </teacher_script>
 
@@ -159,7 +159,7 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: bai4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cfdbd39d.webm">
 Bài 4 <eng>Order the words to make a phrase about a place. Each group has one extra word</eng>. Xếp thứ tự các từ để tạo thành một cụm từ về một địa điểm. Mỗi nhóm có một từ thừa nha.
 </teacher_script>
 
@@ -194,11 +194,11 @@ Bài 4 <eng>Order the words to make a phrase about a place. Each group has one e
 *.......................................*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_0098c196.webm">
 Sắp xếp các từ để tạo cụm từ chỉ địa điểm nha. Nhớ mỗi nhóm có 1 từ thừa. 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+<teacher_script pause="0" href="audio/tts_29c83a10.webm">
 Ok đáp án nè.
 </teacher_script>
 
@@ -224,7 +224,7 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: bai5-speaking -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_31bfa213.webm">
 Bài 5 <eng>In groups, describe to your classmates what you can see outside the window of your future house. Your group tries to guess where your house is</eng>. Trong nhóm, mô tả cho bạn cùng lớp những gì bạn có thể nhìn thấy bên ngoài cửa sổ ngôi nhà tương lai của mình. Nhóm của bạn cố gắng đoán xem nhà của bạn ở đâu nha.
 </teacher_script>
 
@@ -248,7 +248,7 @@ Bài 5 <eng>In groups, describe to your classmates what you can see outside the 
 **A:** Đúng.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0d9f81bf.webm">
 Đây là mẫu câu trả lời nè.
 </teacher_script>
 
@@ -266,11 +266,11 @@ Bài 5 <eng>In groups, describe to your classmates what you can see outside the 
 **A:** Đúng vậy.
 </translation>
 
-<teacher_script pause="120" action="record">
+<teacher_script pause="120" action="record" href="audio/tts_8b1030ee.webm">
 Bây giờ các em tự nghĩ về ngôi nhà tương lai của mình và mô tả những gì có thể nhìn thấy qua cửa sổ nha. Dùng các cụm từ vừa học: in the mountains, by the sea, in the city, on the Moon, in the sky, in the countryside. Nói và ghi âm lại. 2 phút.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6b0d40f0.webm">
 Ok xong bài <eng>Getting Started</eng> Unit 10 rồi nha. Hôm nay mình học về ngôi nhà trong tương lai, các loại nhà như UFO house, vị trí như in the mountains, by the sea, và các thiết bị trong nhà như smart TV, robot. Nhớ ôn lại từ vựng và chuẩn bị cho bài tiếp theo hen. Tạm biệt các em.
 </teacher_script>

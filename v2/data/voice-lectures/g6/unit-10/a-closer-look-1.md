@@ -2,7 +2,7 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_90392afb.webm">
 Ok lớp 6, Unit 10 <eng>A Closer Look 1</eng> nha. Bài này mình học từ vựng về các thiết bị trong nhà tương lai và cách phát âm trọng âm từ có hai vần. Mở sách trang 40 đi.
 </teacher_script>
 
@@ -33,7 +33,7 @@ Ok lớp 6, Unit 10 <eng>A Closer Look 1</eng> nha. Bài này mình học từ v
 <!-- chunk: exercise-1 -->
 ### Bài 1 trang 40 - Categorization
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_153599c7.webm">
 Bài 1 nè. <eng>Listen and repeat the words/phrases in the box. Then put them in the appropriate columns.</eng>
 </teacher_script>
 
@@ -92,7 +92,7 @@ Ok đáp án nè.
 <!-- chunk: exercise-2 -->
 ### Bài 2 trang 40 - Matching
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_688b403e.webm">
 Bài 2 nè. <eng>Match the appliances in A with what they can help us to do in B.</eng>
 </teacher_script>
 
@@ -135,7 +135,7 @@ Ok đáp án nè.
 <!-- chunk: exercise-3 -->
 ### Bài 3 trang 40 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a9952863.webm">
 Bài 3 nè. <eng>Work in pairs. Ask and answer questions about appliances.</eng>
 </teacher_script>
 
@@ -157,7 +157,7 @@ Bài 3 nè. <eng>Work in pairs. Ask and answer questions about appliances.</eng>
 **B:** Nó có thể giúp chúng ta nấu cơm.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3e215475.webm">
 Đây là mẫu hội thoại nha. Các em hỏi đáp về các thiết bị khác tương tự.
 </teacher_script>
 
@@ -176,14 +176,14 @@ Bài 3 nè. <eng>Work in pairs. Ask and answer questions about appliances.</eng>
 | **B:** It can help us to receive and send emails. | **B:** Nó có thể giúp chúng ta nhận và gửi email. |
 </answer>
 
-<teacher_script pause="60" action="record">
+<teacher_script pause="60" action="record" href="audio/tts_c037a032.webm">
 Các em luyện nói theo cặp nha. Hỏi và trả lời về các thiết bị. Bấm nút ghi âm để thu giọng mình. 1 phút.
 </teacher_script>
 
 <!-- chunk: pronunciation-theory -->
 ### Pronunciation - Stress in two-syllable words
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_995b24ae.webm">
 Giờ mình qua phần phát âm nè. <eng>Stress in two-syllable words</eng> - Trọng âm của các từ có hai âm tiết.
 </teacher_script>
 
@@ -205,14 +205,14 @@ Quy tắc chung:
 - 'mountains /ˈmaʊntɪnz/ *(núi)*
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_af8586f2.webm">
 Nhớ nha: Danh từ 2 âm tiết thường nhấn âm đầu. Ví dụ: <eng>'picture, 'robot, 'bedroom</eng>. Dấu phẩy nhỏ (') đặt trước âm được nhấn.
 </teacher_script>
 
 <!-- chunk: exercise-4 -->
 ### Bài 4 trang 40 - Listen and repeat
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ebaf5d03.webm">
 Bài 4 nè. <eng>Listen and repeat the words.</eng>
 </teacher_script>
 
@@ -232,14 +232,14 @@ Bài 4 nè. <eng>Listen and repeat the words.</eng>
 | 'housework *(việc nhà)* | 'palace *(cung điện)* | 'village *(ngôi làng)* | 'mountains *(núi)* |
 </questions>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_58748785.webm">
 Nghe và đọc theo nha. Chú ý nhấn âm đầu tiên. 30 giây.
 </teacher_script>
 
 <!-- chunk: exercise-5 -->
 ### Bài 5 trang 40 - Listen and repeat sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e4dc4371.webm">
 Bài 5 nè. <eng>Listen and repeat the sentences. Pay attention to the stress of the underlined words.</eng>
 </teacher_script>
 
@@ -267,11 +267,11 @@ Bài 5 nè. <eng>Listen and repeat the sentences. Pay attention to the stress of
 *Ngôi làng của họ ở trên núi.*
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_ae9f4669.webm">
 Nghe và đọc theo các câu nha. Chú ý nhấn đúng trọng âm các từ in đậm. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_aebdd6fc.webm">
 Giải thích nha:
 - Câu 1: <eng>'picture</eng> và <eng>'bedroom</eng> đều nhấn âm đầu.
 - Câu 2: <eng>'robot</eng> và <eng>'housework</eng> nhấn âm đầu.
@@ -281,6 +281,6 @@ Tất cả đều là danh từ 2 âm tiết nên nhấn âm đầu nha.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cf695768.webm">
 Ok vậy là xong bài <eng>A Closer Look 1</eng> Unit 10 rồi nha. Các em nhớ ôn lại từ vựng về thiết bị trong nhà và quy tắc nhấn trọng âm từ 2 âm tiết. Bài tiếp theo mình học ngữ pháp <eng>A Closer Look 2</eng>. Hẹn gặp lại nha!
 </teacher_script>

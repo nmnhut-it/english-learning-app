@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9790987c.webm">
 Ok lớp 6, Unit 10 <eng>A Closer Look 2</eng> nha. Phần này học ngữ pháp về thì Tương lai đơn - <eng>Future Simple</eng>. Mở sách trang 41 đi.
 </teacher_script>
 
 <!-- chunk: grammar-theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0519a1d2.webm">
 Đầu tiên học lý thuyết về thì Tương lai đơn nha.
 </teacher_script>
 
@@ -56,14 +56,14 @@ Trả lời ngắn: Yes, I will. / No, I won't.
 - will + V nguyên mẫu (không chia, không thêm s/es/ed gì hết!)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9dfe8c91.webm">
 Nhớ nha: <eng>will</eng> là SẼ, <eng>won't</eng> là SẼ KHÔNG. Sau <eng>will</eng> và <eng>won't</eng> luôn dùng động từ nguyên mẫu, không chia gì hết á. Ví dụ: <eng>will go</eng>, <eng>won't come</eng>, <eng>will have</eng>. Ok bây giờ làm bài tập nha.
 </teacher_script>
 
 <!-- chunk: bai-1 -->
 ### Bài 1 trang 41 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0234de8b.webm">
 Bài 1. <eng>Fill the blanks with will or won't to make the sentences true for you</eng>. Điền vào chỗ trống bằng <eng>will</eng> hoặc <eng>won't</eng> để viết các câu đúng với bạn. Làm 1 phút nha.
 </teacher_script>
 
@@ -93,11 +93,11 @@ Bài 1. <eng>Fill the blanks with will or won't to make the sentences true for y
 *(Gia đình chúng tôi _______ chuyển đến ngôi nhà mới vào tuần tới.)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5f68f559.webm">
 Ok 1 phút làm bài nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_75dab729.webm">
 Đáp án nè. Bài này tùy theo ý kiến của các em, nhưng có thể trả lời như sau:
 
 Câu 1: <eng>I think I will stay at home tonight</eng> - Tôi nghĩ tôi sẽ ở nhà tối nay. Dùng <eng>will</eng> vì mình dự định ở nhà.
@@ -123,7 +123,7 @@ Câu 5: <eng>Our family won't move to the new house next week</eng> - Gia đình
 <!-- chunk: bai-2 -->
 ### Bài 2 trang 41 - Complete the conversation
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_502549cc.webm">
 Bài 2. <eng>Complete the conversation with will or won't</eng>. Hoàn thành cuộc hội thoại với <eng>will</eng> hoặc <eng>won't</eng>. Làm 1 phút nha.
 </teacher_script>
 
@@ -147,11 +147,11 @@ Bài 2. <eng>Complete the conversation with will or won't</eng>. Hoàn thành cu
 **B:** Oh, look ... Here he is!
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5f68f559.webm">
 Ok 1 phút làm bài nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3ee1e76a.webm">
 Đáp án nè.
 
 Chỗ trống 1: <eng>will</eng> - <eng>Don't worry, he will come back</eng>. Đừng lo, nó sẽ quay lại. B đang trấn an A nên dùng <eng>will</eng> để khẳng định.
@@ -190,7 +190,7 @@ Chỗ trống 5: <eng>will</eng> - <eng>We will never see him again</eng>. Chún
 <!-- chunk: bai-3 -->
 ### Bài 3 trang 41 - Write sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b8340629.webm">
 Bài 3. <eng>Write sentences, using will or won't and the words given</eng>. Viết câu, sử dụng <eng>will</eng> hoặc <eng>won't</eng> và các từ cho sẵn. Làm 2 phút nha.
 </teacher_script>
 
@@ -212,11 +212,11 @@ Bài 3. <eng>Write sentences, using will or won't and the words given</eng>. Vi�
 **5.** smartphone / take care / children
 </questions>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_1998d383.webm">
 Ok 2 phút viết câu nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_51f425e0.webm">
 Đáp án nè. Các em có thể dùng <eng>will</eng> hoặc <eng>won't</eng> tùy theo ý kiến của mình, nhưng có một số câu hợp lý hơn:
 
 Câu 1: <eng>A computer will help me to do my housework</eng> hoặc <eng>won't</eng>. Máy tính sẽ/sẽ không giúp tôi làm việc nhà. Máy tính có thể giúp một số việc nhà như đặt hàng, điều khiển thiết bị, nên cả hai đáp án đều được.
@@ -240,7 +240,7 @@ Câu 5: <eng>A smartphone won't help me to take care of the children</eng>. Mộ
 </answer>
 
 <!-- chunk: might-theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_318b1cbc.webm">
 Trước khi làm Bài 4, học thêm về <eng>might</eng> nha. <eng>Might</eng> cũng là trợ động từ chỉ tương lai, nhưng nó có nghĩa là CÓ THỂ, diễn tả khả năng có thể xảy ra nhưng chưa chắc chắn. <eng>Will</eng> thì chắc chắn hơn, còn <eng>might</eng> thì chưa chắc.
 </teacher_script>
 
@@ -265,7 +265,7 @@ Trước khi làm Bài 4, học thêm về <eng>might</eng> nha. <eng>Might</eng
 <!-- chunk: bai-4 -->
 ### Bài 4 trang 41 - Read and tick True/False
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_77a7374c.webm">
 Bài 4. <eng>Read the two poems. Tick True or False</eng>. Đọc hai bài thơ và đánh dấu Đúng hoặc Sai. Đọc kỹ hai bài thơ trước nha.
 </teacher_script>
 
@@ -337,11 +337,11 @@ Chúng có thể không nói chuyện với chúng ta.
 *(Henry nghĩ rằng chúng ta có thể không có khoảng thời gian tuyệt vời trên Mặt trăng.)*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_190992b8.webm">
 Ok đọc bài thơ và làm bài. 1 phút rưỡi nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_679988f3.webm">
 Đáp án nè. Giải thích từng câu:
 
 Câu 1: TRUE - <eng>Jenny thinks we might live with robots</eng>. Đúng, Jenny viết <eng>We might live with robots</eng> trong bài thơ của cô ấy.
@@ -371,7 +371,7 @@ Câu 6: FALSE - <eng>Henry thinks we might not have a great time on the Moon</en
 <!-- chunk: bai-5 -->
 ### Bài 5 trang 41 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_afe244ff.webm">
 Bài 5. <eng>Work in groups. Think about what you might do or have in the future. Share your ideas with your classmates</eng>. Làm việc nhóm. Nghĩ về những gì bạn có thể làm hoặc có trong tương lai. Chia sẻ ý tưởng của bạn với bạn học.
 </teacher_script>
 
@@ -384,11 +384,11 @@ Bài 5. <eng>Work in groups. Think about what you might do or have in the future
 *(Tôi có thể có một chiếc điện thoại thông minh để lướt internet.)*
 </task>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_7da87914.webm">
 Nghĩ và nói những gì em có thể làm hoặc có trong tương lai. Dùng cấu trúc <eng>I might have...</eng> hoặc <eng>I might do...</eng>. 2 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2b2f160c.webm">
 Đây là một số mẫu câu tham khảo nha:
 </teacher_script>
 
@@ -406,6 +406,6 @@ Nghĩ và nói những gì em có thể làm hoặc có trong tương lai. Dùng
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_beee4095.webm">
 Ok xong bài <eng>A Closer Look 2</eng> rồi. Nhớ nha: <eng>will</eng> là SẼ, <eng>won't</eng> là SẼ KHÔNG, <eng>might</eng> là CÓ THỂ. Sau <eng>will</eng>, <eng>won't</eng>, <eng>might</eng> đều dùng động từ nguyên mẫu. Hẹn gặp lại bài sau nha!
 </teacher_script>
