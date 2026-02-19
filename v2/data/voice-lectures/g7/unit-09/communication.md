@@ -127,18 +127,24 @@ Bài 3. Nghe Mark nói về biểu tượng lễ hội và điền từ vào ch�
 </task>
 
 <reading>
-**Tapescript:**
-
-| English | Vietnamese |
-|---------|------------|
-| A lot of festivals have their own symbols. | Rất nhiều lễ hội có những biểu tượng riêng của chúng. |
-| A festival symbol is an image we use or think of when we celebrate a festival. | Biểu tượng lễ hội là hình ảnh mà ta sử dụng hoặc nghĩ đến khi tổ chức một lễ hội. |
-| It usually has a special meaning. | Nó thường mang một ý nghĩa đặc biệt. |
-| For example, when we talk about Christmas, we think of the Christmas tree. | Ví dụ, khi nói về Giáng sinh, ta nghĩ đến cây thông Noel. |
-| It's the symbol of a long life. | Nó là biểu tượng của một cuộc sống lâu dài. |
-| We can also think of Santa Claus. | Ta cũng nghĩ đến ông già Noel. |
-| He's the symbol of joy and happiness. | Ông ấy là biểu tượng của niềm vui và hạnh phúc. |
+A lot of festivals have their own symbols.
+A festival symbol is an image we use or think of when we celebrate a festival.
+It usually has a special meaning.
+For example, when we talk about Christmas, we think of the Christmas tree.
+It's the symbol of a long life.
+We can also think of Santa Claus.
+He's the symbol of joy and happiness.
 </reading>
+
+<translation>
+Rất nhiều lễ hội có những biểu tượng riêng của chúng.
+Biểu tượng lễ hội là hình ảnh mà ta sử dụng hoặc nghĩ đến khi tổ chức một lễ hội.
+Nó thường mang một ý nghĩa đặc biệt.
+Ví dụ, khi nói về Giáng sinh, ta nghĩ đến cây thông Noel.
+Nó là biểu tượng của một cuộc sống lâu dài.
+Ta cũng nghĩ đến ông già Noel.
+Ông ấy là biểu tượng của niềm vui và hạnh phúc.
+</translation>
 
 <questions type="fill_blanks">
 1. A symbol is an image we use or _______ of when celebrating a festival.

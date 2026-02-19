@@ -256,15 +256,22 @@ Chúng ta cùng làm Bài 5 <eng>Strange driving rules</eng>. Các em hãy đọ
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| 1. In Alaska, you are not allowed to drive with a dog on the roof of your car. | 1. Ở Alaska, bạn không được lái xe khi có chó trên nóc xe. |
-| 2. In Moscow, police will fine you if you drive a dirty car. | 2. Ở Moscow, cảnh sát sẽ phạt bạn nếu lái xe bẩn. |
-| 3. A man has to wear a shirt or T-shirt while driving in Thailand. | 3. Đàn ông phải mặc áo khi lái xe ở Thái Lan. |
-| 4. In South Africa, you have to let animals go first. | 4. Ở Nam Phi, bạn phải nhường đường cho động vật. |
-| 5. In Switzerland, you can't wash your car on Sunday. | 5. Ở Thụy Sĩ, bạn không được rửa xe vào Chủ nhật. |
-| 6. In Wisconsin, USA, you must always ride your bike with your hands on the handlebars. | 6. Ở Wisconsin, Mỹ, bạn phải luôn để tay trên ghi đông khi đạp xe. |
+1. In Alaska, you are not allowed to drive with a dog on the roof of your car.
+2. In Moscow, police will fine you if you drive a dirty car.
+3. A man has to wear a shirt or T-shirt while driving in Thailand.
+4. In South Africa, you have to let animals go first.
+5. In Switzerland, you can't wash your car on Sunday.
+6. In Wisconsin, USA, you must always ride your bike with your hands on the handlebars.
 </reading>
+
+<translation>
+1. Ở Alaska, bạn không được lái xe khi có chó trên nóc xe.
+2. Ở Moscow, cảnh sát sẽ phạt bạn nếu lái xe bẩn.
+3. Đàn ông phải mặc áo khi lái xe ở Thái Lan.
+4. Ở Nam Phi, bạn phải nhường đường cho động vật.
+5. Ở Thụy Sĩ, bạn không được rửa xe vào Chủ nhật.
+6. Ở Wisconsin, Mỹ, bạn phải luôn để tay trên ghi đông khi đạp xe.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_3e9e3f71.webm">
 Theo các em, luật nào là kỳ lạ nhất?

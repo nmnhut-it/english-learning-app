@@ -67,20 +67,28 @@ Giờ nghe bài nghe về chợ Chatuchak và ẩm thực đường phố ở Ba
 </audio>
 
 <reading>
-**Tapescript:**
-
-| English | Vietnamese |
-|---------|------------|
-| Bangkok is famous for its markets and street food. | Bangkok nổi tiếng với các khu chợ và ẩm thực đường phố. |
-| Visit the Chatuchak, the largest weekend market in the world. | Hãy ghé thăm Chatuchak, chợ cuối tuần lớn nhất thế giới. |
-| There are over 15,000 stalls selling nearly everything, at cheap prices. | Có hơn 15.000 gian hàng bán gần như mọi thứ, với giá rẻ. |
-| It's only five minutes' walk from the station. | Chỉ cách nhà ga năm phút đi bộ. |
-| When you visit this market, you can see part of Thai people's life. | Khi bạn thăm chợ này, bạn có thể thấy một phần cuộc sống của người dân Thái Lan. |
-| Another interesting type of market is the floating market on the river. | Một loại hình chợ thú vị khác là chợ nổi trên sông. |
-| Don't forget to try street food in Bangkok. | Đừng quên thử các món ăn đường phố ở Bangkok. |
-| It's easy to find food stalls all around Bangkok, serving different Thai dishes. | Thật dễ dàng để tìm thấy các quầy hàng ăn uống khắp Bangkok, phục vụ các món ăn Thái khác nhau. |
-| They are really delicious. | Chúng thật sự rất ngon. |
+Bangkok is famous for its markets and street food.
+Visit the Chatuchak, the largest weekend market in the world.
+There are over 15,000 stalls selling nearly everything, at cheap prices.
+It's only five minutes' walk from the station.
+When you visit this market, you can see part of Thai people's life.
+Another interesting type of market is the floating market on the river.
+Don't forget to try street food in Bangkok.
+It's easy to find food stalls all around Bangkok, serving different Thai dishes.
+They are really delicious.
 </reading>
+
+<translation>
+Bangkok nổi tiếng với các khu chợ và ẩm thực đường phố.
+Hãy ghé thăm Chatuchak, chợ cuối tuần lớn nhất thế giới.
+Có hơn 15.000 gian hàng bán gần như mọi thứ, với giá rẻ.
+Chỉ cách nhà ga năm phút đi bộ.
+Khi bạn thăm chợ này, bạn có thể thấy một phần cuộc sống của người dân Thái Lan.
+Một loại hình chợ thú vị khác là chợ nổi trên sông.
+Đừng quên thử các món ăn đường phố ở Bangkok.
+Thật dễ dàng để tìm thấy các quầy hàng ăn uống khắp Bangkok, phục vụ các món ăn Thái khác nhau.
+Chúng thật sự rất ngon.
+</translation>
 
 ---
 

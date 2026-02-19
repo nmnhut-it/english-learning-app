@@ -83,22 +83,32 @@ Giải thích nha:
 </teacher_script>
 
 <reading>
-**Tapescript - Bài nghe:**
-
-| English | Vietnamese |
-|---------|------------|
-| **Mr An:** As you see, habitats affect their flora and fauna, but the flora and fauna also affect their habitats. | **Thầy An:** Như em thấy đấy, môi trường sống ảnh hưởng đến hệ thực vật và động vật của chúng, nhưng hệ thực vật và động vật cũng ảnh hưởng đến môi trường sống của chúng. |
-| **Mi:** Can you be more specific, Mr An? | **Mi:** Thầy có thể nói cụ thể hơn không ạ? |
-| **Mr An:** Well, plants can help or harm their environment. For example, when someone brings a plant to a new place, the plant can make the area more beautiful. | **Thầy An:** Ừm, thực vật có thể giúp ích hoặc gây hại cho môi trường của chúng. Ví dụ, khi ai đó mang một cây đến một nơi mới, cây có thể làm cho khu vực đó đẹp hơn. |
-| **Mi:** Yes, it can. | **Mi:** Vâng, có thể ạ. |
-| **Mr An:** But that plant can also grow so fast that it takes over the resources of local plants. And these local plants may die out. | **Thầy An:** Nhưng cây đó cũng có thể phát triển quá nhanh đến mức nó chiếm hết tài nguyên của thực vật địa phương. Và những thực vật địa phương này có thể chết. |
-| **Mi:** How about animals? Do they affect the environment too? | **Mi:** Còn động vật thì sao ạ? Chúng có ảnh hưởng đến môi trường không? |
-| **Mr An:** That's a good question. Similarly, animals can cause harm to or improve a habitat. Beavers, for example, build dams and ponds and this helps plants and animals which need water. | **Thầy An:** Đó là một câu hỏi hay. Tương tự như vậy, động vật có thể gây hại hoặc cải thiện môi trường sống. Ví dụ, hải ly xây đập và ao và điều này giúp ích cho thực vật và động vật cần nước. |
-| **Mi:** How do beavers harm the environment? | **Mi:** Hải ly gây hại cho môi trường như thế nào? |
-| **Mr An:** These dams may flood the homes of other plants and animals. | **Thầy An:** Những con đập này có thể làm ngập nơi trú ngụ của các loài thực vật và động vật khác. |
-| **Mi:** Ah, yes. So what should we do, Mr An? | **Mi:** À, vâng. Vậy chúng ta nên làm gì, thầy An? |
-| **Mr An:** We should preserve habitats by not bringing plants and animals from different places. We shouldn't cut down forests because that destroys the habitats of many species, or use pesticides which pollute the environment.... | **Thầy An:** Chúng ta nên bảo tồn môi trường sống bằng cách không mang thực vật và động vật từ những nơi khác đến. Chúng ta không nên chặt phá rừng vì điều đó sẽ phá hủy môi trường sống của nhiều loài, hoặc sử dụng thuốc trừ sâu gây ô nhiễm môi trường.... |
+**Mr An:** As you see, habitats affect their flora and fauna, but the flora and fauna also affect their habitats.
+**Mi:** Can you be more specific, Mr An?
+**Mr An:** Well, plants can help or harm their environment. For example, when someone brings a plant to a new place, the plant can make the area more beautiful.
+**Mi:** Yes, it can.
+**Mr An:** But that plant can also grow so fast that it takes over the resources of local plants. And these local plants may die out.
+**Mi:** How about animals? Do they affect the environment too?
+**Mr An:** That's a good question. Similarly, animals can cause harm to or improve a habitat. Beavers, for example, build dams and ponds and this helps plants and animals which need water.
+**Mi:** How do beavers harm the environment?
+**Mr An:** These dams may flood the homes of other plants and animals.
+**Mi:** Ah, yes. So what should we do, Mr An?
+**Mr An:** We should preserve habitats by not bringing plants and animals from different places. We shouldn't cut down forests because that destroys the habitats of many species, or use pesticides which pollute the environment....
 </reading>
+
+<translation>
+**Thầy An:** Như em thấy đấy, môi trường sống ảnh hưởng đến hệ thực vật và động vật của chúng, nhưng hệ thực vật và động vật cũng ảnh hưởng đến môi trường sống của chúng.
+**Mi:** Thầy có thể nói cụ thể hơn không ạ?
+**Thầy An:** Ừm, thực vật có thể giúp ích hoặc gây hại cho môi trường của chúng. Ví dụ, khi ai đó mang một cây đến một nơi mới, cây có thể làm cho khu vực đó đẹp hơn.
+**Mi:** Vâng, có thể ạ.
+**Thầy An:** Nhưng cây đó cũng có thể phát triển quá nhanh đến mức nó chiếm hết tài nguyên của thực vật địa phương. Và những thực vật địa phương này có thể chết.
+**Mi:** Còn động vật thì sao ạ? Chúng có ảnh hưởng đến môi trường không?
+**Thầy An:** Đó là một câu hỏi hay. Tương tự như vậy, động vật có thể gây hại hoặc cải thiện môi trường sống. Ví dụ, hải ly xây đập và ao và điều này giúp ích cho thực vật và động vật cần nước.
+**Mi:** Hải ly gây hại cho môi trường như thế nào?
+**Thầy An:** Những con đập này có thể làm ngập nơi trú ngụ của các loài thực vật và động vật khác.
+**Mi:** À, vâng. Vậy chúng ta nên làm gì, thầy An?
+**Thầy An:** Chúng ta nên bảo tồn môi trường sống bằng cách không mang thực vật và động vật từ những nơi khác đến. Chúng ta không nên chặt phá rừng vì điều đó sẽ phá hủy môi trường sống của nhiều loài, hoặc sử dụng thuốc trừ sâu gây ô nhiễm môi trường....
+</translation>
 
 <teacher_script pause="180">
 Dịch bài nghe vô vở. 3 phút nha.

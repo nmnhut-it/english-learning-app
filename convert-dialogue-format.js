@@ -107,7 +107,7 @@ function convertTableToLinear(dialogueContent) {
 }
 
 /**
- * Process a single file and convert table dialogues to linear
+ * Process a single file and convert table dialogues/readings to linear
  */
 function processFile(filePath, dryRun = false) {
   let content = fs.readFileSync(filePath, 'utf8');
@@ -125,7 +125,7 @@ function processFile(filePath, dryRun = false) {
 
     const converted = convertTableToLinear(dialogueContent);
     if (!converted) {
-      console.warn(`  Warning: Could not parse table in ${filePath}`);
+      console.warn(`  Warning: Could not parse dialogue table in ${filePath}`);
       return match;
     }
 
@@ -134,6 +134,30 @@ function processFile(filePath, dryRun = false) {
 
     // Build new linear format with separate translation block
     const newContent = `<dialogue>\n${converted.dialogue}\n</dialogue>\n\n<translation>\n${converted.translation}\n</translation>`;
+
+    return newContent;
+  });
+
+  // Find all <reading>...</reading> blocks with tables
+  const readingRegex = /<reading>([\s\S]*?)<\/reading>/g;
+
+  content = content.replace(readingRegex, (match, readingContent) => {
+    // Check if this is table format
+    if (!isTableFormat(readingContent)) {
+      return match; // Already linear format, keep as-is
+    }
+
+    const converted = convertTableToLinear(readingContent);
+    if (!converted) {
+      console.warn(`  Warning: Could not parse reading table in ${filePath}`);
+      return match;
+    }
+
+    modified = true;
+    conversions++;
+
+    // Build new linear format with separate translation block
+    const newContent = `<reading>\n${converted.dialogue}\n</reading>\n\n<translation>\n${converted.translation}\n</translation>`;
 
     return newContent;
   });

@@ -85,29 +85,42 @@ Giờ đọc bài đọc nha. Đây là bài đọc về vai trò của thực v
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Plants and animals are an essential part of Earth's ecology.** | **Thực vật và động vật là một phần thiết yếu của hệ sinh thái Trái Đất.** |
-| When we speak about a specific habitat and time, we refer to them as flora and fauna. | Khi chúng ta nói về một môi trường sống và thời gian cụ thể, chúng ta gọi chúng là hệ thực vật và hệ động vật. |
-| Flora refers to plants and fauna refers to animals. | Hệ thực vật dùng để chỉ thực vật và hệ động vật dùng để chỉ động vật. |
-| They are fascinating to study due to their beauty and significance to human life. | Chúng rất hấp dẫn để nghiên cứu vì vẻ đẹp và ý nghĩa của chúng đối với cuộc sống con người. |
-| | |
-| **First, the flora and fauna on Earth create an ecological balance, making life possible for humans.** | **Đầu tiên, hệ thực vật và động vật trên Trái Đất tạo ra sự cân bằng sinh thái, tạo điều kiện cho con người có thể sống được.** |
-| Flora releases oxygen for humans. | Thực vật giải phóng oxy cho con người. |
-| The carbon dioxide we breathe out is vital to plants. | Khí carbon dioxide chúng ta thở ra rất quan trọng đối với thực vật. |
-| Humans also rely on the plants and animals for food, medicine, and water. | Con người cũng dựa vào thực vật và động vật để có thức ăn, thuốc và nước. |
-| | |
-| **Second, plants and animals combine to create a food chain.** | **Thứ hai, thực vật và động vật kết hợp với nhau để tạo thành chuỗi thức ăn.** |
-| In the food chain, the animals play an important part. | Trong chuỗi thức ăn, động vật đóng vai trò quan trọng. |
-| They feed on plants and, in turn, are the prey of other animals. | Chúng ăn thực vật và trở thành con mồi của các loài động vật khác. |
-| Their droppings become fertilizers for plants. | Phân của chúng trở thành phân bón cho cây trồng. |
-| | |
-| **Finally, plants and animals add a lot of beauty to our earth.** | **Cuối cùng, thực vật và động vật mang lại rất nhiều vẻ đẹp cho Trái Đất của chúng ta.** |
-| People love and appreciate the natural beauty, the relaxed feeling in green spaces and water areas. | Người ta yêu quý và trân trọng vẻ đẹp thiên nhiên, cảm giác thư thái trong không gian xanh, vùng nước. |
-| | |
-| **However, plants and animals are facing habitat loss, pollution, and climate change.** | **Tuy nhiên, thực vật và động vật đang phải đối mặt với tình trạng mất môi trường sống, ô nhiễm và biến đổi khí hậu.** |
-| To protect them, we should raise people's awareness of their significance, stop hunting, plant more trees, and build nature reserves for our wildlife. | Để bảo vệ chúng, chúng ta nên nâng cao nhận thức của mọi người về tầm quan trọng của chúng, ngừng săn bắn, trồng thêm cây và xây dựng khu bảo tồn thiên nhiên cho động vật hoang dã của chúng ta. |
+**Plants and animals are an essential part of Earth's ecology.**
+When we speak about a specific habitat and time, we refer to them as flora and fauna.
+Flora refers to plants and fauna refers to animals.
+They are fascinating to study due to their beauty and significance to human life.
+**First, the flora and fauna on Earth create an ecological balance, making life possible for humans.**
+Flora releases oxygen for humans.
+The carbon dioxide we breathe out is vital to plants.
+Humans also rely on the plants and animals for food, medicine, and water.
+**Second, plants and animals combine to create a food chain.**
+In the food chain, the animals play an important part.
+They feed on plants and, in turn, are the prey of other animals.
+Their droppings become fertilizers for plants.
+**Finally, plants and animals add a lot of beauty to our earth.**
+People love and appreciate the natural beauty, the relaxed feeling in green spaces and water areas.
+**However, plants and animals are facing habitat loss, pollution, and climate change.**
+To protect them, we should raise people's awareness of their significance, stop hunting, plant more trees, and build nature reserves for our wildlife.
 </reading>
+
+<translation>
+**Thực vật và động vật là một phần thiết yếu của hệ sinh thái Trái Đất.**
+Khi chúng ta nói về một môi trường sống và thời gian cụ thể, chúng ta gọi chúng là hệ thực vật và hệ động vật.
+Hệ thực vật dùng để chỉ thực vật và hệ động vật dùng để chỉ động vật.
+Chúng rất hấp dẫn để nghiên cứu vì vẻ đẹp và ý nghĩa của chúng đối với cuộc sống con người.
+**Đầu tiên, hệ thực vật và động vật trên Trái Đất tạo ra sự cân bằng sinh thái, tạo điều kiện cho con người có thể sống được.**
+Thực vật giải phóng oxy cho con người.
+Khí carbon dioxide chúng ta thở ra rất quan trọng đối với thực vật.
+Con người cũng dựa vào thực vật và động vật để có thức ăn, thuốc và nước.
+**Thứ hai, thực vật và động vật kết hợp với nhau để tạo thành chuỗi thức ăn.**
+Trong chuỗi thức ăn, động vật đóng vai trò quan trọng.
+Chúng ăn thực vật và trở thành con mồi của các loài động vật khác.
+Phân của chúng trở thành phân bón cho cây trồng.
+**Cuối cùng, thực vật và động vật mang lại rất nhiều vẻ đẹp cho Trái Đất của chúng ta.**
+Người ta yêu quý và trân trọng vẻ đẹp thiên nhiên, cảm giác thư thái trong không gian xanh, vùng nước.
+**Tuy nhiên, thực vật và động vật đang phải đối mặt với tình trạng mất môi trường sống, ô nhiễm và biến đổi khí hậu.**
+Để bảo vệ chúng, chúng ta nên nâng cao nhận thức của mọi người về tầm quan trọng của chúng, ngừng săn bắn, trồng thêm cây và xây dựng khu bảo tồn thiên nhiên cho động vật hoang dã của chúng ta.
+</translation>
 
 <teacher_script pause="180">
 Đọc và dịch bài đọc vô vở nha. 3 phút.

@@ -397,15 +397,22 @@ Các em hãy đọc đoạn 1 về chương trình <eng>Let's Learn</eng>.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Let's Learn** is an educational TV programme. | **Let's Learn** là một chương trình truyền hình giáo dục. |
-| It makes learning fun. | Nó làm cho việc học trở nên thú vị. |
-| Children love it. | Trẻ em thích nó. |
-| It has cute characters and fun songs. | Nó có những nhân vật dễ thương và các bài hát vui nhộn. |
-| People in 80 countries watch it today. | Ngày nay, mọi người ở 80 quốc gia xem nó. |
-| Both children and their parents like it. | Cả trẻ em và phụ huynh đều thích nó. |
+**Let's Learn** is an educational TV programme.
+It makes learning fun.
+Children love it.
+It has cute characters and fun songs.
+People in 80 countries watch it today.
+Both children and their parents like it.
 </reading>
+
+<translation>
+**Let's Learn** là một chương trình truyền hình giáo dục.
+Nó làm cho việc học trở nên thú vị.
+Trẻ em thích nó.
+Nó có những nhân vật dễ thương và các bài hát vui nhộn.
+Ngày nay, mọi người ở 80 quốc gia xem nó.
+Cả trẻ em và phụ huynh đều thích nó.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_647951c9.mp3">
 <eng>Let's Learn is an educational TV programme. It makes learning fun.</eng> - Let's Learn là chương trình giáo dục. Nó làm cho việc học trở nên thú vị.
@@ -423,14 +430,20 @@ Các em hãy đọc đoạn 2 về chương trình <eng>Hello Fatty</eng>.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Hello Fatty** is a popular TV cartoon. | **Hello Fatty** là một bộ phim hoạt hình truyền hình nổi tiếng. |
-| It's about a clever fox called Fatty and his friend. | Phim kể về một con cáo thông minh tên là Fatty và bạn của nó. |
-| Together they go to different places. | Họ cùng nhau đi đến những nơi khác nhau. |
-| Children around the world enjoy this programme. | Trẻ em trên khắp thế giới thích thú với chương trình này. |
-| It's funny and educational. | Nó hài hước và mang tính giáo dục. |
+**Hello Fatty** is a popular TV cartoon.
+It's about a clever fox called Fatty and his friend.
+Together they go to different places.
+Children around the world enjoy this programme.
+It's funny and educational.
 </reading>
+
+<translation>
+**Hello Fatty** là một bộ phim hoạt hình truyền hình nổi tiếng.
+Phim kể về một con cáo thông minh tên là Fatty và bạn của nó.
+Họ cùng nhau đi đến những nơi khác nhau.
+Trẻ em trên khắp thế giới thích thú với chương trình này.
+Nó hài hước và mang tính giáo dục.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_9d2b4212.mp3">
 <eng>Hello Fatty is a popular cartoon.</eng> - Hello Fatty là phim hoạt hình phổ biến. Nói về một con cáo thông minh tên Fatty và bạn của nó.

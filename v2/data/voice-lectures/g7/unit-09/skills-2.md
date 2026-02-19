@@ -71,21 +71,34 @@ Bây giờ các em sẽ nghe Mark nói về Thanksgiving. Đây là nội dung b
 </audio>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| Hello everyone. I'm Mark. | Xin chào mọi người. Tôi là Mark. |
-| Today I'm going to talk about Thanksgiving, or Turkey Day. | Hôm nay tôi sẽ nói về Lễ Tạ Ơn, hay còn gọi là Ngày Gà Tây. |
-| It's a national holiday. | Đó là một ngày lễ quốc gia. |
-| People from Canada and the USA celebrate it every year to be thankful for successful harvests. | Người dân Canada và Mỹ ăn mừng hàng năm để tỏ lòng biết ơn cho mùa thu hoạch thành công. |
-| In the USA, we celebrate it on the fourth Thursday of November. | Ở Mỹ, chúng tôi ăn mừng vào thứ Năm tuần thứ tư của tháng Mười Một. |
-| We usually prepare a feast for family and friends. | Chúng tôi thường chuẩn bị bữa tiệc lớn cho gia đình và bạn bè. |
-| Both adults and children take part in the food preparation. | Cả người lớn và trẻ em đều tham gia chuẩn bị thức ăn. |
-| Some of the traditional foods are turkey, sweet potatoes, and cornbread. | Một số món ăn truyền thống là gà tây, khoai lang và bánh mì ngô. |
-| After the meal, we play board games together. | Sau bữa ăn, chúng tôi chơi trò chơi cờ bàn cùng nhau. |
-| My family usually takes this opportunity to help others. | Gia đình tôi thường nhân cơ hội này để giúp đỡ người khác. |
-| My parents volunteer to cook and serve food to homeless people. | Bố mẹ tôi tình nguyện nấu và phục vụ thức ăn cho người vô gia cư. |
-| My sister and I read books to old people in a nursing home near our house. | Chị tôi và tôi đọc sách cho người già ở viện dưỡng lão gần nhà. |
+Hello everyone. I'm Mark.
+Today I'm going to talk about Thanksgiving, or Turkey Day.
+It's a national holiday.
+People from Canada and the USA celebrate it every year to be thankful for successful harvests.
+In the USA, we celebrate it on the fourth Thursday of November.
+We usually prepare a feast for family and friends.
+Both adults and children take part in the food preparation.
+Some of the traditional foods are turkey, sweet potatoes, and cornbread.
+After the meal, we play board games together.
+My family usually takes this opportunity to help others.
+My parents volunteer to cook and serve food to homeless people.
+My sister and I read books to old people in a nursing home near our house.
 </reading>
+
+<translation>
+Xin chào mọi người. Tôi là Mark.
+Hôm nay tôi sẽ nói về Lễ Tạ Ơn, hay còn gọi là Ngày Gà Tây.
+Đó là một ngày lễ quốc gia.
+Người dân Canada và Mỹ ăn mừng hàng năm để tỏ lòng biết ơn cho mùa thu hoạch thành công.
+Ở Mỹ, chúng tôi ăn mừng vào thứ Năm tuần thứ tư của tháng Mười Một.
+Chúng tôi thường chuẩn bị bữa tiệc lớn cho gia đình và bạn bè.
+Cả người lớn và trẻ em đều tham gia chuẩn bị thức ăn.
+Một số món ăn truyền thống là gà tây, khoai lang và bánh mì ngô.
+Sau bữa ăn, chúng tôi chơi trò chơi cờ bàn cùng nhau.
+Gia đình tôi thường nhân cơ hội này để giúp đỡ người khác.
+Bố mẹ tôi tình nguyện nấu và phục vụ thức ăn cho người vô gia cư.
+Chị tôi và tôi đọc sách cho người già ở viện dưỡng lão gần nhà.
+</translation>
 
 <teacher_script pause="60">
 Các em hãy dành 1 phút đọc trước nội dung bài nghe nhé.

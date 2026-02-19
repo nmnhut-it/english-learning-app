@@ -96,10 +96,12 @@ Mời các em đọc kỹ bài đọc sau.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| These are some rules about road safety. It is important to obey these rules when you are a road user. | Đây là một số luật về an toàn đường bộ. Điều quan trọng là phải tuân thủ các luật này khi bạn là người tham gia giao thông. |
+These are some rules about road safety. It is important to obey these rules when you are a road user.
 </reading>
+
+<translation>
+Đây là một số luật về an toàn đường bộ. Điều quan trọng là phải tuân thủ các luật này khi bạn là người tham gia giao thông.
+</translation>
 
 ---
 
@@ -109,14 +111,20 @@ Phần 1: <eng>Pedestrians</eng> - Luật giao thông dành cho người đi b�
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Pedestrians** | **Người đi bộ** |
-| 1. Always look carefully when you cross the street. | 1. Luôn quan sát cẩn thận khi băng qua đường. |
-| 2. Use the pavement or footpath. | 2. Đi trên vỉa hè hoặc đường dành cho người đi bộ. |
-| 3. Walk across the street at the zebra crossing. | 3. Đi bộ qua đường ở vạch kẻ đường. |
-| 4. Don't cross the road on a red light. | 4. Không sang đường khi đèn đỏ. |
+**Pedestrians**
+1. Always look carefully when you cross the street.
+2. Use the pavement or footpath.
+3. Walk across the street at the zebra crossing.
+4. Don't cross the road on a red light.
 </reading>
+
+<translation>
+**Người đi bộ**
+1. Luôn quan sát cẩn thận khi băng qua đường.
+2. Đi trên vỉa hè hoặc đường dành cho người đi bộ.
+3. Đi bộ qua đường ở vạch kẻ đường.
+4. Không sang đường khi đèn đỏ.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_eeb00d48.webm">
 Có 4 quy tắc quan trọng cho người đi bộ: Luôn quan sát cẩn thận, đi trên vỉa hè hoặc lề đường, qua đường tại vạch kẻ đường, và không qua đường khi đèn đỏ.
@@ -130,14 +138,20 @@ Phần 2: <eng>Cyclists</eng> - Luật giao thông dành cho người đi xe đ�
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Cyclists** | **Người đi xe đạp** |
-| 1. Always keep both hands on the handlebars. | 1. Luôn giữ cả hai tay trên ghi đông. |
-| 2. Wear helmets, and always use the cycle lane. | 2. Đội mũ bảo hiểm và luôn đi trên làn đường dành cho xe đạp. |
-| 3. Give a signal before you turn. | 3. Ra tín hiệu trước khi rẽ. |
-| 4. Don't carry more than one passenger. | 4. Không chở quá một hành khách. |
+**Cyclists**
+1. Always keep both hands on the handlebars.
+2. Wear helmets, and always use the cycle lane.
+3. Give a signal before you turn.
+4. Don't carry more than one passenger.
 </reading>
+
+<translation>
+**Người đi xe đạp**
+1. Luôn giữ cả hai tay trên ghi đông.
+2. Đội mũ bảo hiểm và luôn đi trên làn đường dành cho xe đạp.
+3. Ra tín hiệu trước khi rẽ.
+4. Không chở quá một hành khách.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_d78e44c1.webm">
 Có 4 quy tắc cho người đi xe đạp: Luôn giữ hai tay trên ghi đông, đội mũ bảo hiểm và đi đúng làn đường, ra tín hiệu trước khi rẽ, và không chở quá một người.
@@ -151,14 +165,20 @@ Phần 3: <eng>Passengers</eng> - Luật giao thông dành cho hành khách.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Passengers** | **Hành khách** |
-| 1. Fasten your seatbelt when you are in a car. | 1. Thắt dây an toàn khi ngồi trên ô tô. |
-| 2. Wait for buses to fully stop before getting on or off. | 2. Đợi xe buýt dừng hẳn trước khi lên hoặc xuống. |
-| 3. Don't talk to the driver when he/she is driving. | 3. Không nói chuyện với tài xế khi họ đang lái xe. |
-| 4. Don't stick any body parts out of the window of a moving vehicle. | 4. Không đưa bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ của xe đang chạy. |
+**Passengers**
+1. Fasten your seatbelt when you are in a car.
+2. Wait for buses to fully stop before getting on or off.
+3. Don't talk to the driver when he/she is driving.
+4. Don't stick any body parts out of the window of a moving vehicle.
 </reading>
+
+<translation>
+**Hành khách**
+1. Thắt dây an toàn khi ngồi trên ô tô.
+2. Đợi xe buýt dừng hẳn trước khi lên hoặc xuống.
+3. Không nói chuyện với tài xế khi họ đang lái xe.
+4. Không đưa bất kỳ bộ phận cơ thể nào ra ngoài cửa sổ của xe đang chạy.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_4b3bfe53.webm">
 Có 4 quy tắc cho hành khách: Thắt dây an toàn khi đi ô tô, đợi xe buýt dừng hẳn mới lên xuống, không nói chuyện với tài xế khi xe đang chạy, và không đưa tay hay đầu ra ngoài cửa sổ xe. Quy tắc cuối cùng rất quan trọng để đảm bảo an toàn.

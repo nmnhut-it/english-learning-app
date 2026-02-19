@@ -79,22 +79,32 @@ Bài 2 <eng>Read the dialogue</eng> nha. Đọc nhanh hội thoại về Pelé �
 </task>
 
 <reading>
-**The PE teacher is talking to her students about Pelé.**
-
-| English | Vietnamese |
-|---------|------------|
-| **Teacher:** Today we're going to talk about Pelé. Do you know him? | **Cô giáo:** Hôm nay chúng ta sẽ nói về Pelé. Các em có biết ông ấy không? |
-| **Nick:** Yes, I think he's the best footballer of all time. | **Nick:** Có ạ, em nghĩ ông ấy là cầu thủ xuất sắc nhất mọi thời đại. |
-| **Teacher:** Right. He was born in 1940 in Brazil. His father taught him to play football at a very young age. | **Cô giáo:** Đúng vậy. Ông sinh năm 1940 ở Brazil. Bố ông dạy ông chơi bóng từ khi còn rất nhỏ. |
-| **Susan:** Oh. When did he begin his career in football? | **Susan:** Ồ. Ông ấy bắt đầu sự nghiệp bóng đá khi nào ạ? |
-| **Teacher:** At 15, when he started playing for Santos Football Club. In 1958, he won his first World Cup. | **Cô giáo:** Năm 15 tuổi, khi ông bắt đầu chơi cho CLB Santos. Năm 1958, ông giành chức vô địch World Cup đầu tiên. |
-| **Nick:** How many goals did he score in his career? | **Nick:** Ông ấy đã ghi bao nhiêu bàn thắng trong sự nghiệp? |
-| **Teacher:** 1,281 goals in total, I think. | **Cô giáo:** Tổng cộng 1.281 bàn thắng. |
-| **Nick and Susan:** Wow! Amazing! | **Nick và Susan:** Chà! Tuyệt vời! |
-| **Teacher:** And he became "Football Player of the Century" in 1999. | **Cô giáo:** Và ông trở thành "Cầu thủ của Thế kỷ" năm 1999. |
-| **Michael:** Surely Pelé's a national hero in Brazil. | **Michael:** Chắc chắn Pelé là anh hùng dân tộc ở Brazil. |
-| **Teacher:** Yes, and he's known around the world as "The King of Football". | **Cô giáo:** Đúng vậy, và ông được biết đến trên toàn thế giới là "Vua bóng đá". |
+**Teacher:** Today we're going to talk about Pelé. Do you know him?
+**Nick:** Yes, I think he's the best footballer of all time.
+**Teacher:** Right. He was born in 1940 in Brazil. His father taught him to play football at a very young age.
+**Susan:** Oh. When did he begin his career in football?
+**Teacher:** At 15, when he started playing for Santos Football Club. In 1958, he won his first World Cup.
+**Nick:** How many goals did he score in his career?
+**Teacher:** 1,281 goals in total, I think.
+**Nick and Susan:** Wow! Amazing!
+**Teacher:** And he became "Football Player of the Century" in 1999.
+**Michael:** Surely Pelé's a national hero in Brazil.
+**Teacher:** Yes, and he's known around the world as "The King of Football".
 </reading>
+
+<translation>
+**Cô giáo:** Hôm nay chúng ta sẽ nói về Pelé. Các em có biết ông ấy không?
+**Nick:** Có ạ, em nghĩ ông ấy là cầu thủ xuất sắc nhất mọi thời đại.
+**Cô giáo:** Đúng vậy. Ông sinh năm 1940 ở Brazil. Bố ông dạy ông chơi bóng từ khi còn rất nhỏ.
+**Susan:** Ồ. Ông ấy bắt đầu sự nghiệp bóng đá khi nào ạ?
+**Cô giáo:** Năm 15 tuổi, khi ông bắt đầu chơi cho CLB Santos. Năm 1958, ông giành chức vô địch World Cup đầu tiên.
+**Nick:** Ông ấy đã ghi bao nhiêu bàn thắng trong sự nghiệp?
+**Cô giáo:** Tổng cộng 1.281 bàn thắng.
+**Nick và Susan:** Chà! Tuyệt vời!
+**Cô giáo:** Và ông trở thành "Cầu thủ của Thế kỷ" năm 1999.
+**Michael:** Chắc chắn Pelé là anh hùng dân tộc ở Brazil.
+**Cô giáo:** Đúng vậy, và ông được biết đến trên toàn thế giới là "Vua bóng đá".
+</translation>
 
 <teacher_script pause="90" href="audio/tts_1f8b11e4.webm">
 Đọc rồi dịch hội thoại vô vở đi. 1 phút 30 giây nha. Chú ý các số liệu về Pelé luôn.

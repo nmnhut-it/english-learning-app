@@ -28,13 +28,18 @@ Giờ mình đọc bài đọc nha. Ông Lâm đang giảng bài về các ngu�
 ### Reading - Mr Lam's Lecture
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| Hello, class. Today I'd like to tell you about two energy sources. They are non-renewable sources and renewable sources. | Xin chào cả lớp. Hôm nay tôi muốn nói với các bạn về hai nguồn năng lượng. Chúng là những nguồn không thể tái tạo và những nguồn có thể tái tạo. |
-| Non-renewable sources are coal, oil and natural gas. We can use these sources to produce energy. They are cheap and easy to use. People use them a lot. But they are very limited and will run out soon. | Các nguồn không thể tái tạo là than đá, dầu mỏ và khí đốt tự nhiên. Chúng ta có thể sử dụng những nguồn này để sản xuất năng lượng. Chúng rẻ và dễ sử dụng. Mọi người sử dụng chúng rất nhiều. Nhưng chúng rất hạn chế và sẽ hết sớm. |
-| Renewable sources come from the sun, wind or water. When energy comes from the sun, we call it solar energy. Wind energy comes from the wind, and hydro energy comes from water. Renewable sources are available, clean and safe to use. But they are expensive to produce. | Các nguồn tái tạo đến từ mặt trời, gió hoặc nước. Khi năng lượng đến từ mặt trời, chúng ta gọi nó là năng lượng mặt trời. Năng lượng gió đến từ gió, và năng lượng thủy điện đến từ nước. Nguồn tái tạo có sẵn, sạch sẽ và an toàn để sử dụng. Nhưng chúng đắt tiền để sản xuất. |
-| In the future we will rely more on renewable energy sources. They are better for the environment and they will not run out. | Trong tương lai, chúng ta sẽ dựa nhiều hơn vào các nguồn năng lượng tái tạo. Chúng tốt hơn cho môi trường và chúng sẽ không cạn kiệt. |
+Hello, class. Today I'd like to tell you about two energy sources. They are non-renewable sources and renewable sources.
+Non-renewable sources are coal, oil and natural gas. We can use these sources to produce energy. They are cheap and easy to use. People use them a lot. But they are very limited and will run out soon.
+Renewable sources come from the sun, wind or water. When energy comes from the sun, we call it solar energy. Wind energy comes from the wind, and hydro energy comes from water. Renewable sources are available, clean and safe to use. But they are expensive to produce.
+In the future we will rely more on renewable energy sources. They are better for the environment and they will not run out.
 </reading>
+
+<translation>
+Xin chào cả lớp. Hôm nay tôi muốn nói với các bạn về hai nguồn năng lượng. Chúng là những nguồn không thể tái tạo và những nguồn có thể tái tạo.
+Các nguồn không thể tái tạo là than đá, dầu mỏ và khí đốt tự nhiên. Chúng ta có thể sử dụng những nguồn này để sản xuất năng lượng. Chúng rẻ và dễ sử dụng. Mọi người sử dụng chúng rất nhiều. Nhưng chúng rất hạn chế và sẽ hết sớm.
+Các nguồn tái tạo đến từ mặt trời, gió hoặc nước. Khi năng lượng đến từ mặt trời, chúng ta gọi nó là năng lượng mặt trời. Năng lượng gió đến từ gió, và năng lượng thủy điện đến từ nước. Nguồn tái tạo có sẵn, sạch sẽ và an toàn để sử dụng. Nhưng chúng đắt tiền để sản xuất.
+Trong tương lai, chúng ta sẽ dựa nhiều hơn vào các nguồn năng lượng tái tạo. Chúng tốt hơn cho môi trường và chúng sẽ không cạn kiệt.
+</translation>
 
 <teacher_script pause="180">
 Các em đọc bài và dịch vô vở nha. 3 phút.

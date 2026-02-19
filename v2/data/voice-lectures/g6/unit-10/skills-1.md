@@ -104,20 +104,32 @@ Bài 2, <eng>Read the text and match the beginnings in A with the endings in B</
 </task>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| My future house will be on an island. | Ngôi nhà tương lai của tôi sẽ ở trên một hòn đảo. |
-| It will be surrounded by tall trees and the blue sea. | Nó sẽ được bao quanh bởi những cây cao và biển xanh. |
-| There will be a swimming pool in front of the house. | Trước nhà sẽ có bể bơi. |
-| There will be a helicopter on the roof. | Sẽ có một chiếc trực thăng trên mái nhà. |
-| I can fly to school in it. | Tôi có thể bay đến trường trong đó. |
-| There will be some robots in the house. | Sẽ có một số robot trong nhà. |
-| They will help me to clean the floors, cook meals, wash clothes and water the flowers. | Họ sẽ giúp tôi lau sàn nhà, nấu ăn, giặt quần áo và tưới hoa. |
-| They will also help me to feed the dogs and cats. | Họ cũng sẽ giúp tôi cho chó và mèo ăn. |
-| There will be a super smart TV. | Sẽ có một chiếc TV siêu thông minh. |
-| It will help me to send and receive emails, and contact my friends on other planets. | Nó sẽ giúp tôi gửi và nhận email, cũng như liên lạc với bạn bè của tôi trên các hành tinh khác. |
-| It will also help me to buy food from the supermarket. | Nó cũng sẽ giúp tôi mua thực phẩm từ siêu thị. |
+My future house will be on an island.
+It will be surrounded by tall trees and the blue sea.
+There will be a swimming pool in front of the house.
+There will be a helicopter on the roof.
+I can fly to school in it.
+There will be some robots in the house.
+They will help me to clean the floors, cook meals, wash clothes and water the flowers.
+They will also help me to feed the dogs and cats.
+There will be a super smart TV.
+It will help me to send and receive emails, and contact my friends on other planets.
+It will also help me to buy food from the supermarket.
 </reading>
+
+<translation>
+Ngôi nhà tương lai của tôi sẽ ở trên một hòn đảo.
+Nó sẽ được bao quanh bởi những cây cao và biển xanh.
+Trước nhà sẽ có bể bơi.
+Sẽ có một chiếc trực thăng trên mái nhà.
+Tôi có thể bay đến trường trong đó.
+Sẽ có một số robot trong nhà.
+Họ sẽ giúp tôi lau sàn nhà, nấu ăn, giặt quần áo và tưới hoa.
+Họ cũng sẽ giúp tôi cho chó và mèo ăn.
+Sẽ có một chiếc TV siêu thông minh.
+Nó sẽ giúp tôi gửi và nhận email, cũng như liên lạc với bạn bè của tôi trên các hành tinh khác.
+Nó cũng sẽ giúp tôi mua thực phẩm từ siêu thị.
+</translation>
 
 <teacher_script pause="180">
 Đọc bài đọc và dịch vô vở. 3 phút nha.

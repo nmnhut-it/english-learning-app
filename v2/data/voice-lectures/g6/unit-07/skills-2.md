@@ -64,20 +64,32 @@ Chúng ta cùng đến với phần <eng>Listening</eng>. Có 2 bài tập.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| Here are some interesting TV programmes for you. | Đây là một số chương trình TV thú vị dành cho bạn. |
-| Green Summer, a music programme, is on channel 1. | Mùa Hè Xanh, một chương trình âm nhạc, chiếu trên kênh 1. |
-| It starts at eight o'clock. | Nó bắt đầu lúc 8 giờ. |
-| My Childhood is on channel 2. | Tuổi Thơ Tôi chiếu trên kênh 2. |
-| It's the story of a country boy and his dog Billy. | Đó là câu chuyện về một cậu bé nông thôn và chú chó Billy của cậu ấy. |
-| On channel 3, you will watch Harry Potter at 8.30. | Trên kênh 3, bạn sẽ xem Harry Potter lúc 8:30. |
-| Children all over the world love this film. | Trẻ em trên toàn thế giới đều yêu thích bộ phim này. |
-| If you like to learn English, you can go to English and Fun on channel 1. | Nếu bạn muốn học tiếng Anh, bạn có thể xem English and Fun trên kênh 1. |
-| It's at nine o'clock. | Nó chiếu lúc 9 giờ. |
-| We hope you can choose a programme for yourself. | Chúng tôi hy vọng bạn có thể chọn một chương trình cho mình. |
-| Enjoy and have a great time. | Hãy tận hưởng và có khoảng thời gian tuyệt vời. |
+Here are some interesting TV programmes for you.
+Green Summer, a music programme, is on channel 1.
+It starts at eight o'clock.
+My Childhood is on channel 2.
+It's the story of a country boy and his dog Billy.
+On channel 3, you will watch Harry Potter at 8.30.
+Children all over the world love this film.
+If you like to learn English, you can go to English and Fun on channel 1.
+It's at nine o'clock.
+We hope you can choose a programme for yourself.
+Enjoy and have a great time.
 </reading>
+
+<translation>
+Đây là một số chương trình TV thú vị dành cho bạn.
+Mùa Hè Xanh, một chương trình âm nhạc, chiếu trên kênh 1.
+Nó bắt đầu lúc 8 giờ.
+Tuổi Thơ Tôi chiếu trên kênh 2.
+Đó là câu chuyện về một cậu bé nông thôn và chú chó Billy của cậu ấy.
+Trên kênh 3, bạn sẽ xem Harry Potter lúc 8:30.
+Trẻ em trên toàn thế giới đều yêu thích bộ phim này.
+Nếu bạn muốn học tiếng Anh, bạn có thể xem English and Fun trên kênh 1.
+Nó chiếu lúc 9 giờ.
+Chúng tôi hy vọng bạn có thể chọn một chương trình cho mình.
+Hãy tận hưởng và có khoảng thời gian tuyệt vời.
+</translation>
 
 <teacher_script pause="60" href="audio/tts_0a01f4ff.mp3">
 Các em có 1 phút để đọc hiểu bài nghe.
@@ -374,16 +386,24 @@ Chụp xong thì bấm tiếp tục.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| I like watching TV, about one hour a day. | Tôi thích xem TV, khoảng một giờ một ngày. |
-| I only watch TV in the evening. | Tôi chỉ xem TV vào buổi tối. |
-| During the day, I go to school. | Ban ngày, tôi đi học. |
-| On Saturday and Sunday, I watch more. | Vào thứ Bảy và Chủ Nhật, tôi xem nhiều hơn. |
-| Sometimes I watch TV when I'm eating, but I never watch TV when I'm studying. | Đôi khi tôi xem TV khi đang ăn, nhưng tôi không bao giờ xem TV khi đang học. |
-| I watch Science programme the most. | Tôi xem chương trình Khoa học nhiều nhất. |
-| It has interesting educational programmes for children. | Nó có những chương trình giáo dục thú vị cho trẻ em. |
+I like watching TV, about one hour a day.
+I only watch TV in the evening.
+During the day, I go to school.
+On Saturday and Sunday, I watch more.
+Sometimes I watch TV when I'm eating, but I never watch TV when I'm studying.
+I watch Science programme the most.
+It has interesting educational programmes for children.
 </reading>
+
+<translation>
+Tôi thích xem TV, khoảng một giờ một ngày.
+Tôi chỉ xem TV vào buổi tối.
+Ban ngày, tôi đi học.
+Vào thứ Bảy và Chủ Nhật, tôi xem nhiều hơn.
+Đôi khi tôi xem TV khi đang ăn, nhưng tôi không bao giờ xem TV khi đang học.
+Tôi xem chương trình Khoa học nhiều nhất.
+Nó có những chương trình giáo dục thú vị cho trẻ em.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_4223fb77.mp3">
 Bài mẫu dùng các cấu trúc: <eng>I like watching TV... I only watch TV in the... On Saturday and Sunday, I watch more</eng>.

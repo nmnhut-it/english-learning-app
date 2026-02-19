@@ -52,20 +52,28 @@ Bài 2 <eng>Read and choose</eng> nha. Đọc bài rồi chọn đáp án đúng
 </teacher_script>
 
 <reading>
-**Why We Go to Shopping Centres**
-
-| English | Vietnamese |
-|---------|------------|
-| Shopping centres attract a lot of customers for a number of reasons. | Các trung tâm mua sắm thu hút nhiều khách hàng vì nhiều lý do. |
-| First of all, they offer a wide range of products, so customers can find almost everything they need there. | Trước hết, chúng cung cấp nhiều loại sản phẩm đa dạng, nên khách hàng có thể tìm thấy hầu hết mọi thứ họ cần ở đó. |
-| Besides, customers can touch the products and try on clothes or shoes before they decide to buy them. | Bên cạnh đó, khách hàng có thể chạm vào sản phẩm và thử quần áo hoặc giày trước khi quyết định mua. |
-| During sales, shopping centres can help customers save money and time because they don't have to go to different places to buy what they need. | Trong các đợt giảm giá, trung tâm mua sắm có thể giúp khách hàng tiết kiệm tiền và thời gian vì họ không phải đi đến nhiều nơi khác nhau để mua những gì họ cần. |
-| However, people also go to shopping centres for other reasons. | Tuy nhiên, mọi người cũng đến trung tâm mua sắm vì những lý do khác. |
-| They go there to enjoy entertainment such as live music and fashion shows. | Họ đến đó để thưởng thức giải trí như nhạc sống và trình diễn thời trang. |
-| During holidays, shopping centres are full of beautiful decorations. | Trong các ngày lễ, trung tâm mua sắm đầy ắp những trang trí đẹp mắt. |
-| Some people even go there to exercise because they enjoy walking for one or two hours in clean and well-lit areas. | Một số người thậm chí đến đó để tập thể dục vì họ thích đi bộ một hoặc hai tiếng trong khu vực sạch sẽ và được chiếu sáng tốt. |
-| Others go there to avoid the heat or cold outside because shopping centres offer year-round free air conditioning and heating. | Những người khác đến đó để tránh nóng hoặc lạnh bên ngoài vì trung tâm mua sắm cung cấp điều hòa không khí và sưởi ấm miễn phí quanh năm. |
+Shopping centres attract a lot of customers for a number of reasons.
+First of all, they offer a wide range of products, so customers can find almost everything they need there.
+Besides, customers can touch the products and try on clothes or shoes before they decide to buy them.
+During sales, shopping centres can help customers save money and time because they don't have to go to different places to buy what they need.
+However, people also go to shopping centres for other reasons.
+They go there to enjoy entertainment such as live music and fashion shows.
+During holidays, shopping centres are full of beautiful decorations.
+Some people even go there to exercise because they enjoy walking for one or two hours in clean and well-lit areas.
+Others go there to avoid the heat or cold outside because shopping centres offer year-round free air conditioning and heating.
 </reading>
+
+<translation>
+Các trung tâm mua sắm thu hút nhiều khách hàng vì nhiều lý do.
+Trước hết, chúng cung cấp nhiều loại sản phẩm đa dạng, nên khách hàng có thể tìm thấy hầu hết mọi thứ họ cần ở đó.
+Bên cạnh đó, khách hàng có thể chạm vào sản phẩm và thử quần áo hoặc giày trước khi quyết định mua.
+Trong các đợt giảm giá, trung tâm mua sắm có thể giúp khách hàng tiết kiệm tiền và thời gian vì họ không phải đi đến nhiều nơi khác nhau để mua những gì họ cần.
+Tuy nhiên, mọi người cũng đến trung tâm mua sắm vì những lý do khác.
+Họ đến đó để thưởng thức giải trí như nhạc sống và trình diễn thời trang.
+Trong các ngày lễ, trung tâm mua sắm đầy ắp những trang trí đẹp mắt.
+Một số người thậm chí đến đó để tập thể dục vì họ thích đi bộ một hoặc hai tiếng trong khu vực sạch sẽ và được chiếu sáng tốt.
+Những người khác đến đó để tránh nóng hoặc lạnh bên ngoài vì trung tâm mua sắm cung cấp điều hòa không khí và sưởi ấm miễn phí quanh năm.
+</translation>
 
 <questions type="multiple_choice">
 **1.** People go to a shopping centre _______.

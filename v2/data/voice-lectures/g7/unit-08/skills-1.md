@@ -114,24 +114,36 @@ Giờ mình cùng đọc bài về phim Harry Potter nha. Đây là phần đầ
 </teacher_script>
 
 <reading>
-**Harry Potter and the Sorcerer's Stone**
-
-| English | Vietnamese |
-|---------|------------|
-| Harry Potter and the Sorcerer's Stone is a fantasy. | Harry Potter và Hòn đá Phù thủy là phim giả tưởng. |
-| Its director is Chris Columbus. | Đạo diễn là Chris Columbus. |
-| It is the first of the Harry Potter film series. | Đây là phần đầu tiên của loạt phim Harry Potter. |
-| Daniel Radcliffe is one of the stars in the film. | Daniel Radcliffe là một trong những diễn viên chính trong phim. |
-| The film tells the story of Harry Potter. | Phim kể câu chuyện về Harry Potter. |
-| He's a powerful wizard. | Cậu ấy là một phù thủy quyền năng. |
-| He is a student at a school for wizards and learns about himself, his family, and the bad things happening around him. | Cậu ấy là học sinh tại trường dành cho phù thủy và tìm hiểu về bản thân, gia đình và những điều xấu xa đang xảy ra xung quanh. |
-| The film received a lot of good reviews. | Bộ phim nhận được nhiều đánh giá tốt. |
-| People say it's a must-see for teens. | Mọi người nói đây là phim phải xem cho thanh thiếu niên. |
-| I agree because the story is gripping and the acting is excellent. | Tôi đồng ý vì câu chuyện rất lôi cuốn và diễn xuất xuất sắc. |
-| The music is also wonderful. | Nhạc phim cũng tuyệt vời. |
-| Although Harry Potter and the Sorcerer's Stone is a little frightening at times, it is very interesting and full of action. | Mặc dù Harry Potter và Hòn đá Phù thủy đôi khi hơi đáng sợ, nó rất thú vị và đầy hành động. |
-| Go and see it if you can. | Hãy đi xem nếu bạn có thể. |
+Harry Potter and the Sorcerer's Stone is a fantasy.
+Its director is Chris Columbus.
+It is the first of the Harry Potter film series.
+Daniel Radcliffe is one of the stars in the film.
+The film tells the story of Harry Potter.
+He's a powerful wizard.
+He is a student at a school for wizards and learns about himself, his family, and the bad things happening around him.
+The film received a lot of good reviews.
+People say it's a must-see for teens.
+I agree because the story is gripping and the acting is excellent.
+The music is also wonderful.
+Although Harry Potter and the Sorcerer's Stone is a little frightening at times, it is very interesting and full of action.
+Go and see it if you can.
 </reading>
+
+<translation>
+Harry Potter và Hòn đá Phù thủy là phim giả tưởng.
+Đạo diễn là Chris Columbus.
+Đây là phần đầu tiên của loạt phim Harry Potter.
+Daniel Radcliffe là một trong những diễn viên chính trong phim.
+Phim kể câu chuyện về Harry Potter.
+Cậu ấy là một phù thủy quyền năng.
+Cậu ấy là học sinh tại trường dành cho phù thủy và tìm hiểu về bản thân, gia đình và những điều xấu xa đang xảy ra xung quanh.
+Bộ phim nhận được nhiều đánh giá tốt.
+Mọi người nói đây là phim phải xem cho thanh thiếu niên.
+Tôi đồng ý vì câu chuyện rất lôi cuốn và diễn xuất xuất sắc.
+Nhạc phim cũng tuyệt vời.
+Mặc dù Harry Potter và Hòn đá Phù thủy đôi khi hơi đáng sợ, nó rất thú vị và đầy hành động.
+Hãy đi xem nếu bạn có thể.
+</translation>
 
 ---
 

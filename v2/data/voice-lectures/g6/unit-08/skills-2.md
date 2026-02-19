@@ -59,27 +59,32 @@ Ok đây là nội dung chi tiết bài nghe nè. Đọc lại để hiểu rõ 
 </teacher_script>
 
 <reading>
-**Passage 1 - Hai:**
-
-| English | Vietnamese |
-|---------|------------|
-| Hello. My name's Hai. I love sport. | Xin chào. Tôi tên Hải. Tôi yêu thể thao. |
-| I play volleyball at school and I often go cycling with my dad at the weekend. | Tôi chơi bóng chuyền ở trường và thường đạp xe với bố vào cuối tuần. |
-| But my favourite sport is karate. | Nhưng môn thể thao yêu thích của tôi là karate. |
-| I practise it three times a week. | Tôi luyện tập 3 lần một tuần. |
-| It makes me strong and confident. | Nó giúp tôi mạnh mẽ và tự tin. |
-
-**Passage 2 - Alice:**
-
-| English | Vietnamese |
-|---------|------------|
-| My name's Alice. I'm twelve years old. | Tên tôi là Alice. Tôi 12 tuổi. |
-| I don't like doing sport very much, but I like watching sport on TV. | Tôi không thích chơi thể thao lắm, nhưng tôi thích xem thể thao trên TV. |
-| My hobby is playing chess. | Sở thích của tôi là chơi cờ vua. |
-| My friend and I play chess every Saturday. | Tôi và bạn chơi cờ mỗi thứ Bảy. |
-| I sometimes play computer games, too. | Tôi đôi khi cũng chơi game máy tính. |
-| I hope to create a new computer game one day. | Tôi hy vọng một ngày nào đó sẽ tạo ra game mới. |
+Hello. My name's Hai. I love sport.
+I play volleyball at school and I often go cycling with my dad at the weekend.
+But my favourite sport is karate.
+I practise it three times a week.
+It makes me strong and confident.
+My name's Alice. I'm twelve years old.
+I don't like doing sport very much, but I like watching sport on TV.
+My hobby is playing chess.
+My friend and I play chess every Saturday.
+I sometimes play computer games, too.
+I hope to create a new computer game one day.
 </reading>
+
+<translation>
+Xin chào. Tôi tên Hải. Tôi yêu thể thao.
+Tôi chơi bóng chuyền ở trường và thường đạp xe với bố vào cuối tuần.
+Nhưng môn thể thao yêu thích của tôi là karate.
+Tôi luyện tập 3 lần một tuần.
+Nó giúp tôi mạnh mẽ và tự tin.
+Tên tôi là Alice. Tôi 12 tuổi.
+Tôi không thích chơi thể thao lắm, nhưng tôi thích xem thể thao trên TV.
+Sở thích của tôi là chơi cờ vua.
+Tôi và bạn chơi cờ mỗi thứ Bảy.
+Tôi đôi khi cũng chơi game máy tính.
+Tôi hy vọng một ngày nào đó sẽ tạo ra game mới.
+</translation>
 
 ---
 

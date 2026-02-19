@@ -89,18 +89,28 @@ I can see a busy street with heavy traffic. There are many vehicles: cars, buses
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| Big cities around the world have traffic problems. Mumbai in India is one of them. | Các thành phố lớn trên thế giới đều có vấn đề giao thông. Mumbai ở Ấn Độ là một trong số đó. |
-| Mumbai is one of the most congested cities in the world. | Mumbai là một trong những thành phố tắc nghẽn nhất thế giới. |
-| Traffic jams happen nearly every day, so drivers have to spend a lot of time on the road. | Tắc đường xảy ra gần như mỗi ngày, nên tài xế phải mất nhiều thời gian trên đường. |
-| There are several reasons for traffic jams in this city. | Có vài lý do cho tình trạng tắc đường ở thành phố này. |
-| One reason is its increase in population. | Một lý do là sự gia tăng dân số. |
-| With nearly 20 million, Mumbai has too many people on the road. | Với gần 20 triệu dân, Mumbai có quá nhiều người trên đường. |
-| Another reason is that the roads in Mumbai are narrow, and many are not in good condition. | Một lý do khác là đường ở Mumbai hẹp, và nhiều con đường không trong tình trạng tốt. |
-| Also, many road users do not obey the traffic rules. | Ngoài ra, nhiều người tham gia giao thông không tuân thủ luật giao thông. |
-| As a result, this problem is getting worse and worse. | Kết quả là, vấn đề này ngày càng tệ hơn. |
+Big cities around the world have traffic problems. Mumbai in India is one of them.
+Mumbai is one of the most congested cities in the world.
+Traffic jams happen nearly every day, so drivers have to spend a lot of time on the road.
+There are several reasons for traffic jams in this city.
+One reason is its increase in population.
+With nearly 20 million, Mumbai has too many people on the road.
+Another reason is that the roads in Mumbai are narrow, and many are not in good condition.
+Also, many road users do not obey the traffic rules.
+As a result, this problem is getting worse and worse.
 </reading>
+
+<translation>
+Các thành phố lớn trên thế giới đều có vấn đề giao thông. Mumbai ở Ấn Độ là một trong số đó.
+Mumbai là một trong những thành phố tắc nghẽn nhất thế giới.
+Tắc đường xảy ra gần như mỗi ngày, nên tài xế phải mất nhiều thời gian trên đường.
+Có vài lý do cho tình trạng tắc đường ở thành phố này.
+Một lý do là sự gia tăng dân số.
+Với gần 20 triệu dân, Mumbai có quá nhiều người trên đường.
+Một lý do khác là đường ở Mumbai hẹp, và nhiều con đường không trong tình trạng tốt.
+Ngoài ra, nhiều người tham gia giao thông không tuân thủ luật giao thông.
+Kết quả là, vấn đề này ngày càng tệ hơn.
+</translation>
 
 <teacher_script pause="60" href="audio/tts_a8150dfc.webm">
 Các em hãy dành 1 phút để đọc bài nghe nhé.
@@ -369,14 +379,20 @@ Sau đây là một bài viết mẫu để các em tham khảo.
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| My town is not very crowded, but there are some traffic problems. | Thị trấn của tôi không đông lắm, nhưng có một số vấn đề giao thông. |
-| The roads are narrow and bumpy. | Đường thì hẹp và gồ ghề. |
-| Some people ride their motorbikes dangerously. | Một số người chạy xe máy nguy hiểm. |
-| Some young people do not obey the traffic lights, and therefore accidents happen. | Một số người trẻ không tuân thủ đèn giao thông, và vì vậy tai nạn xảy ra. |
-| I think the traffic rules should be made stricter to reduce accidents. | Tôi nghĩ luật giao thông nên được làm nghiêm ngặt hơn để giảm tai nạn. |
+My town is not very crowded, but there are some traffic problems.
+The roads are narrow and bumpy.
+Some people ride their motorbikes dangerously.
+Some young people do not obey the traffic lights, and therefore accidents happen.
+I think the traffic rules should be made stricter to reduce accidents.
 </reading>
+
+<translation>
+Thị trấn của tôi không đông lắm, nhưng có một số vấn đề giao thông.
+Đường thì hẹp và gồ ghề.
+Một số người chạy xe máy nguy hiểm.
+Một số người trẻ không tuân thủ đèn giao thông, và vì vậy tai nạn xảy ra.
+Tôi nghĩ luật giao thông nên được làm nghiêm ngặt hơn để giảm tai nạn.
+</translation>
 
 <teacher_script pause="60" href="audio/tts_62f0f119.webm">
 Các em hãy so sánh bài viết của mình với bài mẫu và chỉnh sửa nếu cần nhé. Các em có 1 phút.

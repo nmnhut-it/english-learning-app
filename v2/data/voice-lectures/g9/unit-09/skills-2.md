@@ -21,25 +21,38 @@ Nghe bạn Trang chia sẻ về cách học tiếng Anh nha. Chú ý các phươ
 </audio>
 
 <reading>
-**Tapescript - Bài nghe:**
-
-| English | Vietnamese |
-|---------|------------|
-| Hi, my name is Trang. | Xin chào, tên tôi là Trang. |
-| I have learned English for seven years. | Tôi đã học tiếng Anh được bảy năm. |
-| Today I want to share with you how I learn English. | Hôm nay tôi muốn chia sẻ với các bạn cách tôi học tiếng Anh. |
-| First, I read books in English. | Đầu tiên, tôi đọc sách bằng tiếng Anh. |
-| When I see a new word, I try to guess its meaning from the context. | Khi tôi thấy một từ mới, tôi cố gắng đoán nghĩa của nó từ ngữ cảnh. |
-| Second, I use a good dictionary. | Thứ hai, tôi dùng một cuốn từ điển tốt. |
-| I check the meaning and pronunciation of new words. | Tôi tra nghĩa và cách phát âm của các từ mới. |
-| Third, I keep a vocabulary notebook. | Thứ ba, tôi có một cuốn sổ từ vựng. |
-| I write down new words with their meanings and example sentences. | Tôi ghi lại các từ mới cùng với nghĩa và câu ví dụ. |
-| I review my notebook every day. | Tôi ôn lại sổ tay mỗi ngày. |
-| Finally, I practice speaking English whenever I can. | Cuối cùng, tôi luyện nói tiếng Anh bất cứ khi nào có thể. |
-| I speak with my friends and teachers at school. | Tôi nói chuyện với bạn bè và thầy cô ở trường. |
-| For pronunciation, I listen to English podcasts and repeat after them. | Về phát âm, tôi nghe podcast tiếng Anh và nhắc lại theo. |
-| These methods have helped me improve my English a lot. | Những phương pháp này đã giúp tôi cải thiện tiếng Anh rất nhiều. |
+Hi, my name is Trang.
+I have learned English for seven years.
+Today I want to share with you how I learn English.
+First, I read books in English.
+When I see a new word, I try to guess its meaning from the context.
+Second, I use a good dictionary.
+I check the meaning and pronunciation of new words.
+Third, I keep a vocabulary notebook.
+I write down new words with their meanings and example sentences.
+I review my notebook every day.
+Finally, I practice speaking English whenever I can.
+I speak with my friends and teachers at school.
+For pronunciation, I listen to English podcasts and repeat after them.
+These methods have helped me improve my English a lot.
 </reading>
+
+<translation>
+Xin chào, tên tôi là Trang.
+Tôi đã học tiếng Anh được bảy năm.
+Hôm nay tôi muốn chia sẻ với các bạn cách tôi học tiếng Anh.
+Đầu tiên, tôi đọc sách bằng tiếng Anh.
+Khi tôi thấy một từ mới, tôi cố gắng đoán nghĩa của nó từ ngữ cảnh.
+Thứ hai, tôi dùng một cuốn từ điển tốt.
+Tôi tra nghĩa và cách phát âm của các từ mới.
+Thứ ba, tôi có một cuốn sổ từ vựng.
+Tôi ghi lại các từ mới cùng với nghĩa và câu ví dụ.
+Tôi ôn lại sổ tay mỗi ngày.
+Cuối cùng, tôi luyện nói tiếng Anh bất cứ khi nào có thể.
+Tôi nói chuyện với bạn bè và thầy cô ở trường.
+Về phát âm, tôi nghe podcast tiếng Anh và nhắc lại theo.
+Những phương pháp này đã giúp tôi cải thiện tiếng Anh rất nhiều.
+</translation>
 
 <teacher_script pause="0">
 Tóm tắt 4 phương pháp của Trang nha:

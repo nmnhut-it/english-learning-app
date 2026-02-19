@@ -27,12 +27,16 @@ Giờ mình đọc bài đọc nha. Bài đọc về công ty xe điện Roadrun
 ### Reading - Roadrunner
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| Roadrunner is a car company that makes electric cars. The company introduced the first model in 2015 and they named it Speed. Speed soon became a success. Speed is safe, fast, comfortable, and not very expensive. It has four seats. The car can travel over 350 kilometres per hour. You only have to charge the battery every 700 kilometres. It even has a gaming screen inside. | Roadrunner là một công ty sản xuất ô tô điện. Công ty đã giới thiệu mô hình đầu tiên vào năm 2015 và họ đặt tên cho nó là Speed (Tốc độ). Speed sớm thành công. Speed an toàn, nhanh chóng, thoải mái và không tốn kém nhiều. Nó có bốn chỗ ngồi. Xe có thể di chuyển trên 350 km/h. Bạn chỉ phải sạc pin sau mỗi 700 km. Nó thậm chí còn có một màn hình chơi game bên trong xe. |
-| The company will introduce a new model next year called Safety. This model will become the largest and safest electric car you can buy. It will be able to carry seven passengers. The new model will also be more economical. | Công ty sẽ giới thiệu một mô hình mới vào năm tới có tên là Safety (An toàn). Mẫu xe này sẽ trở thành chiếc xe điện lớn nhất và an toàn nhất mà bạn có thể mua. Nó sẽ có thể chở bảy hành khách. Mô hình mới cũng sẽ tiết kiệm hơn. |
-| Both models have an autopilot function, so they are driverless. Passengers can read, play games, or even sleep while they travel. | Cả hai mô hình đều có chức năng lái tự động, vì vậy chúng không cần người lái. Hành khách có thể đọc, chơi trò chơi hoặc thậm chí ngủ trong khi đi du lịch. |
+Roadrunner is a car company that makes electric cars. The company introduced the first model in 2015 and they named it Speed. Speed soon became a success. Speed is safe, fast, comfortable, and not very expensive. It has four seats. The car can travel over 350 kilometres per hour. You only have to charge the battery every 700 kilometres. It even has a gaming screen inside.
+The company will introduce a new model next year called Safety. This model will become the largest and safest electric car you can buy. It will be able to carry seven passengers. The new model will also be more economical.
+Both models have an autopilot function, so they are driverless. Passengers can read, play games, or even sleep while they travel.
 </reading>
+
+<translation>
+Roadrunner là một công ty sản xuất ô tô điện. Công ty đã giới thiệu mô hình đầu tiên vào năm 2015 và họ đặt tên cho nó là Speed (Tốc độ). Speed sớm thành công. Speed an toàn, nhanh chóng, thoải mái và không tốn kém nhiều. Nó có bốn chỗ ngồi. Xe có thể di chuyển trên 350 km/h. Bạn chỉ phải sạc pin sau mỗi 700 km. Nó thậm chí còn có một màn hình chơi game bên trong xe.
+Công ty sẽ giới thiệu một mô hình mới vào năm tới có tên là Safety (An toàn). Mẫu xe này sẽ trở thành chiếc xe điện lớn nhất và an toàn nhất mà bạn có thể mua. Nó sẽ có thể chở bảy hành khách. Mô hình mới cũng sẽ tiết kiệm hơn.
+Cả hai mô hình đều có chức năng lái tự động, vì vậy chúng không cần người lái. Hành khách có thể đọc, chơi trò chơi hoặc thậm chí ngủ trong khi đi du lịch.
+</translation>
 
 <teacher_script pause="180">
 Các em đọc bài và dịch vô vở nha. 3 phút.

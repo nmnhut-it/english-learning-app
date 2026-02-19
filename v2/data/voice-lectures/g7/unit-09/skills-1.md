@@ -60,27 +60,46 @@ Bài 2. Bây giờ các em đọc email của Mark gửi cho Nick về lễ hộ
 </teacher_script>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| **Subject: Amazing Twins Day Festival!** | **Chủ đề: Lễ hội Ngày Song Sinh tuyệt vời!** |
-| Hi Nick, | Chào Nick, |
-| We arrived in Twinsburg, Ohio two days ago. | Chúng tôi đến Twinsburg, Ohio hai ngày trước. |
-| People here hold the Twins Day Festival every year. | Mọi người ở đây tổ chức Lễ hội Ngày Song Sinh hàng năm. |
-| It happens on the first weekend in August. | Nó diễn ra vào cuối tuần đầu tiên của tháng Tám. |
-| It's the largest gathering for twins in the world. | Đây là cuộc tụ họp lớn nhất dành cho các cặp song sinh trên thế giới. |
-| Thousands of twins come from different countries. | Hàng ngàn cặp song sinh đến từ các quốc gia khác nhau. |
-| Yesterday morning, my twin sister and I joined the Double Take Parade, a parade of twins. | Sáng hôm qua, chị em sinh đôi của tôi và tôi đã tham gia Cuộc diễu hành Double Take, một cuộc diễu hành của các cặp song sinh. |
-| We wore uniforms and walked together. | Chúng tôi mặc đồng phục và đi bộ cùng nhau. |
-| Then we saw a Talent Show. | Sau đó chúng tôi xem một chương trình Tài năng. |
-| It featured singing, dancing, comedy, and other things. | Nó có các tiết mục ca hát, nhảy múa, hài kịch và những thứ khác. |
-| I loved the performance by the twins from Korea the most. | Tôi yêu thích nhất tiết mục biểu diễn của cặp song sinh từ Hàn Quốc. |
-| This morning we ran in the Fun Run. | Sáng nay chúng tôi chạy trong cuộc chạy Fun Run. |
-| We didn't win but had a lot of fun. | Chúng tôi không thắng nhưng rất vui. |
-| This afternoon we took photos with twins from other countries. | Chiều nay chúng tôi chụp ảnh với các cặp song sinh từ các nước khác. |
-| This is one of the most exciting festivals I've been to. | Đây là một trong những lễ hội thú vị nhất mà tôi từng tham dự. |
-| I'm getting sleepy, so bye for now. | Tôi đang buồn ngủ rồi, nên tạm biệt nhé. |
-| Best, Mark | Thân, Mark |
+**Subject: Amazing Twins Day Festival!**
+Hi Nick,
+We arrived in Twinsburg, Ohio two days ago.
+People here hold the Twins Day Festival every year.
+It happens on the first weekend in August.
+It's the largest gathering for twins in the world.
+Thousands of twins come from different countries.
+Yesterday morning, my twin sister and I joined the Double Take Parade, a parade of twins.
+We wore uniforms and walked together.
+Then we saw a Talent Show.
+It featured singing, dancing, comedy, and other things.
+I loved the performance by the twins from Korea the most.
+This morning we ran in the Fun Run.
+We didn't win but had a lot of fun.
+This afternoon we took photos with twins from other countries.
+This is one of the most exciting festivals I've been to.
+I'm getting sleepy, so bye for now.
+Best, Mark
 </reading>
+
+<translation>
+**Chủ đề: Lễ hội Ngày Song Sinh tuyệt vời!**
+Chào Nick,
+Chúng tôi đến Twinsburg, Ohio hai ngày trước.
+Mọi người ở đây tổ chức Lễ hội Ngày Song Sinh hàng năm.
+Nó diễn ra vào cuối tuần đầu tiên của tháng Tám.
+Đây là cuộc tụ họp lớn nhất dành cho các cặp song sinh trên thế giới.
+Hàng ngàn cặp song sinh đến từ các quốc gia khác nhau.
+Sáng hôm qua, chị em sinh đôi của tôi và tôi đã tham gia Cuộc diễu hành Double Take, một cuộc diễu hành của các cặp song sinh.
+Chúng tôi mặc đồng phục và đi bộ cùng nhau.
+Sau đó chúng tôi xem một chương trình Tài năng.
+Nó có các tiết mục ca hát, nhảy múa, hài kịch và những thứ khác.
+Tôi yêu thích nhất tiết mục biểu diễn của cặp song sinh từ Hàn Quốc.
+Sáng nay chúng tôi chạy trong cuộc chạy Fun Run.
+Chúng tôi không thắng nhưng rất vui.
+Chiều nay chúng tôi chụp ảnh với các cặp song sinh từ các nước khác.
+Đây là một trong những lễ hội thú vị nhất mà tôi từng tham dự.
+Tôi đang buồn ngủ rồi, nên tạm biệt nhé.
+Thân, Mark
+</translation>
 
 <teacher_script pause="120">
 Các em hãy dành 2 phút đọc và hiểu nội dung email nhé.

@@ -71,26 +71,40 @@ Bài 2. Đọc bưu thiếp của Mai gửi ông bà từ Stockholm và trả l�
 </teacher_script>
 
 <reading>
-**Postcard from Stockholm**
-
-| English | Vietnamese |
-|---------|------------|
-| September 6th | Ngày 6 tháng 9 |
-| Dear Grandpa and Grandma, | Kính gửi ông và bà, |
-| Stockholm is fantastic! | Stockholm thật tuyệt vời! |
-| Its weather is perfect, sunny! | Thời tiết ở đây hoàn hảo, đầy nắng! |
-| Our hotel is good. It has a swimming pool and a gym. | Khách sạn của chúng cháu rất tốt. Nó có hồ bơi và phòng tập. |
-| It offers delicious breakfast. | Nó phục vụ bữa sáng ngon. |
-| Yesterday Mum, Dad and I rented 3 bikes and cycled to the Old Town. | Hôm qua bố, mẹ và cháu thuê 3 chiếc xe đạp và đạp xe đến Phố Cổ. |
-| My parents wore their helmets and I wore mine. | Bố mẹ đội mũ bảo hiểm của họ và cháu đội mũ của cháu. |
-| We visited the Royal Palace first. | Chúng cháu thăm Cung điện Hoàng gia trước. |
-| What a beautiful place! | Thật là một nơi đẹp! |
-| Mum loved it. She said, "Swedish art is amazing." | Mẹ rất thích. Mẹ nói "Nghệ thuật Thụy Điển thật tuyệt vời." |
-| After that, we had "fika", a café break, in a traditional café. | Sau đó, chúng cháu uống "fika" - giờ nghỉ cà phê - trong một quán cà phê truyền thống. |
-| Everything is so wonderful! | Mọi thứ đều tuyệt vời! |
-| Wish you were here! | Cháu ước gì ông bà ở đây! |
-| Love, Mai | Yêu ông bà, Mai |
+September 6th
+Dear Grandpa and Grandma,
+Stockholm is fantastic!
+Its weather is perfect, sunny!
+Our hotel is good. It has a swimming pool and a gym.
+It offers delicious breakfast.
+Yesterday Mum, Dad and I rented 3 bikes and cycled to the Old Town.
+My parents wore their helmets and I wore mine.
+We visited the Royal Palace first.
+What a beautiful place!
+Mum loved it. She said, "Swedish art is amazing."
+After that, we had "fika", a café break, in a traditional café.
+Everything is so wonderful!
+Wish you were here!
+Love, Mai
 </reading>
+
+<translation>
+Ngày 6 tháng 9
+Kính gửi ông và bà,
+Stockholm thật tuyệt vời!
+Thời tiết ở đây hoàn hảo, đầy nắng!
+Khách sạn của chúng cháu rất tốt. Nó có hồ bơi và phòng tập.
+Nó phục vụ bữa sáng ngon.
+Hôm qua bố, mẹ và cháu thuê 3 chiếc xe đạp và đạp xe đến Phố Cổ.
+Bố mẹ đội mũ bảo hiểm của họ và cháu đội mũ của cháu.
+Chúng cháu thăm Cung điện Hoàng gia trước.
+Thật là một nơi đẹp!
+Mẹ rất thích. Mẹ nói "Nghệ thuật Thụy Điển thật tuyệt vời."
+Sau đó, chúng cháu uống "fika" - giờ nghỉ cà phê - trong một quán cà phê truyền thống.
+Mọi thứ đều tuyệt vời!
+Cháu ước gì ông bà ở đây!
+Yêu ông bà, Mai
+</translation>
 
 <teacher_script pause="90" href="audio/tts_f4929ea7.webm">
 Đọc bưu thiếp và trả lời 4 câu hỏi trắc nghiệm. Chú ý các chi tiết: khách sạn có gì, họ đi đâu bằng xe đạp, "fika" là gì. 90 giây nha.

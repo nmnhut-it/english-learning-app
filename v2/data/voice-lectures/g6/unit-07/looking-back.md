@@ -147,15 +147,22 @@ VTV1 is a popular TV channel in Viet Nam. It attracts many **(1)** _______ becau
 </questions>
 
 <reading>
-| English | Vietnamese |
-|---------|------------|
-| VTV1 is a popular TV channel in Viet Nam. | VTV1 là một kênh truyền hình phổ biến ở Việt Nam. |
-| It attracts many (1) _______ because it has interesting programmes. | Nó thu hút nhiều (1) _______ vì có những chương trình thú vị. |
-| The (2) _______ programmes show tigers and giraffes in nature. | Chương trình về (2) _______ chiếu về loài hổ và hươu cao cổ trong tự nhiên. |
-| People watch races or football matches on (3) _______ programmes. | Mọi người xem các cuộc đua hay trận đấu bóng đá trên các chương trình (3) _______. |
-| Comedies make people laugh because they are (4) _______. | Phim hài khiến mọi người cười vì nó rất (4) _______. |
-| Game shows are both fun and (5) _______. | Các chương trình trò chơi thì vừa vui vừa (5) _______. |
+VTV1 is a popular TV channel in Viet Nam.
+It attracts many (1) _______ because it has interesting programmes.
+The (2) _______ programmes show tigers and giraffes in nature.
+People watch races or football matches on (3) _______ programmes.
+Comedies make people laugh because they are (4) _______.
+Game shows are both fun and (5) _______.
 </reading>
+
+<translation>
+VTV1 là một kênh truyền hình phổ biến ở Việt Nam.
+Nó thu hút nhiều (1) _______ vì có những chương trình thú vị.
+Chương trình về (2) _______ chiếu về loài hổ và hươu cao cổ trong tự nhiên.
+Mọi người xem các cuộc đua hay trận đấu bóng đá trên các chương trình (3) _______.
+Phim hài khiến mọi người cười vì nó rất (4) _______.
+Các chương trình trò chơi thì vừa vui vừa (5) _______.
+</translation>
 
 ---
 
