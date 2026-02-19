@@ -115,7 +115,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
+**Bài 2 - Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
 </answer>
 
 <explanation>
@@ -166,7 +166,7 @@ Bài 3, <eng>Complete the following sentences with the words from the box</eng> 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. craters | 2. rocket | 3. telescope | 4. Venus | 5. galaxy
+**Bài 3 - Đáp án:** 1. craters | 2. rocket | 3. telescope | 4. Venus | 5. galaxy
 </answer>
 
 <explanation>

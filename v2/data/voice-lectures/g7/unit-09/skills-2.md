@@ -48,7 +48,7 @@ Bài 1. Nhìn vào con vật trong hình và trả lời 2 câu hỏi: Con vật
 </task>
 
 <answer>
-**Gợi ý trả lời:**
+**Bài 1 - Gợi ý trả lời:**
 1. It's a turkey. (Đó là một con gà tây.)
 2. It is a part of Thanksgiving. (Nó là một phần của Lễ Tạ Ơn.)
 </answer>
@@ -145,7 +145,7 @@ Bài 3 <eng>Listen again and decide if the statements are true or false</eng>. N
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.F | 3.T | 4.F | 5.T | 6.T
+**Bài 3 - Đáp án:** 1.F | 2.F | 3.T | 4.F | 5.T | 6.T
 </answer>
 
 <explanation>

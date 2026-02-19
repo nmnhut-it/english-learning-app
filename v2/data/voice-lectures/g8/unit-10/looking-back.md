@@ -124,7 +124,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. social network | 2. Telepathy | 3. voice messages | 4. translation machine | 5. group call
+**Bài 1 - Đáp án:** 1. social network | 2. Telepathy | 3. voice messages | 4. translation machine | 5. group call
 </answer>
 
 <explanation>
@@ -167,7 +167,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. text | 2. social | 3. real | 4. language | 5. instantly
+**Bài 2 - Đáp án:** 1. text | 2. social | 3. real | 4. language | 5. instantly
 </answer>
 
 <translation>
@@ -227,7 +227,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. on | 2. in ✓ | 3. for ✓ | 4. opposite | 5. by ✓
+**Bài 3 - Đáp án:** 1. on | 2. in ✓ | 3. for ✓ | 4. opposite | 5. by ✓
 </answer>
 
 <explanation>
@@ -280,7 +280,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A (my → mine) | 2. A (at → on) | 3. A (ours → our) | 4. C (on → in) | 5. C (in → on)
+**Bài 4 - Đáp án:** 1. A (my → mine) | 2. A (at → on) | 3. A (ours → our) | 4. C (on → in) | 5. C (in → on)
 </answer>
 
 <explanation>

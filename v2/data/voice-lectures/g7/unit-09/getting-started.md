@@ -108,7 +108,7 @@ Nhìn 6 bức hình trong sách rồi viết từ phù hợp bên dưới. 1 ph�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. parade (diễu hành)
 2. costumes (trang phục)
 3. feast (bữa tiệc)
@@ -178,7 +178,7 @@ e. Mid-Autumn Festival
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.e | 2.a | 3.d | 4.c | 5.b
+**Bài 5 - Đáp án:** 1.e | 2.a | 3.d | 4.c | 5.b
 </answer>
 
 <explanation>

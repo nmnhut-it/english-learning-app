@@ -46,7 +46,7 @@ Các em nghĩ ra các cách giao tiếp nha. Ví dụ: <eng>meeting face to face
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 1 - Gợi ý:**
 - Verbal communication: chatting, meeting *(Giao tiếp bằng lời nói: trò chuyện, hội họp)*
 - Non-verbal communication: facial expressions, posture, eye contact *(Giao tiếp không lời: biểu cảm gương mặt, dáng đứng, giao tiếp bằng mắt)*
 - Written communication: email, report, Facebook post *(Giao tiếp bằng chữ viết: thư điện tử, báo cáo, bài đăng Facebook)*
@@ -156,7 +156,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Minh | 2. Tom | 3. Minh | 4. Minh | 5. Tom
+**Bài 2 - Đáp án:** 1. Minh | 2. Tom | 3. Minh | 4. Minh | 5. Tom
 </answer>
 
 <explanation>
@@ -230,7 +230,7 @@ Ok đáp án nè, cô giải thích từng câu.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.C | 4.B | 5.C
+**Bài 3 - Đáp án:** 1.A | 2.B | 3.C | 4.B | 5.C
 </answer>
 
 <explanation>
@@ -283,7 +283,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 | Advantages *(Ưu điểm)* | Disadvantages *(Nhược điểm)* |
 |------------------------|------------------------------|
 | a, c, e | b, f, d |

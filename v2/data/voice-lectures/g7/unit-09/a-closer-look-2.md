@@ -91,7 +91,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Do | 2. Did | 3. Are | 4. Can | 5. Does
+**Bài 1 - Đáp án:** 1. Do | 2. Did | 3. Are | 4. Can | 5. Does
 
 **Giải thích:**
 1. **Do** - Có "every year" (hàng năm) → thì hiện tại đơn, chủ ngữ "they" số nhiều → dùng **Do**
@@ -142,7 +142,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 
 1. **Can your mother make a costume for you?**
    *(Mẹ của bạn có thể may một bộ trang phục cho bạn không?)*
@@ -194,7 +194,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - c | 2 - a | 3 - e | 4 - b | 5 - d
+**Bài 3 - Đáp án:** 1 - c | 2 - a | 3 - e | 4 - b | 5 - d
 
 **Giải thích:**
 
@@ -261,7 +261,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - b | 2 - e | 3 - a | 4 - c | 5 - d
+**Bài 4 - Đáp án:** 1 - b | 2 - e | 3 - a | 4 - c | 5 - d
 
 **Hội thoại hoàn chỉnh:**
 

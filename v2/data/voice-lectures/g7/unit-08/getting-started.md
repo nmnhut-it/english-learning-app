@@ -148,7 +148,7 @@ C. Most people like it.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.C
+**Bài 2 - Đáp án:** 1.B | 2.A | 3.A | 4.C
 </answer>
 
 <teacher_script pause="0" href="audio/tts_9a37bc17.webm">
@@ -221,7 +221,7 @@ Bài 3 <eng>Choose the correct word or phrase</eng> nha. Chọn từ hoặc cụ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. comedy | 2. fantasy | 3. documentary | 4. science fiction film | 5. horror film
+**Bài 3 - Đáp án:** 1. comedy | 2. fantasy | 3. documentary | 4. science fiction film | 5. horror film
 </answer>
 
 <teacher_script pause="0" href="audio/tts_79a48337.webm">
@@ -292,7 +292,7 @@ Bài 4 <eng>Complete the sentences</eng> nha. Chọn tính từ trong khung đ�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. frightening | 2. funny | 3. moving | 4. boring | 5. interesting
+**Bài 4 - Đáp án:** 1. frightening | 2. funny | 3. moving | 4. boring | 5. interesting
 </answer>
 
 <teacher_script pause="0" href="audio/tts_aa549063.webm">

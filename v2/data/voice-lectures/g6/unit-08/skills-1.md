@@ -154,7 +154,7 @@ Bài 3 <eng>Answer the questions</eng> nha. Đọc lại bài rồi trả lời 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Pelé was born in 1940.
 2. His father taught him. / His father did.
 3. He scored 1,281 goals in total.

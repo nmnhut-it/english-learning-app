@@ -51,7 +51,7 @@ Bài 1 <eng>Match</eng> nha. Nối từ với định nghĩa đi. 1 phút nha.
 </task>
 
 <answer>
-**Đáp án:** 1.e | 2.c | 3.a | 4.b | 5.d
+**Bài 1 - Đáp án:** 1.e | 2.c | 3.a | 4.b | 5.d
 </answer>
 
 <teacher_script pause="0" href="audio/tts_3d6fd7b2.webm">
@@ -97,7 +97,7 @@ Bài 2 <eng>Replace</eng> nha. Thay từ "it" bằng cụm từ phù hợp đi. 
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. entrance ticket
 2. ruinous site
 3. Travel agency
@@ -148,7 +148,7 @@ Bài 3 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. self-guided
 2. itinerary
 3. entrance
@@ -237,7 +237,7 @@ Bài 5 <eng>Mark stress</eng> nha. Nghe và đánh dấu trọng âm cho các t�
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. 'curious /ˈkjʊə.ri.əs/, 'public /ˈpʌb.lɪk/
 2. am'bitious /æmˈbɪʃ.əs/, Pa'cific /pəˈsɪf.ɪk/
 3. 'classic /ˈklæs.ɪk/, 'previous /ˈpriː.vi.əs/
@@ -298,7 +298,7 @@ Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. package holiday
 2. self-guided tour
 3. itinerary
@@ -368,7 +368,7 @@ Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 1. scien'tific
 2. mys'terious
@@ -438,7 +438,7 @@ Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 1. travel agency
 2. 'spacious

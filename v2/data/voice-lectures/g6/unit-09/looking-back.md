@@ -53,7 +53,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A, B | 2. A, C | 3. A, C | 4. A, B | 5. B, C
+**Bài 1 - Đáp án:** 1. A, B | 2. A, C | 3. A, C | 4. A, B | 5. B, C
 
 **Giải thích:**
 - Câu 1: **A. exciting, B. amazing** - cả hai đều mô tả thành phố, <eng>long</eng> (dài) không phù hợp
@@ -122,7 +122,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. yours | 2. theirs | 3. mine | 4. Ours | 5. hers
+**Bài 3 - Đáp án:** 1. yours | 2. theirs | 3. mine | 4. Ours | 5. hers
 
 **Giải thích:**
 - Câu 1: **yours** - mũ không phải của bạn → <eng>yours</eng> (cái của bạn)
@@ -166,7 +166,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. its | 2. our | 3. their | 4. its | 5. ours
+**Bài 4 - Đáp án:** 1. its | 2. our | 3. their | 4. its | 5. ours
 
 **Giải thích:**
 - Câu 1: ~~it's~~ → **its** - tính từ sở hữu đứng trước <eng>people</eng>, không phải <eng>it is</eng>

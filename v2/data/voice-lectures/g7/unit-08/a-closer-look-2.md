@@ -104,7 +104,7 @@ Lưu ý: <eng>Although</eng> hoặc <eng>Though</eng> có thể đứng đầu c
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **Although** the questions were very difficult, he solved them easily.
 2. **Although** he was a great actor, he never played a leading role in a film.
 3. It wasn't a big success **although** they spent a lot of money on the film. (Hoặc: Although they spent..., it wasn't...)
@@ -176,7 +176,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Although/Though | 2. However | 3. although/though | 4. However | 5. although/though
+**Bài 2 - Đáp án:** 1. Although/Though | 2. However | 3. although/though | 4. However | 5. although/though
 </answer>
 
 <teacher_script pause="0" href="audio/tts_a7aba6ec.webm">
@@ -242,7 +242,7 @@ Sau đây là một vài gợi ý mẫu.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 3 - Gợi ý:**
 1. ...although **many people like it**. (mặc dù nhiều người thích)
 2. ...However, **he didn't go to work**. (Tuy nhiên anh ấy không đi làm)
 3. ...However, **I didn't like it**. (Tuy nhiên tôi không thích nó)
@@ -292,7 +292,7 @@ A. However | B. Though | C. But
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.A | 4.C | 5.A
+**Bài 4 - Đáp án:** 1.A | 2.C | 3.A | 4.C | 5.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_2df64b41.mp3">

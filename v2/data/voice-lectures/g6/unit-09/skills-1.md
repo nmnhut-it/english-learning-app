@@ -150,7 +150,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.C
+**Bài 2 - Đáp án:** 1.B | 2.A | 3.B | 4.C
 </answer>
 
 <teacher_script pause="0" href="audio/tts_6e191e23.webm">
@@ -186,7 +186,7 @@ Bài 3. Đọc lại và nối địa điểm với những thứ chúng có. Kh
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 **1. The hotel in Stockholm** → b, c
 - b. delicious breakfast *(bữa sáng ngon)*

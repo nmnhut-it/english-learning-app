@@ -59,7 +59,7 @@ Bài 2 <eng>True or False</eng>. Các em nghe lại và xác định các câu s
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F (It is the largest) | 2.T | 3.T | 4.F (It is threatened)
+**Bài 2 - Đáp án:** 1.F (It is the largest) | 2.T | 3.T | 4.F (It is threatened)
 </answer>
 
 ---

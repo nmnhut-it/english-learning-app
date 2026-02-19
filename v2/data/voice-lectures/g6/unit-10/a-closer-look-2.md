@@ -112,7 +112,7 @@ Câu 5: <eng>Our family won't move to the new house next week</eng> - Gia đình
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. I think I **will** stay at home tonight. *(Tôi nghĩ tôi sẽ ở nhà tối nay.)*
 2. My friends **won't** go to the library this afternoon. *(Bạn bè của tôi sẽ không đến thư viện chiều nay.)*
 3. My mum **won't** make a cake today. *(Mẹ tôi sẽ không làm bánh hôm nay.)*
@@ -166,7 +166,7 @@ Chỗ trống 5: <eng>will</eng> - <eng>We will never see him again</eng>. Chún
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. will ('ll) | 2. will ('ll) | 3. will ('ll) | 4. won't | 5. will ('ll)
+**Bài 2 - Đáp án:** 1. will ('ll) | 2. will ('ll) | 3. will ('ll) | 4. won't | 5. will ('ll)
 
 **A:** Oh, no. The dog ran away again!
 *(Ôi, không. Con chó lại bỏ đi rồi!)*
@@ -231,7 +231,7 @@ Câu 5: <eng>A smartphone won't help me to take care of the children</eng>. Mộ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. A computer will/won't help me to do my housework. *(Một máy tính sẽ/sẽ không giúp tôi làm việc nhà.)*
 2. A robot will help me to water the flowers. *(Một người máy sẽ giúp tôi tưới hoa.)*
 3. A smart TV won't help me to cook meals. *(Một chiếc TV thông minh sẽ không giúp tôi nấu các bữa ăn.)*
@@ -358,7 +358,7 @@ Câu 6: FALSE - <eng>Henry thinks we might not have a great time on the Moon</en
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. T | 3. F | 4. F | 5. T | 6. F
+**Bài 4 - Đáp án:** 1. T | 2. T | 3. F | 4. F | 5. T | 6. F
 
 1. **T** - Jenny nghĩ chúng ta có thể sống với robot. (Đúng - Jenny viết "We might live with robots")
 2. **T** - Henry nghĩ chúng ta có thể du hành đến Mặt trăng. (Đúng - Henry viết "We might go on holiday to the Moon")

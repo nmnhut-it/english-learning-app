@@ -139,7 +139,7 @@ Bài 3 <eng>Listen and fill in the blanks</eng> nha. Nghe đoạn hội thoại 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. best | 2. comedies | 3. favourite | 4. stars | 5. funny
+**Bài 3 - Đáp án:** 1. best | 2. comedies | 3. favourite | 4. stars | 5. funny
 </answer>
 
 <teacher_script pause="0" href="audio/tts_eab387d0.mp3">

@@ -59,7 +59,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - d | 2 - e | 3 - b | 4 - a | 5 - c
+**Bài 1 - Đáp án:** 1 - d | 2 - e | 3 - b | 4 - a | 5 - c
 
 **Giải thích:**
 - **Câu 1:** Sue doesn't like **her** new dress.
@@ -122,7 +122,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. My | 2. your | 3. Its | 4. Her | 5. Our
+**Bài 2 - Đáp án:** 1. My | 2. your | 3. Its | 4. Her | 5. Our
 
 **Giải thích:**
 - Câu 1: **My** - chủ ngữ <eng>I</eng> → tính từ sở hữu <eng>my</eng>
@@ -190,7 +190,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. mine | 2. theirs | 3. yours | 4. his | 5. ours
+**Bài 3 - Đáp án:** 1. mine | 2. theirs | 3. yours | 4. his | 5. ours
 
 **Giải thích:**
 - Câu 1: **mine** - <eng>I</eng> → đại từ sở hữu <eng>mine</eng>, đứng một mình
@@ -234,7 +234,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. its | 2. yours | 3. his | 4. Our | 5. their
+**Bài 4 - Đáp án:** 1. its | 2. yours | 3. his | 4. Our | 5. their
 
 **Giải thích:**
 - Câu 1: **its** - tính từ sở hữu, đứng trước danh từ <eng>cities</eng>. Chú ý: <eng>its</eng> ≠ <eng>it's</eng> (it is)!
@@ -293,7 +293,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.B | 5.B
+**Bài 5 - Đáp án:** 1.B | 2.A | 3.B | 4.B | 5.B
 
 **Giải thích:**
 - Câu 1: **B. mine** - đại từ sở hữu, đứng một mình sau <eng>is</eng>

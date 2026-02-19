@@ -110,7 +110,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. T | 3. F | 4. T | 5. T
+**Bài 2 - Đáp án:** 1. F | 2. T | 3. F | 4. T | 5. T
 </answer>
 
 <explanation>
@@ -159,7 +159,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. landforms *(địa hình)*
 2. flora and fauna *(hệ động thực vật)*
 3. liquid water *(nước lỏng)*
@@ -220,7 +220,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Flora and fauna
 2. water bodies
 3. Solar System
@@ -278,7 +278,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. There are six continents on Earth: Africa, Antarctica, Asia, Europe, America, and Australia.
 *(Có sáu lục địa trên Trái Đất: Châu Phi, Châu Nam Cực, Châu Á, Châu Âu, Châu Mỹ và Châu Úc.)*
 

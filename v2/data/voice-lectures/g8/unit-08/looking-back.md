@@ -64,7 +64,7 @@ e. Great number of goods.
 </task>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.a | 4.e | 5.c
+**Bài 1 - Đáp án:** 1.b | 2.d | 3.a | 4.e | 5.c
 </answer>
 
 <explanation>
@@ -107,7 +107,7 @@ Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. on sale
 2. bargain
 3. Internet access
@@ -144,7 +144,7 @@ Bài 3 <eng>Adverbs of frequency</eng> nha. Điền trạng từ tần suất ph
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. always
 2. usually / often
 3. never
@@ -181,7 +181,7 @@ Bài 4 <eng>Correct tense</eng> nha. Chia động từ đúng thì đi. Nhớ hi
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. leaves
 2. is
 3. can use

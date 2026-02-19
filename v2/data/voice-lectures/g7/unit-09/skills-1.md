@@ -43,7 +43,7 @@ Bài 1 <eng>Look at the pictures</eng>. Các em quan sát hình và đoán xem n
 </task>
 
 <answer>
-**Gợi ý trả lời:**
+**Bài 1 - Gợi ý trả lời:**
 - A parade (cuộc diễu hành)
 - A talent show (chương trình tài năng)
 - A fun run (cuộc chạy vui)
@@ -140,7 +140,7 @@ d. showed something as the most important part
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-d | 3-a | 4-c
+**Bài 2 - Đáp án:** 1-b | 2-d | 3-a | 4-c
 
 **Giải thích:**
 
@@ -185,7 +185,7 @@ Bài 3 <eng>Complete each sentence with no more than TWO words</eng>. Đọc l�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. first weekend
 2. different countries
 3. walked together
@@ -243,7 +243,7 @@ e. They celebrate it to thank the Rice God and pray for a better new crop.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.b | 3.e | 4.c | 5.a
+**Bài 4 - Đáp án:** 1.d | 2.b | 3.e | 4.c | 5.a
 </answer>
 
 <explanation>

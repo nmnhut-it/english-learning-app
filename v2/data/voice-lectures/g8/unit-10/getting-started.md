@@ -117,7 +117,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.A
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.A
 </answer>
 
 <explanation>
@@ -159,7 +159,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.a | 3.b | 4.e | 5.c
+**Bài 3 - Đáp án:** 1.d | 2.a | 3.b | 4.e | 5.c
 </answer>
 
 <explanation>
@@ -218,7 +218,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.A | 4.A | 5.B
+**Bài 4 - Đáp án:** 1.A | 2.B | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>
@@ -266,7 +266,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. carrier pigeon | 2. telephone | 3. mobile phone | 4. social network
+**Bài 5 - Đáp án:** 1. carrier pigeon | 2. telephone | 3. mobile phone | 4. social network
 </answer>
 
 <explanation>

@@ -121,7 +121,7 @@ Bài 2 <eng>True or False</eng> nha. Đọc câu rồi đánh T cho đúng, F ch
 </questions>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
 </answer>
 
 <explanation>
@@ -159,7 +159,7 @@ Bài 3 <eng>Match</eng> nha. Nối từ cột A với cột B để tạo cụm 
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. ideal destination (điểm đến lý tưởng)
 2. natural beauty (vẻ đẹp tự nhiên)
 3. domestic holiday (kỳ nghỉ trong nước)
@@ -210,7 +210,7 @@ Bài 4 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. safari
 2. domestic
 3. online apps
@@ -258,7 +258,7 @@ Bài 5 <eng>Quiz</eng> nha. Đoán xem các địa điểm du lịch này ở t�
 </task>
 
 <answer>
-**Đáp án:** 1. Hue | 2. Can Tho | 3. Da Lat | 4. Lao Cai | 5. Quang Ninh
+**Bài 5 - Đáp án:** 1. Hue | 2. Can Tho | 3. Da Lat | 4. Lao Cai | 5. Quang Ninh
 </answer>
 
 <teacher_script pause="0" href="audio/tts_3f67a1a6.webm">

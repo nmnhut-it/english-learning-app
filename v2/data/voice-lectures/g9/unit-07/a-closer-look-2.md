@@ -78,7 +78,7 @@ Chúng ta cùng làm Bài 1. Các em hãy viết lại các câu hỏi sau sang 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 **1.** Lan asked Tom **if he enjoyed** visiting natural wonders.
 **2.** She asked **if Mount Everest was** the highest mountain in the world.
 **3.** They asked their teacher **whether they could visit** the Grand Canyon the following year (or next year).
@@ -130,7 +130,7 @@ A. went | B. go | C. had gone
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.C | 4.B | 5.C
+**Bài 2 - Đáp án:** 1.B | 2.A | 3.C | 4.B | 5.C
 </answer>
 
 <explanation>
@@ -206,7 +206,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chuyển các câu hỏi trực 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 **1.** My friend asked me **if I had ever visited** Ha Long Bay.
 
@@ -276,7 +276,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy chọn <eng>if</eng> hoặc <eng
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 1. if/whether | was (hoặc is)
 2. if/whether | understood
@@ -345,7 +345,7 @@ Bài tập cuối cùng khó hơn một chút. Các em hãy viết câu hoàn ch
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 1. She asked me if I knew the way to Marble Mountains.
 

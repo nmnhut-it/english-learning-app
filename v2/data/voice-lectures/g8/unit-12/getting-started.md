@@ -96,7 +96,7 @@ Ok, đáp án nè. Mình giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. T | 3. T | 4. F | 5. T
+**Bài 2 - Đáp án:** 1. F | 2. T | 3. T | 4. F | 5. T
 </answer>
 
 <explanation>
@@ -144,7 +144,7 @@ e. an officer in charge of a particular group of soldiers
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
+**Bài 3 - Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
 </answer>
 
 <explanation>
@@ -193,7 +193,7 @@ Bài 4, <eng>Complete the sentences with the words in 3</eng> — dùng 5 từ v
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. possibility | 2. aliens | 3. creatures | 4. commander | 5. oppose
+**Bài 4 - Đáp án:** 1. possibility | 2. aliens | 3. creatures | 4. commander | 5. oppose
 </answer>
 
 <explanation>

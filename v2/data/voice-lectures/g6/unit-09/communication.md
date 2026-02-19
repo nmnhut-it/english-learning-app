@@ -124,7 +124,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. What happy and beautiful children! *(children - số nhiều → KHÔNG có a)*
 2. What a colourful and nice picture! *(picture - số ít → có a)*
 3. What sunny and beautiful weather! *(weather - không đếm được → KHÔNG có a)*
@@ -167,7 +167,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Merlion *(con sư tử biển - Singapore)*
 2. Big Ben *(tháp đồng hồ - London)*
 3. Sydney Opera House *(nhà hát con sò - Sydney)*
@@ -211,7 +211,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Big Ben *(từ khóa: tower, River Thames, London, clock, bell)*
 2. Sydney Opera House *(từ khóa: theatre, Sydney Harbour, white roofs, shells)*
 3. Eiffel Tower *(từ khóa: famous tower, Paris, climb to top)*
@@ -263,7 +263,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.C | 4.A
+**Bài 5 - Đáp án:** 1.B | 2.A | 3.C | 4.A
 
 **Giải thích:**
 - **Câu 1: B. Bangkok** - Băng Cốc (Thái Lan) gần Hà Nội nhất vì cùng ở Đông Nam Á. Berlin ở Đức (châu Âu), Tokyo ở Nhật (Đông Á).

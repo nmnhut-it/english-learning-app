@@ -102,7 +102,7 @@ Ok đáp án bài 2 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. flood
 2. second floor
 3. violent storm
@@ -145,7 +145,7 @@ Bài 3 nha. <eng>Write the natural disasters from the box under the pictures.</e
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. flood (lũ lụt)
 2. tornado (lốc xoáy)
 3. volcanic eruption (núi lửa phun trào)
@@ -206,7 +206,7 @@ Ok đáp án bài 4 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. B (volcanic eruption)
 2. A (earthquake)
 3. B (landslide)
@@ -242,7 +242,7 @@ Gợi ý một số từ nè các em.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 5 - Gợi ý:**
 - tsunami (sóng thần)
 - drought (hạn hán)
 - wildfire (cháy rừng)

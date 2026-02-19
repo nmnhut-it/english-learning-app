@@ -110,7 +110,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. The customer wants to buy a computer for his/her son.
 2. The shop assistant suggests the customer should buy a tablet.
 3. The tablet's case is made of aluminium.
@@ -175,7 +175,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - d | 2 - e | 3 - a | 4 - c | 5 - b
+**Bài 3 - Đáp án:** 1 - d | 2 - e | 3 - a | 4 - c | 5 - b
 </answer>
 
 <explanation>
@@ -228,7 +228,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. virtual | 2. portable | 3. wireless | 4. aluminium | 5. touchscreen
+**Bài 4 - Đáp án:** 1. virtual | 2. portable | 3. wireless | 4. aluminium | 5. touchscreen
 </answer>
 
 <explanation>

@@ -79,7 +79,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. Halloween
 2. Christmas
 3. Mid-Autumn Festival
@@ -120,7 +120,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 
 | Festival *(Lễ hội)* | Food *(Thức ăn)* | Activity *(Hoạt động)* |
 |----------|------|----------|
@@ -172,7 +172,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 1. At **Christmas**, people give gifts to each other.
    *(Vào lễ Giáng sinh, mọi người tặng quà cho nhau.)*
@@ -260,7 +260,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 | Nouns and Adjectives | Verbs |
 |----------------------|-------|
@@ -314,7 +314,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 1. We're going to at**'tend** an Easter **'par**ty at Nick's house.
    - **attend** (động từ) → nhấn âm 2: at'TEND

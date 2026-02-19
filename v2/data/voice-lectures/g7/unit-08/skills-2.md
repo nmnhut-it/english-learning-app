@@ -53,7 +53,7 @@ Bài 2 <eng>Listen to the conversation</eng> nha. Nghe hội thoại giữa Mark
 </task>
 
 <answer>
-**Đáp án:** **Linda Brown and Susan Smith** star in the film.
+**Bài 2 - Đáp án:** **Linda Brown and Susan Smith** star in the film.
 </answer>
 
 <teacher_script pause="0" href="audio/tts_322e3eb6.mp3">
@@ -103,7 +103,7 @@ C. is shocking
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.A | 4.A
+**Bài 3 - Đáp án:** 1.A | 2.C | 3.A | 4.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_435ad3a9.mp3">

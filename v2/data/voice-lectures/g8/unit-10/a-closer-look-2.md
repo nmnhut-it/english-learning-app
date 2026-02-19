@@ -72,7 +72,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. at | 2. opposite | 3. under | 4. in - on | 5. in front of
+**Bài 1 - Đáp án:** 1. at | 2. opposite | 3. under | 4. in - on | 5. in front of
 
 **Giải thích:**
 1. **at the end of this street** - "at" dùng cho điểm cụ thể, "at the end" là cụm cố định nghĩa là "ở cuối"
@@ -165,7 +165,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A (by) | 2. C (in) | 3. B (for) | 4. C (on) | 5. A (in)
+**Bài 2 - Đáp án:** 1. A (by) | 2. C (in) | 3. B (for) | 4. C (on) | 5. A (in)
 
 **Giải thích:**
 1. **by** 10 a.m. - "by" nghĩa là trước 10 giờ phải sẵn sàng vì 10:15 có hẹn rồi
@@ -206,7 +206,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. in | 2. By | 3. at | 4. on | 5. for
+**Bài 3 - Đáp án:** 1. in | 2. By | 3. at | 4. on | 5. for
 
 **Đoạn văn hoàn chỉnh:**
 I think smartphones will change a lot **in** the near future. They will be much thinner. **By** 2035, we might be able to roll a phone like a sheet of paper. They will become much smarter, too. They will be able to charge their battery automatically when we are **at** home. They might check the latest news **on** the Internet. We won't have to wait **for** a long time for these super smartphones.
@@ -339,7 +339,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. Jack is a **cousin of hers**.
 2. Is this a **tablet of his**?
 3. Can I borrow **one of your pencils**?

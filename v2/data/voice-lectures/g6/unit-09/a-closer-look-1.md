@@ -51,7 +51,7 @@ Bài 1 trang 28. Nối tính từ với danh từ phù hợp. Mẹo nè: <eng>fr
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 - **city** → old, exciting *(thành phố - cũ, thú vị)*
 - **food** → tasty, delicious *(đồ ăn - ngon, ngon tuyệt)*
 - **people** → friendly, helpful *(con người - thân thiện, hữu ích)*
@@ -98,7 +98,7 @@ Bài 2 trang 28. Điền tính từ vào chỗ trống. Nhớ quy tắc: mô t�
 </questions>
 
 <answer>
-**Đáp án:** 1. sunny | 2. old | 3. exciting | 4. friendly | 5. delicious/tasty
+**Bài 2 - Đáp án:** 1. sunny | 2. old | 3. exciting | 4. friendly | 5. delicious/tasty
 
 **Giải thích:**
 1. **sunny** - vì mô tả thời tiết mùa hè ở Sydney - nắng và khô
@@ -141,7 +141,7 @@ Bài 3. Nhìn hình và viết từ. Đây là những địa danh và vật ở
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **palace** - cung điện (tòa nhà hoàng gia như Buckingham Palace)
 2. **floating market** - chợ nổi (đặc sản miền Tây Việt Nam)
 3. **street food** - đồ ăn đường phố (phở, bánh mì...)
@@ -225,7 +225,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 | /əʊ/ | /aʊ/ |
 |------|------|

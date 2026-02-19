@@ -59,7 +59,7 @@ Bài 1 — <eng>Tick the things that you think a robot teacher can do</eng> nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. ✓ — It can teach different subjects.
 2. ✓ — It can mark students' work.
 3. ✗ — It can teach students how to behave. (Không đánh dấu)
@@ -144,7 +144,7 @@ Giờ điền từ vào bảng bài 2 nha. Bảng chia 2 cột: robot CAN do và
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **languages**
 2. **maths**
 3. **Interact**
@@ -202,7 +202,7 @@ Làm bài 3 — 1 phút. Đọc kỹ từng câu, đừng vội nha!
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **T** — Đúng
 2. **T** — Đúng
 3. **F** — Sai
@@ -257,7 +257,7 @@ Gợi ý cho bài 4 nè!
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 4 - Gợi ý:**
 
 **Agree (Đồng ý):**
 1. Robots can better remember things than teachers.

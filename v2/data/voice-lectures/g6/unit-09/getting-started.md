@@ -109,7 +109,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. New York
 2. London
 3. Sydney
@@ -144,7 +144,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - c, d | 2 - a | 3 - b, e
+**Bài 3 - Đáp án:** 1 - c, d | 2 - a | 3 - b, e
 
 **Giải thích:**
 - **Sydney** → c. exciting, d. beautiful (Tom nói "It's exciting with a lot of beaches" và Mai khen "What a beautiful place!")
@@ -180,7 +180,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - c | 2 - d | 3 - a | 4 - b
+**Bài 4 - Đáp án:** 1 - c | 2 - d | 3 - a | 4 - b
 
 **Giải thích:**
 - **Ha Noi** → c. One Pillar Pagoda (Chùa Một Cột)

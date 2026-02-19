@@ -70,7 +70,7 @@ e. very surprising and difficult to believe
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.a | 4.e | 5.c
+**Bài 1 - Đáp án:** 1.b | 2.d | 3.a | 4.e | 5.c
 </answer>
 
 <teacher_script pause="0" href="audio/tts_9ce54622.mp3">
@@ -141,7 +141,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete sentences</eng>. Các em hãy điền 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. shocking | 2. dull | 3. enjoyable | 4. violent | 5. confusing
+**Bài 2 - Đáp án:** 1. shocking | 2. dull | 3. enjoyable | 4. violent | 5. confusing
 </answer>
 
 <teacher_script pause="0" href="audio/tts_87238f51.mp3">

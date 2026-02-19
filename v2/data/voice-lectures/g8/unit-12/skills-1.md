@@ -110,7 +110,7 @@ e. showing signs of being good or successful
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-d | 3-a | 4-e | 5-b
+**Bài 2 - Đáp án:** 1-c | 2-d | 3-a | 4-e | 5-b
 </answer>
 
 <explanation>
@@ -159,7 +159,7 @@ Bài 3 — <eng>Read the text again and answer the following questions</eng>. Đ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Nowadays humans are still wondering what planets in outer space might support life.
 2. The planets need to have the correct amount of air so that they can hold an atmosphere around.
 3. If a planet is too small, its gravity is not strong enough to hold an enough amount of air.
@@ -216,7 +216,7 @@ Can you add other conditions for a habitable planet?
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. ✓ | 2. ✗ | 3. ✓ | 4. ✗ | 5. ✓
+**Bài 4 - Đáp án:** 1. ✓ | 2. ✗ | 3. ✓ | 4. ✗ | 5. ✓
 </answer>
 
 <explanation>

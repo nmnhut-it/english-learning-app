@@ -62,7 +62,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. who | 2. which | 3. whose | 4. that
+**Bài 1 - Đáp án:** 1. who | 2. which | 3. whose | 4. that
 </answer>
 
 <teacher_script pause="0">
@@ -98,7 +98,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 **1.** I have a friend **who speaks French fluently**.
 **2.** The dictionary **which (that) you gave to me** is good.
 **3.** She meets a woman **whose son is an astronaut**.

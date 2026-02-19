@@ -58,7 +58,7 @@ e. to allow something
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.e | 2.d | 3.a | 4.b | 5.c
+**Bài 1 - Đáp án:** 1.e | 2.d | 3.a | 4.b | 5.c
 </answer>
 
 <explanation>
@@ -98,7 +98,7 @@ Chúng ta cùng làm Bài 2 <eng>Complete the sentences</eng>. Các em hãy đi�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. annual | 2. urgent | 3. paradise | 4. diversity | 5. access
+**Bài 2 - Đáp án:** 1. annual | 2. urgent | 3. paradise | 4. diversity | 5. access
 </answer>
 
 <explanation>
@@ -212,7 +212,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn t
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. paradise
 2. diversity
 3. permit
@@ -274,7 +274,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy phân loại các từ theo âm 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 - **/sl/:** sleepy, slippery, slope, slender
 - **/sn/:** snowy, sneeze, snorkel, snapshot
 </answer>
@@ -332,7 +332,7 @@ Bài tập cuối cùng kết hợp cả từ vựng và phát âm. Các em hãy
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. slippery
 2. diversity
 3. urgent

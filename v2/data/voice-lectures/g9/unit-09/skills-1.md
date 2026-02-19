@@ -90,7 +90,7 @@ Bài 2 trang 38. Điền các quốc gia vào đúng vòng tròn. 1 phút.
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Inner Circle: UK, USA, Australia, New Zealand, Canada.
 2. Outer Circle: India, Singapore, Philippines, Malaysia...
 3. Expanding Circle: Viet Nam, Japan, Russia, Brazil...

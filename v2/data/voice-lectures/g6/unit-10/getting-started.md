@@ -20,6 +20,13 @@ Bây giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên 
 6. **type of house** : (np) loại nhà /taɪp əv haʊs/
 7. **sky** : (n) bầu trời /skaɪ/
 8. **moon** : (n) mặt trăng /muːn/
+9. **paint** : (v) vẽ /peɪnt/
+10. **picture** : (n) bức tranh /ˈpɪktʃə(r)/
+11. **large** : (adj) lớn, rộng /lɑːdʒ/
+12. **room** : (n) phòng /ruːm/
+13. **smart TV** : (np) TV thông minh /smɑːt tiːˈviː/
+14. **robot** : (n) người máy /ˈrəʊbɒt/
+15. **countryside** : (n) nông thôn /ˈkʌntrisaɪd/
 </vocabulary>
 
 <!-- chunk: bai1-dialogue -->
@@ -102,7 +109,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Type of house: **UFO house** *(Loại nhà: nhà UFO)*
 2. Location: **mountains** *(Vị trí: trên núi)*
 3. Appliances in the house: **twenty rooms, solar energy, some smart TVs and 10 robots** *(Thiết bị trong nhà: 20 phòng, năng lượng mặt trời, một số TV thông minh và 10 người máy)*
@@ -148,7 +155,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. T | 3. T | 4. F
+**Bài 3 - Đáp án:** 1. T | 2. T | 3. T | 4. F
 </answer>
 
 <explanation>
@@ -203,7 +210,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **by the sea** *(gần bờ biển)* - từ thừa: a
 2. **in the city** *(trong thành phố)* - từ thừa: on
 3. **in the town** *(trong thị trấn)* - từ thừa: at

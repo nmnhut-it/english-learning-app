@@ -86,7 +86,7 @@ Bài 1 — <eng>Underline the correct word or phrase for each sentence</eng>. G�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. then | 2. grew | 3. there | 4. could | 5. there were
+**Bài 1 - Đáp án:** 1. then | 2. grew | 3. there | 4. could | 5. there were
 </answer>
 
 <explanation>
@@ -130,7 +130,7 @@ Bài 2 — <eng>Put the words and phrases in the correct order to make reported 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. My little brother asked me how many moons Venus had.
 2. She wanted to know which planet was the closest to the sun.
 3. The journalist asked the scientists what they were using telescopes for in space.
@@ -179,7 +179,7 @@ Bài 3 — <eng>Change the following questions into reported questions</eng>. Ch
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Mary asked the scientist who the first to step on Mars would be.
 2. I asked my father how fast a UFO could travel.
 3. The student asked his friend how many craters the moon had.
@@ -233,7 +233,7 @@ Mai told An that she was reading ...
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. An asked Mai what she was reading.
 Mai told An that she was reading Aliens and she was almost done.
 

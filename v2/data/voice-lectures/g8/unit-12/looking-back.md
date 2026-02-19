@@ -78,7 +78,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. spaceship (tàu vũ trụ)
 2. planet (hành tinh)
 3. telescope (kính thiên văn)
@@ -139,7 +139,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. UFOs | 2. possibility | 3. creatures | 4. habitable | 5. gravity
+**Bài 2 - Đáp án:** 1. UFOs | 2. possibility | 3. creatures | 4. habitable | 5. gravity
 </answer>
 
 <explanation>
@@ -197,7 +197,7 @@ Ok, đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Mary wanted to know what that novel was about.
 2. I asked Nick who his favourite actor was.
 3. Mai asked me what time the next train left.
@@ -271,7 +271,7 @@ Ok, đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. C (are doing → were doing)
 2. A (told → asked)
 3. B (what → how)

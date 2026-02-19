@@ -70,7 +70,7 @@ Nhìn hình và gọi tên — 30 giây nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **eye-tracking** — theo dõi mắt
 2. **finger scanner** — máy quét vân tay
 3. **face recognition** — nhận dạng khuôn mặt
@@ -175,7 +175,7 @@ Làm bài 2 đi — 1 phút. Đọc lại hai bài nếu cần, tìm thông tin 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **N** — Nanolearning
 2. **B** — Biometrics
 3. **B** — Biometrics
@@ -242,7 +242,7 @@ Chọn đáp án bài 3 đi — 1 phút. Đọc kỹ từng lựa chọn nha, c�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **A** — Checking their presence.
 2. **B** — improve their learning quality
 3. **C** — Entertain students.
@@ -295,7 +295,7 @@ Nối bài 4 đi — 1 phút. Sau đó tập nói hội thoại theo mẫu nha!
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1 - c | 2 - a | 3 - d | 4 - b/e
 </answer>
 

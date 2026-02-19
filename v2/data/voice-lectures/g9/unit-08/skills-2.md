@@ -45,7 +45,7 @@ Bài 1 nha. Thảo luận xem các câu sau đúng hay sai. 30 giây.
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. TRUE - Gia đình Bronte gồm 3 chị em nhà văn nổi tiếng.
 2. FALSE - Jane Eyre chỉ do Charlotte Bronte viết.
 3. TRUE - Có bản dịch tiếng Việt.
@@ -121,7 +121,7 @@ Bài 2 <eng>Listen and fill</eng> nha. Nghe về chuyến đi Haworth rồi đi�
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. 9 (nine)
 2. world-famous
 3. graveyard
@@ -155,7 +155,7 @@ Bài 3 <eng>Listen and tick</eng> nha. Nghe rồi đánh dấu hình ảnh đư�
 </audio>
 
 <answer>
-**Đáp án:** Picture 1 and 3.
+**Bài 3 - Đáp án:** Picture 1 and 3.
 </answer>
 
 <teacher_script pause="0" href="audio/tts_1a4aa7e2.webm">
@@ -188,7 +188,7 @@ Bài 4 nha. Thảo luận xem hướng dẫn viên đã đề cập đến nhữ
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 ✓ 1. The length of the tour (9 hours)
 ✗ 2. The cost of the tour (không được nhắc đến)
 ✓ 3. The place(s) they visit (Clapham, Wycoller, Haworth)

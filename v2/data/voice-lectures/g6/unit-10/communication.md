@@ -20,6 +20,13 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" bên dư�
 6. **fly** : (v) bay /flaɪ/
 7. **interview** : (v/n) phỏng vấn /ˈɪntəvjuː/
 8. **survey** : (n) khảo sát /ˈsɜːveɪ/
+9. **computer** : (n) máy tính /kəmˈpjuːtə(r)/
+10. **birthday** : (n) sinh nhật /ˈbɜːθdeɪ/
+11. **watch** : (n) đồng hồ đeo tay /wɒtʃ/
+12. **mobile phone** : (np) điện thoại di động /ˌməʊbaɪl ˈfəʊn/
+13. **tree** : (n) cây /triː/
+14. **flower** : (n) hoa /ˈflaʊə(r)/
+15. **housework** : (n) việc nhà /ˈhaʊswɜːk/
 </vocabulary>
 
 <!-- chunk: everyday-english -->

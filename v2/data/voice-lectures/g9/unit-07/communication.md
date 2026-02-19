@@ -106,7 +106,7 @@ A. The Great Barrier Reef | B. The Amazon
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A (Mount Everest) | 2.A (Ha Long Bay) | 3.A (The Great Barrier Reef)
+**Bài 3 - Đáp án:** 1.A (Mount Everest) | 2.A (Ha Long Bay) | 3.A (The Great Barrier Reef)
 </answer>
 
 <teacher_script pause="30" href="audio/tts_561450bb.webm">

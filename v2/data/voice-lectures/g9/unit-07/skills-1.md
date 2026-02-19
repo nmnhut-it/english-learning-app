@@ -92,7 +92,7 @@ d. beautiful, powerful, or causing great admiration
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.c | 3.a | 4.b
+**Bài 2 - Đáp án:** 1.d | 2.c | 3.a | 4.b
 </answer>
 
 ---
@@ -116,7 +116,7 @@ Sau đây là gợi ý trả lời.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 3 - Gợi ý:**
 1. They are in northeastern Italy.
 2. In 2009.
 3. They can see steep rocky cliffs, sharp peaks, and narrow, deep valleys.

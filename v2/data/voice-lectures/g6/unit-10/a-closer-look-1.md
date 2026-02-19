@@ -73,7 +73,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 
 | **living room** *(phòng khách)* | **bedroom** *(phòng ngủ)* | **kitchen** *(nhà bếp)* |
 |---|---|---|
@@ -121,7 +121,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.c | 2.d | 3.b | 4.e | 5.a
+**Bài 2 - Đáp án:** 1.c | 2.d | 3.b | 4.e | 5.a
 </answer>
 
 <explanation>

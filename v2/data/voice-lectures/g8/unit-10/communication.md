@@ -155,7 +155,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Emojis.
 2. In 20 years.
 3. People of all ages.

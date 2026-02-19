@@ -93,7 +93,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. which | 2. who | 3. whose | 4. which | 5. which
+**Bài 1 - Đáp án:** 1. which | 2. who | 3. whose | 4. which | 5. which
 </answer>
 
 <explanation>
@@ -163,7 +163,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. ✔ (có thể bỏ) | 2. ✔ (có thể bỏ) | 3. không tick (không thể bỏ) | 4. ✔ (có thể bỏ) | 5. ✔ (có thể bỏ)
 </answer>
 
@@ -248,7 +248,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - B | 2 - C | 3 - A | 4 - E | 5 - D
+**Bài 3 - Đáp án:** 1 - B | 2 - C | 3 - A | 4 - E | 5 - D
 </answer>
 
 <explanation>
@@ -318,7 +318,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 **1.** The Moon, whose surface is dark, is Earth's only natural satellite.
 *(Mặt trăng có bề mặt tối, là vệ tinh tự nhiên duy nhất của Trái Đất.)*

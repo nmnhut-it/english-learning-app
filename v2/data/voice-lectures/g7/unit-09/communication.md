@@ -86,6 +86,8 @@ Bài 2. Đọc hai tình huống và tạo hội thoại tương tự. Dùng cá
 </questions>
 
 <answer>
+**Bài 2 - Gợi ý:**
+
 **Situation 1:**
 
 | English | Vietnamese |
@@ -165,7 +167,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. think | 2. meaning | 3. life | 4. happiness
+**Bài 3 - Đáp án:** 1. think | 2. meaning | 3. life | 4. happiness
 
 **Giải thích:**
 1. **think** - "an image we use or **think** of" = hình ảnh ta sử dụng hoặc nghĩ đến
@@ -202,7 +204,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - C - b | 2 - A - c | 3 - D - a | 4 - B - d
+**Bài 4 - Đáp án:** 1 - C - b | 2 - A - c | 3 - D - a | 4 - B - d
 
 **Giải thích:**
 - **Mid-Autumn Festival** → **C. moon cake** → **b. moon, prosperity, family reunion**

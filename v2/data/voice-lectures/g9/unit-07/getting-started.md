@@ -158,7 +158,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.F
 </answer>
 
 <teacher_script pause="0" href="audio/tts_005e7f0d.webm">
@@ -216,7 +216,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. landscape | 2. couldn't help | 3. explore | 4. support | 5. development
+**Bài 3 - Đáp án:** 1. landscape | 2. couldn't help | 3. explore | 4. support | 5. development
 </answer>
 
 <teacher_script pause="0" href="audio/tts_37684104.webm">
@@ -281,7 +281,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. crazy | 2. landscape | 3. explore | 4. suggest | 5. contributes
+**Bài 4 - Đáp án:** 1. crazy | 2. landscape | 3. explore | 4. suggest | 5. contributes
 </answer>
 
 <teacher_script pause="0" href="audio/tts_b11bfd2d.webm">

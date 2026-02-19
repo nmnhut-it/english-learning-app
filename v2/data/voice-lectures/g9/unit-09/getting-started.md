@@ -83,7 +83,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 **1.** He comes from New York, USA.
 **2.** No, they don't. (Most wear pants and T-shirts).
 **3.** It means 'trousers'.
@@ -118,7 +118,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **native speakers** - người nói ngôn ngữ đó như tiếng mẹ đẻ
 2. **English** (implied) - ngôn ngữ giao tiếp chung
 3. **immigrants** - người nhập cư đến sống lâu dài

@@ -48,7 +48,7 @@ Nghe audio rồi tìm câu trả lời đi. 1 phút nha. Nghe tên nhân vật l
 </teacher_script>
 
 <answer>
-**Đáp án:** The passages are about **Hai** and **Alice**.
+**Bài 1 - Đáp án:** The passages are about **Hai** and **Alice**.
 </answer>
 
 ---
@@ -122,7 +122,7 @@ Bài 2 <eng>True or False</eng> nha. Nghe lại rồi đánh dấu T (Đúng) ho
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.T | 3.T | 4.T | 5.F
+**Bài 2 - Đáp án:** 1.F | 2.T | 3.T | 4.T | 5.F
 </answer>
 
 <teacher_script pause="0" href="audio/tts_3c5e5c1f.webm">
@@ -200,7 +200,7 @@ Bài 3 <eng>Fill in the blanks</eng> nha. Nghe lại rồi điền từ vô ch�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. volleyball | 2. three | 3. Alice | 4. chess
+**Bài 3 - Đáp án:** 1. volleyball | 2. three | 3. Alice | 4. chess
 </answer>
 
 <explanation>

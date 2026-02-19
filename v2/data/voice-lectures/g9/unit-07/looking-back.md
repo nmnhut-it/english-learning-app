@@ -31,7 +31,7 @@ Bài 1. Các em hãy điền từ vào chỗ trống để hoàn thành câu. 1 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. limestone | 2. contest | 3. landscape | 4. picturesque | 5. preserve
+**Bài 1 - Đáp án:** 1. limestone | 2. contest | 3. landscape | 4. picturesque | 5. preserve
 </answer>
 
 ---
@@ -59,7 +59,7 @@ Bài 2. Viết lại các câu sau sang câu gián tiếp. 1 phút rưỡi.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. She asked **if/whether it was** far from there.
 2. Tom asked the guard **if/whether he could** take a photo there.
 3. He asked me **if/whether I knew** the way to the beach.

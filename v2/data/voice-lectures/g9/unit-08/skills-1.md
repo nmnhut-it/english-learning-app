@@ -45,7 +45,7 @@ c. itinerary
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1 - b. traveller *(du khách, người du lịch)*
 2 - a. destination *(điểm đến)*
 3 - c. itinerary *(lịch trình du lịch)*
@@ -112,7 +112,7 @@ Tuy nhiên, để có chuyến đi suôn sẻ và tránh rắc rối, những du
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1 - b (cost - money spent)
 2 - c (fixed - not changing)
 3 - d (hunt for - look for)
@@ -161,7 +161,7 @@ Bài 3 <eng>Answer</eng> nha. Trả lời câu hỏi về bài đọc đi. 2 ph�
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 
 **1.** A package tour can save you **time** (and reduce stress).
 *Một chuyến du lịch trọn gói có thể giúp bạn tiết kiệm thời gian và giảm bớt căng thẳng.*

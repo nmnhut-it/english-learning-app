@@ -60,7 +60,7 @@ Nhìn tranh và trả lời 3 câu hỏi. 1 phút nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. I see a beaver in picture A. *(Tôi nhìn thấy một con hải ly trong hình A.)*
 2. It is swimming and holding a wooden stick to build a dam. *(Nó đang bơi và cầm một thanh gỗ để xây đập.)*
 3. I see a dam in picture B. *(Tôi nhìn thấy một cái đập trong hình B.)*
@@ -157,7 +157,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B
+**Bài 2 - Đáp án:** 1.C | 2.B
 </answer>
 
 <explanation>
@@ -212,7 +212,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. harm
 2. take
 3. improve

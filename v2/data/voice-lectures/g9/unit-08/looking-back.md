@@ -49,7 +49,7 @@ Bài 1 <eng>Choose</eng> nha. Chọn đáp án đúng để hoàn thành câu đ
 </questions>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.C | 4.D | 5.A
+**Bài 1 - Đáp án:** 1.B | 2.C | 3.C | 4.D | 5.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_32a64bde.webm">
@@ -87,7 +87,7 @@ Bài 2 <eng>Fill in</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. domestic
 2. fixed
 3. agent
@@ -146,7 +146,7 @@ Bài 3 <eng>Grammar</eng> nha. Trước khi làm, ôn lại đại từ quan h�
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. which
 2. who
 3. which
@@ -189,7 +189,7 @@ Bài 4 <eng>Combine</eng> nha. Nối câu sử dụng đại từ quan hệ tron
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. My family spent four days in India, **whose** culture is unique.
 2. Organising self-guided tours, **which** helps develop personal skills, are important for everybody.
 3. Russel stayed in a hotel in Bui Vien Street, **which** is one of the best streets for foreign tourists.

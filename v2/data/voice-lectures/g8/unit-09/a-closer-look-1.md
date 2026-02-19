@@ -52,7 +52,7 @@ Bài 1. <eng>In column B, write the noun forms of the verbs in column A.</eng> �
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. destroy → destruction
 2. erupt → eruption
 3. warn → warning
@@ -94,7 +94,7 @@ Bài 2. <eng>Write a word or phrase from the box under the correct picture.</eng
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. whistle (còi)
 2. property (tài sản)
 3. emergency kit (bộ dụng cụ khẩn cấp)
@@ -145,7 +145,7 @@ Bài 3. <eng>Fill in each blank with a word or phrase from the box.</eng> Điề
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. damage
 2. warning
 3. emergency kit
@@ -208,7 +208,7 @@ Bài 4. <eng>Listen and repeat the words. Pay attention to the word stress.</eng
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **MU**-si-cal /ˈmjuː.zɪ.kəl/ — nhấn âm 1
 2. **DAN**-ger-ous /ˈdeɪn.dʒər.əs/ — nhấn âm 1
 3. **HU**-mor-ous /ˈhjuː.mər.əs/ — nhấn âm 1
@@ -264,7 +264,7 @@ Bài 5. <eng>Listen and repeat the sentences. Mark the stress in the underlined 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. **PER**-son-al /ˈpɜː.sən.əl/ — nhấn âm 1
 2. **DAN**-ger-ous /ˈdeɪn.dʒər.əs/ — nhấn âm 1
 3. **NU**-mer-ous /ˈnjuː.mər.əs/ — nhấn âm 1; **TRO**-pi-cal /ˈtrɒp.ɪ.kəl/ — nhấn âm 1

@@ -36,7 +36,7 @@ Bài 1. Điền từ thích hợp từ ngân hàng từ. Nhớ lại các từ v
 </questions>
 
 <answer>
-**Đáp án:** 1. mean | 2. concentric | 3. bilingual | 4. fluent | 5. immigrants
+**Bài 1 - Đáp án:** 1. mean | 2. concentric | 3. bilingual | 4. fluent | 5. immigrants
 </answer>
 
 <teacher_script pause="0">
@@ -69,7 +69,7 @@ Bài 2. Nối câu dùng mệnh đề quan hệ. Nhớ: <eng>who</eng> = ngườ
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. The girl **who you met yesterday** is my sister.
 2. This is the book **which I bought in London**.
 3. The boy **whose father is a teacher** is smart.

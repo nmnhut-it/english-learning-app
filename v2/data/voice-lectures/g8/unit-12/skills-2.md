@@ -53,7 +53,7 @@ Ok gợi ý câu trả lời nè.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 1 - Gợi ý:**
 1. I think that creature is from another planet.
 *(Mình nghĩ sinh vật này đến từ hành tinh khác.)*
 
@@ -149,7 +149,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.A | 4.A | 5.B
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>
@@ -205,7 +205,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. four | 2. four | 3. hospitable | 4. dangerous | 5. plants | 6. rockets
+**Bài 3 - Đáp án:** 1. four | 2. four | 3. hospitable | 4. dangerous | 5. plants | 6. rockets
 </answer>
 
 <explanation>

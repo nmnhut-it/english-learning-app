@@ -60,7 +60,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. smartphone | 2. emoji | 3. voice message | 4. holography | 5. social network | 6. group call
+**Bài 1 - Đáp án:** 1. smartphone | 2. emoji | 3. voice message | 4. holography | 5. social network | 6. group call
 </answer>
 
 <explanation>
@@ -126,7 +126,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.B | 4.B | 5.A
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.B | 4.B | 5.A
 </answer>
 
 <explanation>
@@ -182,7 +182,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. voice | 2. language | 3. real | 4. translation | 5. instantly
+**Bài 3 - Đáp án:** 1. voice | 2. language | 3. real | 4. translation | 5. instantly
 </answer>
 
 <explanation>
@@ -294,7 +294,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. interviewee /ˌɪntəvjuˈiː/ (âm 4) - Taiwanese /ˌtaɪwəˈniːz/ (âm 3)
 2. agrees /əˈɡriː/ (âm 2) - Chinese /tʃaɪˈniːz/ (âm 2)
 3. degree /dɪˈɡriː/ (âm 2) - Japanese /ˌdʒæpəˈniːz/ (âm 3)

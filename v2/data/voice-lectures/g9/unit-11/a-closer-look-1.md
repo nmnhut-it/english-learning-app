@@ -341,7 +341,7 @@ Ok đáp án bài 5 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 | **OO** | **OOo** |
 |--------|---------|

@@ -72,7 +72,7 @@ d. a man who has magical powers
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.a | 4.c
+**Bài 2 - Đáp án:** 1.b | 2.d | 3.a | 4.c
 </answer>
 
 <teacher_script pause="0" href="audio/tts_efdc79af.webm">
@@ -167,7 +167,7 @@ Bài 3 <eng>Answer questions</eng> nha. Đọc lại blog rồi trả lời câu
 </questions>
 
 <answer>
-**Gợi ý trả lời:**
+**Bài 3 - Gợi ý trả lời:**
 1. It's a fantasy. (Đó là phim giả tưởng)
 2. He is one of the stars in the film. (Anh ấy là một trong những diễn viên chính)
 3. It tells the story of Harry Potter, a powerful wizard who learns about himself and fights bad things. (Kể về Harry Potter, một phù thủy quyền năng...)

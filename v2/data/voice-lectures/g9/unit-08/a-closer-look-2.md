@@ -75,7 +75,7 @@ Bài 1 nha. Xác định danh từ mà đại từ quan hệ đang chỉ đi. 1 
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. People
 2. The brochure
 3. the video
@@ -125,7 +125,7 @@ Bài 2 <eng>Choose</eng> nha. Chọn <eng>who</eng> hoặc <eng>which</eng> đú
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. which (brochure - thing)
 2. which (company - thing)
 3. who (elders - people)
@@ -175,7 +175,7 @@ Bài 3 nha. Chọn <eng>who</eng> hoặc <eng>whose</eng> đi. Nhớ: who = ngư
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. who
 2. whose (writer's book)
 3. who
@@ -220,7 +220,7 @@ Bài 4 <eng>Match</eng> nha. Nối mệnh đề ở cột A với cột B đi. 1
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1 - d. Don't forget to visit the National Air and Space Museum, **whose** breathtaking collection is a must-to-see.
 *Đừng quên ghé thăm Bảo tàng Hàng không và Vũ trụ Quốc gia, nơi có bộ sưu tập ngoạn mục không thể bỏ qua.*
 
@@ -339,7 +339,7 @@ Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 1. who
 2. which
@@ -417,7 +417,7 @@ Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 1. The restaurant **which serves authentic Vietnamese food** is located near the beach.
 
@@ -500,7 +500,7 @@ Hết giờ rồi. Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 1. which → **who** (woman là người)
 2. who → **which** (city là vật)

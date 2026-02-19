@@ -15,10 +15,15 @@ Học từ vựng trước nha. Bài nghe nói về chợ nổi ở Thái Lan - 
 1. **floating market** : chợ nổi /ˈfləʊtɪŋ ˈmɑːkɪt/
 2. **stall** : (n) quầy hàng, gian hàng /stɔːl/
 3. **cheap prices** : giá rẻ /tʃiːp ˈpraɪsɪz/
-4. **five minutes' walk from the station** : 5 phút đi bộ từ trạm xe /faɪv ˈmɪnɪts wɔːk frəm ðə ˈsteɪʃn/
-5. **forget - forgot - forgotten** : (v) quên /fəˈget - fəˈgɒt - fəˈgɒtn/
-6. **remember - remembered - remembered** : (v) nhớ /rɪˈmembə/
-7. **serving different Thai dishes** : phục vụ những món ăn Thái khác nhau /ˈsɜːvɪŋ ˈdɪfrənt taɪ ˈdɪʃɪz/
+4. **famous for** : nổi tiếng vì /ˈfeɪməs fɔːr/
+5. **street food** : (np) ẩm thực đường phố /striːt fuːd/
+6. **delicious** : (adj) ngon /dɪˈlɪʃəs/
+7. **five minutes' walk from the station** : 5 phút đi bộ từ trạm xe /faɪv ˈmɪnɪts wɔːk frəm ðə ˈsteɪʃn/
+8. **forget - forgot - forgotten** : (v) quên /fəˈget - fəˈgɒt - fəˈgɒtn/
+9. **remember - remembered - remembered** : (v) nhớ /rɪˈmembə/
+10. **serving different Thai dishes** : phục vụ những món ăn Thái khác nhau /ˈsɜːvɪŋ ˈdɪfrənt taɪ ˈdɪʃɪz/
+11. **visit** : (v) thăm, ghé thăm /ˈvɪzɪt/
+12. **interesting** : (adj) thú vị /ˈɪntrəstɪŋ/
 </vocabulary>
 
 ---
@@ -118,7 +123,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.F | 3.F | 4.T
+**Bài 2 - Đáp án:** 1.F | 2.F | 3.F | 4.T
 
 **Giải thích:**
 - **1. F** - Sai! Bangkok nổi tiếng với **markets and street food** (chợ và ẩm thực đường phố), không phải palaces (cung điện).
@@ -160,7 +165,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. 15,000 | 2. five (5) | 3. life | 4. delicious
+**Bài 3 - Đáp án:** 1. 15,000 | 2. five (5) | 3. life | 4. delicious
 
 **Giải thích:**
 - **1. 15,000** - Chợ có hơn 15 ngàn quầy hàng (over 15,000 stalls) - rất lớn!

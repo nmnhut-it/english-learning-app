@@ -52,7 +52,7 @@ Bài 1 trang 33. Nối từ với định nghĩa. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.a | 2.b | 3.c | 4.d
+**Bài 1 - Đáp án:** 1.a | 2.b | 3.c | 4.d
 </answer>
 
 <teacher_script pause="0">
