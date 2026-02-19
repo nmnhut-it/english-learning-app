@@ -52,27 +52,19 @@ Bài 2 <eng>Read and choose</eng> nha. Đọc bài rồi chọn đáp án đúng
 </teacher_script>
 
 <reading>
-Shopping centres attract a lot of customers for a number of reasons.
-First of all, they offer a wide range of products, so customers can find almost everything they need there.
-Besides, customers can touch the products and try on clothes or shoes before they decide to buy them.
-During sales, shopping centres can help customers save money and time because they don't have to go to different places to buy what they need.
-However, people also go to shopping centres for other reasons.
-They go there to enjoy entertainment such as live music and fashion shows.
-During holidays, shopping centres are full of beautiful decorations.
-Some people even go there to exercise because they enjoy walking for one or two hours in clean and well-lit areas.
-Others go there to avoid the heat or cold outside because shopping centres offer year-round free air conditioning and heating.
+**Why We Go to Shopping Centres**
+
+Shopping centres attract a lot of customers, especially at the weekend, on holidays, or during sales. People go there to shop. Shopping centres offer a wide range of products to choose from. Customers can touch the products and try on clothes and shoes. This makes them feel more comfortable when they decide to buy something.
+
+However, people also go to shopping centres for many other reasons. Some people go there for entertainment. These centres often offer year-round free entertainment for customers of all ages such as live music and special performances. During holidays, shoppers can see decorations and join in the holiday excitement. It's a good way to relax. Some people go there just to hang out with friends. They go browsing and chat while wandering through the shopping malls. Others visit shopping centres to get exercise. They enjoy walking for one or two hours in clean and well-lit areas. Some people even go there to avoid the heat or cold outside. Shopping centres offer free air conditioning and heating.
 </reading>
 
 <translation>
-Các trung tâm mua sắm thu hút nhiều khách hàng vì nhiều lý do.
-Trước hết, chúng cung cấp nhiều loại sản phẩm đa dạng, nên khách hàng có thể tìm thấy hầu hết mọi thứ họ cần ở đó.
-Bên cạnh đó, khách hàng có thể chạm vào sản phẩm và thử quần áo hoặc giày trước khi quyết định mua.
-Trong các đợt giảm giá, trung tâm mua sắm có thể giúp khách hàng tiết kiệm tiền và thời gian vì họ không phải đi đến nhiều nơi khác nhau để mua những gì họ cần.
-Tuy nhiên, mọi người cũng đến trung tâm mua sắm vì những lý do khác.
-Họ đến đó để thưởng thức giải trí như nhạc sống và trình diễn thời trang.
-Trong các ngày lễ, trung tâm mua sắm đầy ắp những trang trí đẹp mắt.
-Một số người thậm chí đến đó để tập thể dục vì họ thích đi bộ một hoặc hai tiếng trong khu vực sạch sẽ và được chiếu sáng tốt.
-Những người khác đến đó để tránh nóng hoặc lạnh bên ngoài vì trung tâm mua sắm cung cấp điều hòa không khí và sưởi ấm miễn phí quanh năm.
+**Tại sao chúng ta đến trung tâm thương mại?**
+
+Trung tâm thương mại thu hút rất nhiều khách hàng, đặc biệt là vào cuối tuần, vào ngày nghỉ hoặc trong các đợt giảm giá. Mọi người đến đó để mua hàng. Trung tâm thương mại cung cấp đa dạng hàng hóa để lựa chọn. Khách hàng có thể cầm sản phẩm và thử quần áo hay giày dép. Chuyện này khiến họ thấy thoải mái hơn khi họ quyết định mua gì đó.
+
+Tuy nhiên, người ta cũng đi đến trung tâm thương mại vì nhiều lí do khác. Nhiều người đến đó để giải trí. Những trung tâm này thường cung cấp những dịch vụ giải trí miễn phí quanh năm cho các khách hàng ở mọi độ tuổi như nhạc sống và những màn trình diễn đặc biệt. Trong những ngày lễ, khách mua hàng có thể thấy những vật trang trí và hòa mình vào niềm thích thú của những ngày lễ. Đó là một cách tốt để thư giãn. Vài người đến đó chỉ để đi chơi với bạn bè. Họ chỉ đi lướt qua và nói chuyện trong khi lang thang khắp trung tâm thương mại. Có những người đến trung tâm thương mại chỉ để tập thể dục. Họ thích đi dạo tầm một đến hai giờ đồng hồ trong những khu vực sạch sẽ và sáng đèn. Có vài người thậm chí còn đến đây để tránh cái nóng và cái lạnh ở bên ngoài. Trung tâm thương mại cung cấp sưởi ấm và làm mát miễn phí.
 </translation>
 
 <questions type="multiple_choice">

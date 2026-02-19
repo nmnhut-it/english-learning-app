@@ -584,7 +584,11 @@ function extractVoiceBlocks(content) {
   for (const match of questionMatches) {
     const inner = match.replace(/<\/?questions[^>]*>/g, '');
     const lines = inner.split('\n')
-      .map(line => line.replace(/^\*\*\d+\.\*\*\s*/, '').trim())
+      .map(line => line
+        .replace(/^\*\*\d+\.\*\*\s*/, '')
+        .replace(/\s*\*\([^)]+\)\*/g, '')  // Strip *(Vietnamese)* inline translations
+        .trim()
+      )
       .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
     blocks.questionText += ' ' + lines.join(' ');
   }

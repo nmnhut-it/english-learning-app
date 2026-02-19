@@ -3,7 +3,7 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok bài <eng>Skills 2</eng> nha lớp 8 - hôm nay mình luyện nghe về một lễ hội truyền thống, rồi viết đoạn văn về một phong tục mình biết. Mở sách trang 56 đi. Học từ vựng trước nha.
+Ok lớp 8, bài <eng>Skills 2</eng> nha. Hôm nay mình nghe về lễ hội Ok Om Bok của người Khmer, rồi viết email cho bạn về lễ hội này. Ghi tựa bài vô tập rồi học từ vựng nha.
 </teacher_script>
 
 <vocabulary>
@@ -12,91 +12,114 @@ Ok bài <eng>Skills 2</eng> nha lớp 8 - hôm nay mình luyện nghe về một
 3. **statue** : (n) tượng (thờ) /ˈstætʃuː/
 4. **respect** : (n/v) sự tôn trọng / tôn trọng /rɪˈspɛkt/
 5. **litter** : (v/n) xả rác / rác /ˈlɪtər/
+6. **offering** : (n) lễ vật, đồ dâng cúng /ˈɒfərɪŋ/
+7. **lunar calendar** : (n) âm lịch /ˈluːnər ˈkæləndər/
+8. **harvest** : (n) mùa gặt, thu hoạch /ˈhɑːvɪst/
 </vocabulary>
 
-<teacher_script pause="0">
-Xong từ vựng rồi nha. Chuẩn bị nghe audio bài nghe về một lễ hội truyền thống. Nghe và làm bài tập nha.
-</teacher_script>
-
-<!-- chunk: listening -->
-<teacher_script pause="0">
-Bài 1 - nghe audio bài 30, nhìn tranh trong sách trang 56. Trả lời câu hỏi: Đây là lễ hội gì, ở đâu?
-</teacher_script>
-
-🔊 [Track 30](https://img.loigiaihay.com/picture/2023/0616/track-30.mp3)
-
-<teacher_script pause="0">
-Bài nghe này kể về một lễ hội làng truyền thống. Người ta tổ chức vào cuối mùa gặt để tạ ơn tổ tiên và thiên nhiên. Trong lễ hội có nhiều hoạt động đặc sắc lắm. Nghe kỹ rồi làm bài 2 và bài 3 nha.
-</teacher_script>
-
-<!-- chunk: exercise-2 -->
+<!-- chunk: exercise-1 -->
 <teacher_script pause="60">
-Bài 2 - điền từ vào chỗ trống dựa vào bài nghe. 4 câu, nghe lại audio nếu cần rồi điền. 1 phút làm bài.
+Bài 1 — nhìn ảnh trong sách trang 56 và trả lời 2 câu hỏi nha. 1 phút thôi.
 </teacher_script>
 
 <task>
-**Đề:** Listen again and fill in each blank with information from the listening.
-**Dịch đề:** Nghe lại và điền từ vào chỗ trống dựa vào nội dung bài nghe.
+**Đề:** Work in pairs. Look at the photos and answer the following questions.
+**Dịch đề:** Làm việc theo cặp. Quan sát các bức ảnh và trả lời các câu hỏi sau.
 </task>
 
-<questions type="fill_blanks">
-**1.** The festival takes place at the _______ of the harvest season.
-*Lễ hội diễn ra vào _______ mùa gặt.*
+<questions type="speaking">
+**1.** What can you see in the photos?
+*Bạn có thể thấy gì trong các bức ảnh?*
 
-**2.** Villagers offer _______ to their ancestors during the ceremony.
-*Dân làng dâng _______ lên ông bà tổ tiên trong buổi lễ.*
-
-**3.** There are traditional _______ where women wear beautiful local costumes.
-*Có những _______ truyền thống mà phụ nữ mặc trang phục địa phương đẹp.*
-
-**4.** The day ends with a boat _______.
-*Ngày lễ kết thúc bằng một cuộc _______ thuyền.*
+**2.** In which part of Vietnam might the festival occur?
+*Vùng nào ở Việt Nam có thể diễn ra những lễ hội này?*
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè.
+Đây là lễ hội thả đèn và đua thuyền — gợi ý: diễn ra ở vùng Đồng bằng sông Cửu Long. Mình sẽ nghe thêm về lễ hội này bây giờ.
+</teacher_script>
+
+<!-- chunk: exercise-2 -->
+<teacher_script pause="0">
+Bài 2 — nghe chương trình <eng>Charming Viet Nam</eng>. Điền từ vào bảng, mỗi chỗ trống không quá 2 từ. Bấm nghe đi.
+</teacher_script>
+
+<task>
+**Đề:** Listen to part of the programme "Charming Viet Nam". Fill in each blank with no more than TWO words.
+**Dịch đề:** Nghe một phần chương trình "Duyên dáng Việt Nam". Điền vào mỗi chỗ trống không quá HAI từ.
+</task>
+
+<reading>
+[Audio: https://img.loigiaihay.com/picture/2023/0616/track-30.mp3]
+
+**The Ok Om Bok Festival**
+
+...Let's go to the Mekong Delta and join the Ok Om Bok Festival of the Khmer people. It is also called the Moon Worshipping Festival. Traditionally, the Khmers use the festival to thank the Moon God for giving them a good harvest. It also marks the end of the year of the Khmer calendar. Ok Om Bok occurs in mid-October according to the lunar calendar. When the moon is at its highest position, the monks and the elders offer young rice and fruits to the Moon God. Then, they take some young rice to feed children and ask them about their wishes. People sing and dance in the moonlight. Visitors can participate in games, watch traditional fashion shows and see flying lantern contests. The next day, villagers organise the Ngo Boat Race. This is a boat race that attracts many tourists. Here is some advice to tourists at the Ok Om Bok Festival. They should not wear shorts or sleeveless shirts when attending the religious ceremony. And don't litter the temple grounds. And now let's…
+</reading>
+
+<translation>
+**Lễ hội Ok Om Bok**
+
+...Hãy về Đồng bằng sông Cửu Long và tham gia Lễ hội Ok Om Bok của người Khmer. Nó còn được gọi là Lễ hội cúng trăng. Theo truyền thống, người Khmer dùng lễ hội này để tạ ơn Thần Mặt trăng đã ban cho họ một vụ mùa bội thu. Nó cũng đánh dấu thời điểm kết thúc một năm theo lịch Khmer. Ok Om Bok diễn ra vào giữa tháng 10 theo âm lịch. Khi mặt trăng ở vị trí cao nhất, các thầy cúng và các bô lão dâng cốm và hoa quả lên Thần Mặt trăng. Sau đó, họ lấy một ít cốm cho trẻ em ăn và hỏi các em về ước muốn của mình. Mọi người ca hát và nhảy múa dưới ánh trăng. Du khách có thể tham gia các trò chơi, xem trình diễn trang phục truyền thống và xem các cuộc thi thả đèn trời. Ngày hôm sau, dân làng tổ chức Đua ghe Ngo. Đây là cuộc đua thuyền thu hút rất nhiều khách du lịch. Dưới đây là một số lời khuyên cho khách du lịch tại Lễ hội Ok Om Bok. Họ không nên mặc quần đùi hoặc áo không tay khi tham dự các nghi lễ tôn giáo. Không xả rác trong khuôn viên chùa. Và bây giờ chúng ta hãy…
+</translation>
+
+<questions type="fill_blanks">
+Ok Om Bok Festival
+
+Purposes: To thank the Moon God; To mark the (1) _______ of the Khmer year
+
+Time: mid-October (lunar calendar)
+
+Offerings: (2) _______ and fruits
+
+Activities: Singing and dancing; Games and traditional (3) _______; Ngo Boat (4) _______
+</questions>
+
+<teacher_script pause="0">
+Đáp án bài 2 nè.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1. end | 2. young rice | 3. fashion shows | 4. race
+**Bài 2 - Đáp án:** 1. end | 2. young rice | 3. fashion shows | 4. Race
 </answer>
 
 <explanation>
-**1. end:** Lễ hội diễn ra vào *cuối* mùa gặt (at the end of the harvest season) - đây là thời điểm người dân thu hoạch xong và tổ chức lễ tạ ơn.
-
-**2. young rice:** *Young rice* (lúa non/lúa mới) là lễ vật đặc trưng dâng tổ tiên trong lễ hội mùa gặt - người ta dâng những hạt lúa mới thu hoạch đầu tiên.
-
-**3. fashion shows:** *Fashion shows* (biểu diễn thời trang) ở đây là phần diễu hành trang phục truyền thống - phụ nữ mặc trang phục địa phương đặc sắc. Đây không phải "thời trang hiện đại" mà là trình diễn trang phục dân tộc.
-
-**4. race:** *Boat race* = đua thuyền. Lễ hội kết thúc bằng cuộc đua thuyền trên sông - hoạt động vui nhộn nhất trong ngày.
+- **Câu 1 - end:** "It also marks the **end** of the year of the Khmer calendar." — lễ hội đánh dấu *kết thúc* năm Khmer.
+- **Câu 2 - young rice:** "the monks and the elders offer **young rice** and fruits to the Moon God." — lễ vật là *cốm* (lúa non mới gặt) và hoa quả.
+- **Câu 3 - fashion shows:** "watch traditional **fashion shows**" — xem trình diễn trang phục truyền thống.
+- **Câu 4 - Race:** "the Ngo Boat **Race**" — cuộc đua ghe Ngo trên sông.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="45">
-Bài 3 - đúng hay sai nha. 4 câu về bài nghe. Nhớ nội dung không? Làm trong 45 giây.
+Bài 3 — nghe lại, đúng hay sai. 4 câu về Ok Om Bok. 45 giây nha.
 </teacher_script>
 
 <task>
-**Đề:** Listen again and decide if each statement is True (T) or False (F).
-**Dịch đề:** Nghe lại và quyết định mỗi câu là đúng (T) hay sai (F).
+**Đề:** Listen again and tick (✓) T (True) or F (False).
+**Dịch đề:** Nghe lại và đánh dấu (✓) T (đúng) hoặc F (sai).
 </task>
 
+<reading>
+[Audio: https://img.loigiaihay.com/picture/2023/0616/track-31.mp3]
+</reading>
+
 <questions type="true_false">
-**1.** The festival is held to celebrate the harvest.
-*Lễ hội được tổ chức để ăn mừng mùa gặt.*
+**1.** Ok Om Bok is the Moon Worshipping Festival.
+*Ok Om Bok là lễ hội cúng trăng.*
 
-**2.** The fashion show features modern, trendy clothing.
-*Phần trình diễn thời trang trưng bày quần áo hiện đại, thời thượng.*
+**2.** On the night of the festival, the elders talk about their wishes.
+*Vào đêm diễn ra lễ hội, những người lớn tuổi nói về những mong ước của họ.*
 
-**3.** Young rice is used as an offering to ancestors.
-*Lúa non/cơm mới được dùng làm lễ vật dâng tổ tiên.*
+**3.** There are lantern contests at the festival.
+*Có các cuộc thi đèn lồng trong lễ hội.*
 
-**4.** The boat race takes place in the morning, at the start of the festival.
-*Cuộc đua thuyền diễn ra vào buổi sáng, lúc bắt đầu lễ hội.*
+**4.** Tourists should wear informal clothes when attending the worshipping ceremony.
+*Du khách nên mặc đồ bình thường khi tham dự lễ cúng.*
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè.
+Đáp án bài 3 nè.
 </teacher_script>
 
 <answer>
@@ -104,113 +127,87 @@ Bài 3 - đúng hay sai nha. 4 câu về bài nghe. Nhớ nội dung không? Là
 </answer>
 
 <explanation>
-**1. T - Đúng:** Lễ hội tổ chức vào cuối mùa gặt để mừng thu hoạch và tạ ơn tổ tiên - đây đúng là lễ mừng mùa gặt.
-
-**2. F - Sai:** Bài nghe nói các phụ nữ mặc **trang phục địa phương truyền thống** (local costumes), không phải quần áo hiện đại hay thời thượng. Đây là phần trình diễn trang phục dân tộc, không phải thời trang hiện đại.
-
-**3. T - Đúng:** *Young rice* (lúa non/cơm mới) được dâng lên tổ tiên - đây là nét đặc trưng của lễ hội mùa gặt, dâng những sản phẩm thu hoạch đầu tiên.
-
-**4. F - Sai:** Cuộc đua thuyền diễn ra vào **cuối ngày** ("the day ends with a boat race"), không phải buổi sáng hay lúc bắt đầu lễ hội.
+- **Câu 1 - T:** "It is also called the **Moon Worshipping Festival**." — đúng, Ok Om Bok = Lễ hội cúng trăng.
+- **Câu 2 - F:** Sai! "they take some young rice to feed **children** and ask **them** about their wishes." — người lớn hỏi *trẻ em* về ước muốn, không phải người lớn tự kể ước muốn.
+- **Câu 3 - T:** "see **flying lantern contests**" — đúng, có thi thả đèn trời.
+- **Câu 4 - F:** Sai! "**They should NOT wear shorts or sleeveless shirts**" — phải ăn mặc lịch sự, không được mặc quần đùi hay áo hở vai.
 </explanation>
 
-<!-- chunk: writing-intro -->
-<teacher_script pause="0">
-Xong phần nghe rồi nha! Bây giờ mình học viết đoạn văn về một phong tục hoặc lễ hội mà em biết. Đây là phần viết quan trọng - thầy/cô sẽ hướng dẫn cấu trúc trước nha.
-</teacher_script>
-
-<grammar>
-## Cấu trúc đoạn văn về phong tục/lễ hội
-
-### 5 phần cần có:
-
-**1. Giới thiệu** - What is it? Where is it from?
-> "One of the most popular traditions in Vietnam is..."
-> "A well-known custom in Vietnamese culture is..."
-
-**2. Thời gian/địa điểm** - When and where does it take place?
-> "It is celebrated / takes place in... / every year in..."
-> "It is held at... / in... province/city."
-
-**3. Hoạt động** - What do people do?
-> "During the festival, people..."
-> "Families prepare... / Participants..."
-> "There are activities such as..."
-
-**4. Thức ăn/Trang phục** (nếu có)
-> "Traditional food includes..."
-> "People wear traditional costumes called..."
-
-**5. Mục đích/Ý nghĩa** - Why is it important?
-> "The festival helps..."
-> "This tradition is important because..."
-> "It strengthens... / maintains... / brings..."
-
-### Từ nối hữu ích
-- **First / Firstly** - đầu tiên
-- **Then / Next** - tiếp theo
-- **After that** - sau đó
-- **Finally** - cuối cùng
-- **In addition** - ngoài ra
-- **However** - tuy nhiên
-- **Therefore** - vì vậy
-</grammar>
-
-<teacher_script pause="0">
-Nhớ 5 phần đó nha. Bây giờ xem bài văn mẫu về Tết Trung Thu rồi tự viết bài của mình.
-</teacher_script>
-
-<!-- chunk: writing-sample -->
-<teacher_script pause="0">
-Đây là bài văn mẫu về Tết Trung Thu. Đọc để học cách viết nha.
-</teacher_script>
-
-<reading>
-**The Mid-Autumn Festival (Tet Trung Thu)**
-
-One of the most beloved traditions in Vietnam is the Mid-Autumn Festival, also known as *Tet Trung Thu*. It is celebrated on the 15th day of the eighth lunar month, usually in September or October.
-
-During the festival, families gather to enjoy the full moon together. Children carry colourful lanterns and parade through the streets, singing traditional songs. There are also lion dance performances that fill the neighbourhood with exciting drumbeats.
-
-Traditional food is an important part of the celebration. Families prepare and share *banh trung thu* (mooncakes) in various flavours, along with other sweet treats. The round shape of the mooncakes represents the full moon and family reunion.
-
-The Mid-Autumn Festival is important because it brings families and communities together. It also celebrates the harvest season and gives children a chance to enjoy traditional customs. This festival helps maintain a beautiful part of Vietnamese culture and strengthens the bond between generations.
-</reading>
-
-<teacher_script pause="0">
-Bài văn mẫu đó có đủ 5 phần: giới thiệu → thời gian → hoạt động → thức ăn → mục đích/ý nghĩa. Các em viết tương tự nha. Chọn một phong tục hoặc lễ hội mình biết để viết.
-</teacher_script>
-
-<!-- chunk: writing-task -->
-<teacher_script pause="0">
-Bài 4 - viết đoạn văn về một phong tục hoặc lễ hội Việt Nam mà em biết. Dài khoảng 80-100 từ. Dùng cấu trúc 5 phần đã học nha.
+<!-- chunk: exercise-4 -->
+<teacher_script pause="60">
+Bài 4 — đọc các lời khuyên và phân loại vào cột "nên làm" và "không nên làm". 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Write a paragraph (80–100 words) about a Vietnamese custom or festival that you know. Use the 5-part structure: introduction → time/place → activities → food/costume → purpose/meaning.
-**Dịch đề:** Viết một đoạn văn (80–100 từ) về một phong tục hoặc lễ hội Việt Nam mà em biết. Dùng cấu trúc 5 phần: giới thiệu → thời gian/địa điểm → hoạt động → thức ăn/trang phục → mục đích/ý nghĩa.
+**Đề:** Work in groups. Read the following pieces of advice for tourists at the Ok Om Bok Festival. Put them in the correct column.
+**Dịch đề:** Làm việc nhóm. Đọc những lời khuyên sau cho khách du lịch tại lễ hội Ok Om Bok. Đặt chúng vào đúng cột.
 </task>
 
-<questions type="writing">
-**Gợi ý chủ đề:**
-- Tết Nguyên Đán (Vietnamese New Year)
-- Lễ hội Chùa Hương (Huong Pagoda Festival)
-- Lễ hội Đua Thuyền (Boat Race Festival)
-- Tục cúng ông Táo (Kitchen God Ceremony)
-- Lễ hội Đền Hùng (Hung King Festival)
-- Một lễ hội ở địa phương em
+<questions type="matching">
+**a.** dress up for the Moon God offering ceremony
+**b.** keep quiet when the monks and the elders are talking
+**c.** climb on the animal statues in the temple ground
+**d.** show respect to the monks and the elders
+**e.** refuse young rice when the elders offer it to you
+**f.** litter the temple ground
 
-**Checklist trước khi nộp:**
-- [ ] Có đủ 5 phần không?
-- [ ] Dùng mạo từ a/an/the đúng chưa?
-- [ ] Có dùng từ nối chưa (first, then, finally...)?
-- [ ] Khoảng 80-100 từ chưa?
-- [ ] Kiểm tra lỗi chính tả chưa?
+Phân loại vào: **Do** (nên làm) | **Don't** (không nên làm)
 </questions>
 
-<teacher_script action="photo" pause="0">
-Viết xong thì chụp ảnh bài làm rồi nộp nha. Bấm nút chụp ảnh đó.
+<teacher_script pause="0">
+Đáp án bài 4 nè.
 </teacher_script>
 
+<answer>
+**Bài 4 - Đáp án:**
+- **Do (Nên làm):** a, b, d
+- **Don't (Không nên làm):** c, e, f
+</answer>
+
+<explanation>
+- **Nên làm:** dress up (ăn mặc lịch sự cho buổi lễ), keep quiet (giữ im lặng khi các cụ nói), show respect (tôn trọng nhà sư và người lớn).
+- **Không nên làm:** climb on statues (trèo lên tượng trong chùa), refuse young rice (từ chối cốm — điều này thô lỗ vì cốm là lễ vật thiêng liêng), litter (xả rác trong khuôn viên chùa).
+</explanation>
+
+<!-- chunk: exercise-5 -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 2</eng> rồi nha lớp 8! Hôm nay nghe về lễ hội mùa gặt và viết về phong tục truyền thống. Tiết sau là bài <eng>Looking Back</eng> - ôn tập toàn bộ Unit 5 nha!
+Bài 5 — viết email cho Tom về lễ hội Ok Om Bok. Đọc đoạn email của Tom rồi viết hồi âm nha.
+</teacher_script>
+
+<task>
+**Đề:** Tom sent you an email. Write an email (80-100 words) to advise Tom about participating in the Ok Om Bok Festival.
+**Dịch đề:** Tom đã gửi cho bạn một email. Viết email (80-100 từ) tư vấn cho Tom về việc tham gia Lễ hội Ok Om Bok.
+
+**Email của Tom:**
+*"... Guess what! My dad is taking me with him to Soc Trang Province. We will be there during the Ok Om Bok Festival. What are some dos and don'ts at this festival? ..."*
+</task>
+
+<grammar>
+**Cấu trúc email tư vấn:**
+
+1. **Mở đầu:** "Dear Tom," / "Hi Tom,"
+2. **Vào chủ đề:** "Glad to hear..." / "I'm happy to hear..."
+3. **Nên làm (Do's):** "You should... / Remember to... / Make sure you..."
+4. **Không nên làm (Don'ts):** "Don't... / You shouldn't... / Avoid..."
+5. **Kết thúc:** "Hope you enjoy the festival! / Best wishes,"
+
+**Gợi ý nội dung:**
+- Wear polite/modest clothes for the ceremony (no shorts or sleeveless shirts)
+- Show respect to monks and elders; keep quiet during the ceremony
+- Don't climb on animal statues in the temple ground
+- Don't refuse young rice when the elders offer it to you
+- Don't litter the temple grounds
+</grammar>
+
+<questions type="writing">
+Viết email (80-100 từ) vô tập, sau đó chụp ảnh và nộp.
+</questions>
+
+<teacher_script action="photo" pause="300">
+Viết email cho Tom vô tập nha. Nhớ đủ các phần: lời chào → giới thiệu → nên làm → không nên làm → kết. 5 phút nha, xong chụp ảnh nộp.
+</teacher_script>
+
+<!-- chunk: end -->
+<teacher_script pause="0">
+Xong bài <eng>Skills 2</eng> Unit 5 rồi nha! Hôm nay mình biết về lễ hội Ok Om Bok của người Khmer ở Đồng bằng sông Cửu Long. Nhớ: ăn mặc lịch sự, tôn trọng người lớn; không leo lên tượng, không từ chối cốm, không xả rác nha. Ôn bài hen!
 </teacher_script>
