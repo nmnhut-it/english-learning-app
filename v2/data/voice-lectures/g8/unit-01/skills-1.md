@@ -32,19 +32,13 @@ Các em mở sách ra, Unit 1, bài <eng>Skills 1</eng>, ghi tựa bài. Bấm "
 ### Bài 1-2 trang 14 - Reading
 
 <teacher_script pause="0">
-Bài 1 và 2. Đọc bài về Phương nha. Cô bé này có nhiều sở thích thú vị lắm!
+Bài 1 và 2. Đọc bài về Trang nha. Bạn ấy chia sẻ về các hoạt động giải trí cùng gia đình. Đọc kỹ để làm bài tập.
 </teacher_script>
 
 <reading>
-**My Leisure Activities** - by Phuong
+Some teenagers enjoy spending free time with their friends. Others prefer doing leisure activities with their family members. I love spending time with my family because it's a great way to **connect** with them.
 
-I love spending free time with my family. In my family, we have many different leisure activities, but we always find time to do things together.
-
-At weekends, my dad, my brother and I usually go for a bike ride. We ride to nearby villages to breathe in fresh air and take photos of the beautiful countryside. My brother is really into photography, so he loves taking pictures of everything we see.
-
-My mum is keen on cooking. She often tries easy recipes from the internet. I sometimes help her prepare the ingredients and learn simple cooking skills from her. I'm really fond of her home-made cakes!
-
-My favourite activity is doing DIY projects. I especially love making things with fabric. My mum teaches me to make my own dresses and doll clothes for special occasions. Last month, I wore a dress I made myself to a costume contest at my school. I won the first prize!
+At the weekend, we usually go for a bike ride. We cycle to some nearby villages to enjoy the fresh air. We take photos and look at them later. My big brother and I are also into cooking. My brother looks for easy recipes. After that, we prepare the ingredients and cook. Sometimes the food is good, but sometimes it isn't; nevertheless, we love whatever we cook. The leisure activity I like the most is doing DIY projects with my mum. She teaches me to make my own dresses and doll clothes. On special occasions, we make special dresses together. Once I won the first prize in a costume contest at my school.
 </reading>
 
 <teacher_script pause="180">
@@ -52,16 +46,47 @@ Dịch bài đọc vô vở nha. 3 phút.
 </teacher_script>
 
 <translation>
-**Các hoạt động giải trí của tôi** - của Phương
+Vài thiếu niên thích dành thời gian với bạn bè. Những người khác thì thích làm các hoạt động trong lúc rảnh rỗi với thành viên gia đình. Tôi thích dành thời gian với gia đình vì nó là một cách tốt để kết nối với họ.
 
-Tôi thích dành thời gian rảnh với gia đình. Trong gia đình tôi, mọi người có nhiều hoạt động giải trí khác nhau, nhưng chúng tôi luôn tìm thời gian cùng nhau làm mọi việc.
-
-Vào cuối tuần, ba, anh trai và tôi thường đi xe đạp. Chúng tôi đi đến các làng gần đó để hít thở không khí trong lành và chụp ảnh cảnh đồng quê đẹp. Anh trai tôi rất mê nhiếp ảnh, nên anh ấy thích chụp ảnh mọi thứ chúng tôi thấy.
-
-Mẹ tôi say mê nấu ăn. Mẹ thường thử các công thức đơn giản từ internet. Đôi khi tôi giúp mẹ chuẩn bị nguyên liệu và học kỹ năng nấu ăn đơn giản từ mẹ. Tôi rất thích bánh tự làm của mẹ!
-
-Hoạt động yêu thích của tôi là làm đồ thủ công. Tôi đặc biệt thích làm đồ bằng vải. Mẹ dạy tôi tự may váy và quần áo búp bê cho các dịp đặc biệt. Tháng trước, tôi mặc chiếc váy tự may đến một cuộc thi trang phục ở trường. Tôi đã giành giải nhất!
+Vào cuối tuần, chúng tôi thường đi xe đạp. Chúng tôi đạp xe đến các ngôi làng gần đây để tận hưởng không khí trong lành. Chúng tôi chụp ảnh để sau này xem lại. Anh trai lớn của tôi và tôi cũng thích nấu ăn. Anh tôi đi tìm các công thức dễ. Sau đó, chúng tôi chuẩn bị nguyên liệu và nấu. Thi thoảng đồ ăn rất ngon, tuy nhiên đôi lúc thì không; dù vậy, chúng tôi yêu thích bất kỳ thứ gì mình nấu. Các hoạt động rảnh rỗi mà tôi thích nhất là làm các đồ DIY với mẹ. Mẹ dạy tôi làm đầm và quần áo búp bê của riêng mình. Vào những dịp đặc biệt, chúng tôi cùng nhau làm những bộ đầm đặc biệt. Một lần tôi đã thắng giải nhất trong một cuộc thi hóa trang ở trường.
 </translation>
+
+<!-- chunk: exercise_2 -->
+### Bài 2 trang 14 - Multiple Choice
+
+<teacher_script pause="60">
+Bài 2. Chọn đáp án đúng nha. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Choose the correct answer.
+**Dịch đề:** Chọn câu trả lời đúng.
+</task>
+
+<questions type="multiple_choice">
+**1.** The text is about Trang's leisure activities _______.
+- A. in the past
+- B. with her friends
+- C. with her family
+
+**2.** The word "connect" is closest in meaning to _______.
+- A. join with something
+- B. better understand someone
+- C. speak to someone by phone
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Bài 2 - Đáp án:** 1.C | 2.B
+</answer>
+
+<explanation>
+**1. C - with her family:** *"I love spending time with my family"* → bài đọc nói về thời gian cùng gia đình.
+**2. B - better understand someone:** *"connect with them"* = kết nối, hiểu nhau hơn. Không phải "gọi điện" hay "tham gia".
+</explanation>
 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 14 - Reading Comprehension
@@ -71,17 +96,16 @@ Bài 3. Đọc lại bài và trả lời câu hỏi nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Answer the questions about the reading passage.
-**Dịch đề:** Trả lời câu hỏi về bài đọc.
+**Đề:** Read the text again and answer the questions.
+**Dịch đề:** Đọc lại văn bản và trả lời các câu hỏi.
 </task>
 
 <questions type="fill_blanks">
-**1.** What do Phuong, her dad and brother usually do at weekends?
-**2.** Who is really into photography?
-**3.** Is cooking Phuong's favourite activity?
-**4.** What is Phuong's favourite leisure activity?
-**5.** Who teaches Phuong to make dresses and doll clothes?
-**6.** What happened when Phuong wore a dress she made herself?
+**1.** What does Trang do with her family members at the weekend?
+**2.** Who looks for recipes when Trang and her brother cook?
+**3.** Which leisure activity does she love the most?
+**4.** What does Trang's mum teach her to do?
+**5.** What did she win?
 </questions>
 
 <teacher_script pause="0">
@@ -90,21 +114,19 @@ Bài 3. Đọc lại bài và trả lời câu hỏi nha. 1 phút.
 
 <answer>
 **Bài 3 - Đáp án:**
-1. They usually go for a bike ride.
-2. Her brother.
-3. No, it isn't. Her favourite activity is doing DIY.
-4. Doing DIY (making things with fabric).
-5. Her mum.
-6. She won the first prize in a costume contest at her school.
+1. They usually go for a bike ride. They cycle to some nearby villages to enjoy the fresh air. They take photos and look at them later.
+2. Her brother looks for easy recipes.
+3. The leisure activity she likes the most is doing DIY projects with her mum.
+4. Trang's mum teaches her to make her own dresses and doll clothes.
+5. She won the first prize in a costume contest at her school.
 </answer>
 
 <explanation>
-- **Câu 1:** *"we usually go for a bike ride"* = chúng tôi thường đi xe đạp.
-- **Câu 2:** *"My brother is really into photography"* = anh trai rất mê nhiếp ảnh.
-- **Câu 3:** Không - mẹ Phương mới thích nấu ăn. Phương thích làm DIY nhất.
-- **Câu 4:** *"My favourite activity is doing DIY projects"* - làm đồ thủ công.
-- **Câu 5:** *"My mum teaches me to make my own dresses"* = mẹ dạy.
-- **Câu 6:** *"I won the first prize"* = giành giải nhất cuộc thi trang phục.
+- **Câu 1:** *"we usually go for a bike ride"* = đạp xe đến làng, chụp ảnh.
+- **Câu 2:** *"My brother looks for easy recipes"* = anh trai tìm công thức.
+- **Câu 3:** *"The leisure activity I like the most is doing DIY projects with my mum"* = làm DIY.
+- **Câu 4:** *"She teaches me to make my own dresses and doll clothes"* = mẹ dạy may đầm và quần áo búp bê.
+- **Câu 5:** *"I won the first prize in a costume contest"* = giải nhất cuộc thi hóa trang.
 </explanation>
 
 <!-- chunk: speaking -->
@@ -120,14 +142,14 @@ Bài 4 nói về hoạt động giải trí của gia đình em nha. Trả lời
 </task>
 
 <questions type="speaking">
-**1.** What leisure activities do you and your family usually do together?
-*(Bạn và gia đình thường làm gì cùng nhau?)*
+**1.** What leisure activities do you usually do with your family?
+*(Bạn thường làm hoạt động gì với gia đình?)*
 
-**2.** What leisure activity do you like most? Why?
-*(Hoạt động giải trí nào bạn thích nhất? Tại sao?)*
+**2.** Which one do you like the most? Why?
+*(Bạn thích nhất cái nào? Tại sao?)*
 
-**3.** How do you feel when you do your favourite leisure activity?
-*(Bạn cảm thấy thế nào khi làm hoạt động yêu thích?)*
+**3.** How do you feel when you spend time with your family members?
+*(Bạn cảm thấy thế nào khi dành thời gian với gia đình?)*
 </questions>
 
 <teacher_script pause="0">
@@ -150,5 +172,5 @@ Các em trả lời 3 câu hỏi trên về gia đình mình nha. Bấm nút ghi
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài <eng>Skills 1</eng> Unit 1 xong rồi nha! Phương thích làm DIY và đã thắng cuộc thi trang phục. Còn em? Em thích hoạt động nào nhất? Ôn bài kỹ hen!
+Bài <eng>Skills 1</eng> Unit 1 xong rồi nha! Trang thích làm DIY cùng mẹ và đã thắng cuộc thi hóa trang. Còn em? Em thích hoạt động nào nhất với gia đình? Ôn bài kỹ hen!
 </teacher_script>

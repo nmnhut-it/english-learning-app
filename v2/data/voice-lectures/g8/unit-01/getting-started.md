@@ -86,10 +86,10 @@ Bài 2. Đọc lại hội thoại và điền từ vào chỗ trống nha. 1 ph
 *(knitting kit / leisure time / other people / hang out / Sunday)*
 
 **1.** Trang is looking for a _______.
-**2.** In her _______, Trang enjoys DIY activities.
-**3.** Tom prefers spending his free time with _______.
-**4.** Tom and his friends _______ together.
-**5.** Tom and Mark are going to the cinema on _______.
+**2.** She likes doing DIY in her _______.
+**3.** Tom loves spending his free time with _______.
+**4.** Tom and his friends usually _______ together.
+**5.** Tom, Mark, Trang, and Mai are going to see a comedy this _______.
 </questions>
 
 <teacher_script pause="0">
@@ -102,10 +102,10 @@ Bài 2. Đọc lại hội thoại và điền từ vào chỗ trống nha. 1 ph
 
 <explanation>
 - **1. knitting kit:** Trang nói *"I'm looking for a knitting kit"* = đang tìm bộ đồ đan len.
-- **2. leisure time:** *"In my leisure time, I enjoy..."* = trong thời gian rảnh rỗi.
-- **3. other people:** Tom thích đi chơi cùng bạn bè = với **người khác** (other people).
-- **4. hang out:** *"I usually hang out with friends"* = thường đi chơi với bạn bè.
-- **5. Sunday:** Tom mời Trang xem phim *"this Sunday"* = vào Chủ Nhật này.
+- **2. leisure time:** Trang nói *"In my leisure time, I enjoy..."* = trong thời gian rảnh rỗi → *She likes doing DIY in her leisure time.*
+- **3. other people:** Trang hỏi *"You love spending free time with other people, don't you?"* → Tom thích dành thời gian với **người khác**.
+- **4. hang out:** Tom nói *"I usually hang out with my friends"* → Tom and his friends usually **hang out** together.
+- **5. Sunday:** Tom mời *"would you like to go to the cinema... this Sunday?"* → Tom, Mark, Trang, and Mai are going to see a comedy this **Sunday**.
 </explanation>
 
 <!-- chunk: exercise_3 -->

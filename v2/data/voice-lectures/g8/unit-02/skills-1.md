@@ -30,19 +30,13 @@ Học từ vựng trước khi đọc nha. Bấm "Bắt đầu".
 ### Bài 1-2 trang 24 - Reading
 
 <teacher_script pause="0">
-Bài 1 và 2. Đọc bài về huyện Chợ Gạo, Tiền Giang - một vùng nông thôn miền Tây Nam Bộ.
+Bài 1 và 2. Đọc bài về cuộc sống ở một ngôi làng miền Nam Việt Nam nha. Đọc kỹ để làm bài tập phía sau.
 </teacher_script>
 
 <reading>
-**Life in Cho Gao District** *(Cuộc sống ở huyện Chợ Gạo)*
+I feel fortunate that I am living in a peaceful village in southern Viet Nam. The scenery here is beautiful and picturesque with vast fields stretching long distances. The houses are surrounded by green trees. There are lakes, ponds, and canals here and there. The air is fresh and cool. Life here seems to move more slowly than in cities. The people work very hard. They grow vegetables, cultivate rice, and raise cattle. At harvest time, they use combine harvesters to harvest their crops. Many families live by growing fruit trees in the orchards. Others live by fishing in lakes, ponds, and canals. Life in the village is very comfortable for children. They play traditional games. Sometimes they help their parents pick fruit and herd cattle.
 
-Cho Gao is a district in Tien Giang Province in the Mekong Delta. Life there is peaceful and quiet, far from the crowds and noise of the city. Vast rice paddies and orchards stretch as far as the eye can see. Canals run through the district, connecting villages and fields.
-
-Most people in Cho Gao cultivate rice and tend fruit orchards. They work hard from early morning to take care of their crops and harvest their fruits. Life moves slowly, and people live simply.
-
-Children in Cho Gao usually help their parents with light farm work after school. They also enjoy swimming in the canals and playing traditional games with their friends. Adults often fish in the ponds and canals in their free time.
-
-The people of Cho Gao get along very well with each other. They are always ready to help their neighbors. The calm, peaceful environment and the close relationships among people make Cho Gao a special place to live.
+People in my village know each other well. They are friendly and hospitable. They often meet each other in the evening, eating fruit, playing chess, singing folk songs, and chatting about everyday activities.
 </reading>
 
 <teacher_script pause="180">
@@ -50,15 +44,9 @@ Dịch bài đọc vô vở nha. 3 phút.
 </teacher_script>
 
 <translation>
-**Cuộc sống ở huyện Chợ Gạo**
+Tôi cảm thấy may mắn vì tôi đang sống trong một ngôi làng yên bình ở miền Nam Việt Nam. Cảnh vật ở đây đẹp như tranh vẽ với những cánh đồng bạt ngàn trải dài tít tắp. Những ngôi nhà được cây xanh bao quanh. Có nhiều hồ, ao và kênh ở khắp nơi. Không khí trong lành và mát mẻ. Cuộc sống ở đây dường như diễn ra chậm hơn ở thành phố. Mọi người làm việc chăm chỉ. Họ trồng rau, cấy lúa và chăn nuôi gia súc. Vào mùa thu hoạch, họ sử dụng máy gặt đập liên hợp để thu hoạch nông sản. Nhiều gia đình sống bằng cách trồng cây ăn quả trong vườn. Những người khác sống bằng cách câu cá trong các hồ, ao và kênh. Cuộc sống ở vùng quê rất thoải mái cho trẻ con. Chúng chơi những trò chơi truyền thống. Thi thoảng, chúng giúp bố mẹ hái trái cây và chăn gia súc.
 
-Chợ Gạo là một huyện ở tỉnh Tiền Giang thuộc đồng bằng sông Cửu Long. Cuộc sống ở đó yên bình và yên tĩnh, xa cách đám đông và tiếng ồn của thành phố. Những cánh đồng lúa rộng lớn và vườn cây ăn quả trải dài tới tận chân trời. Các kênh đào chạy qua huyện, kết nối các làng và cánh đồng.
-
-Hầu hết người dân ở Chợ Gạo canh tác lúa và chăm sóc vườn cây ăn quả. Họ làm việc chăm chỉ từ sáng sớm để chăm sóc cây trồng và thu hoạch trái cây. Cuộc sống trôi qua chậm rãi và người dân sống giản dị.
-
-Trẻ em ở Chợ Gạo thường giúp cha mẹ làm việc nhẹ sau giờ học. Chúng cũng thích bơi lội dưới kênh và chơi trò chơi truyền thống với bạn bè. Người lớn thường câu cá ở ao và kênh trong thời gian rảnh.
-
-Người dân Chợ Gạo sống hòa thuận với nhau. Họ luôn sẵn sàng giúp đỡ hàng xóm. Môi trường yên tĩnh, bình yên và mối quan hệ gần gũi giữa mọi người khiến Chợ Gạo là một nơi đặc biệt để sinh sống.
+Những người trong làng tôi biết nhau rất rõ. Họ rất thân thiện và hiếu khách. Họ thường gặp nhau vào mỗi buổi tối, ăn trái cây, chơi cờ, hát dân ca và nói chuyện về những hoạt động hằng ngày.
 </translation>
 
 <!-- chunk: exercise_3 -->
@@ -69,16 +57,25 @@ Bài 3. Đọc lại và cho biết câu nào đúng (T), câu nào sai (F) nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the text again and decide if these statements are True (T) or False (F).
-**Dịch đề:** Đọc lại bài và quyết định câu nào Đúng (T) hoặc Sai (F).
+**Đề:** Read the text again and tick (✓) T (True) or F (False) for each sentence.
+**Dịch đề:** Đọc lại bài và đánh dấu (✓) T (Đúng) hoặc F (Sai) cho mỗi câu.
 </task>
 
 <questions type="true_false">
-**1.** Cho Gao is a peaceful district far from the city. *(Chợ Gạo là một huyện yên bình xa thành phố.)*
-**2.** Most people there cultivate rice and tend orchards. *(Hầu hết người dân canh tác lúa và chăm vườn cây.)*
-**3.** Children in Cho Gao do not help their parents. *(Trẻ em Chợ Gạo không giúp cha mẹ.)*
-**4.** Adults prefer watching TV to fishing. *(Người lớn thích xem TV hơn câu cá.)*
-**5.** People in Cho Gao get along well with their neighbors. *(Người dân Chợ Gạo hòa hợp tốt với hàng xóm.)*
+**1.** Life in the author's village is very peaceful.
+*Cuộc sống ở làng của tác giả rất yên bình.*
+
+**2.** The people in the village work very hard.
+*Người dân trong làng làm việc rất chăm chỉ.*
+
+**3.** Villagers live only by catching fish in lakes, ponds, and canals.
+*Dân làng chỉ sống bằng cách bắt cá trong hồ, ao và kênh.*
+
+**4.** The children are always busy helping their parents.
+*Bọn trẻ luôn bận rộn giúp đỡ bố mẹ.*
+
+**5.** The villagers get along well.
+*Người dân trong làng sống hòa thuận với nhau.*
 </questions>
 
 <teacher_script pause="0">
@@ -90,50 +87,47 @@ Bài 3. Đọc lại và cho biết câu nào đúng (T), câu nào sai (F) nha.
 </answer>
 
 <explanation>
-- **Câu 1 - T:** *"Life there is peaceful and quiet, far from the crowds and noise of the city."*
-- **Câu 2 - T:** *"Most people in Cho Gao cultivate rice and tend fruit orchards."*
-- **Câu 3 - F:** SAI. *"Children usually help their parents with light farm work after school."* - trẻ em CÓ giúp.
-- **Câu 4 - F:** SAI. *"Adults often fish in the ponds and canals."* - người lớn câu cá, không phải xem TV.
-- **Câu 5 - T:** *"The people of Cho Gao get along very well with each other."*
+- **Câu 1 - T:** *"I feel fortunate that I am living in a peaceful village"* → làng rất yên bình.
+- **Câu 2 - T:** *"The people work very hard"* → người dân làm việc chăm chỉ.
+- **Câu 3 - F:** SAI. Dân làng sống bằng nhiều nghề: trồng rau, cấy lúa, trồng cây ăn quả. Chỉ "others" mới câu cá.
+- **Câu 4 - F:** SAI. *"Sometimes they help their parents"* — chỉ thỉnh thoảng, không phải "always".
+- **Câu 5 - T:** *"People in my village know each other well. They are friendly and hospitable."*
 </explanation>
 
 <!-- chunk: speaking -->
 ### Bài 4 trang 24 - Speaking: Describe Your Village
 
 <teacher_script pause="0">
-Bài 4. Dùng bảng thông tin để nói về huyện Chợ Gạo hoặc một vùng quê em biết nha.
+Bài 4. Ghi chú về ngôi làng hoặc thị trấn nơi em sống hoặc em biết nha. Dùng bảng gợi ý.
 </teacher_script>
 
 <task>
-**Đề:** Use the information in the table to describe Cho Gao District or a village you know.
-**Dịch đề:** Dùng thông tin trong bảng để mô tả huyện Chợ Gạo hoặc một làng quê em biết.
+**Đề:** Make notes about the village or town where you live or which you know.
+**Dịch đề:** Ghi chú về ngôi làng hoặc thị trấn nơi bạn sống hoặc bạn biết.
 </task>
 
 <questions type="speaking">
-**Cho Gao District - Information:**
-
 | | |
 |--|--|
-| **Name** | Cho Gao District |
-| **Location** | Tien Giang Province |
-| **Scenery** | orchards and paddy fields |
-| **How people live** | work on fields and in orchards |
-| **Activities for adults** | fishing in ponds and canals |
-| **Activities for children** | help with farm work, swim, play traditional games |
-| **Relationships** | people get along very well |
-| **Special features** | calm, peaceful environment |
+| **Name** | ? |
+| **Location** | ? |
+| **Scenery** | ? |
+| **How people live** | ? |
+| **Activities adults or children often do** | ? |
+| **The relationships among the people** | ? |
+| **Special feature** | ? |
 </questions>
 
 <teacher_script pause="0">
-Mẫu mô tả nha:
-"Cho Gao is a district in Tien Giang Province. The scenery is beautiful with vast orchards and paddy fields. Most people work on the fields. Adults enjoy fishing while children help with farm work and swim. People get along very well. The most special thing is the calm and peaceful environment."
+Bài 5. Dùng thông tin trong bài 4 để nói về ngôi làng của em nha.
+"I live in [name]. It's a [adjective] village/town in [location]. The scenery is [beautiful/picturesque] with [describe]. Most people live by [farming/fishing/...]. People here [get along well / are friendly]. The special thing about it is..."
 </teacher_script>
 
 <teacher_script action="record">
-Các em mô tả huyện Chợ Gạo hoặc một vùng quê em biết nha. Bấm ghi âm khi sẵn sàng.
+Các em nói về làng hoặc thị trấn của mình nha. Bấm ghi âm khi sẵn sàng.
 </teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài <eng>Skills 1</eng> Unit 2 xong rồi nha! Hôm nay học về cuộc sống yên bình ở huyện Chợ Gạo, Tiền Giang - với cánh đồng lúa, vườn cây, kênh đào, và người dân thân thiện. Ôn bài kỹ hen!
+Bài <eng>Skills 1</eng> Unit 2 xong rồi nha! Hôm nay đọc về cuộc sống yên bình ở một ngôi làng miền Nam - cánh đồng rộng, kênh đào, người dân thân thiện hiếu khách. Ôn bài kỹ hen!
 </teacher_script>
