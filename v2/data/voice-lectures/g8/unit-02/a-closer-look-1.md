@@ -56,7 +56,7 @@ Bài 1. Điền từ thích hợp vào chỗ trống nha. Dùng các từ trong 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. cattle | 2. fruit | 3. crops | 4. unloaded | 5. catching
+**Bài 1 - Đáp án:** 1. cattle | 2. fruit | 3. crops | 4. unloaded | 5. catching
 </answer>
 
 <explanation>
@@ -98,7 +98,7 @@ e. to collect crops from the fields *(thu hoạch)*
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-d | 3-c | 4-e | 5-a
+**Bài 2 - Đáp án:** 1-b | 2-d | 3-c | 4-e | 5-a
 </answer>
 
 <explanation>
@@ -134,7 +134,7 @@ Bài 3. Điền tính từ thích hợp vào chỗ trống nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. hospitable | 2. well-trained | 3. picturesque | 4. vast | 5. surrounded
+**Bài 3 - Đáp án:** 1. hospitable | 2. well-trained | 3. picturesque | 4. vast | 5. surrounded
 </answer>
 
 <explanation>
@@ -191,7 +191,7 @@ Ok bây giờ học phát âm nha. Phần này luyện 2 âm dễ nhầm lẫn: 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 - **/ɪ/ (short):** fish /fɪʃ/ | village /ˈvɪlɪdʒ/ | pick /pɪk/ | milk /mɪlk/
 - **/iː/ (long):** feed /fiːd/ | field /fiːld/ | green /ɡriːn/ | seed /siːd/
 </answer>

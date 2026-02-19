@@ -53,7 +53,7 @@ Bài 1 - chọn từ đúng nhất để điền vào chỗ trống. 5 câu, m�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.B | 5.B
+**Bài 1 - Đáp án:** 1.B | 2.A | 3.A | 4.B | 5.B
 </answer>
 
 <explanation>
@@ -100,7 +100,7 @@ Bài 2 - điền từ vào chỗ trống. Có 5 câu, dùng các từ trong khun
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. reunion | 2. offerings | 3. goers | 4. traditional | 5. Worshipping
+**Bài 2 - Đáp án:** 1. reunion | 2. offerings | 3. goers | 4. traditional | 5. Worshipping
 </answer>
 
 <explanation>
@@ -147,7 +147,7 @@ Bài 3 - ôn mạo từ nha. Điền **a**, **an**, **the** hoặc **∅** vào 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.∅ | 2.an | 3.The | 4.a | 5.∅
+**Bài 3 - Đáp án:** 1.∅ | 2.an | 3.The | 4.a | 5.∅
 </answer>
 
 <explanation>
@@ -194,7 +194,7 @@ Bài 4 - 5 câu mạo từ nữa thôi nha. 1 phút nhanh lên!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.∅ | 2.a | 3.∅ | 4.the | 5.an
+**Bài 4 - Đáp án:** 1.∅ | 2.a | 3.∅ | 4.the | 5.an
 </answer>
 
 <explanation>

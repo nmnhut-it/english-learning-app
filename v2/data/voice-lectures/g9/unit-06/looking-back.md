@@ -31,7 +31,7 @@ Bài 1 nha — <eng>Matching</eng> từ vựng. Nối từ với định nghĩa 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-B | 2-D | 3-A | 4-C | 5-E
+**Bài 1 - Đáp án:** 1-B | 2-D | 3-A | 4-C | 5-E
 </answer>
 
 <explanation>
@@ -78,7 +78,7 @@ Bài 2 nha — điền dạng đúng của từ vô câu. Chú ý câu hỏi t�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. private | 2. memorise | 3. independent | 4. freedom | 5. democratic
+**Bài 2 - Đáp án:** 1. private | 2. memorise | 3. independent | 4. freedom | 5. democratic
 </answer>
 
 <explanation>
@@ -127,7 +127,7 @@ Bài 3 nha — ôn ngữ pháp <eng>Verbs + to-V vs Verbs + V-ing</eng>. Điền
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. turning | 2. to spend | 3. to see | 4. meeting | 5. to take
+**Bài 3 - Đáp án:** 1. turning | 2. to spend | 3. to see | 4. meeting | 5. to take
 </answer>
 
 <explanation>
@@ -174,7 +174,7 @@ Bài 4 nha — sửa lỗi sai. Mỗi câu có một lỗi sai về dạng độ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. visiting (enjoys + V-ing)
 2. to go (hopes + to-V)
 3. enjoy (would rather + bare infinitive)
@@ -246,7 +246,7 @@ Bài 4b nha — trắc nghiệm ngữ pháp tổng hợp. Chọn đáp án đún
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.A | 4.B | 5.D
+**Bài 4 - Đáp án:** 1.A | 2.C | 3.A | 4.B | 5.D
 </answer>
 
 <explanation>
@@ -293,7 +293,7 @@ Bài 5 cuối cùng nha — điền dạng đúng của động từ trong ngo�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. were walking | 2. had | 3. have made | 4. to choose | 5. searching
+**Bài 5 - Đáp án:** 1. were walking | 2. had | 3. have made | 4. to choose | 5. searching
 </answer>
 
 <explanation>

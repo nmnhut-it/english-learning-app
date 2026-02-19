@@ -32,7 +32,7 @@ Bài 1. Nhìn tranh và ghi tên hoạt động nông nghiệp nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. ploughing fields *(cày ruộng)*
 2. catching fish *(bắt cá)*
 3. drying rice *(phơi lúa)*
@@ -85,7 +85,7 @@ Bài 2. Chọn từ đúng để hoàn thành câu nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.C | 3.A | 4.A | 5.A
+**Bài 2 - Đáp án:** 1.C | 2.C | 3.A | 4.A | 5.A
 </answer>
 
 <explanation>
@@ -121,7 +121,7 @@ Bài 3. Dùng dạng so sánh hơn của trạng từ trong ngoặc nha. 1 phút
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. earlier
 2. more fluently
 3. more easily
@@ -162,7 +162,7 @@ Bài 4. Tìm và sửa lỗi trong câu so sánh trạng từ nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **as** → **than**: "He runs as quickly **than** me." → "He runs less quickly **than** me." hoặc "I run faster **than** him."
 2. **quicklier** → **more quickly**: "react **more quickly** to changes"
 3. **more hardly** → **harder**: "we need to work **harder**" (hard → harder, không phải more hardly)

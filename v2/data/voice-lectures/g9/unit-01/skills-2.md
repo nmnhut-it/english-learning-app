@@ -21,7 +21,7 @@ Bài 1 <eng>Work in pairs. Discuss the questions.</eng> Nhìn tranh, xem ai tron
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 1. I can see garbage collectors. (Tôi thấy những người thu gom rác.)
 2. They are cleaning streets, collecting garbage, and processing garbage. (Họ đang làm sạch đường phố, thu gom rác và xử lý rác.)
 </answer>
@@ -70,7 +70,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Community Helper | 2. garbage collector | 3. slim | 4. friendly
+**Bài tập 2 - Đáp án:** 1. Community Helper | 2. garbage collector | 3. slim | 4. friendly
 </answer>
 
 <explanation>
@@ -102,7 +102,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. F | 3. T | 4. T
+**Bài tập 3 - Đáp án:** 1. F | 2. F | 3. T | 4. T
 </answer>
 
 <explanation>

@@ -39,7 +39,7 @@ Bài 1 <eng>Work in groups. Match the phrases to the pictures</eng>. Nối cụm
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. Changing of the Guard *(đổi lính gác)*
 2. Buckingham Palace *(cung điện Buckingham)*
 </answer>
@@ -73,7 +73,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 (1) **11:30 am** | (2) **1:00 pm** | (3) **3:15 pm** | (4) **5:00 pm**
 </answer>
 
@@ -123,7 +123,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Queen | 2. garden | 3. Clock | 4. photos | 5. attractions
+**Bài 3 - Đáp án:** 1. Queen | 2. garden | 3. Clock | 4. photos | 5. attractions
 </answer>
 
 <explanation>

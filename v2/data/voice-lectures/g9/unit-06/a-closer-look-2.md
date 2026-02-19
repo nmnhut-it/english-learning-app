@@ -58,7 +58,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. riding | 2. to use | 3. not touching | 4. to make | 5. playing | 6. to learn
+**Bài tập 1 - Đáp án:** 1. riding | 2. to use | 3. not touching | 4. to make | 5. playing | 6. to learn
 </answer>
 
 <explanation>
@@ -93,7 +93,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. wearing | 2. to enter | 3. replaying | 4. telling | 5. to do
+**Bài tập 2 - Đáp án:** 1. wearing | 2. to enter | 3. replaying | 4. telling | 5. to do
 </answer>
 
 <explanation>
@@ -129,7 +129,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. to learn | 2. working | 3. to teach | 4. making | 5. to give
+**Bài tập 3 - Đáp án:** 1. to learn | 2. working | 3. to teach | 4. making | 5. to give
 </answer>
 
 <explanation>
@@ -172,7 +172,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. D | 2. A | 3. B | 4. B | 5. C
+**Bài tập 4 - Đáp án:** 1. D | 2. A | 3. B | 4. B | 5. C
 </answer>
 
 <explanation>

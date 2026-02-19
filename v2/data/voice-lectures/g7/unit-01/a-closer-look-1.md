@@ -126,7 +126,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. collecting | 2. going | 3. playing | 4. making | 5. doing
+**Bài 2 - Đáp án:** 1. collecting | 2. going | 3. playing | 4. making | 5. doing
 </answer>
 
 <explanation>
@@ -166,7 +166,7 @@ Xong chưa? Đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. He doesn't like doing judo.
 2. They enjoy playing football.
 3. They like gardening.
@@ -245,7 +245,7 @@ Bài 5 trang 9 — nghe và ghi âm /ə/ hay /ɜː/ cho từng từ. Nghe kỹ p
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. /ə/ | 2. /ɜː/ | 3. /ɜː/ | 4. /ɜː/ | 5. /ə/
+**Bài 5 - Đáp án:** 1. /ə/ | 2. /ɜː/ | 3. /ɜː/ | 4. /ɜː/ | 5. /ə/
 </answer>
 
 <explanation>

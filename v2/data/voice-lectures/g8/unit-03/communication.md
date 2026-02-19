@@ -88,7 +88,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Trang
 2. Ann
 3. Nam

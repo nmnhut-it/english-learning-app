@@ -102,7 +102,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.A
+**Bài 2 - Đáp án:** 1.C | 2.B | 3.A
 
 **1.C** — Hội thoại chủ yếu nói về cuộc sống của người Tày ở làng Lai: nhà sàn, ruộng bậc thang, văn hóa, đàn tính, xôi ngũ sắc.
 
@@ -140,7 +140,7 @@ Bài 3 nè — nối từ với định nghĩa. Đọc định nghĩa rồi nố
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-d | 4-b
+**Bài 3 - Đáp án:** 1-c | 2-a | 3-d | 4-b
 
 **1-c** — *stilt house* = nhà sàn → xây trên cột gỗ cao hơn mặt đất (*built on posts above the ground*).
 
@@ -185,7 +185,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. folk dance | 2. overlooks | 3. musical instrument | 4. traditional | 5. ethnic groups
+**Bài 4 - Đáp án:** 1. folk dance | 2. overlooks | 3. musical instrument | 4. traditional | 5. ethnic groups
 
 **1. folk dance** — *mua sap* (múa sạp) là một điệu *múa dân gian* (*folk dance*) nổi tiếng của người Thái. Động từ *like* + danh từ chỉ loại hình nghệ thuật.
 

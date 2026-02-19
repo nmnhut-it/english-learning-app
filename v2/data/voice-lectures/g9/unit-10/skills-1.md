@@ -70,7 +70,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. ✓ | 3. ✓ | 4. ✓
+**Bài 1 - Đáp án:** 1. ✓ | 3. ✓ | 4. ✓
 
 **Giải thích:**
 - **1. providing sources of food ✓** - cung cấp nguồn thực phẩm - Đây là vai trò của thực vật và động vật.
@@ -190,7 +190,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.A | 4.D | 5.B
+**Bài 2 - Đáp án:** 1.C | 2.B | 3.A | 4.D | 5.B
 
 **Giải thích chi tiết:**
 
@@ -233,7 +233,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **plants** (thực vật)
 2. **other animals** (các loài động vật khác)
 3. **droppings** / **fertilizers** (phân / phân bón)

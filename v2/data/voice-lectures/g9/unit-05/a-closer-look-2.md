@@ -96,7 +96,7 @@ Bài 1 — bảng động từ bất quy tắc nha. Điền dạng V3 cho mỗi 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. work → **worked**
 2. join → **joined**
 3. play → **played**
@@ -145,7 +145,7 @@ Bài 2 — điền <eng>Present Perfect</eng> đúng vào chỗ trống nha. 1 p
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **have joined**
 2. **have played**
 3. **has worked**
@@ -214,7 +214,7 @@ Bài 3 — trắc nghiệm từ hiệu lệnh nha. Chọn từ đúng để đi�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. B | 2. A | 3. D | 4. C | 5. C
+**Bài 3 - Đáp án:** 1. B | 2. A | 3. D | 4. C | 5. C
 </answer>
 
 <explanation>
@@ -254,7 +254,7 @@ Bài 4 — viết câu <eng>Present Perfect</eng> dựa theo danh sách việc c
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Mai **has already joined** an eco-tour.
    *(Mai đã tham gia tour sinh thái rồi.)*
 2. She **has visited** Langbiang Mountain.

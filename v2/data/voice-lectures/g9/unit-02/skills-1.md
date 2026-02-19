@@ -106,7 +106,7 @@ Dịch xong rồi, giờ làm bài tập nha!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.C
+**Bài 2 - Đáp án:** 1.C | 2.B | 3.C
 </answer>
 
 <explanation>
@@ -144,7 +144,7 @@ Dịch xong rồi, giờ làm bài tập nha!
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Oslo helps cyclists get around by building a network of bike lanes that stretch across the city.
 2. Singapore keeps its buildings cool by covering skyscrapers with plants and gardens.
 3. Cafeterias collect leftover food to make biogas, which is used to generate electricity.

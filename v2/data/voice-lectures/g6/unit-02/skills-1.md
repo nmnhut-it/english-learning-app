@@ -78,7 +78,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. It's an email. *(Đây là thư điện tử.)*
 2. The text is about the Crazy House Hotel. *(Nội dung về khách sạn Crazy House.)*
 </answer>
@@ -107,7 +107,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Nick is in Da Lat with his parents. *(Nick đang ở Đà Lạt với bố mẹ.)*
 2. There are ten rooms in the hotel. *(Khách sạn có 10 phòng.)*
 3. Because there's a big tiger on the wall. *(Bởi vì có một con hổ lớn trên tường.)*
@@ -145,7 +145,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** a window, a wardrobe, a lamp, a desk, a tiger
+**Bài 3 - Đáp án:** a window, a wardrobe, a lamp, a desk, a tiger
 </answer>
 
 <explanation>

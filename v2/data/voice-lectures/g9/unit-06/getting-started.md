@@ -97,7 +97,7 @@ Ok đáp án bài 2 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.A
+**Bài 2 - Đáp án:** 1.C | 2.B | 3.A
 </answer>
 
 <explanation>
@@ -183,7 +183,7 @@ Bài 4 nha. Điền từ vô chỗ trống. Chọn từ đúng trong ô rồi đ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. dyed | 2. generation | 3. opportunity | 4. materials | 5. freedom
+**Bài 4 - Đáp án:** 1. dyed | 2. generation | 3. opportunity | 4. materials | 5. freedom
 </answer>
 
 <explanation>

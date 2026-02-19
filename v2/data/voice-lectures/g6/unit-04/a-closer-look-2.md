@@ -69,7 +69,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 2. noisier | 3. bigger | 4. more peaceful | 5. more exciting
+**Bài 1 - Đáp án:** 2. noisier | 3. bigger | 4. more peaceful | 5. more exciting
 </answer>
 
 <explanation>
@@ -107,7 +107,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 2. smaller | 3. older | 4. wider | 5. more delicious | 6. cheaper
+**Bài 2 - Đáp án:** 2. smaller | 3. older | 4. wider | 5. more delicious | 6. cheaper
 </answer>
 
 <explanation>
@@ -143,7 +143,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Binh Minh is **more crowded** than Long Son. *(Bình Minh sầm uất hơn Long Sơn.)*
 2. Long Son is **more boring** than Binh Minh. *(Long Sơn chán hơn Bình Minh.)*
 3. Long Son is **quieter** than Binh Minh. *(Long Sơn yên tĩnh hơn Bình Minh.)*

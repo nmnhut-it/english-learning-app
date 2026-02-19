@@ -84,7 +84,7 @@ Bài 2 nha — <eng>Match the highlighted words with their meanings</eng>. Nối
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-a | 3-c | 4-b
+**Bài 2 - Đáp án:** 1-d | 2-a | 3-c | 4-b
 </answer>
 
 <explanation>
@@ -126,7 +126,7 @@ Bài 3 — đọc lại bài và trả lời 5 câu hỏi. Viết câu trả l�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. It is about 730,000 (/ 730 thousand).
 2. Various native groups have their own special styles of carving or weaving.
 3. We can find it in their villages, galleries and museums.

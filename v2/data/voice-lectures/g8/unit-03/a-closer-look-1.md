@@ -103,7 +103,7 @@ Xong chưa? Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. browsed | 2. uploaded | 3. connected | 4. checked | 5. logs
+**Bài 2 - Đáp án:** 1. browsed | 2. uploaded | 3. connected | 4. checked | 5. logs
 </answer>
 
 <explanation>
@@ -169,7 +169,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.A | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.B | 2.C | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>

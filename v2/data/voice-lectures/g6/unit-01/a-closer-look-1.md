@@ -72,7 +72,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 
 | **play** *(chơi)* | **do** *(làm)* | **have** *(có)* | **study** *(học)* |
 |----------|--------|----------|-----------|
@@ -126,7 +126,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. homework | 2. football | 3. lessons | 4. exercise | 5. science
+**Bài 3 - Đáp án:** 1. homework | 2. football | 3. lessons | 4. exercise | 5. science
 </answer>
 
 <explanation>
@@ -208,7 +208,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. My **brother** /ʌ/ has a new **compass** /ʌ/.
 2. Our **classroom** /ɑː/ is **large** /ɑː/.
 3. They look **smart** /ɑː/ on their first day at school.

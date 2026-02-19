@@ -48,7 +48,7 @@ Bài 1 <eng>Work in groups</eng>. Thảo luận xem điều nào bị ảnh hư�
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 - ✓ ways of communicating *(cách giao tiếp)*
 - ✓ ways of learning *(cách học tập)*
 </answer>
@@ -95,7 +95,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.T
 </answer>
 
 <explanation>
@@ -207,7 +207,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.C | 4.C
+**Bài 3 - Đáp án:** 1.A | 2.B | 3.C | 4.C
 </answer>
 
 <explanation>

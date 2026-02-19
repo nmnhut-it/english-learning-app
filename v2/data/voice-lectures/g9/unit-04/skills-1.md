@@ -102,7 +102,7 @@ Bài 2 — <eng>True/False</eng> nha. Đọc lại bài rồi xác định đún
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. F | 3. T | 4. T | 5. F
+**Bài 2 - Đáp án:** 1. T | 2. F | 3. T | 4. T | 5. F
 </answer>
 
 <explanation>
@@ -152,7 +152,7 @@ Bài 3 — trắc nghiệm nha. Đọc kỹ rồi chọn đáp án đúng. 1 ph�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A | 2. D | 3. C
+**Bài 3 - Đáp án:** 1. A | 2. D | 3. C
 </answer>
 
 <explanation>
@@ -192,7 +192,7 @@ Bài 4 — nối từ với định nghĩa nha. Dùng từ vựng bài đọc. 1
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-e | 3-a | 4-b | 5-d
+**Bài 4 - Đáp án:** 1-c | 2-e | 3-a | 4-b | 5-d
 </answer>
 
 <explanation>

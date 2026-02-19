@@ -78,7 +78,7 @@ Bài 1 — chuyển động từ sang danh từ nha. Nhớ quy tắc vừa học
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. promote → **promotion**
 2. recognise → **recognition**
 3. contribute → **contribution**
@@ -129,7 +129,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **observation**
 2. **contribution**
 3. **preservation**
@@ -211,7 +211,7 @@ Bài 4 — điền từ vào chỗ trống nha. Dùng từ trong hộp. Các câ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. structures | 2. takeaway | 3. generations | 4. magnificent | 5. heritage
+**Bài 4 - Đáp án:** 1. structures | 2. takeaway | 3. generations | 4. magnificent | 5. heritage
 </answer>
 
 <explanation>
@@ -274,7 +274,7 @@ Bài 5 — đánh dấu trọng âm vào âm tiết đúng của mỗi từ nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. pres-er-**VA**-tion
 2. ob-ser-**VA**-tion
 3. con-tri-**BU**-tion

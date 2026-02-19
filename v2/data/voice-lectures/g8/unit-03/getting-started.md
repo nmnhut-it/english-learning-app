@@ -109,7 +109,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.T | 3.T | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.F | 2.T | 3.T | 4.F | 5.T
 </answer>
 
 <explanation>
@@ -166,7 +166,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-f | 4-b | 5-e | 6-d
+**Bài 3 - Đáp án:** 1-c | 2-a | 3-f | 4-b | 5-e | 6-d
 </answer>
 
 <explanation>
@@ -219,7 +219,7 @@ Ok xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. arts and crafts club
 2. forum
 3. language club

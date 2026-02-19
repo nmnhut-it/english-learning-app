@@ -78,7 +78,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 - C | 2 - A | 3 - B
+**Bài 1 - Đáp án:** 1 - C | 2 - A | 3 - B
 </answer>
 
 <explanation>
@@ -112,7 +112,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. boarding | 2. Sydney | 3. mountains | 4. Dream | 5. English-speaking teachers
+**Bài 2 - Đáp án:** 1. boarding | 2. Sydney | 3. mountains | 4. Dream | 5. English-speaking teachers
 </answer>
 
 <explanation>
@@ -147,7 +147,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Sunrise is a boarding school.
 2. It's in Bac Giang.
 3. Yes, it is.

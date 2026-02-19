@@ -98,7 +98,7 @@ Bạn nên sử dụng thêm dầu gội
 
 **Bài 2 trang 24**
 
-**Đáp án:** 1,2,4,5,7.
+**Bài 2 - Đáp án:** 1,2,4,5,7.
 
 **Bài 3 trang 25**
 

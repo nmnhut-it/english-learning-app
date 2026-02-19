@@ -164,7 +164,7 @@ Bài 1 - điền <eng>a / an / the / ∅</eng> vào chỗ trống. 5 câu nha. �
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.∅ | 2.The | 3.a | 4.a | 5.The
+**Bài 1 - Đáp án:** 1.∅ | 2.The | 3.a | 4.a | 5.The
 </answer>
 
 <explanation>
@@ -211,7 +211,7 @@ Bài 2 - tiếp tục điền mạo từ nha. 5 câu nữa, làm trong 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.a | 2.∅ | 3.an | 4.a | 5.The
+**Bài 2 - Đáp án:** 1.a | 2.∅ | 3.an | 4.a | 5.The
 </answer>
 
 <explanation>
@@ -258,7 +258,7 @@ Bài 3 - 5 câu nữa nha. Nhớ: **∅** = không điền gì hết, cứ để
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.∅ | 2.an | 3.the | 4.a | 5.∅
+**Bài 3 - Đáp án:** 1.∅ | 2.an | 3.the | 4.a | 5.∅
 </answer>
 
 <explanation>
@@ -305,7 +305,7 @@ Bài 4 - bài cuối ngữ pháp rồi nha. 5 câu nữa thôi, làm nhanh trong
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.∅ | 2.a | 3.∅ | 4.the | 5.an
+**Bài 4 - Đáp án:** 1.∅ | 2.a | 3.∅ | 4.the | 5.an
 </answer>
 
 <explanation>

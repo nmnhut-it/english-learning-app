@@ -39,7 +39,7 @@ Bài 1 <eng>Work in pairs. Answer the questions.</eng> Nhìn tranh và trả l�
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 a. Cốm (young sticky rice flakes) - Làng Vòng, Hà Nội
 b. Pottery (đồ gốm) - Làng Denby, Derbyshire, Anh
 </answer>
@@ -94,7 +94,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-c | 3-e | 4-a | 5-d
+**Bài tập 2 - Đáp án:** 1-b | 2-c | 3-e | 4-a | 5-d
 </answer>
 
 <explanation>
@@ -129,7 +129,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Denby | 2. Vong | 3. Denby | 4. Denby | 5. Vong
+**Bài tập 3 - Đáp án:** 1. Denby | 2. Vong | 3. Denby | 4. Denby | 5. Vong
 </answer>
 
 <explanation>

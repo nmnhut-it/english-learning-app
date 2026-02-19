@@ -86,7 +86,7 @@ Bài 3. Đọc lại và cho biết câu nào đúng (T), câu nào sai (F) nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.T
+**Bài 3 - Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.T
 </answer>
 
 <explanation>

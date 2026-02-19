@@ -130,7 +130,7 @@ Xong chưa? Đáp án bài 3 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.C | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.B | 2.A | 3.C | 4.A | 5.B
 </answer>
 
 <explanation>

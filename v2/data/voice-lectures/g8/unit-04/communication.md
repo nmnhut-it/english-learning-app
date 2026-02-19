@@ -96,7 +96,7 @@ Bài 1 — đúng (T) hay sai (F)? Dựa vào bài đọc vừa xong nha. Cho 2 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.T | 5.F
+**Bài 1 - Đáp án:** 1.T | 2.F | 3.T | 4.T | 5.F
 
 **1.T** — Đúng. Bài đọc nói: *"The Tay are the largest ethnic minority group in Vietnam"* — người Tày có ~1,9 triệu người, lớn nhất trong các dân tộc thiểu số.
 
@@ -180,7 +180,7 @@ Bài 3 — nối thông tin với đúng dân tộc. Một số thông tin có t
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Both (Tay & Ede) | 2. Hmong | 3. Ede | 4. Cham | 5. Both
+**Bài 3 - Đáp án:** 1. Both (Tay & Ede) | 2. Hmong | 3. Ede | 4. Cham | 5. Both
 
 **1. Both (Tay & Ede)** — cả người Tày và người Ê Đê đều sống trong nhà sàn (*stilt houses*). Người Tày: nhà sàn truyền thống. Người Ê Đê: nhà sàn dài (*longhouses*).
 

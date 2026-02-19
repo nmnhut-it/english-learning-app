@@ -95,7 +95,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. F | 3. T | 4. F | 5. T
+**Bài tập 2 - Đáp án:** 1. T | 2. F | 3. T | 4. F | 5. T
 </answer>
 
 <explanation>
@@ -135,7 +135,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-c | 3-a | 4-e | 5-d
+**Bài tập 3 - Đáp án:** 1-b | 2-c | 3-a | 4-e | 5-d
 </answer>
 
 <explanation>
@@ -193,7 +193,7 @@ Ok đáp án nè. Cô giải thích từng câu nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A | 2. C | 3. B | 4. C | 5. D
+**Bài tập 4 - Đáp án:** 1. A | 2. C | 3. B | 4. C | 5. D
 </answer>
 
 <explanation>

@@ -56,7 +56,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-b | 3-d | 4-a | 5-c
+**Bài 1 - Đáp án:** 1-e | 2-b | 3-d | 4-a | 5-c
 </answer>
 
 <explanation>
@@ -109,7 +109,7 @@ Xong chưa? Đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.A | 5.B
+**Bài 2 - Đáp án:** 1.B | 2.A | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>

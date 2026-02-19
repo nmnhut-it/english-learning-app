@@ -131,7 +131,7 @@ Bài 1 — đổi câu khẳng định thành câu hỏi <eng>Yes/No</eng>. Đ�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. Do women play an important role in Jrai family?
 2. Is mua sap a popular folk dance?
 3. Did they have boarding schools for minority students in 1950?
@@ -181,7 +181,7 @@ Bài 2 — tạo câu hỏi <eng>Wh-</eng> cho phần in đậm. Nhìn phần g�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Where do the Hmong mainly live?
 2. How many ethnic groups are there in Vietnam?
 3. How do they make five-colour sticky rice?
@@ -240,7 +240,7 @@ Bài 3 — phân loại danh từ: đếm được (C) hay không đếm đượ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.U | 3.C | 4.C | 5.U | 6.C
+**Bài 3 - Đáp án:** 1.C | 2.U | 3.C | 4.C | 5.U | 6.C
 
 **1.C** — *village* = làng → có thể đếm: *one village, two villages* ✓
 
@@ -287,7 +287,7 @@ Bài 4 — điền từ lượng từ đúng vào chỗ trống. Chọn từ tro
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. a | 2. many | 3. a few | 4. a little | 5. much
+**Bài 4 - Đáp án:** 1. a | 2. many | 3. a few | 4. a little | 5. much
 
 **1. a** — *ethnic minority group* = một nhóm dân tộc thiểu số (đơn số, đếm được, bắt đầu bằng phụ âm /e/) → mạo từ *a*. Không dùng *many* vì câu đang nói về *một* nhóm cụ thể.
 

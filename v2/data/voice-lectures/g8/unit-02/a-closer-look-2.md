@@ -81,7 +81,7 @@ Bài 1. Viết dạng so sánh hơn của các trạng từ nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 
 | Adverb | Comparative |
 |--------|-------------|
@@ -126,7 +126,7 @@ Bài 2. Điền dạng so sánh hơn của trạng từ trong ngoặc nha. 1 ph�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. more beautifully | 2. more clearly | 3. faster | 4. harder | 5. more heavily
+**Bài 2 - Đáp án:** 1. more beautifully | 2. more clearly | 3. faster | 4. harder | 5. more heavily
 </answer>
 
 <explanation>
@@ -171,7 +171,7 @@ Bài 3. Viết lại câu dùng so sánh hơn của trạng từ nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. more carefully
 2. faster
 3. more quietly
@@ -212,7 +212,7 @@ Bài 4. Viết câu so sánh dùng gợi ý nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. The red car can run **faster** than the black car.
 2. Nick can jump **higher** than Tom.
 3. Mai did **better** on the exam than Hoa.

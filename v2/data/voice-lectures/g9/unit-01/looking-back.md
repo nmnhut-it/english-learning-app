@@ -28,7 +28,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. delivery person | 2. firefighter | 3. tourist attraction | 4. pottery | 5. artisan
+**Bài tập 1 - Đáp án:** 1. delivery person | 2. firefighter | 3. tourist attraction | 4. pottery | 5. artisan
 </answer>
 
 <explanation>
@@ -76,7 +76,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A (preserve) | 2. A (fragrance) | 3. B (police officers) | 4. A (speciality food) | 5. A (handicrafts)
+**Bài tập 2 - Đáp án:** 1. A (preserve) | 2. A (fragrance) | 3. B (police officers) | 4. A (speciality food) | 5. A (handicrafts)
 </answer>
 
 <explanation>
@@ -134,7 +134,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. B | 2. C | 3. D | 4. A | 5. C
+**Bài tập 3 - Đáp án:** 1. B | 2. C | 3. D | 4. A | 5. C
 </answer>
 
 <explanation>
@@ -168,7 +168,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 4 - Đáp án:**
 1. In some villages, people **cut down on** the number of steps to make the handicraft.
 2. My grandparents **handed down** the skills to my parents.
 3. In their community, the eldest child usually **takes care of** his or her parents.

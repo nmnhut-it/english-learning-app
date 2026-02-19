@@ -74,7 +74,7 @@ Bài 1 — điền dạng <eng>Past Continuous</eng> đúng nha. Chú ý <eng>wa
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **was visiting**
 2. **was sleeping**
 3. **was going**
@@ -123,7 +123,7 @@ Bài 2 — viết câu <eng>Past Continuous</eng> từ các từ gợi ý nha. 1
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. The workers **were preserving** the ancient communal house last year.
 2. People **were living** in small villages a hundred years ago.
 3. The government **were/was building** new museums to honour war heroes.
@@ -200,7 +200,7 @@ Bài 3 — điền dạng đúng sau <eng>wish</eng> nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **got**
 2. **had**
 3. **had**

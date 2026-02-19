@@ -55,7 +55,7 @@ Bài 1 — nối hoạt động với hình ảnh mô tả nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-e | 3-a | 4-d | 5-c
+**Bài 1 - Đáp án:** 1-b | 2-e | 3-a | 4-d | 5-c
 </answer>
 
 <explanation>
@@ -97,7 +97,7 @@ Bài 2 — học nghĩa tính từ cảm xúc nha. Ghép tính từ với nghĩa
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-b | 3-a | 4-e | 5-c
+**Bài 2 - Đáp án:** 1-d | 2-b | 3-a | 4-e | 5-c
 
 **Ví dụ câu:**
 1. *I felt helpless when I got lost in the forest with no phone signal.*
@@ -173,7 +173,7 @@ Bài 3 — trắc nghiệm từ vựng nha. Chọn đáp án đúng. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. B | 2. A | 3. C | 4. C | 5. A
+**Bài 3 - Đáp án:** 1. B | 2. A | 3. C | 4. C | 5. A
 </answer>
 
 <explanation>
@@ -238,7 +238,7 @@ Bài 4 — đánh dấu trọng âm cho danh từ ghép nha. Viết HOA từ/âm
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **CAMP**fire
 2. **TEAM**work
 3. **SUN**screen

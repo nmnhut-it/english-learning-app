@@ -55,7 +55,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. is reading | 2. are playing | 3. isn't making | 4. am going | 5. Are they talking
+**Bài 1 - Đáp án:** 1. is reading | 2. are playing | 3. isn't making | 4. am going | 5. Are they talking
 </answer>
 
 <explanation>
@@ -93,7 +93,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Nam and Ba **aren't eating ice cream**.
 2. Lan and Trang **are taking photos**.
 3. Ha **is writing a letter**.
@@ -144,7 +144,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **A:** Is your friend swimming? **B:** Yes, he is.
 2. **A:** Are they listening to music? **B:** No, they aren't. They are having a picnic.
 3. **A:** Is Mi playing the piano? **B:** No, she isn't. She is doing karate.
@@ -201,7 +201,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. doesn't walk / cycles
 2. is he playing
 3. Do your friends study

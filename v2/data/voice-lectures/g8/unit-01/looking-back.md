@@ -31,7 +31,7 @@ Bài 1. Nhìn tranh và viết tên hoạt động giải trí nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. doing puzzles *(giải câu đố)*
 2. doing DIY *(tự làm đồ)*
 3. messaging friends *(nhắn tin với bạn bè)*
@@ -64,7 +64,7 @@ Bài 2. Hoàn thành câu với cụm từ diễn đạt sở thích đã học 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. My cousin is **crazy about** surfing the net and playing computer games.
 2. Are they **interested in** playing badminton after school?
 3. I'm not **fond of** making models because I'm not patient.
@@ -105,7 +105,7 @@ Bài 3. Chọn dạng động từ đúng (V-ing hoặc to-V) nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. prefers **cycling** / **to cycle**
 2. loves **reading** / **to read**
 3. enjoy **playing** *(chỉ V-ing)*
@@ -151,7 +151,7 @@ Bài 4. Hoàn thành câu mô tả sở thích của người trong bảng nha. 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. reading / to read books
 2. messaging (friends)
 3. messaging / to message

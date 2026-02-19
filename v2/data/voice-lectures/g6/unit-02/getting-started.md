@@ -173,7 +173,7 @@ e. kitchen (phòng bếp)
 9. **shower:** (n) vòi hoa sen /ˈʃaʊ.ər/  
 10. **chest of drawers:** (n) tủ ngăn kéo /ˌtʃɛst əv ˈdrɔːrz/
 
-**Đáp án:**   
+**Bài 2 - Đáp án:**   
 \- Bedroom: lamp, chest of drawers, picture
 
 \- Living room: lamp, picture, sofa

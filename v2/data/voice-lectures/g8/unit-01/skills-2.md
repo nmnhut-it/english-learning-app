@@ -65,7 +65,7 @@ Hoa enjoys doing a (5) _______ around the city with her family. They see differe
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. video | 2. cinema | 3. park | 4. shape | 5. bike ride | 6. places
+**Bài 3 - Đáp án:** 1. video | 2. cinema | 3. park | 4. shape | 5. bike ride | 6. places
 </answer>
 
 <explanation>

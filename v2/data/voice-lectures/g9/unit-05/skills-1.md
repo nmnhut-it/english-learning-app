@@ -146,7 +146,7 @@ Bài 2 — trắc nghiệm kết hợp cả hai bài đọc nha. Chọn đáp á
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. B | 2. B | 3. D | 4. C | 5. A
+**Bài 2 - Đáp án:** 1. B | 2. B | 3. D | 4. C | 5. A
 </answer>
 
 <explanation>
@@ -190,7 +190,7 @@ Bài 3 — Akiko hay Dương? Ai đã làm điều đó? 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **Akiko**
 2. **Duong**
 3. **Duong**
@@ -237,7 +237,7 @@ Bài 4 — <eng>Speaking</eng>, nối các chủ đề với câu mô tả nha. 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-C | 2-E | 3-D | 4-A | 5-B
+**Bài 4 - Đáp án:** 1-C | 2-E | 3-D | 4-A | 5-B
 </answer>
 
 <explanation>

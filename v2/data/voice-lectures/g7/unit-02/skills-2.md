@@ -50,7 +50,7 @@ Ok đáp án nè. Thói quen tốt cho sức khỏe là:
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 - ✓ 2. Get eight hours of sleep daily. *(Ngủ đủ 8 tiếng mỗi ngày.)*
 - ✓ 3. Be active and exercise every day. *(Năng động và tập thể dục mỗi ngày.)*
 </answer>
@@ -91,7 +91,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** ✓ 1. eating | ✓ 3. exercising | ✓ 4. sleeping | ✓ 6. cleaning
+**Bài 2 - Đáp án:** ✓ 1. eating | ✓ 3. exercising | ✓ 4. sleeping | ✓ 6. cleaning
 </answer>
 
 <explanation>
@@ -172,7 +172,7 @@ Ok đáp án nè. Giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Disease. *(Bệnh tật.)*
 2. (A lot of) vitamins. *(Nhiều vitamin.)*
 3. 8 hours. *(8 giờ.)*

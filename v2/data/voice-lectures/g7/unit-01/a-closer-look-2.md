@@ -65,7 +65,7 @@ Xong chưa? Đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-a | 3-c | 4-a | 5-b
+**Bài 1 - Đáp án:** 1-b | 2-a | 3-c | 4-a | 5-b
 </answer>
 
 <explanation>
@@ -114,7 +114,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. make | 2. does...do | 3. have | 4. doesn't like | 5. Does...start
+**Bài 2 - Đáp án:** 1. make | 2. does...do | 3. have | 4. doesn't like | 5. Does...start
 </answer>
 
 <explanation>
@@ -152,7 +152,7 @@ Minh is a 12-year-old student. He __(1)__ playing football. He __(2)__ most of h
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. enjoys | 2. spends | 3. doesn't like | 4. goes | 5. begins | 6. don't enjoy
+**Bài 3 - Đáp án:** 1. enjoys | 2. spends | 3. doesn't like | 4. goes | 5. begins | 6. don't enjoy
 </answer>
 
 <explanation>
@@ -208,7 +208,7 @@ Ok đáp án nè. Xem kỹ từng câu nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 1. Does she collect foreign coins? / She doesn't collect foreign coins.
 2. Do they go jogging every morning? / They don't go jogging every morning.

@@ -78,7 +78,7 @@ Nghe xong rồi, giờ làm bài tập nha!
 </teacher_script>
 
 <answer>
-**Đáp án:** Lan - B | Phong - A | Tom - C
+**Bài 2 - Đáp án:** Lan - B | Phong - A | Tom - C
 </answer>
 
 <explanation>
@@ -131,7 +131,7 @@ Nghe xong rồi, giờ làm bài tập nha!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.A | 3.A | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.C | 2.A | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>

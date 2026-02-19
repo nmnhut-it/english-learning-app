@@ -138,7 +138,7 @@ Bài 2. Chọn dạng động từ đúng nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.A | 3.C | 4.A | 5.C
+**Bài 2 - Đáp án:** 1.A | 2.A | 3.C | 4.A | 5.C
 </answer>
 
 <explanation>
@@ -174,7 +174,7 @@ Bài 3. Hoàn thành câu dùng động từ trong ngoặc ở dạng đúng nha
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. likes **surfing** / **to surf** the net
 2. enjoy **doing** DIY
 3. dislikes **cooking**

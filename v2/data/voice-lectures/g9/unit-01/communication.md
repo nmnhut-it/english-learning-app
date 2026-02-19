@@ -76,7 +76,7 @@ Phần <eng>Places of interest</eng> - Địa điểm thú vị nha. Bài 3, cá
 </task>
 
 <answer>
-**Đáp án:**
+**Bài tập 2 - Đáp án:**
 a. Nguyen Hue Pedestrian Street (Ho Chi Minh City, Viet Nam) - Phố đi bộ Nguyễn Huệ, TP.HCM
 b. Sydney Opera House (Australia) - Nhà hát Con Sò, Úc
 </answer>

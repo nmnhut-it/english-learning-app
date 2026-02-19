@@ -42,7 +42,7 @@ Bài 1 <eng>Work in pairs. Look at the pictures and discuss</eng>. Nhìn tranh v
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. They are collecting the garbage and planting trees. *(Họ đang thu gom rác và trồng cây.)*
 2. Because they want to clean the environment. *(Vì họ muốn làm sạch môi trường.)*
 </answer>
@@ -90,7 +90,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.A | 4.A
+**Bài 2 - Đáp án:** 1.C | 2.B | 3.A | 4.A
 </answer>
 
 <explanation>
@@ -174,7 +174,7 @@ Bài 3 <eng>Listen again and answer the questions</eng>. Nghe lại và trả l�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. They encourage their classmates to recycle glass, cans, and paper. *(Họ khuyến khích các bạn cùng lớp tái chế thủy tinh, lon và giấy.)*
 2. The reporter thinks their activities protect the environment. *(Phóng viên nghĩ hoạt động của họ bảo vệ môi trường.)*
 3. They grow vegetables in the school garden after school. *(Họ trồng rau trong vườn trường sau giờ học.)*

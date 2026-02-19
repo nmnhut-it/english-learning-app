@@ -118,7 +118,7 @@ Bài 2 — <eng>True/False</eng> nha. Đọc lại hội thoại rồi xác đ�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. T | 3. T | 4. F | 5. T
+**Bài 2 - Đáp án:** 1. F | 2. T | 3. T | 4. F | 5. T
 </answer>
 
 <explanation>
@@ -160,7 +160,7 @@ Bài 3 — nối hoạt động với mô tả nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-e | 3-a | 4-d | 5-b
+**Bài 3 - Đáp án:** 1-c | 2-e | 3-a | 4-d | 5-b
 </answer>
 
 <explanation>
@@ -202,7 +202,7 @@ Bài 4 — nối từ với định nghĩa nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-b | 3-d | 4-c | 5-a
+**Bài 4 - Đáp án:** 1-e | 2-b | 3-d | 4-c | 5-a
 </answer>
 
 <explanation>

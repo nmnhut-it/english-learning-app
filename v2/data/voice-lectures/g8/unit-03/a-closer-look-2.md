@@ -160,7 +160,7 @@ Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.S | 2.S | 3.C | 4.S | 5.C
+**Bài 2 - Đáp án:** 1.S | 2.S | 3.C | 4.S | 5.C
 </answer>
 
 <explanation>
@@ -226,7 +226,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.A | 4.A | 5.C
+**Bài 3 - Đáp án:** 1.C | 2.B | 3.A | 4.A | 5.C
 </answer>
 
 <explanation>
@@ -277,7 +277,7 @@ Xong chưa? Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. otherwise
 2. therefore
 3. but
