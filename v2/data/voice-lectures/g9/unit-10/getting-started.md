@@ -33,6 +33,8 @@ Giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dư�
 19. **preserve** : (v) bảo tồn, gìn giữ /prɪˈzɜːv/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/61.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe và đọc. Đây là hội thoại trong một buổi sinh hoạt câu lạc bộ khoa học, các bạn học sinh đang hỏi ông An về Trái Đất.

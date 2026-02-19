@@ -13,6 +13,8 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 <audio src="https://img.loigiaihay.com/picture/2022/0706/024.mp3">
 **Audio:** A Closer Look 1
 </audio>
+<audio src="https://img.loigiaihay.com/picture/2022/0706/025.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2022/0706/026.mp3"></audio>
 
 <!-- chunk: content -->
 <teacher_script pause="0" href="audio/tts_d5b1d729.mp3">

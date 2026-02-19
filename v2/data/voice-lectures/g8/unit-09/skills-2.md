@@ -27,6 +27,9 @@ Ok bài <eng>Skills 2</eng> nha — nghe và viết. Hôm nay nghe chương trì
 18. **local authorities** : (n) chính quyền địa phương /ˈloʊkəl ɔːˈθɒrɪtiz/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-58.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-59.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong rồi nha. Chú ý mấy từ quan trọng: <eng>plaster</eng> = băng dán vết thương (loại băng dán nhỏ), <eng>strengthen</eng> = gia cố (làm cho vững chắc hơn), <eng>avoid</eng> = tránh (không lại gần), <eng>rubbish bin</eng> = thùng rác. Nhớ hết chưa? Giờ mình nghe chương trình radio nha!
 </teacher_script>

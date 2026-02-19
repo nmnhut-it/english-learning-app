@@ -23,6 +23,9 @@ Ok tiếp theo là bài <eng>A Closer Look 1</eng> nha. Bài này mình học th
 14. **property** : (n) tài sản /ˈprɒpərti/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-55.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-56.mp3"></audio>
+
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Chú ý 4 cặp từ đặc biệt này: <eng>destroy → destruction</eng>, <eng>erupt → eruption</eng>, <eng>warn → warning</eng>, <eng>predict → prediction</eng>. Đây là cặp động từ và danh từ tương ứng — rất hay ra bài tập đó. Còn <eng>damage</eng> thì vừa là động từ vừa là danh từ, không đổi dạng luôn nha.
 </teacher_script>

@@ -29,6 +29,9 @@ Ok lớp 8, Unit 9 nha — <eng>Natural Disasters</eng>, thảm họa thiên nhi
 20. **second floor** : (n) tầng hai /ˈsekənd flɔːr/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-53.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-54.mp3"></audio>
+
 <teacher_script pause="0">
 Ok từ vựng xong rồi nha. Bây giờ mình đọc hội thoại giữa Mi và Tom. Mi trông có vẻ buồn — Tom hỏi thăm, rồi hai đứa nói về thiên tai ở Việt Nam và Mỹ. Đọc theo máy đi, sau đó mình dịch nha.
 </teacher_script>

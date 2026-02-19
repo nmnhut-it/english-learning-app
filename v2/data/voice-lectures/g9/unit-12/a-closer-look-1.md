@@ -29,6 +29,8 @@ Ok lớp 9, tiếp tục Unit 12 nha — bài <eng>A Closer Look 1</eng>. Hôm n
 20. **flexible** : (adj) linh hoạt /ˈfleksɪbl/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/74.mp3"></audio>
+
 <teacher_script pause="0">
 Tốt lắm nha. Từ vựng hôm nay có hai nhóm: nhóm tên nghề và nhóm tính từ mô tả nghề hoặc tính cách. Học thuộc hết nha vì bài tập sắp tới dùng hết đó. Giờ vô bài tập 1 nha.
 </teacher_script>

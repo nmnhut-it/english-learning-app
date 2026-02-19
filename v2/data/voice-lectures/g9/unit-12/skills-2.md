@@ -23,6 +23,9 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 12 nha — hôm nay luyện nghe và v
 14. **pursue** : (v) theo đuổi /pərˈsjuː/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/76.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0516/77.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong nha. Giờ nghe bài phỏng vấn với Linh. Nghe kỹ vì bài tập sắp tới hỏi nhiều chi tiết về câu chuyện của Linh đó.
 </teacher_script>

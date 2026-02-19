@@ -21,6 +21,9 @@ Ok lớp 8, bài <eng>A Closer Look 1</eng> nha. Phần này mình học từ v�
 12. **serve** : (v) phục vụ /sɜːv/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-33.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-34.mp3"></audio>
+
 <!-- chunk: exercise-1 -->
 <teacher_script pause="60">
 Từ vựng xong rồi nha. Bài 1, ghép từ với hình ảnh mô tả đúng của nó. Có 5 từ và 5 mô tả từ a đến e. 1 phút đi.

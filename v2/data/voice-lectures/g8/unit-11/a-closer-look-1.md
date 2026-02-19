@@ -25,6 +25,9 @@ Ok lớp 8, <eng>A Closer Look 1</eng> Unit 11 nha. Hôm nay học từ vựng v
 16. **a cure for cancer** : (phrase) thuốc chữa ung thư /ə kjʊər fər ˈkænsər/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-69.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-70.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong nha. Chú ý 4 động từ quan trọng: <eng>discover, invent, create, develop</eng> — dùng khác nhau đó. Bây giờ vào bài tập nào!
 </teacher_script>

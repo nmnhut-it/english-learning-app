@@ -21,6 +21,8 @@ Chào các em. Mời các em mở sách giáo khoa trang 79. Hôm nay chúng ta 
 7. **ecosystem** : (n) hệ sinh thái /ˈiːkəʊsɪstəm/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/46.mp3"></audio>
+
 ---
 
 <!-- chunk: exercise_1 -->

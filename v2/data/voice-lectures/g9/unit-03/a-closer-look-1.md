@@ -24,6 +24,9 @@ Ok lớp 9, bài <eng>A Closer Look 1 — Unit 3</eng> nha. Hôm nay học từ 
 15. **assignment** : (n) bài tập, nhiệm vụ được giao /əˈsaɪnmənt/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/15.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/16.mp3"></audio>
+
 <teacher_script pause="0">
 Ghi xong chưa nha! Chú ý hai từ hay nhầm: "delay" là *trì hoãn* — làm sau — khác với "cancel" là *hủy* — không làm nữa. Còn "stressed out" thì mạnh hơn "stressed" — kiệt sức vì căng thẳng nha. Giờ làm bài tập từ vựng đi.
 </teacher_script>

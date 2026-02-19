@@ -22,6 +22,9 @@ Ok lớp 8, bài <eng>A Closer Look 1</eng> Unit 12 nha. Hôm nay mình học t�
 13. **crater** : (n) miệng núi lửa, hố va chạm /ˈkreɪtər/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-75.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-76.mp3"></audio>
+
 <teacher_script pause="0">
 Mẹo nhớ tên hành tinh theo thứ tự từ Mặt Trời nha: <eng>My Very Excellent Mother Just Served Us Noodles</eng> — chữ đầu của mỗi từ là: M-V-E-M-J-S-U-N, tức là Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Học thuộc câu đó là nhớ thứ tự luôn á!
 </teacher_script>

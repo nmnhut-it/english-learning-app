@@ -29,6 +29,8 @@ Các em mở sách ra, Unit 2, bài <eng>A Closer Look 1</eng>, ghi tựa bài. 
 15. **pond** : (n) ao /pɒnd/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-9.mp3"></audio>
+
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 20 - Fill in the Blanks
 

@@ -25,6 +25,8 @@ Các em mở sách ra, Unit 1, bài <eng>A Closer Look 1</eng>, ghi tựa bài. 
 11. **cooking** : (n) nấu ăn /ˈkʊkɪŋ/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-3.mp3"></audio>
+
 <!-- chunk: grammar_note -->
 <teacher_script pause="0">
 Chú ý nha! Tất cả 5 cụm từ này đều theo sau bởi **V-ing**. Không dùng to-V được nha.

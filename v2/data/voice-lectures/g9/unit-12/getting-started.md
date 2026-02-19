@@ -28,6 +28,8 @@ Ok lớp 9, Unit 12 nha — <eng>My Future Career</eng>, tức là "Nghề nghi�
 19. **achieve your dream** : đạt được ước mơ /əˈtʃiːv jɔː driːm/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/73.mp3"></audio>
+
 <teacher_script pause="0">
 Ok từ vựng xong rồi nha. Giờ mình vô hội thoại. Đây là cuộc trò chuyện giữa Mi và Nick về buổi định hướng nghề nghiệp. Nghe và đọc theo nha.
 </teacher_script>

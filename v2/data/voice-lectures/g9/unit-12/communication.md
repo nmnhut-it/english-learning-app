@@ -21,6 +21,8 @@ Ok lớp 9, bài <eng>Communication</eng> Unit 12 nha. Hôm nay mình học các
 12. **scholarship** : (n) học bổng /ˈskɒlərʃɪp/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/75.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong nha. Giờ mình học mấy mẫu câu để nói về kế hoạch nghề nghiệp. Đây là phần quan trọng để nói chuyện tự nhiên nha.
 </teacher_script>

@@ -21,6 +21,8 @@ Ok lớp 7, bài <eng>Skills 2</eng> Unit 1 nha. Mở sách trang 16. Bài này 
 12. **creative** : (adj) sáng tạo /kriˈeɪtɪv/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0705/007.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong rồi. Chú ý mấy từ quan trọng nha: <eng>unusual</eng> = khác thường/độc đáo, <eng>furniture</eng> = đồ nội thất (bàn ghế trong nhà), <eng>cloth</eng> = vải. Giờ vô nghe bài.
 </teacher_script>

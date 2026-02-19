@@ -26,6 +26,8 @@ Ok lớp 8, Unit 11 nha — <eng>Science and Technology</eng>. Bài đầu tiên
 17. **Internet connection** : (n) kết nối mạng /ˈɪntənet kəˈnekʃən/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-68.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong rồi nha. Giờ mình đọc hội thoại — Minh và Ann đang nói về trường học tương lai đó. Đọc và dịch theo nha.
 </teacher_script>

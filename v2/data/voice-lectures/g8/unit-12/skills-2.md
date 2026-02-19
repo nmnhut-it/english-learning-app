@@ -24,6 +24,9 @@ Trước khi nghe, mình học từ vựng trước nha. Bấm nút "Bắt đầ
 10. **rocket** : (n) tên lửa /ˈrɒkɪt/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-78.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-79.mp3"></audio>
+
 <!-- chunk: bai1 -->
 ### Bài 1 trang 130 - Discussion
 

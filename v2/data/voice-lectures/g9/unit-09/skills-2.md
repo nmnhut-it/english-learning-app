@@ -19,6 +19,8 @@ Nghe bạn Trang chia sẻ về cách học tiếng Anh nha. Chú ý các phươ
 <audio src="https://img.loigiaihay.com/picture/2024/0515/51.mp3">
 **Audio:** Trang talks about how she learns English.
 </audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/57.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/58.mp3"></audio>
 
 <reading>
 Hi, my name is Trang.

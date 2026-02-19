@@ -28,6 +28,8 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 14. **cover** : (v) che phủ, bao phủ; bao gồm /ˈkʌvə/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0713/040.mp3"></audio>
+
 <!-- chunk: audio -->
 <teacher_script pause="0" href="audio/tts_c08c1d7b.mp3">
 Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để tìm thông tin trả lời câu hỏi.

@@ -27,6 +27,8 @@ Ok lớp 9, Unit 5 nha — <eng>Wonders of Viet Nam</eng>! Mở sách ra. Hôm n
 18. **waterfall** : (n) thác nước /ˈwɔːtəfɔːl/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/27.mp3"></audio>
+
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Làm trắc nghiệm từ vựng, ghi vô tập, rồi mình đọc hội thoại về chuyến đi Đà Lạt thôi.
 </teacher_script>

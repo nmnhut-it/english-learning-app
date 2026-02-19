@@ -180,6 +180,8 @@ Bài 3 — học thêm từ vựng về chuyến đi lặn biển nha. Những t
 13. **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/30.mp3"></audio>
+
 <teacher_script pause="0">
 Xong rồi nha! Bài <eng>Communication</eng> Unit 5 đã học xong. Tụi mình đã học cách xin lỗi và chấp nhận xin lỗi, đọc hội thoại thực tế, và luyện từ vựng chuyến đi. Hẹn gặp ở bài <eng>Skills 1</eng> nghen!
 </teacher_script>

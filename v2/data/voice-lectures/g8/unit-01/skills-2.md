@@ -26,6 +26,8 @@ Học từ vựng trước khi nghe nha. Bấm "Bắt đầu" để học từ v
 12. **see different places** : (v.phr) thăm các nơi khác nhau /siː ˈdɪfrənt ˈpleɪsɪz/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-6.mp3"></audio>
+
 <!-- chunk: listening -->
 ### Bài 1-2 trang 15 - Listening
 

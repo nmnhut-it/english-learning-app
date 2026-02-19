@@ -23,6 +23,9 @@ Ok lớp 8, <eng>Skills 2</eng> Unit 11 nha. Hôm nay nghe về giáo viên robo
 14. **in real time** : (phrase) theo thời gian thực /ɪn rɪəl taɪm/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-72.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-73.mp3"></audio>
+
 <teacher_script pause="0">
 Từ vựng xong rồi nha. Mấy từ này đều liên quan đến bài nghe về robot Elias ở Phần Lan. Chú ý <eng>interact, patient, emotional connections, replace</eng> — hay dùng khi so sánh giáo viên thật và robot đó. Giờ làm bài nha!
 </teacher_script>

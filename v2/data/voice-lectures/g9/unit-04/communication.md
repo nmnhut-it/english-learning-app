@@ -21,6 +21,8 @@ Ok lớp 9, bài <eng>Communication</eng> nha. Hôm nay tụi mình học cách 
 12. **pray** : (v) cầu nguyện /preɪ/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/24.mp3"></audio>
+
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Ghi vô tập rồi mình học cách diễn đạt phong tục.
 </teacher_script>

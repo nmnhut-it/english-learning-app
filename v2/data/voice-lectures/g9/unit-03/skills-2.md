@@ -19,6 +19,9 @@ Ok lớp 9, bài <eng>Skills 2 — Unit 3</eng> nha. Hôm nay nghe về quản l
 10. **accomplish** : (v) hoàn thành, làm xong /əˈkɒmplɪʃ/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/18.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/19.mp3"></audio>
+
 <teacher_script pause="0">
 Ghi xong chưa nha! Chú ý "urgent" — khẩn cấp — là những việc cần làm NGAY, còn "important" là quan trọng nhưng không nhất thiết phải làm ngay. Hai khái niệm này khác nhau nha. Giờ nghe bài nha!
 </teacher_script>

@@ -30,6 +30,9 @@ Trước khi nghe, học từ vựng đi. Bấm nút "Bắt đầu" bên dưới
 13. **die out** : (phr.v) chết, biến mất /daɪ aʊt/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/65.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0516/66.mp3"></audio>
+
 ---
 
 <!-- chunk: exercise_1 -->

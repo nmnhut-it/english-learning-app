@@ -24,6 +24,8 @@ Ok lớp 9, tiếp tục Unit 6 nha — bài <eng>A Closer Look 1</eng>. Hôm na
 15. **relationship** : (n) mối quan hệ /rɪˈleɪʃənʃɪp/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/35.mp3"></audio>
+
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Làm trắc nghiệm từ vựng đi, rồi ghi vô tập — nhớ ghi cả nghĩa tiếng Việt và phiên âm nha.
 </teacher_script>

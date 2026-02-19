@@ -18,6 +18,9 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 6 nha — hôm nay mình nghe và vi�
 9. **obvious** : (adj) rõ ràng /ˈɒbviəs/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/37.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/38.mp3"></audio>
+
 <teacher_script pause="0">
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Đặc biệt nhớ hai từ *nuclear family* và *extended family* — hai khái niệm quan trọng trong bài nghe này luôn.
 </teacher_script>

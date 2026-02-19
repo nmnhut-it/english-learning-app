@@ -19,6 +19,8 @@ Ok Unit 3, bài <eng>A Closer Look 1</eng> nha. Bài này mình học từ vựn
 10. **pressure** : (n) áp lực /ˈpreʃə/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-15.mp3"></audio>
+
 <!-- chunk: exercise-bai1 -->
 <teacher_script pause="0">
 Giờ mình làm bài 1 nha. Nhìn vào danh sách hoạt động, chia thành 2 nhóm: nhóm A là những thứ em làm với nội dung (content) trên mạng, nhóm B là những thứ liên quan đến quản lý tài khoản. Thầy/cô cho 1 phút.

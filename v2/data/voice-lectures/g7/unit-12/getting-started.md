@@ -29,6 +29,8 @@ Các em mở sách ra, Unit 12, bài <eng>Getting Started</eng>, ghi tựa bài.
 15. **capital** : (n) thủ đô /ˈkæpɪtl/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0817/082.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Bài 1 <eng>Listen and read</eng> nha. Phong và Mark đang nói chuyện về kỳ nghỉ. Nghe và đọc theo.
