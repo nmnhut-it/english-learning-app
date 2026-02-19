@@ -139,7 +139,7 @@ Bài 2 <eng>Put a word from the conversation in each gap</eng> nè. Đọc lại
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. fit | 2. gym | 3. table tennis | 4. Club | 5. cycle
+**Bài 2 - Đáp án:** 1. fit | 2. gym | 3. table tennis | 4. Club | 5. cycle
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e751c427.mp3">
@@ -221,7 +221,7 @@ Sau đây là đáp án.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. cycling | 2. aerobics | 3. table tennis | 4. swimming | 5. chess | 6. volleyball
+**Bài 3 - Đáp án:** 1. cycling | 2. aerobics | 3. table tennis | 4. swimming | 5. chess | 6. volleyball
 </answer>
 
 <teacher_script pause="0" href="audio/tts_8e0ba8f5.webm">

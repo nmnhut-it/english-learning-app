@@ -72,16 +72,16 @@ Bài 2 trang 54. Nối từ với nghĩa đúng. 1 phút nha.
 
 <questions type="matching">
 **1.** instead of
-**2.** give
+**2.** charity
 **3.** exchange
 **4.** reusable
-**5.** recycling bin
+**5.** recycling bins
 
-a. give something to someone to receive something from them
-b. can be used again
-c. in place of something
-d. to offer something to someone without expecting payment
-e. a container for things that can be recycled
+a. give something to a person and receive something from him/her *(trao đổi)*
+b. can be used again *(có thể dùng lại)*
+c. containers for things that can be recycled *(thùng đựng đồ tái chế)*
+d. giving things to people in need *(tặng cho người cần)*
+e. in the place of somebody or something *(thay vì)*
 </questions>
 
 <teacher_script pause="0">
@@ -89,15 +89,15 @@ e. a container for things that can be recycled
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
+**Đáp án:** 1-e | 2-d | 3-a | 4-b | 5-c
 </answer>
 
 <explanation>
-1. **instead of → c**: *in place of* = thay vì. Ví dụ: *borrow instead of buy* — mượn thay vì mua.
-2. **give → d**: tặng không cần nhận lại — *give to charity* = tặng từ thiện.
-3. **exchange → a**: trao đổi — cho người khác cái gì đó để nhận lại cái khác. Khác với *give* là có qua có lại.
-4. **reusable → b**: có thể dùng lại — tiền tố *re-* = lại, *-able* = có thể.
-5. **recycling bin → e**: thùng đựng đồ để tái chế — *bin* = thùng, *recycling* = tái chế.
+1. **instead of → e**: *in the place of somebody or something* = thay vì. Ví dụ: *borrow instead of buy* — mượn thay vì mua.
+2. **charity → d**: *giving things to people in need* = từ thiện, tặng cho người cần.
+3. **exchange → a**: *give something to a person and receive something from him/her* = trao đổi — có qua có lại.
+4. **reusable → b**: *can be used again* = có thể dùng lại — tiền tố *re-* = lại, *-able* = có thể.
+5. **recycling bins → c**: *containers for things that can be recycled* = thùng đựng đồ tái chế.
 </explanation>
 
 <!-- chunk: exercise-3 -->

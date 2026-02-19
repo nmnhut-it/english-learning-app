@@ -52,20 +52,20 @@ Bài 2 trang 56. Điền *a*, *an*, hoặc *the* vào chỗ trống. 1 phút nha
 </task>
 
 <questions type="fill_blanks">
-**1.** We should use ________ reusable bag when we go shopping.
-*Chúng ta nên dùng ________ túi tái sử dụng khi đi mua sắm.*
+**1.** If I see ________ dog, I will run away.
+*Nếu tôi nhìn thấy ________ con chó, tôi sẽ bỏ chạy.*
 
-**2.** ________ environment needs our help.
-*________ môi trường cần sự giúp đỡ của chúng ta.*
+**2.** Does your town have ________ art gallery?
+*Thị trấn của bạn có ________ phòng trưng bày nghệ thuật không?*
 
-**3.** She found ________ old plastic bottle in the park.
-*Cô ấy tìm thấy ________ chai nhựa cũ trong công viên.*
+**3.** ________ Moon is bright tonight.
+*________ Mặt trăng sáng đêm nay.*
 
-**4.** Put ________ rubbish in ________ recycling bin.
-*Bỏ ________ rác vào ________ thùng tái chế.*
+**4.** There is a big temple in the town. ________ temple is very old.
+*Có một ngôi đền lớn trong thị trấn. ________ ngôi đền rất cổ.*
 
-**5.** He wants to be ________ architect or ________ engineer.
-*Anh ấy muốn trở thành ________ kiến trúc sư hoặc ________ kỹ sư.*
+**5.** Is your mother ________ teacher? - No, she isn't. She's ________ artist.
+*Mẹ bạn có phải là ________ giáo viên không? - Không. Mẹ mình là ________ nghệ sĩ.*
 </questions>
 
 <teacher_script pause="0">
@@ -73,15 +73,15 @@ Bài 2 trang 56. Điền *a*, *an*, hoặc *the* vào chỗ trống. 1 phút nha
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. a | 2. The | 3. an | 4. the - the | 5. an - an
+**Đáp án:** 1. a | 2. an | 3. The | 4. The | 5. a - an
 </answer>
 
 <explanation>
-1. **a** reusable — lần đầu nhắc, chưa xác định cái nào → *a*.
-2. **The** environment — môi trường nói chung, ai cũng hiểu là "môi trường của chúng ta" → *the*.
-3. **an** old — *o* là nguyên âm → *an*.
-4. **the** rubbish / **the** bin — rác đó (cụ thể), thùng đó (đã thấy rồi) → *the*.
-5. **an** architect / **an** engineer — *a* bắt đầu bằng nguyên âm, *e* là nguyên âm → cả hai dùng *an*. Chỉ nghề nghiệp dùng *a/an*.
+1. **a** dog — lần đầu nhắc đến con chó nào đó, chưa xác định cụ thể → *a*.
+2. **an** art gallery — *a* trong *art* là nguyên âm → *an*. Lưu ý: "at gallery" trong sách in là "art gallery".
+3. **The** Moon — mặt trăng là duy nhất, ai cũng biết là mặt trăng nào → *the*.
+4. **The** temple — ngôi đền đã được nhắc ở câu trước ("a big temple") → *the* (xác định).
+5. **a** teacher / **an** artist — *t* là phụ âm → *a*; *a* trong *artist* là nguyên âm → *an*.
 </explanation>
 
 <!-- chunk: exercise-3 -->

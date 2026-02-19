@@ -132,7 +132,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.A | 3.A | 4.A
+**Bài 2 - Đáp án:** 1.C | 2.A | 3.A | 4.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_40982d03.mp3">
@@ -205,7 +205,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
+**Bài 3 - Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
 </answer>
 
 <teacher_script pause="0" href="audio/tts_9ebc8912.mp3">
@@ -272,7 +272,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. The Voice Kids → **interesting** (thú vị)
 2. Animated films → **wonderful** (tuyệt vời)
 3. Jerry the mouse → **clever** (thông minh)

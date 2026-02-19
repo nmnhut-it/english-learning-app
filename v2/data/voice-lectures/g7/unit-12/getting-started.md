@@ -173,12 +173,12 @@ Bài 4. Điền từ hoặc cụm từ trong khung vào chỗ trống nha. 1 ph�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. landscape | 2. penguin watching | 3. island | 4. sunset | 5. Australians
+**Đáp án:** 1. landscape | 2. watching | 3. island | 4. sunset | 5. Australians
 </answer>
 
 <explanation>
 - **(1) landscape** - Bức tranh vẽ **phong cảnh** (landscape) ở làng quê.
-- **(2) penguin watching** - Đi **xem chim cánh cụt** (penguin watching) ở bãi biển.
+- **(2) watching** - Đi **xem cảnh** (watching) ở bãi biển. Trong ngữ cảnh có thể là "penguin watching" - xem chim cánh cụt.
 - **(3) island** - Phú Quốc là một **hòn đảo** (island).
 - **(4) sunset** - Ăn tối trên bãi biển sau **hoàng hôn** (sunset).
 - **(5) Australians** - Hầu hết **người Úc** (Australians) thích thể thao và trò chơi ngoài trời.
