@@ -114,7 +114,7 @@ Bài 2. Đọc lại hội thoại và chọn đáp án đúng nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.C | 4.A
+**Bài 2 - Đáp án:** 1.A | 2.B | 3.C | 4.A
 </answer>
 
 <explanation>
@@ -151,7 +151,7 @@ Bài 3. Điền từ thích hợp vào chỗ trống nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. harvest time | 2. combine harvester | 3. herd | 4. paddy field | 5. load
+**Bài 3 - Đáp án:** 1. harvest time | 2. combine harvester | 3. herd | 4. paddy field | 5. load
 </answer>
 
 <explanation>
@@ -195,7 +195,7 @@ f. guide buffaloes to the fields to graze
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-a | 3-f | 4-e | 5-b | 6-c
+**Bài 4 - Đáp án:** 1-d | 2-a | 3-f | 4-e | 5-b | 6-c
 </answer>
 
 <explanation>

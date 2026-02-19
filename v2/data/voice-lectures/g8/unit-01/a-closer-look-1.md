@@ -80,7 +80,7 @@ e. quan tâm đến, thích
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-a | 2-b | 3-e | 4-c | 5-d
+**Bài 1 - Đáp án:** 1-a | 2-b | 3-e | 4-c | 5-d
 </answer>
 
 <explanation>
@@ -115,7 +115,7 @@ Bài 2. Điền từ thích hợp vào chỗ trống nha. Chú ý điền phần
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. fond | 2. interested | 3. keen | 4. into | 5. about
+**Bài 2 - Đáp án:** 1. fond | 2. interested | 3. keen | 4. into | 5. about
 </answer>
 
 <explanation>
@@ -151,7 +151,7 @@ Bài 3. Nhìn tranh và ghi tên hoạt động phù hợp nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. doing puzzles
 2. cooking
 3. playing sports
@@ -207,7 +207,7 @@ Nghe audio và luyện phát âm theo nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **SKATE**board
 2. **CY**cling
 3. **FOOT**ball

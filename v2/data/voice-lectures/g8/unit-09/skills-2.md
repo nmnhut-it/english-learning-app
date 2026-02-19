@@ -50,7 +50,7 @@ Bài 1. <eng>Work in pairs. Look at the picture and answer the questions.</eng> 
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. I can see an emergency kit.
 2. We need these things when there is a natural disaster.
 </answer>
@@ -112,7 +112,7 @@ Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct co
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 - **Before a storm:** 2 (Prepare an emergency kit), 6 (Strengthen houses)
 - **During a storm:** 3 (Stay inside the house), 5 (Avoid windows and glass doors)
 - **After a storm:** 1 (Listen to instructions from local authorities), 4 (Keep away from dangerous areas)
@@ -157,7 +157,7 @@ Bài 3. <eng>Listen again and tick T (True) or F (False) for each sentence.</eng
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. F | 2. T | 3. F | 4. T
 </answer>
 

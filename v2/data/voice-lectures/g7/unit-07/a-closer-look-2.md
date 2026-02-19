@@ -650,7 +650,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy viết câu hỏi và trả lờ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 
 **1.** Q: How far is it from your house to school?
       A: It's about 3 kilometres.
@@ -729,7 +729,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy viết lời khuyên dùng <eng>
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 2 - Đáp án:**
 
 1. You should take an umbrella.
 2. You shouldn't cross the road.
@@ -796,7 +796,7 @@ Bài tập cuối cùng kết hợp cả hai phần. Các em hãy hoàn thành c
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 3 - Đáp án:**
 
 1. How far
 2. should wear

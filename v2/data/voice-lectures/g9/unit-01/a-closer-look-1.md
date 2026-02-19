@@ -52,7 +52,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-e | 3-a | 4-b | 5-d
+**Bài tập 1 - Đáp án:** 1-c | 2-e | 3-a | 4-b | 5-d
 </answer>
 
 <explanation>
@@ -82,7 +82,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. tourist attraction | 2. pottery | 3. artisan | 4. speciality | 5. handicraft
+**Bài tập 2 - Đáp án:** 1. tourist attraction | 2. pottery | 3. artisan | 4. speciality | 5. handicraft
 </answer>
 
 <explanation>
@@ -118,7 +118,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. artisans | 2. electrician | 3. specialities | 4. garbage collector | 5. handicrafts
+**Bài tập 3 - Đáp án:** 1. artisans | 2. electrician | 3. specialities | 4. garbage collector | 5. handicrafts
 </answer>
 
 <explanation>
@@ -166,7 +166,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 3-pack | 5-park | 7-kettle | 4-cattle | 8-marry | 2-merry | 1-chart | 6-chat
+**Bài tập 4 - Đáp án:** 3-pack | 5-park | 7-kettle | 4-cattle | 8-marry | 2-merry | 1-chart | 6-chat
 </answer>
 
 <explanation>
@@ -195,7 +195,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 5 - Đáp án:**
 1. **Thanks** /æ/ - **garbage** /ɑː/
 2. **grandmother** /æ/ - **artist** /ɑː/
 3. **That** /æ/ - **bread** /e/

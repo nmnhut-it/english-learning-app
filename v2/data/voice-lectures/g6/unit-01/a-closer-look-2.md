@@ -81,7 +81,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.C
+**Bài 1 - Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.C
 </answer>
 
 <explanation>
@@ -121,7 +121,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. has | 2. Do you have | 3. like | 4. Does Vy walk | 5. ride | 6. go
+**Bài 2 - Đáp án:** 1. has | 2. Do you have | 3. like | 4. Does Vy walk | 5. ride | 6. go
 </answer>
 
 <explanation>
@@ -189,7 +189,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 2. usually | 3. sometimes | 5. never
+**Bài 3 - Đáp án:** 2. usually | 3. sometimes | 5. never
 </answer>
 
 <explanation>
@@ -243,7 +243,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.B | 5.A
+**Bài 4 - Đáp án:** 1.B | 2.A | 3.A | 4.B | 5.A
 </answer>
 
 <explanation>
@@ -281,7 +281,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. Do you often ride your bicycle to school?
 2. Do you sometimes study in the school library?
 3. Do you like your new school?

@@ -116,7 +116,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. doing things | 2. insects and bugs | 3. patient | 4. join in | 5. an hour
+**Bài 3 - Đáp án:** 1. doing things | 2. insects and bugs | 3. patient | 4. join in | 5. an hour
 </answer>
 
 <explanation>
@@ -162,7 +162,7 @@ Xem đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. collecting stamps → d, c
 2. riding a horse → b, c
 3. making models → a, c, e

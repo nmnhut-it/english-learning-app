@@ -1033,7 +1033,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ hỏi đúng để h
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.A
+**Bài tập 1 - Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_47e4e501.mp3">
@@ -1111,7 +1111,7 @@ Bài tập 2, các em hãy hoàn thành câu với <eng>and</eng>, <eng>but</eng
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. so | 2. but | 3. and | 4. so | 5. but | 6. and | 7. so | 8. and
+**Bài tập 2 - Đáp án:** 1. so | 2. but | 3. and | 4. so | 5. but | 6. and | 7. so | 8. and
 </answer>
 
 <teacher_script pause="0" href="audio/tts_3aca774a.mp3">
@@ -1211,7 +1211,7 @@ Bài tập cuối cùng kết hợp cả hai phần. Các em hãy chọn đáp �
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.A | 3.B | 4.C | 5.A | 6.B
+**Bài tập 3 - Đáp án:** 1.A | 2.A | 3.B | 4.C | 5.A | 6.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_6c867a49.mp3">

@@ -80,7 +80,7 @@ Bài 2 — <eng>True/False</eng> nha. Dựa theo bài nghe. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. F | 3. T | 4. T | 5. F
+**Bài 2 - Đáp án:** 1. F | 2. F | 3. T | 4. T | 5. F
 </answer>
 
 <explanation>
@@ -130,7 +130,7 @@ Bài 3 — trắc nghiệm nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. C | 2. A | 3. C
+**Bài 3 - Đáp án:** 1. C | 2. A | 3. C
 </answer>
 
 <explanation>

@@ -93,7 +93,7 @@ Nối câu nha. 45 giây. Nhìn kỹ thì đổi gì, đại từ đổi gì r�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-B | 2-A
+**Bài 1 - Đáp án:** 1-B | 2-A
 </answer>
 
 <explanation>
@@ -138,7 +138,7 @@ Làm bài 2 vô vở đi — 1 phút. Nhớ lùi thì và đổi đại từ nha
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Minh said that he **was** a member of the IT club.
 2. Nam said Mai **would take** an online course to improve her speaking.
 3. Tom said he **was talking** to Phong on the phone.
@@ -196,7 +196,7 @@ Làm bài 3 — 1 phút nha. Nhớ bảng đổi thời gian, nơi chốn: <eng>
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Mary said she was having a science test **the next day**.
 2. Tom said the group was working on their project **then**.
 3. The teacher said that Mai was reading about Thomas Edison **that day**.
@@ -252,7 +252,7 @@ Làm bài 4 — 1 phút nha. Bài này khó hơn vì phải đổi nhiều thứ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. The scientist said that they **would** live much longer in the future.
 2. Our teacher said that our school **was going** to have a new laboratory **there**.
 3. My dad said that they **were developing** technology to monitor students better.
@@ -310,7 +310,7 @@ Thử đổi mấy câu trên sang câu tường thuật đi nha — 1 phút. Nh
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. She said she **loved** the Toy Story films.
 2. He said he'**d worked** as a waiter before becoming a chef.
 3. He said he'**d phone** me **the next day**.

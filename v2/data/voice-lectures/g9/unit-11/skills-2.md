@@ -60,7 +60,7 @@ Bài 2 nha — điền từ vô chỗ trống dựa vào bài nghe. Nghe lại n
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. languages | 2. maths | 3. interact | 4. behave | 5. problems
+**Bài 2 - Đáp án:** 1. languages | 2. maths | 3. interact | 4. behave | 5. problems
 </answer>
 
 <explanation>
@@ -107,7 +107,7 @@ Bài 3 nha — <eng>True or False</eng> về robot giáo viên. Có 1 phút nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.F
+**Bài 3 - Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.F
 </answer>
 
 <explanation>

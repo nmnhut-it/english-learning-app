@@ -83,7 +83,7 @@ Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. participates
 2. connects
 3. skills
@@ -142,7 +142,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Mai is the head of the music club **so** she knows the members very well.
 2. Lan wanted to go to the party **but** she had too much homework.
 3. Tom felt stressed**; however,** he tried to finish his homework.
@@ -202,7 +202,7 @@ Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. so
 2. but
 3. otherwise

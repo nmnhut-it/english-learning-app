@@ -36,7 +36,7 @@ Bài 1 — ghép từ với định nghĩa đúng. Có 5 từ và 5 định ngh�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-d | 3-e | 4-a | 5-b
+**Bài 1 - Đáp án:** 1-c | 2-d | 3-e | 4-a | 5-b
 </answer>
 
 <explanation>
@@ -79,7 +79,7 @@ Bài 2 nha. Điền từ đúng vào chỗ trống. Dùng: <eng>in the habit of 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. in the habit of | 2. greeted | 3. lifestyle | 4. online lessons | 5. maintain
+**Bài 2 - Đáp án:** 1. in the habit of | 2. greeted | 3. lifestyle | 4. online lessons | 5. maintain
 </answer>
 
 <explanation>
@@ -134,7 +134,7 @@ Bài 3 nha — ôn ngữ pháp. Điền dạng đúng của động từ trong n
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. will send | 2. won't be | 3. will become | 4. win | 5. Will / have to
+**Bài 3 - Đáp án:** 1. will send | 2. won't be | 3. will become | 4. win | 5. Will / have to
 </answer>
 
 <explanation>

@@ -64,7 +64,7 @@ Ok đáp án bài 1 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-d | 3-b | 4-a | 5-c
+**Bài 1 - Đáp án:** 1-e | 2-d | 3-b | 4-a | 5-c
 </answer>
 
 <explanation>
@@ -131,7 +131,7 @@ Bài 2 trang 126 — trắc nghiệm từ vựng nha. 5 câu, chọn A B C D. L�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.D | 4.C | 5.B
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.D | 4.C | 5.B
 </answer>
 
 <explanation>
@@ -180,7 +180,7 @@ Bài 3 trang 128 — điền từ vô chỗ trống. Đọc câu rồi chọn t�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. software engineer
 2. demanding
 3. well-paid

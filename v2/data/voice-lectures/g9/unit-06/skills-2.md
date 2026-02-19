@@ -101,7 +101,7 @@ Bài 3 nha — điền từ vô chỗ trống để hoàn thành tóm tắt bài
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. two | 2. three | 3. family-oriented | 4. elders | 5. privacy
+**Bài 3 - Đáp án:** 1. two | 2. three | 3. family-oriented | 4. elders | 5. privacy
 </answer>
 
 <explanation>

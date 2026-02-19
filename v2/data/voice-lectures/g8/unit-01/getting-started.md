@@ -97,7 +97,7 @@ Bài 2. Đọc lại hội thoại và điền từ vào chỗ trống nha. 1 ph
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. knitting kit | 2. leisure time | 3. other people | 4. hang out | 5. Sunday
+**Bài 2 - Đáp án:** 1. knitting kit | 2. leisure time | 3. other people | 4. hang out | 5. Sunday
 </answer>
 
 <explanation>
@@ -174,7 +174,7 @@ e. doing puzzles
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-b | 3-a | 4-c | 5-d
+**Bài 4 - Đáp án:** 1-e | 2-b | 3-a | 4-c | 5-d
 </answer>
 
 <explanation>

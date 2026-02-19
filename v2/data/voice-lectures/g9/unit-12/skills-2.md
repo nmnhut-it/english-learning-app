@@ -113,7 +113,7 @@ Bài 2 trang 136 — đúng hay sai nha. Nghe lại hoặc đọc lại bài ph�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.F
 </answer>
 
 <explanation>
@@ -171,7 +171,7 @@ Bài 3 trang 136 — trắc nghiệm về bài phỏng vấn. 4 câu A B C D. L�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.A | 3.B | 4.C
+**Bài 3 - Đáp án:** 1.A | 2.A | 3.B | 4.C
 </answer>
 
 <explanation>

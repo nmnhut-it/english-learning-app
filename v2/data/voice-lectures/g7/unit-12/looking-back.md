@@ -31,7 +31,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. island | 2. ancient castle | 3. boat ride | 4. tattoos | 5. coastline
+**Bài 1 - Đáp án:** 1. island | 2. ancient castle | 3. boat ride | 4. tattoos | 5. coastline
 </answer>
 
 <explanation>
@@ -86,7 +86,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.B | 4.C | 5.A
+**Bài 2 - Đáp án:** 1.A | 2.B | 3.B | 4.C | 5.A
 </answer>
 
 <explanation>
@@ -128,7 +128,7 @@ Ok đáp án nè. Giải thích kỹ từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **the** biggest city on **the** North Island
 2. **A** castle is **a** strong building
 3. Surrounding **the** UK is **the** Atlantic Ocean
@@ -169,7 +169,7 @@ Ok đáp án nè. Giải thích kỹ luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. a → **the** : Ottawa is **the** capital of Canada.
 2. the → **an** : He's **an** Englishman.
 3. an → **a** : They use **a** map.

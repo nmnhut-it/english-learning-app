@@ -121,7 +121,7 @@ Bài 3 trang 52 - điền từ vào chỗ trống dựa vào bài đọc nha. 5 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. shishi-mai | 2. New Year | 3. acrobatics | 4. flutes | 5. bad spirits
+**Bài 3 - Đáp án:** 1. shishi-mai | 2. New Year | 3. acrobatics | 4. flutes | 5. bad spirits
 </answer>
 
 <explanation>

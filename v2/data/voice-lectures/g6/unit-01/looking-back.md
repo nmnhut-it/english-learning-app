@@ -32,7 +32,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. uniform | 2. pencil sharpener | 3. notebook | 4. compass | 5. calculator | 6. ruler
+**Bài 1 - Đáp án:** 1. uniform | 2. pencil sharpener | 3. notebook | 4. compass | 5. calculator | 6. ruler
 </answer>
 
 <explanation>
@@ -71,7 +71,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-d | 3-b | 4-a | 5-c
+**Bài 2 - Đáp án:** 1-e | 2-d | 3-b | 4-a | 5-c
 </answer>
 
 <explanation>
@@ -107,7 +107,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. comes | 2. don't | 3. walks | 4. do | 5. teaches
+**Bài 3 - Đáp án:** 1. comes | 2. don't | 3. walks | 4. do | 5. teaches
 </answer>
 
 <explanation>
@@ -139,7 +139,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. is | 2. has | 3. walks | 4. study | 5. likes
+**Bài 4 - Đáp án:** 1. is | 2. has | 3. walks | 4. study | 5. likes
 </answer>
 
 <explanation>
@@ -177,7 +177,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. I **always** remember to do my homework.
 2. Nick **usually** gets good marks in exams.
 3. We do not **often** see a rabbit in town.

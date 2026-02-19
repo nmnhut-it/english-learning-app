@@ -83,7 +83,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. amazing | 2. ancient | 3. unique | 4. local | 5. native
+**Bài 2 - Đáp án:** 1. amazing | 2. ancient | 3. unique | 4. local | 5. native
 </answer>
 
 <explanation>
@@ -120,7 +120,7 @@ Bài 3 <eng>Work in pairs. Discuss and write the word or phrase next to its expl
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. tower | 2. symbol | 3. capital | 4. boat ride
+**Bài 3 - Đáp án:** 1. tower | 2. symbol | 3. capital | 4. boat ride
 </answer>
 
 <explanation>
@@ -188,7 +188,7 @@ Bài 4 <eng>Listen and repeat, paying attention to the intonation</eng>. Nghe v�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Can you speak English? ↗ *(Yes/No question)*
 2. Is Australia an island? ↗ *(Yes/No question)*
 3. Will you visit Washington next year? ↗ *(Yes/No question)*

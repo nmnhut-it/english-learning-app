@@ -59,7 +59,7 @@ Ok đáp án nè. Giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. at - at | 2. in | 3. in | 4. on | 5. at
+**Bài 1 - Đáp án:** 1. at - at | 2. in | 3. in | 4. on | 5. at
 </answer>
 
 <explanation>
@@ -152,7 +152,7 @@ Ok đáp án nè. Giải thích kỹ luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. on | 2. at | 3. in | 4. at | 5. on - in
+**Bài 3 - Đáp án:** 1. on | 2. at | 3. in | 4. at | 5. on - in
 </answer>
 
 <explanation>
@@ -187,7 +187,7 @@ Bài 4 <eng>Work in pairs. Look at the pictures and answer the questions</eng>. 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. She teaches Maths **in** the classroom. *(Cô ấy dạy môn Toán trong lớp học.)* => không gian bao quanh => **in**
 2. They water the flowers **in** the school garden. *(Họ tưới hoa trong khu vườn trường.)* => không gian bao quanh => **in**
 3. The boy is writing **on** the board. *(Cậu bé đang viết trên bảng.)* => bề mặt => **on**
@@ -219,7 +219,7 @@ Ok đáp án và giải thích nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. in | 2. in | 3. at | 4. at | 5. on | 6. on
+**Bài 5 - Đáp án:** 1. in | 2. in | 3. at | 4. at | 5. on | 6. on
 </answer>
 
 <explanation>

@@ -89,7 +89,7 @@ Bài 1. <eng>Complete the sentences by putting the verbs in brackets into the pa
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. were helping
 2. wasn't snowing
 3. was working
@@ -150,7 +150,7 @@ Bài 2. <eng>Circle the correct answer to complete each sentence.</eng> Khoanh t
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. A (donated)
 2. B (were you doing / was sleeping)
 3. B (were camping / came)
@@ -194,7 +194,7 @@ Bài 3. <eng>Look at the picture and write what each person in Lan's family was 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Lan's mother was reading a book while Lan's grandparents watched TV.
 2. Lan's father was drinking tea while he watched TV.
 3. Lan's family was watching TV when she talked on the phone.
@@ -239,7 +239,7 @@ Bài 4. <eng>Form questions using the past continuous. Then in pairs, ask and an
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Were you having dinner at 7 o'clock yesterday evening? — Yes, I was. / No, I wasn't. I was playing piano.
 2. Were you doing homework at 8 o'clock yesterday evening? — Yes, I was. / No, I wasn't. I was watching TV.
 3. Were you watching a film at 9 o'clock yesterday evening? — Yes, I was. / No, I wasn't. I was sleeping.

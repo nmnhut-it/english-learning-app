@@ -121,7 +121,7 @@ Bài 2 nha — <eng>True or False</eng> về cách dùng emoji trong giao tiếp
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.T
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.T
 </answer>
 
 <explanation>

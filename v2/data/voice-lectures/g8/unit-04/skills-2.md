@@ -40,7 +40,7 @@ Bài 1 <eng>Match the phrases with the correct pictures</eng>. Nối cụm từ 
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1 - c. catching fish *(bắt cá)*
 2 - a. weaving clothing *(dệt vải)*
 3 - b. growing crops *(trồng nông sản)*
@@ -76,7 +76,7 @@ Ok đáp án nè. Giải thích luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** ✓ 1. look after the house | ✓ 2. weave clothing | ✓ 3. prepare food | ✓ 5. grow crops | ✓ 6. raise livestock
+**Bài 2 - Đáp án:** ✓ 1. look after the house | ✓ 2. weave clothing | ✓ 3. prepare food | ✓ 5. grow crops | ✓ 6. raise livestock
 </answer>
 
 <explanation>
@@ -154,7 +154,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.A | 3.B | 4.C | 5.A
+**Bài 3 - Đáp án:** 1.C | 2.A | 3.B | 4.C | 5.A
 </answer>
 
 <explanation>

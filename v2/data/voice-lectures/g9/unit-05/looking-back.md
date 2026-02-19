@@ -30,7 +30,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 1. exhilarating, thrilling, special
 2. exciting, amazing, memorable, brilliant
 3. embarrassing, helpless, unpleasant
@@ -71,7 +71,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. learnt it by rote | 2. went blank | 3. exploring a site | 4. an eco-tour | 5. team building activities
+**Bài tập 2 - Đáp án:** 1. learnt it by rote | 2. went blank | 3. exploring a site | 4. an eco-tour | 5. team building activities
 </answer>
 
 <explanation>
@@ -125,7 +125,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. have invited | 2. Have...finished | 3. have never been | 4. has seen | 5. has not cooked
+**Bài tập 3 - Đáp án:** 1. have invited | 2. Have...finished | 3. have never been | 4. has seen | 5. has not cooked
 </answer>
 
 <explanation>
@@ -160,7 +160,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. have been | 2. have done | 3. have visited | 4. have watched | 5. have had | 6. have made
+**Bài tập 4 - Đáp án:** 1. have been | 2. have done | 3. have visited | 4. have watched | 5. have had | 6. have made
 </answer>
 
 <explanation>

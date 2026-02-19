@@ -60,7 +60,7 @@ Ok đáp án nè, mình giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. The later
 2. The more comfortable
 3. The higher
@@ -107,7 +107,7 @@ Ok đáp án và giải thích nè!
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. the hottest → **the hotter**
 2. tired → **more tired**
 3. more small → **smaller**
@@ -179,7 +179,7 @@ Ok đáp án nha!
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. carry out
 2. get around
 3. hung out with
@@ -224,7 +224,7 @@ Ok đáp án nha!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-d | 3-a | 4-e | 5-c
+**Bài 4 - Đáp án:** 1-b | 2-d | 3-a | 4-e | 5-c
 </answer>
 
 <explanation>

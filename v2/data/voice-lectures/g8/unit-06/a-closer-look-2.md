@@ -60,7 +60,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **will tell**
 2. **will attend** - **won't join**
 3. **won't have** - **will do**
@@ -97,7 +97,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. We will take our first-term exams very soon. *(Chúng ta sẽ thi học kì một rất sớm thôi.)*
 2. Will they stay in an igloo when they visit Alaska? *(Họ sẽ sống trong nhà tuyết khi họ đến Alaska chứ?)*
 3. She will work with the tribal groups to help them revive their culture. *(Cô ấy sẽ làm việc với các nhóm bộ lạc để giúp hồi sinh lại văn hóa.)*
@@ -155,7 +155,7 @@ Ok đáp án nè. Giải thích kỹ từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. eat | 2. goes | 3. will have | 4. don't do | 5. Will - be
+**Bài 3 - Đáp án:** 1. eat | 2. goes | 3. will have | 4. don't do | 5. Will - be
 </answer>
 
 <explanation>
@@ -191,7 +191,7 @@ Ok đáp án nè. Giải thích kỹ luôn. Bài này quan trọng lắm á!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Unless | 2. if | 3. unless | 4. If | 5. unless
+**Bài 4 - Đáp án:** 1. Unless | 2. if | 3. unless | 4. If | 5. unless
 </answer>
 
 <explanation>

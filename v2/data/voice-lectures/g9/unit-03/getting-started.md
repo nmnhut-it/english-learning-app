@@ -95,7 +95,7 @@ Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: n
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
 </answer>
 
 <explanation>
@@ -135,7 +135,7 @@ Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: n
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-d | 3-e | 4-c | 5-a
+**Bài 3 - Đáp án:** 1-b | 2-d | 3-e | 4-c | 5-a
 </answer>
 
 <explanation>
@@ -177,7 +177,7 @@ Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: n
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. priority
 2. well-balanced
 3. physical

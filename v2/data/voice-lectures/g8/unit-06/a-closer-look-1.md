@@ -51,7 +51,7 @@ Từ vựng xong rồi nha. Bài 1, ghép từ với hình ảnh mô tả đúng
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-d | 3-c | 4-a | 5-b
+**Bài 1 - Đáp án:** 1-e | 2-d | 3-c | 4-a | 5-b
 </answer>
 
 <explanation>
@@ -96,7 +96,7 @@ Xong chưa? Đáp án bài 2 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. weaving | 2. tribal dances | 3. native art | 4. making crafts | 5. dogsled
+**Bài 2 - Đáp án:** 1. weaving | 2. tribal dances | 3. native art | 4. making crafts | 5. dogsled
 </answer>
 
 <explanation>
@@ -141,7 +141,7 @@ Bài 3 nha. Chọn từ đúng trong ngoặc để điền vào chỗ trống: <
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. weave | 2. native | 3. traditional | 4. celebrate | 5. serves
+**Bài 3 - Đáp án:** 1. weave | 2. native | 3. traditional | 4. celebrate | 5. serves
 </answer>
 
 <explanation>

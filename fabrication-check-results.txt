@@ -1,0 +1,8 @@
+Fabrication Detection v2 - Bi-directional comparison
+
+Usage: node check-fabrication.js --grade <N> [--unit <NN>] [--section <name>]
+
+Examples:
+  node check-fabrication.js --grade 6 --unit 11 --section getting-started
+  node check-fabrication.js --grade 6 --unit 11
+  node check-fabrication.js --grade 6

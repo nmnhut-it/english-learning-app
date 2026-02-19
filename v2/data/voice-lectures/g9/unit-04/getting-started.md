@@ -117,7 +117,7 @@ Ok, xem đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Angkor Wat is about 900 years old. *(Angkor Wat khoảng 900 năm tuổi.)*
 2. Because it has beautiful and impressive architecture. *(Vì nó có kiến trúc đẹp và ấn tượng.)*
 3. Windsor Castle is in England. *(Lâu đài Windsor ở Anh.)*
@@ -168,7 +168,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. heritage | 2. well-preserved | 3. magnificent | 4. Thanks to | 5. occupied
+**Bài 3 - Đáp án:** 1. heritage | 2. well-preserved | 3. magnificent | 4. Thanks to | 5. occupied
 </answer>
 
 <explanation>
@@ -210,7 +210,7 @@ Bài 4 — nối từ với định nghĩa nha. Làm nhanh, 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
+**Bài 4 - Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
 </answer>
 
 <explanation>
@@ -251,7 +251,7 @@ Xem đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** a-1 | b-2 | c-3 | d-4 | e-5 | f-6
+**Bài 5 - Đáp án:** a-1 | b-2 | c-3 | d-4 | e-5 | f-6
 </answer>
 
 <explanation>

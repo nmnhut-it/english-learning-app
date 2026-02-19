@@ -47,7 +47,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. how | 2. where | 3. what | 4. when | 5. who
+**Bài tập 1 - Đáp án:** 1. how | 2. where | 3. what | 4. when | 5. who
 </answer>
 
 <explanation>
@@ -81,7 +81,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 2 - Đáp án:**
 1. I don't know **how to get** to the swimming pool.
 2. They are wondering **where to buy** traditional handicrafts.
 3. She asked **what to give** to her new neighbour at his house-warming party.
@@ -145,7 +145,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-d | 3-e | 4-c | 5-a
+**Bài tập 3 - Đáp án:** 1-b | 2-d | 3-e | 4-c | 5-a
 </answer>
 
 <explanation>
@@ -179,7 +179,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. came back | 2. hand down | 3. find out | 4. takes care of | 5. looking around
+**Bài tập 4 - Đáp án:** 1. came back | 2. hand down | 3. find out | 4. takes care of | 5. looking around
 </answer>
 
 <explanation>

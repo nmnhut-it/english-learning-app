@@ -46,7 +46,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-e | 3-d | 4-a | 5-b
+**Bài 1 - Đáp án:** 1-c | 2-e | 3-d | 4-a | 5-b
 </answer>
 
 <explanation>
@@ -93,7 +93,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. creative | 2. kind | 3. friendly | 4. careful | 5. clever
+**Bài 2 - Đáp án:** 1. creative | 2. kind | 3. friendly | 4. careful | 5. clever
 </answer>
 
 <explanation>
@@ -174,7 +174,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. pig /p/ | 2. pear /p/ | 3. buy /b/ | 4. rope /p/
+**Bài 4 - Đáp án:** 1. pig /p/ | 2. pear /p/ | 3. buy /b/ | 4. rope /p/
 </answer>
 
 <explanation>

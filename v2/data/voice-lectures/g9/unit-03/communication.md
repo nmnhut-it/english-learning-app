@@ -131,7 +131,7 @@ Dịch hội thoại vô vở nha. Gạch chân các câu hỏi lại và xác n
 </teacher_script>
 
 <answer>
-**Đáp án:** a.A | b.B | c.C
+**Bài 2 - Đáp án:** a.A | b.B | c.C
 </answer>
 
 <explanation>
@@ -167,7 +167,7 @@ Dịch hội thoại vô vở nha. Gạch chân các câu hỏi lại và xác n
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. happy
 2. delay
 3. happiness

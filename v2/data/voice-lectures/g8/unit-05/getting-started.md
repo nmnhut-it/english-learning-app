@@ -95,7 +95,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.T | 3.T | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.F | 2.T | 3.T | 4.F | 5.T
 </answer>
 
 <explanation>
@@ -135,7 +135,7 @@ Tiếp tục bài 3 - <eng>Matching</eng> nha. Nối từ ở cột trái với 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
+**Bài 3 - Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
 </answer>
 
 <explanation>
@@ -179,7 +179,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. place | 2. admire | 3. chase | 4. pray
+**Bài 4 - Đáp án:** 1. place | 2. admire | 3. chase | 4. pray
 </answer>
 
 <explanation>
@@ -234,7 +234,7 @@ Bài 5 - bài cuối của <eng>Getting Started</eng> nha. Đây là bài trắc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.B | 5.B
+**Bài 5 - Đáp án:** 1.B | 2.A | 3.A | 4.B | 5.B
 </answer>
 
 <explanation>

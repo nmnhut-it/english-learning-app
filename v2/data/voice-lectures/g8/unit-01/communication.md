@@ -126,7 +126,7 @@ Bài 3 nghe nha. 3 người nói về sở thích của họ. Nghe và ghi tên 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 - Person 1: paper folding *(gấp giấy / origami)*
 - Person 2: playing badminton *(chơi cầu lông)*
 - Person 3: snowboarding *(trượt tuyết bằng ván)*

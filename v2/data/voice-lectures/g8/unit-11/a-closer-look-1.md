@@ -64,7 +64,7 @@ Gán nhãn bài 1 đi — 1 phút nha. Nhìn tranh rồi chọn từ trong ô ch
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **digital communication** *(giao tiếp kỹ thuật số)*
 2. **face recognition** *(nhận dạng khuôn mặt)*
 3. **eye-tracking** *(theo dõi mắt)*
@@ -124,7 +124,7 @@ Chọn bài 2 đi — 1 phút nha. Nghĩ xem từ nào đi với động từ n�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **A** — invent a device *(phát minh ra một thiết bị)*
 2. **A** — discover a chemical element *(khám phá ra một nguyên tố hóa học)*
 3. **B** — create a medicine *(tạo ra thuốc)*
@@ -179,7 +179,7 @@ Bài 3 — điền từ trong ô vào chỗ trống. Dùng đúng dạng từ nh
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **discovered**
 2. **invented**
 3. **created**
@@ -264,7 +264,7 @@ Giải thích nha — tại sao những từ đó được nhấn mạnh.
 </teacher_script>
 
 <answer>
-**Giải thích nhấn âm:**
+**Bài 4 - Đáp án:**
 1. **don't have** — phủ định + động từ chính → nhấn cả hai.
 2. **call, day** — động từ chính + danh từ → nhấn. **No, don't** — phủ định → nhấn.
 3. **not** (phủ định), **miliar** (âm nhấn của familiar), **new** (tính từ), **puter** (âm nhấn của computer) → nhấn.
@@ -308,7 +308,7 @@ Bài 5 — nghe và lặp lại câu. Đếm xem mỗi câu có bao nhiêu từ 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. He is an in**ven**tor. → 1 từ nhấn (inventor — danh từ)
 2. We **won't** have a **ro**bot **tea**cher **next** **year**. → 4 từ nhấn (won't, robot, teacher, next year)
 3. She **likes** **learn**ing on**line**. → 3 từ nhấn (likes, learning, online)

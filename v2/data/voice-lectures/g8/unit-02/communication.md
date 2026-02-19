@@ -157,7 +157,7 @@ Hollum is one of the oldest villages on Ameland Island in the Netherlands. Many 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Both | 2. Đường Lâm | 3. Hollum | 4. Đường Lâm | 5. Hollum
+**Bài 3 - Đáp án:** 1. Both | 2. Đường Lâm | 3. Hollum | 4. Đường Lâm | 5. Hollum
 </answer>
 
 <explanation>

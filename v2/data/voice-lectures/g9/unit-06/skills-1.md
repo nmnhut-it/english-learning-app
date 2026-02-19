@@ -116,7 +116,7 @@ Bài 2 nha — <eng>Multiple choice</eng>. Đọc câu hỏi rồi chọn đáp 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.C | 4.A | 5.D
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.C | 4.A | 5.D
 </answer>
 
 <explanation>
@@ -165,7 +165,7 @@ Bài 3 nha — điền từ vô chỗ trống. Chọn từ đúng trong ô và �
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. textbooks | 2. memorising | 3. various | 4. Google | 5. pursue
+**Bài 3 - Đáp án:** 1. textbooks | 2. memorising | 3. various | 4. Google | 5. pursue
 </answer>
 
 <explanation>

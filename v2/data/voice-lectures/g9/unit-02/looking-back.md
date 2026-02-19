@@ -35,7 +35,7 @@ Ok lớp 9, bài <eng>Looking Back</eng> — ôn tập <eng>Unit 2: City Life</e
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. downtown
 2. sky train
 3. lively
@@ -82,7 +82,7 @@ Ok lớp 9, bài <eng>Looking Back</eng> — ôn tập <eng>Unit 2: City Life</e
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. peaceful
 2. safe
 3. congestion
@@ -131,7 +131,7 @@ Ok lớp 9, bài <eng>Looking Back</eng> — ôn tập <eng>Unit 2: City Life</e
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. throw away
 2. hang out
 3. cut down on
@@ -188,7 +188,7 @@ Ok lớp 9, bài <eng>Looking Back</eng> — ôn tập <eng>Unit 2: City Life</e
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. B — the hotter
 2. B — Getting around the city
 3. A — the nearer

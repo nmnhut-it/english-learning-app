@@ -94,7 +94,7 @@ Bài 2 trang 134 — đúng hay sai nha. Đọc 5 câu, ghi T nếu đúng với
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
+**Bài 2 - Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
 </answer>
 
 <explanation>
@@ -141,6 +141,7 @@ Bài 3 trang 134 — trả lời câu hỏi về bài đọc. 5 câu, trả lờ
 </teacher_script>
 
 <answer>
+**Bài 3 - Đáp án:**
 **1.** Doctor, engineer, or lawyer.
 **2.** When their job matches their personality and talents.
 **3.** Through short courses or apprenticeships. Many also begin internships while still studying.
@@ -189,7 +190,7 @@ D. patient and precise — focuses on fine detail for long periods
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-C | 2-D | 3-B | 4-A
+**Bài 4 - Đáp án:** 1-C | 2-D | 3-B | 4-A
 </answer>
 
 <explanation>

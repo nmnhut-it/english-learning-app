@@ -79,7 +79,7 @@ Ok đáp án bài nghe nha. Đối chiếu xem nghe được bao nhiêu câu.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. dollhouses | 2. three / 3 | 3. cousin | 4. house / cloth | 5. creative
+**Bài 2 - Đáp án:** 1. dollhouses | 2. three / 3 | 3. cousin | 4. house / cloth | 5. creative
 </answer>
 
 <explanation>
@@ -128,7 +128,7 @@ Bài 3 trang 17 — hỏi và trả lời về sở thích sưu tập tem. Đọ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. My hobby is collecting stamps.
 2. I started it three years ago.
 3. My friends and family gave me the idea.

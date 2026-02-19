@@ -38,7 +38,7 @@ Nhìn 6 tranh trong sách rồi nối với từ vựng mình vừa học nha. N
 </teacher_script>
 
 <answer>
-**Đáp án:** (tùy theo thứ tự tranh trong sách)
+**Bài 1 - Đáp án:** (tùy theo thứ tự tranh trong sách)
 - Tranh gia đình quây quần bên mâm cơm → **family reunion**
 - Tranh cô dâu chú rể → **wedding ceremony**
 - Tranh mâm cúng trên bàn thờ → **food offerings**
@@ -94,7 +94,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.B | 4.B | 5.A
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.B | 4.B | 5.A
 </answer>
 
 <explanation>
@@ -141,7 +141,7 @@ Bài 3 - điền từ vào chỗ trống nha. Có 5 câu, các em dùng từ v�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. family reunion | 2. Food offerings | 3. Festival goers | 4. whale worship | 5. martial arts
+**Bài 3 - Đáp án:** 1. family reunion | 2. Food offerings | 3. Festival goers | 4. whale worship | 5. martial arts
 </answer>
 
 <explanation>

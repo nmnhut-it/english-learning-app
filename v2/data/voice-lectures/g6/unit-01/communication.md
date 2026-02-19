@@ -104,7 +104,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 - 1. Are you from around here? ✓
 - 2. Do you like music? ✓
 - 4. What is your favourite subject at school? ✓

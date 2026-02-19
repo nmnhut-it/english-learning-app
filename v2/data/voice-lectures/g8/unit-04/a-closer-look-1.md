@@ -43,7 +43,7 @@ Ok kiểm tra đáp án nha. Các em đối chiếu với tranh trong sách.
 </teacher_script>
 
 <answer>
-**Đáp án:** Nối theo thứ tự hình trong sách giáo khoa trang 38.
+**Bài 1 - Đáp án:** Nối theo thứ tự hình trong sách giáo khoa trang 38.
 
 **wooden statue** — tượng điêu khắc bằng gỗ, thường thấy trong các lễ hội và nhà mồ của đồng bào Tây Nguyên.
 
@@ -89,7 +89,7 @@ Bài 2 — nối từ với định nghĩa. Có 5 từ và 5 định nghĩa a–
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-e | 4-d | 5-b
+**Bài 2 - Đáp án:** 1-c | 2-a | 3-e | 4-d | 5-b
 
 **1-c** — *livestock* = gia súc, vật nuôi → *all the animals kept on a farm* — trâu, bò, lợn, gà đều là livestock.
 
@@ -139,7 +139,7 @@ Bài 3 — điền từ vô chỗ trống. Có 6 từ trong khung, điền vô 6
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. unique features | 2. Weaving | 3. raise | 4. communal house | 5. minority group | 6. livestock
+**Bài 3 - Đáp án:** 1. unique features | 2. Weaving | 3. raise | 4. communal house | 5. minority group | 6. livestock
 
 **1. unique features** — *đặc điểm độc đáo* = *unique features*. *unique* = khác biệt, không nơi nào có; *feature* = đặc điểm, nét đặc trưng.
 
@@ -206,7 +206,7 @@ Sắp xếp 10 từ trên vào 2 cột trong vở:
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 | /uː/ (âm dài) | /ʊ/ (âm ngắn) |
 |--------------|---------------|

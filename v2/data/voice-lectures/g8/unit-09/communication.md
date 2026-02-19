@@ -134,7 +134,7 @@ Bài 3. <eng>Read the short passages below. Decide which natural disaster each p
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 - Nam: landslide (sạt lở đất)
 - Ann: tornado (lốc xoáy)
 - Tom: earthquake (động đất)
@@ -200,7 +200,7 @@ Bài 4. <eng>Choose the correct answer to each question to see how much you know
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. A (Heavy rain)
 2. B (Cutting down trees)
 3. C (Richter scale)

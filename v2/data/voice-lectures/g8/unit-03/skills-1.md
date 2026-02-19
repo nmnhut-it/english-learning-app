@@ -110,7 +110,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.T
+**Bài 2 - Đáp án:** 1.T | 2.T | 3.F | 4.T
 </answer>
 
 <explanation>
@@ -174,7 +174,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.B | 4.B | 5.C
+**Bài 3 - Đáp án:** 1.B | 2.C | 3.B | 4.B | 5.C
 </answer>
 
 <explanation>

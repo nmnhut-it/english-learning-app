@@ -92,7 +92,7 @@ Xong chưa? Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. F | 2. T | 3. T | 4. T | 5. F
+**Bài 2 - Đáp án:** 1. F | 2. T | 3. T | 4. T | 5. F
 </answer>
 
 <explanation>

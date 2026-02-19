@@ -89,7 +89,7 @@ Bài 3. Đọc lại bài và trả lời câu hỏi nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. They usually go for a bike ride.
 2. Her brother.
 3. No, it isn't. Her favourite activity is doing DIY.

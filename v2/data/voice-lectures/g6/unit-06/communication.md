@@ -101,7 +101,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1 - b - **the USA** *(Mỹ)*
 2 - c - **Russia** *(Nga)*
 3 - a - **Japan** *(Nhật Bản)*
@@ -166,7 +166,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-a | 3-e | 4-c | 5-d
+**Bài 4 - Đáp án:** 1-b | 2-a | 3-e | 4-c | 5-d
 </answer>
 
 <explanation>

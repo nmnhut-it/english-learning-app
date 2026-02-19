@@ -37,7 +37,7 @@ Bài 1 — nối từ tiếng Anh với nghĩa tiếng Việt. Có 5 từ và 5 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
+**Bài 1 - Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
 
 **1-c** — *weaving* = dệt vải → nghề thủ công truyền thống của nhiều dân tộc thiểu số.
 
@@ -73,7 +73,7 @@ Bài 2 — hoàn thành từ ghép. Điền từ còn thiếu để tạo thành
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. musical | 2. sticky | 3. communal | 4. songs | 5. case
+**Bài 2 - Đáp án:** 1. musical | 2. sticky | 3. communal | 4. songs | 5. case
 
 **1. musical** → *musical instrument* = nhạc cụ. *Musical* (tính từ) = liên quan đến âm nhạc.
 
@@ -118,7 +118,7 @@ Bài 3 — đặt câu hỏi cho phần gạch dưới. Xác định phần gạ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. What festival did you attend last year?
 2. How many ethnic minority groups are there in Vietnam?
 3. Where do the Hmong live?
@@ -168,7 +168,7 @@ Bài 4 — tìm và sửa lỗi trong các câu sau. Mỗi câu có một lỗi 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. communal **house** (bỏ -s)
 2. bamboo **leaves** (thêm -s)
 3. **many** people (đổi *much* → *many*)

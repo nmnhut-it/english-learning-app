@@ -145,7 +145,7 @@ Dịch hội thoại vô vở nha. Chú ý các câu <eng>Offering help</eng> tr
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. traffic jams
 2. sky train
 3. crowded

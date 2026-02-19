@@ -99,7 +99,7 @@ Bài 1 — đúng (T) hay sai (F) dựa vào bài đọc? Cho 2 phút nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.F | 2.F | 3.T | 4.F
+**Bài 1 - Đáp án:** 1.F | 2.F | 3.T | 4.F
 
 **1.F — Sai.** Bài đọc nói: *"They are not just found in a few remote areas — many communities across the country live in stilt houses"* → Không phải chỉ vài nhóm ở vùng hẻo lánh, mà nhiều cộng đồng khắp cả nước.
 → *Sửa:* Many ethnic groups across Vietnam live in stilt houses, not just a few in remote areas.
@@ -148,7 +148,7 @@ Bài 2 — điền vào chỗ trống dựa vào bài đọc. Cho 3 phút nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. popular | 2. extended family | 3. materials | 4. fire / fireplace | 5. centre / center | 6. overlook
+**Bài 2 - Đáp án:** 1. popular | 2. extended family | 3. materials | 4. fire / fireplace | 5. centre / center | 6. overlook
 
 **1. popular** — *"one of the most popular types of traditional housing"* — phổ biến, được nhiều nhóm dân tộc dùng.
 

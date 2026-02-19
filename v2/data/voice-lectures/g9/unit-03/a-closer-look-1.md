@@ -55,7 +55,7 @@ Ghi xong chưa nha! Chú ý hai từ hay nhầm: "delay" là *trì hoãn* — l�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. give
 2. physical
 3. well-balanced
@@ -100,7 +100,7 @@ Ghi xong chưa nha! Chú ý hai từ hay nhầm: "delay" là *trì hoãn* — l�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-e | 2-a | 3-b | 4-c | 5-d
+**Bài 2 - Đáp án:** 1-e | 2-a | 3-b | 4-c | 5-d
 </answer>
 
 <explanation>
@@ -142,7 +142,7 @@ Ghi xong chưa nha! Chú ý hai từ hay nhầm: "delay" là *trì hoãn* — l�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. due date
 2. stressed out
 3. delay
@@ -214,7 +214,7 @@ Quy tắc đơn giản thôi: đuôi <eng>-ic</eng> và <eng>-tion</eng> thì tr
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 a. **PHO**-to-graph / pho-**TOG**-ra-phy
 b. **DI**-et / di-**ET**-a-ry
 c. **EX**-er-cise / ex-**ER**-ci-sing

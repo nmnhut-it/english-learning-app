@@ -107,7 +107,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. the | 2. an | 3. a | 4. a | 5. the
+**Bài 1 - Đáp án:** 1. the | 2. an | 3. a | 4. a | 5. the
 </answer>
 
 <explanation>
@@ -143,7 +143,7 @@ Ok đáp án nè. Giải thích kỹ từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **The** Statue of Liberty is in **Ø** New York.
 2. **Ø** Scotland is a part of **the** UK.
 3. New Zealand consists of **the** North Island and **the** South Island.
@@ -185,7 +185,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. **a** Canadian | 2. **an** American | 3. **an** Englishman | 4. **The** English | 5. **a** New Zealander
+**Bài 3 - Đáp án:** 1. **a** Canadian | 2. **an** American | 3. **an** Englishman | 4. **The** English | 5. **a** New Zealander
 </answer>
 
 <explanation>
@@ -222,7 +222,7 @@ Bài 4 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. an | 2. The | 3. a | 4. the | 5. an | 6. The
+**Bài 4 - Đáp án:** 1. an | 2. The | 3. a | 4. the | 5. an | 6. The
 </answer>
 
 <explanation>
@@ -259,7 +259,7 @@ Ok đáp án nè. Giải thích kỹ luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. The → **An** : "**An** Englishman."
 2. a → **the** : Edinburgh is **the** capital city of Scotland.
 3. a → **an** : Queenstown is **an** amazingly beautiful town.

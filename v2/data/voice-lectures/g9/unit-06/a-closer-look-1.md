@@ -59,7 +59,7 @@ Bài 1 trang 62 nha — <eng>Matching</eng>. Nối động từ hoặc cụm đ�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
+**Bài 1 - Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
 </answer>
 
 <explanation>
@@ -104,7 +104,7 @@ Bài 2 trang 62 nha — điền từ vào chỗ trống. Dùng từ trong ô: <e
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. extended | 2. democratic | 3. various | 4. personal | 5. family-oriented
+**Bài 2 - Đáp án:** 1. extended | 2. democratic | 3. various | 4. personal | 5. family-oriented
 </answer>
 
 <explanation>
@@ -167,7 +167,7 @@ Bài 3 trang 62 nha — trắc nghiệm. Chọn đáp án đúng để hoàn th�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.B | 4.C | 5.D
+**Bài 3 - Đáp án:** 1.A | 2.C | 3.B | 4.C | 5.D
 </answer>
 
 <explanation>
@@ -226,7 +226,7 @@ Bài 4 trang 62 nha — nghe và đánh dấu trọng âm cho mỗi từ khi là
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 - **1.** increase: (N) **IN**-crease | (V) in-**CREASE**
 - **2.** permit: (N) **PER**-mit | (V) per-**MIT**
 - **3.** protest: (N) **PRO**-test | (V) pro-**TEST**

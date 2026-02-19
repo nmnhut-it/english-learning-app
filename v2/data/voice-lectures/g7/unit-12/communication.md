@@ -79,7 +79,7 @@ Bài 2. Làm hội thoại tương tự với các tình huống sau, sử dụn
 </questions>
 
 <answer>
-**Hội thoại mẫu:**
+**Bài 2 - Hội thoại mẫu:**
 
 **1.** Minh: New Zealand has the cleanest and safest air on the planet.
 Nam: **Amazing!**
@@ -116,7 +116,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **Australia** - nổi tiếng với chuột túi (kangaroos)
 2. **The USA** - dân số đông thứ 3 thế giới, sau Trung Quốc và Ấn Độ
 3. **Canada** - nằm sát Bắc Cực, rất lạnh vào mùa đông
@@ -145,7 +145,7 @@ Bài 4. Đọc các sự thật về các nước nói tiếng Anh, rồi đánh
 </questions>
 
 <answer>
-**Hội thoại mẫu:**
+**Bài 4 - Hội thoại mẫu:**
 
 **A:** There are more sheep than people in New Zealand, around 6 sheep per person.
 **B:** **This is new to me.** *(Điều này là mới đối với tôi.)*
@@ -176,7 +176,7 @@ Bài 5. Chia sẻ với nhóm một số sự thật thú vị về các nước
 </task>
 
 <answer>
-**Một số sự thật thú vị:**
+**Bài 5 - Một số sự thật thú vị:**
 - The United States doesn't have an official language. *(Hoa Kỳ không có ngôn ngữ chính thức.)*
 - 80% of the animals are unique to Australia. *(80% các loài động vật là duy nhất của Úc.)*
 - New Zealand was the last country in the world to be inhabited by humans. *(New Zealand là quốc gia cuối cùng trên thế giới có con người sinh sống.)*

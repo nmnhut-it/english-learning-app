@@ -95,7 +95,7 @@ Bài 2 - trắc nghiệm đọc hiểu. 4 câu hỏi về bài đọc, chọn đ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.A | 4.C
+**Bài 2 - Đáp án:** 1.A | 2.B | 3.A | 4.C
 </answer>
 
 <explanation>
@@ -137,7 +137,7 @@ Bài 3 - điền từ vào chỗ trống để hoàn thành đoạn tóm tắt v
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. third | 2. home | 3. dishes | 4. food (/ music / ways of life)
+**Bài 3 - Đáp án:** 1. third | 2. home | 3. dishes | 4. food (/ music / ways of life)
 </answer>
 
 <explanation>
@@ -203,7 +203,7 @@ Bài 4 - luyện nói nha. Đây là bài ghép câu hỏi với câu trả lờ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1→B | 2→D | 3→E | 4→A | 5→C
+**Bài 4 - Đáp án:** 1→B | 2→D | 3→E | 4→A | 5→C
 </answer>
 
 <explanation>

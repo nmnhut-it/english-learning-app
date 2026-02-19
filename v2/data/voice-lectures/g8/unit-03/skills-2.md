@@ -87,7 +87,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-A | 2-B | 3-C
+**Bài 2 - Đáp án:** 1-A | 2-B | 3-C
 </answer>
 
 <explanation>
@@ -134,7 +134,7 @@ Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
+**Bài 3 - Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
 </answer>
 
 <explanation>

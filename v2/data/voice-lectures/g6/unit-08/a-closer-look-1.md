@@ -562,7 +562,7 @@ Bài tập 1 nha. Chọn đáp án đúng để hoàn thành câu đi. 2 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.C | 4.A | 5.A | 6.B
+**Bài tập 1 - Đáp án:** 1.B | 2.A | 3.C | 4.A | 5.A | 6.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_079f42f0.mp3">
@@ -645,7 +645,7 @@ Bài tập 2 nè. Chọn từ có phát âm khác với các từ còn lại. Ch
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.B | 4.C | 5.B | 6.B
+**Bài tập 2 - Đáp án:** 1.B | 2.C | 3.B | 4.C | 5.B | 6.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_1c1b9fbb.mp3">

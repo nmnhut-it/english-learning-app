@@ -65,7 +65,7 @@ Bài 1 và 2 nghe nha. Ba bạn trẻ chia sẻ ý kiến về việc sống ở
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.C
+**Bài 1 - Đáp án:** 1.B | 2.A | 3.C
 </answer>
 
 <explanation>
@@ -118,7 +118,7 @@ Bài 3. Nghe lại và chọn đáp án đúng cho các câu hỏi chi tiết h�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.A | 3.C | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.C | 2.A | 3.C | 4.A | 5.B
 </answer>
 
 <explanation>

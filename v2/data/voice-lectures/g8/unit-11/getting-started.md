@@ -97,7 +97,7 @@ Ok đáp án nè!
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **F** — Sai
 2. **T** — Đúng
 3. **F** — Sai
@@ -152,7 +152,7 @@ Gán nhãn bài 3 đi — 1 phút nha. Nhìn tranh rồi chọn từ trong ô ch
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **computer screen** *(màn hình máy tính)*
 2. **3D contact lenses** *(kính áp tròng 3D)*
 3. **online class** *(lớp học trực tuyến)*
@@ -211,7 +211,7 @@ Bài 4 — hoàn thành câu bằng các cụm từ trong bài 3 nha. Đọc c�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **computer screen**
 2. **breakout rooms**
 3. **robot teacher**
@@ -267,7 +267,7 @@ Thảo luận theo cặp bài 5 — 1 phút nha. Đọc gợi ý kỹ rồi đo�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. **computer** *(máy tính)*
 2. **telephone** *(điện thoại)*
 3. **penicillin** *(kháng sinh Penicillin)*

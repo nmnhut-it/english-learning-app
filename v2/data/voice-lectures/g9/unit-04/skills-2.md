@@ -26,7 +26,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-a | 3-c
+**Bài tập 1 - Đáp án:** 1-b | 2-a | 3-c
 </answer>
 
 <explanation>
@@ -100,7 +100,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. ✔ | 2. ✔ | 3. ✘ | 4. ✔ | 5. ✘
+**Bài tập 2 - Đáp án:** 1. ✔ | 2. ✔ | 3. ✘ | 4. ✔ | 5. ✘
 </answer>
 
 <explanation>
@@ -152,7 +152,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. B | 2. A | 3. A | 4. C
+**Bài tập 3 - Đáp án:** 1. B | 2. A | 3. A | 4. C
 </answer>
 
 <explanation>

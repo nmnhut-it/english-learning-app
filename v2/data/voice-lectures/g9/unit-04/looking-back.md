@@ -53,7 +53,7 @@ Bài 1 — trắc nghiệm từ vựng nha. Chọn nghĩa đúng của từ in �
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. A | 2. B | 3. B | 4. D | 5. C
+**Bài 1 - Đáp án:** 1. A | 2. B | 3. B | 4. D | 5. C
 </answer>
 
 <explanation>
@@ -99,7 +99,7 @@ Bài 2 — điền từ vào chỗ trống nha. Dùng từ trong hộp. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. worshipping | 2. deep-rooted | 3. heritage | 4. generation | 5. ingredients
+**Bài 2 - Đáp án:** 1. worshipping | 2. deep-rooted | 3. heritage | 4. generation | 5. ingredients
 </answer>
 
 <explanation>
@@ -165,7 +165,7 @@ Bài 3 — điền dạng <eng>Past Continuous</eng> đúng nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **was shining**
 2. **were building**
 3. **weren't studying** / **were chatting**
@@ -239,7 +239,7 @@ Bài 4 — viết 5 câu <eng>wish</eng> dựa trên gợi ý nha. 2 phút.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. I wish I **lived** near a heritage site.
 2. She wishes she **could speak** English well.
 3. He wishes he **had** more time to visit museums.

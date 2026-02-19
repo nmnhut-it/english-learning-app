@@ -54,7 +54,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 a. hall *(hành lang)*
 b. living room *(phòng khách)*
 c. bedroom *(phòng ngủ)*
@@ -84,7 +84,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 - **a. hall:** picture *(tranh)*
 - **b. living room:** sofa *(sô-pha)*, picture *(tranh)*, lamp *(đèn)*
 - **c. bedroom:** picture *(tranh)*, lamp *(đèn)*, chest of drawers *(tủ ngăn kéo)*
@@ -205,7 +205,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 | **/s/** | **/z/** |
 |---------|---------|
 | chopsticks | bowls |

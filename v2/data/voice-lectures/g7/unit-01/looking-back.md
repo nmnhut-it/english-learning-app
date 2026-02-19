@@ -45,7 +45,7 @@ Bài 1 trang 18 — đọc mô tả và đoán tên sở thích. Có 5 câu. Nh�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. collecting coins
 2. doing judo
 3. making models
@@ -99,7 +99,7 @@ Xem đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Nam likes collecting stamps.
 2. My sister enjoys doing yoga every evening.
 3. Peter doesn't like riding a horse.
@@ -140,7 +140,7 @@ Phong __(1)__ (love) football. He __(2)__ (have) a lot of football cards. He __(
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. loves | 2. has | 3. enjoys | 4. don't like | 5. is | 6. is | 7. go | 8. begins
+**Bài 3 - Đáp án:** 1. loves | 2. has | 3. enjoys | 4. don't like | 5. is | 6. is | 7. go | 8. begins
 </answer>
 
 <explanation>
@@ -200,7 +200,7 @@ Ok đáp án nha. Xem từng câu kỹ kỹ.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 
 1. Does she enjoy collecting foreign coins? / She doesn't enjoy collecting foreign coins.
 2. Does his sister do yoga every morning? / His sister doesn't do yoga every morning.

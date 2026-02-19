@@ -58,7 +58,7 @@ Bài 2 - điền từ vào chỗ trống dựa vào bài nghe. 4 câu, nghe lạ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. end | 2. young rice | 3. fashion shows | 4. race
+**Bài 2 - Đáp án:** 1. end | 2. young rice | 3. fashion shows | 4. race
 </answer>
 
 <explanation>
@@ -100,7 +100,7 @@ Bài 3 - đúng hay sai nha. 4 câu về bài nghe. Nhớ nội dung không? Là
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F
+**Bài 3 - Đáp án:** 1.T | 2.F | 3.T | 4.F
 </answer>
 
 <explanation>

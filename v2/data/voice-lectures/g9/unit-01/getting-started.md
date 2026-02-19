@@ -85,7 +85,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. last month | 2. fewer people | 3. craft village | 4. neighbours | 5. useful advice
+**Bài tập 2 - Đáp án:** 1. last month | 2. fewer people | 3. craft village | 4. neighbours | 5. useful advice
 </answer>
 
 <explanation>
@@ -125,7 +125,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-e | 3-a | 4-c | 5-b
+**Bài tập 3 - Đáp án:** 1-d | 2-e | 3-a | 4-c | 5-b
 </answer>
 
 <explanation>
@@ -159,7 +159,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. suburb | 2. get on with | 3. facilities | 4. remind...of | 5. community
+**Bài tập 4 - Đáp án:** 1. suburb | 2. get on with | 3. facilities | 4. remind...of | 5. community
 </answer>
 
 <explanation>
@@ -193,7 +193,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. stadium | 2. clinic / hospital | 3. amusement park | 4. school | 5. museum
+**Bài tập 5 - Đáp án:** 1. stadium | 2. clinic / hospital | 3. amusement park | 4. school | 5. museum
 </answer>
 
 <explanation>

@@ -145,7 +145,7 @@ The Elephant Racing Festival is a traditional celebration of the Tây Nguyên (C
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-b | 2-c | 3-a
+**Bài 2 - Đáp án:** 1-b | 2-c | 3-a
 </answer>
 
 <explanation>

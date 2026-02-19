@@ -105,7 +105,7 @@ Xong dịch rồi, làm bài tập nha!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
+**Bài 2 - Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
 </answer>
 
 <explanation>
@@ -144,7 +144,7 @@ Xong dịch rồi, làm bài tập nha!
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-d | 4-b
+**Bài 3 - Đáp án:** 1-c | 2-a | 3-d | 4-b
 </answer>
 
 <explanation>
