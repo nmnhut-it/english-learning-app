@@ -12,6 +12,46 @@ const VOICE_LECTURES_DIR = path.join(__dirname, '../../v2/data/voice-lectures');
 const SCRIPT_REGEX = /<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi;
 
 /**
+ * Section display order per grade group.
+ * g6-g9: Getting Started → A Closer Look 1/2 → Communication → Skills → Looking Back → Project
+ * g10-g11: Vocab → Grammar → Getting Started → Language → 4 Skills → Culture → Looking Back → Project
+ */
+const SECTION_ORDER_G6_G9 = [
+  'getting-started',
+  'a-closer-look-1',
+  'a-closer-look-2',
+  'communication',
+  'skills-1',
+  'skills-2',
+  'looking-back',
+  'project',
+];
+
+const SECTION_ORDER_G10_G11 = [
+  'vocabulary',
+  'vocabulary-practice',
+  'grammar',
+  'getting-started',
+  'language',
+  'reading',
+  'speaking',
+  'listening',
+  'writing',
+  'communication-and-culture',
+  'communication-and-culture-clil',
+  'looking-back',
+  'project',
+];
+
+/** Get section sort index for a given grade and section name. */
+function getSectionOrder(grade, section) {
+  const gradeNum = parseInt(grade.replace('g', ''), 10);
+  const order = gradeNum >= 10 ? SECTION_ORDER_G10_G11 : SECTION_ORDER_G6_G9;
+  const idx = order.indexOf(section);
+  return idx === -1 ? order.length : idx;
+}
+
+/**
  * Clean text for TTS - remove inline tags but keep content.
  * This is the actual text that gets spoken.
  * @param {string} text - Raw text with possible inline tags
@@ -46,7 +86,12 @@ async function listMarkdownFiles() {
       unit: parts[1] || '',
       section: parts[2]?.replace('.md', '') || ''
     };
-  }).sort((a, b) => a.path.localeCompare(b.path));
+  }).sort((a, b) => {
+    // Sort by grade, then unit, then custom section order
+    if (a.grade !== b.grade) return a.grade.localeCompare(b.grade);
+    if (a.unit !== b.unit) return a.unit.localeCompare(b.unit);
+    return getSectionOrder(a.grade, a.section) - getSectionOrder(b.grade, b.section);
+  });
 }
 
 /**

@@ -520,7 +520,7 @@ app.get('/api/remarks/report', async (req, res) => {
     for (const [filePath, scripts] of Object.entries(remarks)) {
       report += `## ${filePath}\n\n`;
       for (const [index, data] of Object.entries(scripts)) {
-        report += `- **Script #${parseInt(index) + 1}**: ${data.remark}\n`;
+        report += `- **Block #${parseInt(index) + 1}**: ${data.remark}\n`;
       }
       report += '\n';
     }

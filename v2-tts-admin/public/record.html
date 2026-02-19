@@ -96,7 +96,10 @@
       rawMarkdown: '',
       scripts: [],
       scriptElements: [],
+      blockElements: [],
+      scriptToBlock: {},
       currentIndex: 0,
+      remarkTarget: null,
       remarks: {},
       // Recording
       isRecording: false,
@@ -272,70 +275,99 @@
         (linked === total ? ' complete' : linked > 0 ? ' partial' : '');
     }
 
-    // Custom block tags that need markdown parsing for inner content
-    const CUSTOM_BLOCK_TAGS = [
+    // Content block tags that need markdown parsing for inner content
+    const CONTENT_BLOCK_TAGS = [
       'vocabulary', 'dialogue', 'reading', 'translation', 'task',
       'questions', 'answer', 'explanation', 'grammar'
     ];
 
+    // All block tag names (teacher_script + content blocks) for single-pass regex
+    const ALL_BLOCK_TAG_NAMES = ['teacher_script', ...CONTENT_BLOCK_TAGS];
+
+    function buildScriptCardHtml(blockIndex, scriptIndex, attrs, content) {
+      const script = state.scripts[scriptIndex];
+      const status = state.scriptStatuses[scriptIndex];
+      const hasRemark = state.remarks[state.currentFile]?.[blockIndex];
+
+      const pauseMatch = attrs.match(/pause="(\d+)"/);
+      const pause = pauseMatch ? pauseMatch[1] : '0';
+
+      // Parse inner content as markdown, handle <eng> tags
+      let displayText = content.trim()
+        .replace(/<eng>(.*?)<\/eng>/gi, '%%%ENG_START%%%$1%%%ENG_END%%%');
+      displayText = marked.parse(displayText);
+      displayText = displayText
+        .replace(/%%%ENG_START%%%/g, '<span class="eng">')
+        .replace(/%%%ENG_END%%%/g, '</span>');
+
+      return `
+        <div class="script-card remarkable" data-index="${scriptIndex}" data-block-index="${blockIndex}" data-status="${status}">
+          <div class="script-card-header">
+            <span class="script-number">#${scriptIndex + 1}</span>
+            <span class="script-pause">pause: ${pause}s</span>
+            <span class="script-audio-status status-${status}">
+              ${status === 'linked' ? '✓' : status === 'found' ? '◐' : '○'}
+            </span>
+            ${hasRemark ? '<span class="script-remark-badge">📝</span>' : ''}
+          </div>
+          <div class="script-card-content">${displayText}</div>
+          ${hasRemark ? `<div class="block-remark">${escapeHtml(hasRemark.remark)}</div>` : ''}
+        </div>
+      `;
+    }
+
+    function buildContentBlockHtml(blockIndex, tagName, attrs, content) {
+      const hasRemark = state.remarks[state.currentFile]?.[blockIndex];
+      const innerHtml = marked.parse(content.trim());
+
+      return `
+        <div class="content-block content-${tagName} remarkable" data-block-index="${blockIndex}"${attrs}>
+          <div class="block-header">
+            <span class="block-type-label">${tagName}</span>
+            <button class="block-remark-btn" data-block-index="${blockIndex}" title="Add remark">
+              📝${hasRemark ? ' ✦' : ''}
+            </button>
+          </div>
+          ${innerHtml}
+          ${hasRemark ? `<div class="block-remark">${escapeHtml(hasRemark.remark)}</div>` : ''}
+        </div>
+      `;
+    }
+
     function renderMarkdown() {
-      // Configure marked to allow HTML
       marked.setOptions({ breaks: true });
 
       let html = state.rawMarkdown;
       const placeholders = [];
       let placeholderIdx = 0;
-
-      // Handle teacher_script tags - convert to interactive cards
+      let blockIndex = 0;
       let scriptIndex = 0;
-      html = html.replace(/<teacher_script([^>]*)>([\s\S]*?)<\/teacher_script>/gi, (match, attrs, content) => {
-        const script = state.scripts[scriptIndex];
-        const status = state.scriptStatuses[scriptIndex];
-        const hasRemark = state.remarks[state.currentFile]?.[scriptIndex];
-        const idx = scriptIndex;
-        scriptIndex++;
 
-        const pauseMatch = attrs.match(/pause="(\d+)"/);
-        const pause = pauseMatch ? pauseMatch[1] : '0';
+      // Reset mappings
+      state.scriptToBlock = {};
 
-        // Parse inner content as markdown, handle <eng> tags
-        let displayText = content.trim()
-          .replace(/<eng>(.*?)<\/eng>/gi, '%%%ENG_START%%%$1%%%ENG_END%%%');
-        displayText = marked.parse(displayText);
-        displayText = displayText
-          .replace(/%%%ENG_START%%%/g, '<span class="eng">')
-          .replace(/%%%ENG_END%%%/g, '</span>');
+      // Single-pass regex matching all block tags in document order
+      const tagPattern = ALL_BLOCK_TAG_NAMES.join('|');
+      const blockRegex = new RegExp(
+        `<(${tagPattern})([^>]*)>([\\s\\S]*?)<\\/\\1>`, 'gi'
+      );
 
-        const cardHtml = `
-          <div class="script-card" data-index="${idx}" data-status="${status}">
-            <div class="script-card-header">
-              <span class="script-number">#${idx + 1}</span>
-              <span class="script-pause">pause: ${pause}s</span>
-              <span class="script-audio-status status-${status}">
-                ${status === 'linked' ? '✓' : status === 'found' ? '◐' : '○'}
-              </span>
-              ${hasRemark ? '<span class="script-remark-badge">📝</span>' : ''}
-            </div>
-            <div class="script-card-content">${displayText}</div>
-            ${hasRemark ? `<div class="script-remark">${escapeHtml(hasRemark.remark)}</div>` : ''}
-          </div>
-        `;
+      html = html.replace(blockRegex, (match, tagName, attrs, content) => {
+        const tag = tagName.toLowerCase();
+        const currentBlockIndex = blockIndex++;
+        let blockHtml;
+
+        if (tag === 'teacher_script') {
+          const currentScriptIndex = scriptIndex++;
+          state.scriptToBlock[currentScriptIndex] = currentBlockIndex;
+          blockHtml = buildScriptCardHtml(currentBlockIndex, currentScriptIndex, attrs, content);
+        } else {
+          blockHtml = buildContentBlockHtml(currentBlockIndex, tag, attrs, content);
+        }
+
         const pIdx = placeholderIdx++;
-        placeholders.push({ id: pIdx, html: cardHtml });
+        placeholders.push({ id: pIdx, html: blockHtml });
         return `%%%PLACEHOLDER_${pIdx}%%%`;
-      });
-
-      // Handle custom block tags - parse inner markdown content
-      CUSTOM_BLOCK_TAGS.forEach(tag => {
-        const regex = new RegExp(`<${tag}([^>]*)>([\\s\\S]*?)</${tag}>`, 'gi');
-        html = html.replace(regex, (match, attrs, content) => {
-          // Parse inner content as markdown
-          const innerHtml = marked.parse(content.trim());
-          const blockHtml = `<div class="content-block content-${tag}"${attrs}>${innerHtml}</div>`;
-          const pIdx = placeholderIdx++;
-          placeholders.push({ id: pIdx, html: blockHtml });
-          return `%%%PLACEHOLDER_${pIdx}%%%`;
-        });
       });
 
       // Parse main markdown
@@ -350,14 +382,24 @@
       // Render
       el.markdownContent.innerHTML = html;
 
-      // Collect script elements
+      // Collect elements
+      state.blockElements = Array.from(el.markdownContent.querySelectorAll('.remarkable'));
       state.scriptElements = Array.from(el.markdownContent.querySelectorAll('.script-card'));
 
-      // Add click handlers
+      // Click handlers: script cards navigate; all remarkable blocks support remarks
       state.scriptElements.forEach((elem, idx) => {
         elem.addEventListener('click', () => {
           state.currentIndex = idx;
           highlightScript(idx);
+        });
+      });
+
+      // Remark click handlers on content block remark buttons
+      el.markdownContent.querySelectorAll('.block-remark-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const bi = parseInt(btn.dataset.blockIndex);
+          openRemarkModal(bi);
         });
       });
     }
@@ -382,8 +424,8 @@
       const current = state.currentIndex + 1;
 
       el.scriptCounter.textContent = `Script ${current}/${total}`;
-      el.prevBtn.disabled = state.currentIndex === 0;
-      el.nextBtn.disabled = state.currentIndex >= total - 1;
+      el.prevBtn.disabled = state.currentIndex === 0 && !getAdjacentFile(-1);
+      el.nextBtn.disabled = state.currentIndex >= total - 1 && !getAdjacentFile(1);
 
       // Update status
       const status = state.scriptStatuses[state.currentIndex];
@@ -396,15 +438,57 @@
       el.playBtn.disabled = status === 'none';
     }
 
+    // Returns the file path of the next (+1) or previous (-1) file in the dropdown
+    function getAdjacentFile(direction) {
+      const options = Array.from(el.fileSelect.querySelectorAll('option'))
+        .filter(opt => opt.value)
+        .map(opt => opt.value);
+      const currentIdx = options.indexOf(state.currentFile);
+      if (currentIdx < 0) return null;
+      const targetIdx = currentIdx + direction;
+      return (targetIdx >= 0 && targetIdx < options.length) ? options[targetIdx] : null;
+    }
+
+    // Loads a file and highlights a specific script index (default: first)
+    // Use Infinity to highlight the last script
+    async function loadFileAtIndex(filePath, targetIndex) {
+      el.fileSelect.value = filePath;
+      await loadFile(filePath);
+      if (targetIndex === undefined || state.scripts.length === 0) return;
+      const idx = Math.min(targetIndex, state.scripts.length - 1);
+      highlightScript(idx);
+    }
+
+    // Extracts the section name from a file path for status display
+    function getSectionLabel(filePath) {
+      const parts = filePath.split('/');
+      const section = parts[parts.length - 1]?.replace('.md', '') || filePath;
+      return section.replace(/-/g, ' ');
+    }
+
     function goToPrev() {
       if (state.currentIndex > 0) {
         highlightScript(state.currentIndex - 1);
+        return;
+      }
+      const prevFile = getAdjacentFile(-1);
+      if (prevFile) {
+        const label = getSectionLabel(prevFile);
+        showStatus(`← ${label}`, 'success');
+        loadFileAtIndex(prevFile, Infinity);
       }
     }
 
     function goToNext() {
       if (state.currentIndex < state.scripts.length - 1) {
         highlightScript(state.currentIndex + 1);
+        return;
+      }
+      const nextFile = getAdjacentFile(1);
+      if (nextFile) {
+        const label = getSectionLabel(nextFile);
+        showStatus(`→ ${label}`, 'success');
+        loadFileAtIndex(nextFile, 0);
       }
     }
 
@@ -496,10 +580,8 @@
           updateNavigation();
           showStatus('Recording saved!', 'success');
 
-          // Auto-advance to next
-          if (state.currentIndex < state.scripts.length - 1) {
-            setTimeout(() => goToNext(), 500);
-          }
+          // Auto-advance to next (goToNext handles cross-file navigation)
+          setTimeout(() => goToNext(), 500);
         } else {
           showStatus('Failed to save: ' + res.error, 'error');
         }
@@ -540,9 +622,16 @@
       }
     }
 
-    // Remarks functions
-    function openRemarkModal() {
-      const existing = state.remarks[state.currentFile]?.[state.currentIndex];
+    // Remarks functions — blockIndex is the unified index across all blocks
+    function openRemarkModal(blockIndex) {
+      // If no explicit blockIndex, derive from current script's block index
+      if (blockIndex === undefined) {
+        blockIndex = state.scriptToBlock[state.currentIndex];
+      }
+      if (blockIndex === undefined) return;
+
+      state.remarkTarget = blockIndex;
+      const existing = state.remarks[state.currentFile]?.[blockIndex];
       el.remarkText.value = existing?.remark || '';
       el.deleteRemarkBtn.style.display = existing ? 'inline-block' : 'none';
       el.remarkModal.classList.add('active');
@@ -551,11 +640,13 @@
 
     function closeRemarkModal() {
       el.remarkModal.classList.remove('active');
+      state.remarkTarget = null;
     }
 
     async function saveRemark() {
       const remark = el.remarkText.value.trim();
-      if (!remark) {
+      const blockIndex = state.remarkTarget;
+      if (!remark || blockIndex === null || blockIndex === undefined) {
         closeRemarkModal();
         return;
       }
@@ -565,7 +656,7 @@
           method: 'POST',
           body: {
             filePath: state.currentFile,
-            scriptIndex: state.currentIndex,
+            scriptIndex: blockIndex,
             remark
           }
         });
@@ -574,7 +665,7 @@
           if (!state.remarks[state.currentFile]) {
             state.remarks[state.currentFile] = {};
           }
-          state.remarks[state.currentFile][state.currentIndex] = {
+          state.remarks[state.currentFile][blockIndex] = {
             remark,
             created: new Date().toISOString()
           };
@@ -594,17 +685,20 @@
     }
 
     async function deleteRemark() {
+      const blockIndex = state.remarkTarget;
+      if (blockIndex === null || blockIndex === undefined) return;
+
       try {
         const res = await api('/remarks', {
           method: 'DELETE',
           body: {
             filePath: state.currentFile,
-            scriptIndex: state.currentIndex
+            scriptIndex: blockIndex
           }
         });
 
         if (res.success) {
-          delete state.remarks[state.currentFile]?.[state.currentIndex];
+          delete state.remarks[state.currentFile]?.[blockIndex];
 
           renderMarkdown();
           highlightScript(state.currentIndex);
