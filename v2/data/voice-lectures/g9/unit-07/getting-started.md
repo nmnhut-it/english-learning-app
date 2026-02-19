@@ -78,17 +78,17 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 </task>
 
 <dialogue>
-**Lan:** Hi, Tom. I heard that you won second prize in the Natural Wonders Contest. Congratulations!
-**Tom:** Thank you, Lan. I like exploring the wonders of nature. I'm crazy about them.
+**Lan:** Hi, Tom. I hear that you've won second prize in the Natural Wonders Contest. Congratulations!
+**Tom:** Thanks, Lan. I like exploring the wonders of nature. I'm crazy about them.
 **Lan:** What did you talk about in the contest?
 **Tom:** I talked about some natural wonders like Mount Everest, the Great Barrier Reef, and the Dead Sea.
-**Lan:** Great! I'm interested in them, too.
-**Tom:** You know, our planet has so many beautiful landscapes, from snow-covered peaks to charming rivers, lakes, and other natural places that we can't help admiring. So that's what I talked about.
-**Lan:** Oh, yes... And what else did you mention?
-**Tom:** Well, I mentioned the risks of us, humans, destroying natural wonders, and I suggested ways to preserve them and support sustainable development.
+**Lan:** Wonderful! I'm interested in them too.
+**Tom:** Well, you know our planet has so many beautiful landscapes, from snow-covered peaks to charming rivers, lakes, and other natural places that we can't help admiring. So that's what I talked about.
+**Lan:** Oh yeah... And what else did you mention?
+**Tom:** Well, I mentioned the risk of us, humans, destroying natural wonders, and I suggested ways to preserve them and support sustainable development.
 **Lan:** Sounds interesting. Do you want to visit any of these places?
 **Tom:** The host also asked me if I wanted to visit those places, and I answered that I wanted to see two of them: the Grand Canyon and Ha Long Bay.
-**Lan:** I want to visit them, too.
+**Lan:** I'd love to visit them too.
 </dialogue>
 
 <translation>

@@ -157,27 +157,86 @@ Mẫu hội thoại nè — tham khảo thôi, không cần chép y chang nha.
 Xong rồi nha. Tiếp theo đọc bài về trải nghiệm cắm trại nha.
 </teacher_script>
 
-<!-- chunk: exercise-3-vocab -->
+<!-- chunk: exercise-3 -->
 <teacher_script pause="0">
-Bài 3 — học thêm từ vựng về chuyến đi lặn biển nha. Những từ này sẽ xuất hiện trong bài nghe và bài viết. Đọc và ghi vô tập.
+Bài 3 — đọc bài viết của ba người bạn về ngày cắm trại nha. Sau đó ghép tên với trải nghiệm đúng.
 </teacher_script>
 
-<vocabulary>
-1. **ankle** : (n) mắt cá chân /ˈæŋkl/
-2. **tent** : (n) lều /tent/
-3. **hurt** : (v/adj) đau; bị thương /hɜːt/
-4. **slip** : (v) trượt ngã /slɪp/
-5. **helpless** : (adj) bất lực /ˈhelpləs/
-6. **put up the tents** : (phr) dựng lều /pʊt ʌp ðə tents/
-7. **unforgettable** : (adj) khó quên /ˌʌnfəˈɡetəbl/
-8. **hire** : (v) thuê /haɪə/
-9. **brilliant** : (adj) tuyệt vời /ˈbrɪliənt/
-10. **instructor** : (n) huấn luyện viên /ɪnˈstrʌktə/
-11. **snorkel** : (v/n) lặn ống thở /ˈsnɔːkl/
-12. **exhilarating** : (adj) phấn khích /ɪɡˈzɪləreɪtɪŋ/
-13. **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
-</vocabulary>
+<reading>
+**Mai:** It was actually a terrible day for me. I slipped and hurt my ankle, so I had to stay inside my tent. I couldn't join any team building games at all. I have never experienced such helplessness.
+
+**Tom:** I haven't had many exciting experiences like that before. We got to a beautiful site in Ninh Bình. We put up the tents and did unforgettable team building activities. We also hired bikes and cycled around the area. It was so relaxing.
+
+**Minh:** I had a brilliant experience by the sea with my class last year. We joined team building activities in the morning. In the afternoon an instructor taught some of us snorkelling. It was exhilarating. It was also wonderful to see a coral reef and many types of colourful fishes swimming around. It's the best experience I've ever had.
+</reading>
+
+<translation>
+**Mai:** Thực sự đó là một ngày khủng khiếp đối với tôi. Tôi bị trượt chân và bị thương ở mắt cá chân nên phải ở trong lều. Tôi không thể tham gia bất kỳ trò chơi xây dựng nhóm nào cả. Tôi chưa bao giờ trải qua sự bất lực như vậy.
+
+**Tom:** Trước đây tôi chưa có nhiều trải nghiệm thú vị như vậy. Chúng tôi đã đến một địa điểm đẹp ở Ninh Bình. Chúng tôi dựng lều và thực hiện những hoạt động teambuilding khó quên. Chúng tôi cũng thuê xe đạp và đạp xe quanh khu vực. Thật là thư giãn.
+
+**Minh:** Tôi đã có một trải nghiệm tuyệt vời bên bờ biển với lớp của mình vào năm ngoái. Chúng tôi tham gia các hoạt động xây dựng đội nhóm vào buổi sáng. Vào buổi chiều, một người hướng dẫn dạy vài người trong số chúng tôi lặn với ống thở. Thật là phấn khởi. Thật tuyệt vời khi được ngắm nhìn rạn san hô và nhiều loại cá đủ màu sắc bơi lội xung quanh. Đó là trải nghiệm tuyệt vời nhất tôi từng có.
+</translation>
+
+<teacher_script pause="60">
+Ghép tên Mai, Tom, Minh với các trải nghiệm a-f bên dưới nha. 1 phút.
+</teacher_script>
+
+<questions type="matching">
+| | Mai | Tom | Minh |
+|---|-----|-----|------|
+| a. exciting experiences in an area | | | |
+| b. a terrible experience at the campsite | | | |
+| c. a brilliant experience by the sea | | | |
+| d. an exhilarating experience of snorkelling | | | |
+| e. an experience of watching team building activities | | | |
+| f. a relaxing bike riding experience | | | |
+</questions>
 
 <teacher_script pause="0">
-Xong rồi nha! Bài <eng>Communication</eng> Unit 5 đã học xong. Tụi mình đã học cách xin lỗi và chấp nhận xin lỗi, đọc hội thoại thực tế, và luyện từ vựng chuyến đi. Hẹn gặp ở bài <eng>Skills 1</eng> nghen!
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Mai:** b, e
+**Tom:** a, f
+**Minh:** c, d
+</answer>
+
+<explanation>
+**Mai - b, e:**
+- **b.** a terrible experience: Mai "slipped and hurt my ankle" → trải nghiệm khủng khiếp ở khu cắm trại.
+- **e.** watching team building activities: Mai không *tham gia* được vì bị thương — chỉ *xem* thôi.
+
+**Tom - a, f:**
+- **a.** exciting experiences in an area: Tom đến Ninh Bình, dựng lều, làm teambuilding → trải nghiệm thú vị ở một khu vực.
+- **f.** a relaxing bike riding experience: "hired bikes and cycled around the area. It was so relaxing."
+
+**Minh - c, d:**
+- **c.** a brilliant experience by the sea: "I had a brilliant experience by the sea" — Minh tự nói vậy.
+- **d.** an exhilarating experience of snorkelling: "snorkelling. It was exhilarating."
+</explanation>
+
+<!-- chunk: exercise-4-5 -->
+<teacher_script pause="60">
+Bài 4 và 5 — <eng>Speaking</eng> nha. Làm việc theo cặp, hỏi và trả lời về trải nghiệm của Mai, Tom và Minh, dùng câu hỏi gợi ý bên dưới. Sau đó kể về trải nghiệm chuyến đi của bản thân. 1 phút chuẩn bị.
+</teacher_script>
+
+<questions type="speaking">
+**Câu hỏi gợi ý (Bài 4):**
+- Where did he / she go? *(Anh ấy/ Cô ấy đã đi đâu?)*
+- What did he/she do? *(Anh ấy/ Cô ấy đã làm gì?)*
+- How was his/her experience? *(Trải nghiệm của anh ấy/ cô ấy như thế nào?)*
+- Has he/she ever had that experience before? *(Anh ấy/ Cô ấy đã bao giờ có trải nghiệm như thế trước đây chưa?)*
+
+**Bài 5 — Kể về chuyến đi của bản thân:**
+
+*A: Where did you go?*
+*B: I went to ....*
+*C: What did you do?*
+*B: I climbed ...*
+</questions>
+
+<teacher_script pause="0">
+Xong bài <eng>Communication</eng> Unit 5 rồi nha! Hôm nay học cách xin lỗi và chấp nhận lời xin lỗi — nhớ mấy cụm quan trọng: *I'm really sorry*, *Oops, my mistake*, *That's okay*, *Don't worry*. Đọc bài viết của Mai, Tom, Minh về ngày cắm trại nữa. Ôn bài hen!
 </teacher_script>
