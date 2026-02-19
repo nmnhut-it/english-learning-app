@@ -62,16 +62,18 @@ Ok đáp án nè.
 
 <!-- chunk: exercise-bai2 -->
 <teacher_script pause="0">
-Bài 2 — điền từ vào chỗ trống trong đoạn văn về Mike nha. Dùng các từ: <eng>participates, connects, skills, upload, pressure, bullying</eng>. Đọc kỹ ngữ cảnh rồi chọn từ thích hợp. 3 phút.
+Bài 2 — điền từ đúng dạng vào chỗ trống trong đoạn văn về Mike nha. Chú ý chia dạng từ đúng: số nhiều, chia động từ, v.v. Dùng các từ: <eng>skill, club, participate, upload, bully, connect</eng>. 3 phút.
 </teacher_script>
 
 <task>
-**Đề:** Complete the paragraph about Mike using these words: *participates / connects / skills / upload / pressure / bullying*
-**Dịch đề:** Hoàn thành đoạn văn về Mike bằng cách dùng các từ sau: *participates / connects / skills / upload / pressure / bullying*
+**Đề:** Fill in each blank with the correct form of the word from the box.
+**Dịch đề:** Điền vào mỗi chỗ trống dạng đúng của từ trong hộp.
+
+**Từ trong hộp:** *skill / club / participate / upload / bully / connect*
 </task>
 
 <questions type="fill_blanks">
-Mike has a busy and active life. He does well at school and **___1___** in many clubs like basketball and chess. He is also a member of school community projects, where he **___2___** with other teenagers and learns new **___3___**. He has many classes, but he can still manage his studies well. Mike is also an active member of his class forum. He and his friends **___4___** photos and videos about their class activities. They also discuss homework, their problems and how to deal with **___5___** from parents, peers and schoolwork. The most common problem they discuss is how to deal with **___6___**.
+Mike has a busy and active life. He does well at school and (1) _______ in many (2) _______ like basketball and chess clubs. He is also a member of the school community projects, where he (3) _______ with other teens and learns new (4) _______. He has many classes, but he can still manage his schoolwork well. Mike is also an active member of his class forum. He and his friends (5) _______ pictures and videos about their class activities. They also discuss homework, their problems and how to deal with pressure from parents, friends, and schoolwork. The most common problem they discuss is how to deal with (6) _______.
 </questions>
 
 <teacher_script pause="180">
@@ -85,25 +87,25 @@ Xem đáp án nào.
 <answer>
 **Bài 2 - Đáp án:**
 1. participates
-2. connects
-3. skills
-4. upload
-5. pressure
-6. bullying
+2. clubs
+3. connects
+4. skills
+5. upload
+6. bullies
 </answer>
 
 <explanation>
-**1. participates** — *"participates in many clubs"* = tham gia nhiều câu lạc bộ. *Participate in* = tham gia vào (cái gì đó có tổ chức).
+**1. participates** — "participate" chủ ngữ "He" (số ít) → thêm **-s** = *participates in many clubs*.
 
-**2. connects** — *"connects with other teenagers"* = kết nối với các bạn teen khác. Trong các dự án cộng đồng, Mike gặp gỡ và làm quen với người mới.
+**2. clubs** — "many + danh từ số nhiều" → *club* → **clubs**. *(nhiều câu lạc bộ)*
 
-**3. skills** — *"learns new skills"* = học kỹ năng mới. Trong dự án cộng đồng người ta học nhiều kỹ năng thực hành (*practical skills*).
+**3. connects** — "He" (số ít) → *connects with other teens*. Kết nối với bạn bè trong dự án cộng đồng.
 
-**4. upload** — *"upload photos and videos"* = tải ảnh và video lên diễn đàn. Đây là thì hiện tại đơn (thói quen), dùng nguyên thể sau *"He and his friends"* (chủ ngữ số nhiều).
+**4. skills** — "new + danh từ số nhiều" → *skill* → **skills**. *(kỹ năng mới)*
 
-**5. pressure** — *"deal with pressure from parents, peers and schoolwork"* = đối phó với áp lực từ ba mẹ, bạn bè, việc học. Ba nguồn áp lực phổ biến của tuổi teen.
+**5. upload** — "He and his friends" (số nhiều) → động từ giữ nguyên → **upload** pictures. *(tải ảnh lên)*
 
-**6. bullying** — *"how to deal with bullying"* = cách đối phó với bắt nạt. Đây được gọi là *"the most common problem"* → bắt nạt là vấn đề phổ biến nhất các bạn thảo luận.
+**6. bullies** — Sau "deal with" cần danh từ. *Bully* (kẻ bắt nạt) → số nhiều → **bullies**. KHÔNG dùng "bullying" vì từ trong hộp là "bully" (danh từ chỉ người), không phải "bullying".
 </explanation>
 
 <!-- chunk: exercise-bai3 -->

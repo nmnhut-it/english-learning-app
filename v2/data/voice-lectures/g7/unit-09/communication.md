@@ -262,5 +262,5 @@ Mẹo nói nha:
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Ok hết bài <eng>Communication</eng>. Hôm nay em học được cách diễn đạt sự thất vọng: <eng>It was disappointing</eng>, <eng>That sounds disheartening</eng>. Cũng học về ý nghĩa biểu tượng trong các lễ hội: <eng>moon cake</eng> = sum họp, <eng>peach flower</eng> = khởi đầu mới, <eng>pumpkin</eng> = mùa thu hoạch. Bài sau học <eng>Skills 1</eng>. Bye!
+Ok hết bài <eng>Communication</eng>. Hôm nay em học cách diễn đạt sự thất vọng: <eng>It was disappointing</eng>, <eng>It was a big disappointment</eng>, <eng>That sounds disheartening</eng>. Và học biểu tượng lễ hội: <eng>moon cake</eng> = Tết Trung thu (mặt trăng, đoàn tụ), <eng>black cat</eng> = Halloween (xui xẻo), <eng>Easter Bunny</eng> = Phục sinh (sự sống mới). Bài sau học <eng>Skills 1</eng>. Ôn bài nha!
 </teacher_script>

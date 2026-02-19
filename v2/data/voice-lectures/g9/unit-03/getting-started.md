@@ -35,59 +35,70 @@ Học xong rồi nha! Nhớ "mental" — tinh thần và "physical" — thể ch
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Hội thoại hôm nay giữa Mi và cô Trang — cố vấn tâm lý của trường. Mi đến gặp cô vì dạo này căng thẳng quá. Đọc và dịch theo bảng nha.
+Hội thoại hôm nay là buổi tư vấn sức khỏe tại lớp. Cố vấn nhà trường chia sẻ lời khuyên về sức khỏe thể chất lẫn tinh thần với Nick, Mai và Phong. Nghe audio, đọc theo rồi dịch nha.
 </teacher_script>
 
+<reading>
+🎧 [Track](https://img.loigiaihay.com/picture/2024/0515/ex1-getting-u3-ta9-global.mp3)
+</reading>
+
 <dialogue>
-**Dr. Trang:** Hello Mi, come in! What's been bothering you lately?
-**Mi:** Hi Dr. Trang. I've been really stressed. I stay up late studying but still feel exhausted all the time.
-**Dr. Trang:** I see. Getting enough sleep should be your top priority. How many hours do you usually sleep?
-**Mi:** About 5 or 6 hours a night.
-**Dr. Trang:** That's not enough! Teenagers need at least 8 hours. Now, what do you usually eat?
-**Mi:** I skip breakfast and eat junk food for lunch.
-**Dr. Trang:** A well-balanced diet gives your brain the energy it needs to concentrate. You should also exercise regularly — even a 20-minute walk helps a lot!
-**Mi:** What about my screen time? I spend about 4 hours a day on my phone.
-**Dr. Trang:** I suggest reducing that to 1 hour on school nights. And if you feel stressed, talk to friends or do something you enjoy.
-**Mi:** Thank you so much, Dr. Trang! I feel better already.
+**School Counsellor:** Good morning, class. Welcome to our "Tips for Good Physical and Mental Health". In this session, feel free to ask any questions.
+**Nick:** How can we keep good physical health?
+**School Counsellor:** You should get enough sleep, eat a healthy diet, and do physical exercise regularly.
+**Mai:** My parents say students of our age need to sleep at least eight hours a day. Is that right?
+**School Counsellor:** Yes, it is.
+**Phong:** But we often find it difficult to get a good night's sleep, especially before exams. Could you offer us any advice?
+**School Counsellor:** I understand that exams bring about lots of stress. You can reduce this stress by studying long before the exam, not waiting until the night before it.
+**Phong:** Thank you. Do you have any tips about looking after our mental health?
+**School Counsellor:** If you want to have good mental health, you should have a well-balanced life. I mean you should balance your study and life.
+**Nick:** But how can we balance them?
+**School Counsellor:** Well, you have to manage your time by planning your schedule and giving priority to your work. And you should balance your study and play time.
 </dialogue>
 
 <translation>
-**Cô Trang:** Chào Mi, vào đi! Dạo này em có chuyện gì vậy?
-**Mi:** Chào cô Trang. Em căng thẳng lắm cô ơi. Em thức khuya học bài nhưng vẫn mệt mỏi suốt.
-**Cô Trang:** Cô hiểu rồi. Ngủ đủ giấc phải là ưu tiên hàng đầu của em. Em thường ngủ bao nhiêu tiếng?
-**Mi:** Khoảng 5-6 tiếng một đêm ạ.
-**Cô Trang:** Không đủ đâu em! Tuổi teen cần ít nhất 8 tiếng. Còn em thường ăn gì?
-**Mi:** Em bỏ bữa sáng và ăn đồ ăn vặt buổi trưa ạ.
-**Cô Trang:** Chế độ ăn cân bằng cung cấp năng lượng cho não của em để tập trung. Em cũng nên tập thể dục thường xuyên — đi bộ 20 phút thôi cũng giúp ích nhiều lắm!
-**Mi:** Còn thời gian dùng điện thoại của em thì sao ạ? Em dùng khoảng 4 tiếng mỗi ngày.
-**Cô Trang:** Cô gợi ý giảm xuống còn 1 tiếng vào đêm có học. Và nếu em cảm thấy căng thẳng, hãy nói chuyện với bạn bè hoặc làm việc gì em thích.
-**Mi:** Cảm ơn cô Trang nhiều lắm! Em cảm thấy tốt hơn rồi đó.
+**Cố vấn nhà trường:** Chào buổi sáng cả lớp. Chào mừng các em đến với buổi "Lời khuyên để có sức khỏe thể chất và tinh thần tốt". Trong buổi này, cứ tự nhiên đặt câu hỏi nha.
+**Nick:** Chúng em có thể duy trì sức khỏe thể chất tốt bằng cách nào ạ?
+**Cố vấn nhà trường:** Các em nên ngủ đủ giấc, ăn uống lành mạnh và tập thể dục thường xuyên.
+**Mai:** Bố mẹ em nói rằng học sinh ở độ tuổi của em cần ngủ ít nhất 8 tiếng mỗi ngày. Có đúng không ạ?
+**Cố vấn nhà trường:** Đúng vậy.
+**Phong:** Nhưng chúng em thường khó có được một giấc ngủ ngon, đặc biệt là trước kỳ thi. Thầy/cô có thể cho chúng em lời khuyên nào không ạ?
+**Cố vấn nhà trường:** Tôi hiểu rằng kỳ thi mang lại rất nhiều căng thẳng. Các em có thể giảm bớt căng thẳng này bằng cách học thật sớm trước khi thi, đừng chờ đến đêm trước ngày thi.
+**Phong:** Cảm ơn thầy/cô. Thầy/cô có lời khuyên nào về việc chăm sóc sức khỏe tinh thần của chúng em không ạ?
+**Cố vấn nhà trường:** Nếu muốn có sức khỏe tinh thần tốt, các em phải có một cuộc sống cân bằng. Ý tôi là các em nên cân bằng giữa việc học và cuộc sống.
+**Nick:** Nhưng làm thế nào chúng em có thể cân bằng chúng ạ?
+**Cố vấn nhà trường:** Các em phải quản lý thời gian bằng cách lập thời khóa biểu và ưu tiên công việc. Và nên cân bằng thời gian học và vui chơi.
 </translation>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: ngủ đủ giấc, ăn uống cân bằng, tập thể dục, giảm thời gian dùng điện thoại. Ba phút.
+Dịch hội thoại vô vở nha. Chú ý ba lời khuyên về sức khỏe thể chất: ngủ đủ giấc, ăn uống lành mạnh, tập thể dục. Và về tinh thần: có cuộc sống cân bằng, quản lý thời gian. Ba phút.
 </teacher_script>
 
 <!-- chunk: exercise-2-true-false -->
 <teacher_script pause="60">
-<eng>Exercise 2</eng> — đúng hay sai nha? Đọc câu, xem lại hội thoại rồi ghi T hoặc F. 60 giây đi.
+Bài 2 — đọc câu rồi ghi T (Đúng) hoặc F (Sai) dựa vào hội thoại vừa đọc. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the sentences and write T (True) or F (False) based on the dialogue.
-**Dịch đề:** Đọc câu và ghi T (Đúng) hoặc F (Sai) dựa vào hội thoại.
+**Đề:** Read the conversation again and tick (✔) T (True) or F (False) for each statement.
+**Dịch đề:** Đọc lại hội thoại và ghi T (Đúng) hoặc F (Sai) cho mỗi câu.
 </task>
 
 <questions type="true_false">
-**1.** Mi feels exhausted all the time. *(Mi luôn cảm thấy mệt mỏi.)*
+**1.** The counsellor is giving advice on how to maintain good physical and mental health.
+*(Cố vấn đưa ra lời khuyên về cách duy trì sức khỏe thể chất và tinh thần tốt.)*
 
-**2.** Mi sleeps 8 hours every night. *(Mi ngủ 8 tiếng mỗi đêm.)*
+**2.** According to Mai's parents, students shouldn't sleep more than eight hours a day.
+*(Theo cha mẹ Mai, học sinh không nên ngủ quá 8 tiếng mỗi ngày.)*
 
-**3.** Dr. Trang says teenagers need at least 8 hours of sleep. *(Cô Trang nói tuổi teen cần ít nhất 8 tiếng ngủ.)*
+**3.** Many students find it easy to get a good night's sleep before exams.
+*(Nhiều học sinh dễ dàng có được một giấc ngủ ngon trước kỳ thi.)*
 
-**4.** Mi eats a big breakfast every morning. *(Mi ăn sáng no mỗi sáng.)*
+**4.** Nick doesn't know how to have a well-balanced life.
+*(Nick không biết làm thế nào để có một cuộc sống cân bằng.)*
 
-**5.** Dr. Trang suggests Mi reduce her screen time on school nights. *(Cô Trang gợi ý Mi giảm thời gian dùng điện thoại vào đêm có học.)*
+**5.** The school counsellor advises the students to balance their study and play time.
+*(Cố vấn nhà trường khuyên học sinh cân bằng thời gian học tập và vui chơi.)*
 </questions>
 
 <teacher_script pause="0">
@@ -95,43 +106,49 @@ Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: n
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
+**Bài 2 - Đáp án:** 1.T | 2.F | 3.F | 4.T | 5.T
 </answer>
 
 <explanation>
-**1. T — Đúng.** Mi nói: *"I stay up late studying but still feel exhausted all the time."* Mi luôn cảm thấy mệt mỏi.
+**1. T — Đúng.** Cố vấn mở đầu: *"Welcome to our 'Tips for Good Physical and Mental Health'."* → đang chia sẻ lời khuyên về sức khỏe thể chất lẫn tinh thần.
 
-**2. F — Sai.** Mi nói: *"About 5 or 6 hours a night."* Mi chỉ ngủ 5-6 tiếng, không phải 8 tiếng.
+**2. F — Sai.** Mai nói bố mẹ em nói cần *ít nhất 8 tiếng* (*at least eight hours*) — nghĩa là phải ngủ đủ hoặc hơn 8 tiếng, KHÔNG phải "không nên quá 8 tiếng".
 
-**3. T — Đúng.** Cô Trang nói: *"Teenagers need at least 8 hours."* Tuổi teen cần ít nhất 8 tiếng — đúng.
+**3. F — Sai.** Phong nói: *"we often find it **difficult** to get a good night's sleep"* → khó ngủ ngon, KHÔNG phải dễ dàng.
 
-**4. F — Sai.** Mi nói: *"I skip breakfast"* — Mi BỎ bữa sáng, không phải ăn sáng no.
+**4. T — Đúng.** Sau khi cố vấn nói cần cuộc sống cân bằng, Nick hỏi: *"But **how** can we balance them?"* → Nick KHÔNG BIẾT cách cân bằng.
 
-**5. T — Đúng.** Cô Trang nói: *"I suggest reducing that to 1 hour on school nights."* Giảm xuống 1 tiếng vào đêm có học — đúng.
+**5. T — Đúng.** Cố vấn nói: *"you should balance your study and play time"* → khuyên cân bằng học và chơi — đúng.
 </explanation>
 
-<!-- chunk: exercise-3-matching-habits -->
+<!-- chunk: exercise-3-matching -->
 <teacher_script pause="60">
-<eng>Exercise 3</eng> — nối thói quen với lợi ích của nó nha. 30 giây thôi.
+Bài 3 — nối từ với định nghĩa đúng. Nhìn 5 từ bên trái, đọc 5 định nghĩa bên phải rồi nối nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match each healthy habit (1–5) with its benefit (a–e).
-**Dịch đề:** Nối mỗi thói quen lành mạnh (1–5) với lợi ích của nó (a–e).
+**Đề:** Match the words with their definitions.
+**Dịch đề:** Nối các từ với định nghĩa của chúng.
 </task>
 
 <questions type="matching">
-| # | Healthy Habit | | Benefit |
-|---|---|---|---|
-| 1 | Sleep 8 hours a night | a. | improve mental health |
-| 2 | Eat breakfast every day | b. | feel energized all day |
-| 3 | Exercise for 20 minutes | c. | sleep better at night |
-| 4 | Reduce screen time | d. | concentrate better in class |
-| 5 | Talk to someone you trust | e. | reduce stress and improve mood |
+**Từ:**
+1. physical
+2. mental
+3. well-balanced
+4. priority
+5. counsellor
+
+**Định nghĩa:**
+- a. a person whose job is to help and support people with problems
+- b. connected with a person's body rather than their mind
+- c. something that you think is more important than other things and should be dealt with first
+- d. connected with the state of health of the mind
+- e. having the right amounts of all the different parts that make up something
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè!
+Đáp án nè.
 </teacher_script>
 
 <answer>
@@ -139,64 +156,66 @@ Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: n
 </answer>
 
 <explanation>
-**1-b: Sleep 8 hours → feel energized** — Ngủ đủ giấc giúp cơ thể phục hồi, em sẽ thấy tràn đầy năng lượng cả ngày.
+**1-b** — *physical*: liên quan đến cơ thể (*body*), không phải tâm trí → thể chất.
 
-**2-d: Eat breakfast → concentrate better** — Bữa sáng cung cấp nhiên liệu cho não. Không ăn sáng thì khó tập trung học được.
+**2-d** — *mental*: liên quan đến trạng thái sức khỏe của tâm trí (*mind*) → tinh thần.
 
-**3-e: Exercise 20 minutes → reduce stress** — Chỉ 20 phút vận động đã giúp cơ thể tiết ra endorphin — hormone giảm stress và cải thiện tâm trạng.
+**3-e** — *well-balanced*: có đủ các thành phần theo tỉ lệ phù hợp → cân bằng, đủ chất.
 
-**4-c: Reduce screen time → sleep better** — Ánh sáng xanh từ điện thoại làm não tưởng là ban ngày, nên giảm dùng điện thoại thì ngủ ngon hơn.
+**4-c** — *priority*: thứ quan trọng hơn, cần giải quyết trước → ưu tiên.
 
-**5-a: Talk to someone → improve mental health** — Khi nói chuyện với người tin tưởng, em giải tỏa được áp lực, sức khỏe tinh thần sẽ tốt hơn.
+**5-a** — *counsellor*: người có công việc giúp đỡ, hỗ trợ người khác → cố vấn tâm lý.
 </explanation>
 
 <!-- chunk: exercise-4-fill-blanks -->
 <teacher_script pause="60">
-<eng>Exercise 4</eng> cuối rồi — điền từ vựng vào chỗ trống nha. Chọn đúng từ: *priority, well-balanced, physical, mental, counselor*. 60 giây.
+Bài 4 — điền từ đúng vào chỗ trống. Chọn trong 5 từ: *physical, counsellor, well-balanced, priority, mental*. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words: *priority, well-balanced, physical, mental, counselor*.
-**Dịch đề:** Điền từ đúng vào chỗ trống.
+**Đề:** Complete the sentences with the words in the box.
+**Dịch đề:** Hoàn thành câu với các từ trong khung.
+
+**Word box:** *physical / counsellor / well-balanced / priority / mental*
 </task>
 
 <questions type="fill_blanks">
-**1.** Sleep is a top ________ for teenagers who want to do well in school.
+**1.** You should make a list of all the jobs you have to do and give ________ to them.
+*Bạn nên lập danh sách tất cả công việc phải làm và ________ chúng.*
 
-**2.** A ________ diet includes vegetables, protein, and carbohydrates.
+**2.** Maintaining a ________ life often means making time for the things you have to do, as well as the things you want to do in a suitable way.
+*Duy trì một cuộc sống ________ thường có nghĩa là dành thời gian cho cả việc phải làm lẫn việc muốn làm theo cách phù hợp.*
 
-**3.** Swimming and cycling are great forms of ________ exercise.
+**3.** The police asked them to describe his ________ appearance.
+*Cảnh sát yêu cầu họ mô tả ngoại hình ________ của anh ta.*
 
-**4.** Talking to friends helps improve your ________ health.
+**4.** You need to maintain your physical and ________ health.
+*Em cần duy trì sức khỏe thể chất và ________ của mình.*
 
-**5.** If you feel very stressed, you should visit the school ________.
+**5.** The ________ is willing to listen to the students to help them solve their problems.
+*________ sẵn sàng lắng nghe học sinh để giúp các em giải quyết vấn đề.*
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè!
+Đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 4 - Đáp án:**
-1. priority
-2. well-balanced
-3. physical
-4. mental
-5. counselor
+**Bài 4 - Đáp án:** 1. priority | 2. well-balanced | 3. physical | 4. mental | 5. counsellor
 </answer>
 
 <explanation>
-**1. priority** — "ưu tiên". Ngủ là *ưu tiên hàng đầu* cho học sinh muốn học tốt. *Sleep is a top priority.*
+**1. priority** — "give priority to" = ưu tiên. Lập danh sách và *ưu tiên* công việc.
 
-**2. well-balanced** — "cân bằng, đủ chất". *Chế độ ăn cân bằng* gồm rau củ, protein và tinh bột. *A well-balanced diet.*
+**2. well-balanced** — cuộc sống *cân bằng* = dành thời gian phù hợp cho cả việc phải làm lẫn muốn làm.
 
-**3. physical** — "thể chất". Bơi lội và đạp xe là *vận động thể chất*. *Physical exercise.*
+**3. physical** — *ngoại hình* = *physical appearance* — cảnh sát hỏi mô tả *thể chất* (chiều cao, màu tóc...) của nghi phạm.
 
-**4. mental** — "tinh thần". Nói chuyện với bạn cải thiện *sức khỏe tinh thần*. *Mental health.*
+**4. mental** — *sức khỏe thể chất và tinh thần* = *physical and mental health*. Hai từ đi cặp nhau thường xuyên.
 
-**5. counselor** — "cố vấn tâm lý". Khi căng thẳng quá, nên gặp *cố vấn tâm lý* của trường. *School counselor.*
+**5. counsellor** — người cố vấn sẵn sàng lắng nghe học sinh → *school counsellor*.
 </explanation>
 
 <teacher_script pause="0">
-Xong bài <eng>Getting Started Unit 3</eng> rồi nha! Hôm nay học từ vựng về sức khỏe tuổi teen, đọc hội thoại giữa Mi và cô Trang, và ôn lại các thói quen lành mạnh. Nhớ: ngủ đủ, ăn đủ chất, tập thể dục, giảm điện thoại — bốn bí quyết đó thôi là khỏe liền nha. Về nhà áp dụng thử đi!
+Xong bài <eng>Getting Started Unit 3</eng> rồi nha! Hôm nay học từ vựng về sức khỏe tuổi teen, đọc hội thoại giữa cố vấn nhà trường với Nick, Mai và Phong. Nhớ ba lời khuyên về sức khỏe thể chất: ngủ đủ giấc, ăn uống lành mạnh, tập thể dục — và về tinh thần: sống cân bằng, quản lý thời gian. Ôn bài hen!
 </teacher_script>

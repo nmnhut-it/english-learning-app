@@ -8,24 +8,31 @@ Ok lớp 9, bài <eng>Looking Back — Unit 3: Healthy Living for Teens</eng> nh
 
 <!-- chunk: exercise-1-vocabulary-fill -->
 <teacher_script pause="60">
-<eng>Exercise 1</eng> — điền từ vựng đúng nghĩa vào chỗ trống nha. Đọc định nghĩa rồi tìm từ phù hợp. Chọn trong khung: *well-balanced, due date, stressed out, priority, delay*. 60 giây.
+Bài 1 — điền từ đúng vào chỗ trống. Có 5 từ cho sẵn trong khung, 5 câu cần điền. Đọc kỹ ngữ cảnh từng câu nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks using the definitions as clues. Choose from: *well-balanced, due date, stressed out, priority, delay*.
-**Dịch đề:** Điền từ phù hợp dựa vào định nghĩa. Chọn trong khung.
+**Đề:** Complete the sentences with the correct words and phrases in the box.
+**Dịch đề:** Hoàn thành câu với các từ và cụm từ đúng trong khung.
+
+**Word box:** *stressed out / priority / delay / well-balanced / due date*
 </task>
 
 <questions type="fill_blanks">
-**1.** A ________ diet has protein, carbohydrates, vitamins and minerals.
+**1.** A ________ meal or diet contains all the different things you need to keep you healthy.
+*Một bữa ăn hoặc chế độ ăn ________ chứa tất cả những thứ khác nhau bạn cần để giữ sức khỏe.*
 
-**2.** The ________ is the last day you can submit your work.
+**2.** The ________ for the project is next Friday.
+*________ của dự án là thứ Sáu tuần tới.*
 
-**3.** If you have too many things to do at once, you might feel ________.
+**3.** I've got too much to do, and I'm completely ________.
+*Tôi có quá nhiều việc phải làm và hoàn toàn ________.*
 
-**4.** If something is a ________, you do it before everything else.
+**4.** Nick gave ________ to tasks at his job because he couldn't do everything he wanted today.
+*Nick ________ các nhiệm vụ trong công việc vì hôm nay không thể làm hết mọi thứ.*
 
-**5.** When you ________ a task, you do it later than you planned.
+**5.** You may not feel better if you ________ going to the doctor.
+*Bạn có thể không cảm thấy khỏe hơn nếu ________ việc đi gặp bác sĩ.*
 </questions>
 
 <teacher_script pause="0">
@@ -33,61 +40,66 @@ Ok lớp 9, bài <eng>Looking Back — Unit 3: Healthy Living for Teens</eng> nh
 </teacher_script>
 
 <answer>
-**Bài 1 - Đáp án:**
-1. well-balanced
-2. due date
-3. stressed out
-4. priority
-5. delay
+**Bài 1 - Đáp án:** 1. well-balanced | 2. due date | 3. stressed out | 4. priority | 5. delay
 </answer>
 
 <explanation>
-**1. well-balanced** — "cân bằng, đủ chất". *A well-balanced diet* gồm protein, tinh bột, vitamin và khoáng chất.
+**1. well-balanced** — bữa ăn *cân bằng, đủ chất* = *well-balanced meal/diet*. Phải chứa đủ các dưỡng chất cần thiết.
 
-**2. due date** — "hạn chót, hạn nộp". *The due date* là ngày cuối cùng có thể nộp bài.
+**2. due date** — *hạn chót* = *due date*. Câu nói hạn nộp dự án là thứ Sáu tới.
 
-**3. stressed out** — "căng thẳng, kiệt sức". Khi có quá nhiều việc cùng lúc → *feel stressed out*. Nhớ: "stressed out" mạnh hơn "stressed" nha.
+**3. stressed out** — *hoàn toàn căng thẳng/kiệt sức* = *completely stressed out*. Có quá nhiều việc → bị stress nặng.
 
-**4. priority** — "ưu tiên". Làm việc ưu tiên trước (*priority*) → quản lý thời gian hiệu quả hơn.
+**4. priority** — *give priority to* = ưu tiên. Nick ưu tiên công việc vì không làm hết được.
 
-**5. delay** — "trì hoãn". Làm việc muộn hơn dự định → *delay a task*.
+**5. delay** — *trì hoãn* = *delay*. Trì hoãn đi khám bác sĩ → không thể khỏe hơn.
 </explanation>
 
 <!-- chunk: exercise-2-mcq-vocabulary -->
 <teacher_script pause="60">
-<eng>Exercise 2</eng> — trắc nghiệm nghĩa từ nha. Chọn đáp án đúng nhất. 60 giây.
+Bài 2 — trắc nghiệm từ vựng nha. Chọn đáp án đúng A, B, C hoặc D. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct meaning for each word.
-**Dịch đề:** Chọn nghĩa đúng nhất cho mỗi từ.
+**Đề:** Choose the correct answer A, B, C, or D.
+**Dịch đề:** Chọn câu trả lời đúng A, B, C hoặc D.
 </task>
 
 <questions type="multiple_choice">
-**1.** What does "accomplish" mean?
-- A. finish / complete successfully
-- B. delay / put off
-- C. worry / feel anxious
+**1.** To most people, ________ living means both physical and mental health are functioning well together.
+*Với nhiều người, lối sống ________ nghĩa là cả sức khỏe thể chất lẫn tinh thần đều hoạt động tốt.*
+- A. healthy
+- B. unhealthy
+- C. health
+- D. healthily
 
-**2.** What does "distraction" mean?
-- A. something that helps you focus
-- B. a type of exercise
-- C. something that stops you from concentrating
+**2.** When we ________ our task, we headed home.
+*Khi chúng tôi ________ nhiệm vụ, chúng tôi trở về nhà.*
+- A. succeeded
+- B. won
+- C. accomplished
+- D. managed
 
-**3.** What does "optimistic" mean?
-- A. believing good things will happen
-- B. feeling very tired
-- C. being very organised
+**3.** She's in poor health, but she's ________ about her future.
+*Cô ấy có sức khỏe kém nhưng cô ấy ________ về tương lai của mình.*
+- A. optimistic
+- B. negative
+- C. pleased
+- D. unhappy
 
-**4.** What does "anxious" mean?
-- A. excited and happy
-- B. feeling worried and nervous
-- C. feeling energetic and productive
+**4.** There are too many ________ in this classroom. It's hard for me to pay attention to the lesson.
+*Có quá nhiều ________ trong lớp này. Tôi khó có thể chú ý vào bài học.*
+- A. difficulties
+- B. distractions
+- C. obstacles
+- D. omissions
 
-**5.** What does "maintain" mean?
-- A. start something new
-- B. keep something at the same level
-- C. reduce something gradually
+**5.** He was in a good ________ when he got home from school.
+*Anh ấy có tâm trạng tốt khi tan học về nhà.*
+- A. mind
+- B. feeling
+- C. attitude
+- D. mood
 </questions>
 
 <teacher_script pause="0">
@@ -95,98 +107,48 @@ Ok lớp 9, bài <eng>Looking Back — Unit 3: Healthy Living for Teens</eng> nh
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.A | 2.C | 3.A | 4.B | 5.B
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.A | 4.B | 5.D
 </answer>
 
 <explanation>
-**1. A — accomplish = finish/complete successfully** — *Hoàn thành* một nhiệm vụ hay mục tiêu. *Accomplish your goals* = đạt được mục tiêu.
+**1.A — healthy** — cần tính từ (*adjective*) đứng trước danh động từ *living* → *healthy living* (lối sống lành mạnh). C. health là danh từ, D. healthily là trạng từ — không hợp.
 
-**2. C — distraction = something that stops you from concentrating** — *Sự xao lãng* — thứ làm mất tập trung. Ví dụ: điện thoại, tiếng ồn.
+**2.C — accomplished** — *accomplish a task* = hoàn thành nhiệm vụ. A. succeeded (thành công trong gì), B. won (chiến thắng), D. managed (quản lý) — không hợp nghĩa với *task* theo cấu trúc này.
 
-**3. A — optimistic = believing good things will happen** — *Lạc quan* — tin tưởng vào điều tốt đẹp. Trái nghĩa là *pessimistic* — bi quan.
+**3.A — optimistic** — lạc quan về tương lai dù sức khỏe kém. B. negative (tiêu cực), C. pleased (hài lòng), D. unhappy (buồn) — không hợp.
 
-**4. B — anxious = feeling worried and nervous** — *Lo lắng, lo âu*. Khác với *excited* (hồi hộp vui) hay *energetic* (tràn đầy năng lượng).
+**4.B — distractions** — thứ làm xao nhãng, mất tập trung (*distraction*). A. difficulties (khó khăn), C. obstacles (trở ngại), D. omissions (thiếu sót) — không hợp ngữ cảnh lớp học.
 
-**5. B — maintain = keep something at the same level** — *Duy trì* — giữ ở mức độ nhất định. *Maintain a healthy lifestyle* = duy trì lối sống lành mạnh.
+**5.D — mood** — cấu trúc cố định: *in a good mood* = có tâm trạng tốt. A. mind (tâm trí), B. feeling (cảm giác), C. attitude (thái độ) — không tạo thành cụm cố định.
 </explanation>
 
-<!-- chunk: exercise-3-first-conditional-modal -->
+<!-- chunk: exercise-3-modal-fill -->
 <teacher_script pause="60">
-<eng>Exercise 3</eng> — chọn đúng <eng>modal verb</eng> cho câu điều kiện loại 1 nha. 60 giây.
+Bài 3 — điền <eng>modal verb</eng> đúng vào chỗ trống nha. Chọn trong khung: *can, must, should, might*. Một từ có thể dùng nhiều lần. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the correct modal verb (must / might / can / should / can) to complete each First Conditional sentence.
-**Dịch đề:** Chọn modal verb đúng để hoàn thành câu điều kiện loại 1.
-</task>
+**Đề:** Complete the sentences with the correct modal verbs in the box. A modal verb can be used twice.
+**Dịch đề:** Hoàn thành câu với động từ khiếm khuyết đúng trong khung. Một động từ khuyết thiếu có thể dùng hai lần.
 
-<questions type="multiple_choice">
-**1.** If there is a fire in the building, you ________ call 114 immediately.
-- A. must
-- B. might
-- C. should
-
-**2.** If you don't eat breakfast before school, you ________ feel dizzy in class.
-- A. can
-- B. must
-- C. might
-
-**3.** If you plan your day well each morning, you ________ achieve more each day.
-- A. must
-- B. might
-- C. can
-
-**4.** If you feel stressed or overwhelmed, you ________ talk to your school counselor.
-- A. might
-- B. should
-- C. must
-
-**5.** If you exercise regularly every week, you ________ stay healthy and energetic.
-- A. can
-- B. must
-- C. might
-</questions>
-
-<teacher_script pause="0">
-Đáp án và giải thích luôn nha!
-</teacher_script>
-
-<answer>
-**Bài 3 - Đáp án:** 1.A | 2.C | 3.C | 4.B | 5.A
-</answer>
-
-<explanation>
-**1. A — must** — Tình huống hỏa hoạn là trường hợp *bắt buộc* phải gọi cứu hỏa — dùng **must** (bắt buộc, không có lựa chọn khác). *If there is a fire, you must call 114.*
-
-**2. C — might** — Không ăn sáng *có thể* bị chóng mặt — dùng **might** vì không phải chắc chắn 100%. Mỗi người phản ứng khác nhau. *You might feel dizzy.*
-
-**3. C — can** — Lên kế hoạch tốt → *có thể* đạt được nhiều hơn — dùng **can** (khả năng, cơ hội). *You can achieve more.*
-
-**4. B — should** — Cảm thấy căng thẳng → *nên* nói chuyện với cố vấn tâm lý — dùng **should** (lời khuyên). Không bắt buộc như *must*.
-
-**5. A — can** — Tập thể dục đều đặn → *có thể* duy trì sức khỏe — dùng **can** (khả năng). *You can stay healthy.*
-</explanation>
-
-<!-- chunk: exercise-4-first-conditional-fill -->
-<teacher_script pause="60">
-<eng>Exercise 4</eng> — điền <eng>modal verb</eng> vào chỗ trống nha. Nhớ chọn đúng theo nghĩa câu. Chọn: *shouldn't, might, can, must, can*. 60 giây.
-</teacher_script>
-
-<task>
-**Đề:** Fill in the blanks with the correct modal verb: *shouldn't, might, can, must, can*.
-**Dịch đề:** Điền modal verb đúng vào chỗ trống.
+**Word box:** *can / must / should / might*
 </task>
 
 <questions type="fill_blanks">
-**1.** If you want to sleep well at night, you ________ use your phone after 9pm.
+**1.** If you don't want to get in an accident, you ________ follow these safety instructions.
+*Nếu không muốn gặp tai nạn, bạn ________ tuân theo các hướng dẫn an toàn.*
 
-**2.** If she skips meals regularly, she ________ become weak and lose concentration.
+**2.** If you take these pills, you ________ feel better soon.
+*Nếu bạn uống những viên thuốc này, bạn ________ sớm cảm thấy khỏe hơn.*
 
-**3.** If they manage their time well, they ________ also enjoy their hobbies after school.
+**3.** You ________ come and join us if you like.
+*Bạn ________ đến tham gia cùng chúng tôi nếu muốn.*
 
-**4.** If the situation is urgent and dangerous, you ________ act immediately without delay.
+**4.** If you feel unwell, you ________ consult a doctor.
+*Nếu cảm thấy không khỏe, bạn ________ hỏi ý kiến bác sĩ.*
 
-**5.** If you stay optimistic and keep trying, you ________ overcome any difficulty.
+**5.** If she tries hard, she ________ speak English better than you.
+*Nếu cô ấy cố gắng, cô ấy ________ nói tiếng Anh tốt hơn bạn.*
 </questions>
 
 <teacher_script pause="0">
@@ -194,26 +156,63 @@ Ok lớp 9, bài <eng>Looking Back — Unit 3: Healthy Living for Teens</eng> nh
 </teacher_script>
 
 <answer>
-**Bài 4 - Đáp án:**
-1. shouldn't
-2. might
-3. can
-4. must
-5. can
+**Bài 3 - Đáp án:** 1. must | 2. might | 3. can | 4. should | 5. can
 </answer>
 
 <explanation>
-**1. shouldn't** — "Muốn ngủ ngon thì *không nên* dùng điện thoại sau 9 giờ." **Shouldn't** = cảnh báo không nên làm. Đây là lời khuyên tiêu cực.
+**1. must** — không muốn tai nạn → *bắt buộc* phải tuân theo quy tắc an toàn. **Must** = bắt buộc, không có lựa chọn khác.
 
-**2. might** — "Bỏ bữa thường xuyên *có thể* trở nên yếu và mất tập trung." **Might** = có thể xảy ra nhưng không chắc 100%.
+**2. might** — uống thuốc *có thể* cảm thấy tốt hơn. **Might** = khả năng không chắc chắn (thuốc không đảm bảo 100% hiệu quả).
 
-**3. can** — "Quản lý thời gian tốt → *có thể* vừa học vừa có thời gian cho sở thích." **Can** = khả năng, cơ hội mở ra.
+**3. can** — được *phép* đến tham gia nếu muốn. **Can** = sự cho phép (*permission*).
 
-**4. must** — "Tình huống khẩn cấp nguy hiểm → *bắt buộc* phải hành động ngay." **Must** = bắt buộc, không trì hoãn được.
+**4. should** — cảm thấy không khỏe → *nên* gặp bác sĩ. **Should** = lời khuyên (không bắt buộc như *must*).
 
-**5. can** — "Lạc quan và cố gắng → *có thể* vượt qua mọi khó khăn." **Can** = khả năng tích cực khi có đủ điều kiện.
+**5. can** — cố gắng học → *có thể* nói tiếng Anh tốt hơn. **Can** = khả năng (*ability/possibility*).
+</explanation>
+
+<!-- chunk: exercise-4-modal-circle -->
+<teacher_script pause="60">
+Bài 4 — khoanh tròn <eng>modal verb</eng> phù hợp nhất để hoàn thành câu nha. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Circle the most suitable modal verbs to complete the sentences.
+**Dịch đề:** Khoanh tròn các động từ khiếm khuyết phù hợp nhất để hoàn thành câu.
+</task>
+
+<questions type="multiple_choice">
+**1.** He *(shouldn't / may not / cannot)* stay up late tonight if he wants to feel awake and alert tomorrow morning.
+
+**2.** Nick *(should / can't / might)* be very excited if we invite him to our home.
+
+**3.** Mai *(can / must / should)* be good at time management if she takes a training course at school.
+
+**4.** If you want to save on your electricity bills, you *(must / can / might)* turn off all the electric equipment before going out.
+
+**5.** If you help me tidy our flat this morning, you *(must / can / can't)* go out this afternoon.
+</questions>
+
+<teacher_script pause="0">
+Đáp án và giải thích nha!
+</teacher_script>
+
+<answer>
+**Bài 4 - Đáp án:** 1. shouldn't | 2. might | 3. can | 4. must | 5. can
+</answer>
+
+<explanation>
+**1. shouldn't** — muốn tỉnh táo sáng mai → *không nên* thức khuya. **Shouldn't** = lời khuyên tiêu cực (đừng làm vậy).
+
+**2. might** — nếu mời Nick → Nick *có thể* rất hào hứng. **Might** = đoán khả năng (không chắc chắn).
+
+**3. can** — tham gia khóa đào tạo → *có thể* giỏi quản lý thời gian. **Can** = khả năng đạt được (*ability*).
+
+**4. must** — muốn tiết kiệm điện → *phải* tắt thiết bị. **Must** = bắt buộc (biện pháp cần thiết).
+
+**5. can** — nếu giúp dọn dẹp sáng → *có thể* đi chơi chiều. **Can** = được phép (*permission given as reward*).
 </explanation>
 
 <teacher_script pause="0">
-Xong <eng>Looking Back Unit 3</eng> rồi nha! Ôn lại: từ vựng về sức khỏe và học tập, và câu điều kiện loại 1 với các <eng>modal verb</eng> khác nhau. Nhớ bảng modal: must=bắt buộc, can=có thể, might=không chắc, should=nên, shouldn't=không nên. Chuẩn bị tốt cho kiểm tra nha. Giỏi lắm cả lớp, chúc học vui!
+Xong <eng>Looking Back Unit 3</eng> rồi nha! Ôn lại: từ vựng sức khỏe (*well-balanced, stressed out, priority, delay, due date*) và <eng>modal verbs</eng> trong câu điều kiện (*must=bắt buộc, can=có thể/được phép, might=không chắc, should=nên, shouldn't=không nên*). Ôn bài kỹ nha!
 </teacher_script>

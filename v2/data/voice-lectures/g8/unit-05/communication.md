@@ -1,119 +1,145 @@
 # UNIT 5: OUR CUSTOMS AND TRADITIONS
-## COMMUNICATION - Comparing Customs: Mua Lan vs Shishi-mai
+## COMMUNICATION - Giving Advice & Comparing Customs
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok bài <eng>Communication</eng> nha lớp 8. Hôm nay mình học cách so sánh các phong tục của hai nước khác nhau - so sánh múa lân của Việt Nam với múa lân của Nhật Bản. Mở sách trang 52 đi. Học từ vựng trước nha.
+Ok lớp 8, bài <eng>Communication</eng> Unit 5 nha. Hôm nay học cách **đưa ra lời khuyên** và đọc về múa lân Nhật Bản. Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **lion dance** : (n) múa lân, múa sư tử /ˈlaɪən dæns/
-2. **unicorn dance** : (n) múa lân (lân là con vật thần thoại, giống kỳ lân) /ˈjuːnɪkɔːrn dæns/
-3. **shishi-mai** : (n) múa lân kiểu Nhật Bản (獅子舞) /ʃiːʃiː maɪ/
-4. **celebration** : (n) lễ kỷ niệm, buổi ăn mừng /ˌsɛlɪˈbreɪʃən/
-5. **acrobatics** : (n) nhào lộn, ảo thuật thể chất /ˌækrəˈbætɪks/
-6. **flute** : (n) sáo (nhạc cụ thổi) /fluːt/
-7. **drum** : (n) trống /drʌm/
-8. **bad spirit** : (n) tà ma, linh hồn xấu /bæd ˈspɪrɪt/
-9. **occasion** : (n) dịp, lễ dịp /əˈkeɪʒən/
-10. **wedding** : (n) đám cưới /ˈwɛdɪŋ/
+1. **table manners** : (n) phép lịch sự ở bàn ăn /ˈteɪbl ˈmænəz/
+2. **host** : (n) chủ nhà /həʊst/
+3. **chopsticks** : (n) đũa /ˈtʃɒpstɪks/
+4. **bowl** : (n) bát, chén /bəʊl/
+5. **bad luck** : (n) vận xui, điềm xấu /bæd lʌk/
+6. **shishi-mai** : (n) múa lân Nhật Bản /ʃiːʃiː maɪ/
+7. **acrobatics** : (n) nhào lộn /ˌækrəˈbætɪks/
+8. **flute** : (n) sáo /fluːt/
+9. **occasion** : (n) dịp, sự kiện /əˈkeɪʒən/
+10. **bad spirit** : (n) tà ma /bæd ˈspɪrɪt/
 </vocabulary>
 
-<teacher_script pause="0">
-Xong từ vựng rồi. Bây giờ mình học cấu trúc so sánh trước khi đọc bài đọc và làm bài tập nha.
-</teacher_script>
-
-<!-- chunk: grammar-comparing -->
-<teacher_script pause="0">
-Bài <eng>Communication</eng> này tập trung vào cách so sánh hai phong tục với nhau. Mình dùng hai cấu trúc chính: <eng>while</eng> để đối lập và <eng>both</eng> để chỉ điểm giống nhau.
-</teacher_script>
-
-<grammar>
-## So sánh phong tục: WHILE và BOTH
-
-### 1. WHILE - Diễn tả sự khác biệt (đối lập)
-**Cấu trúc:** A + [động từ] + ..., **while** + B + [động từ] + ...
-
-Dùng **while** khi hai chủ thể làm hai điều **khác nhau** hoặc **trái ngược** nhau.
-
-**Ví dụ:**
-- Mua lan is performed during Mid-Autumn festivals, **while** shishi-mai is not.
-  *(Múa lân biểu diễn vào Tết Trung Thu, trong khi shishi-mai thì không.)*
-- Mua lan uses drums only, **while** shishi-mai uses both flutes and drums.
-  *(Múa lân chỉ dùng trống, trong khi shishi-mai dùng cả sáo lẫn trống.)*
-
-### 2. BOTH - Diễn tả điểm giống nhau
-**Cấu trúc:** **Both** A and B + [động từ] + ...
-
-Dùng **both** khi hai chủ thể **cùng làm** một việc hoặc **cùng có** một đặc điểm.
-
-**Ví dụ:**
-- **Both** mua lan **and** shishi-mai are performed during New Year celebrations.
-  *(Cả múa lân lẫn shishi-mai đều được biểu diễn trong dịp Năm Mới.)*
-- **Both** dances are meant to chase away bad spirits.
-  *(Cả hai điệu múa đều có mục đích xua đuổi tà ma.)*
-
-### Bảng so sánh nhanh
-
-| | Mua Lan (Vietnam) | Shishi-mai (Japan) |
-|-|-------------------|--------------------|
-| Dịp biểu diễn | Tết, Trung Thu, đám cưới | Tết Nhật (Oshogatsu) |
-| Nhạc cụ | Trống | Sáo + Trống |
-| Kỹ năng | Múa, nhảy | Nhào lộn, võ |
-| Mục đích | Xua tà, cầu may | Xua tà, cầu may |
-| Số người | 1+ người | 1+ người |
-</grammar>
+<!-- chunk: bai1-dialogue -->
+### Bài 1 trang 52 - Listen and read
 
 <teacher_script pause="0">
-Nhớ chưa nha? **While** = khác nhau, **Both... and...** = giống nhau. Giờ nghe audio và đọc bài đọc so sánh hai loại múa lân nha.
+Bài 1. Nghe và đọc đoạn hội thoại. Chú ý cách đưa ra lời khuyên được in đậm nha.
 </teacher_script>
 
-<!-- chunk: reading -->
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-29.mp3">
+**Audio:** Communication - Giving advice
+</audio>
+
+<task>
+**Đề:** Listen and read the conversation below. Pay attention to the highlighted parts.
+**Dịch đề:** Nghe và đọc đoạn hội thoại dưới đây. Chú ý đến những phần được làm nổi bật.
+</task>
+
+<dialogue>
+**Tom:** My parents are taking me to their friend's house for dinner. **Could you tell me a bit about Vietnamese table manners?**
+**Mai:** Well, **perhaps you should** wait for the host to start eating.
+**Tom:** I will.
+**Mai:** **It's a good idea to** hand bowls with both hands.
+**Tom:** Sure. I'll remember that one.
+**Mai:** And **don't** hit the bowl with your chopsticks. This may bring bad luck to the host family.
+</dialogue>
+
+<translation>
+**Tom:** Bố mẹ mình đang đưa mình đến nhà bạn họ để ăn tối. Cậu có thể nói cho mình biết một chút về quy tắc bàn ăn của người Việt không?
+**Mai:** À thì có lẽ cậu nên đợi gia chủ rồi mới bắt đầu ăn.
+**Tom:** Mình sẽ chú ý.
+**Mai:** Sẽ tốt nếu cậu có thể đưa bát bằng hai tay.
+**Tom:** Chắc chắn rồi. Mình sẽ nhớ điều đó.
+**Mai:** Và đừng có gõ đũa lên bát. Cái đó có thể mang lại điềm xấu cho gia chủ.
+</translation>
+
 <teacher_script pause="0">
-Nghe audio bài 3 rồi đọc đoạn văn trong sách trang 52 nha. Bài này kể về múa lân Việt Nam và múa lân Nhật Bản.
+Ba cách đưa lời khuyên:
+- <eng>Perhaps you should + V...</eng> = Có lẽ bạn nên...
+- <eng>It's a good idea to + V...</eng> = Sẽ là ý hay nếu...
+- <eng>Don't + V...</eng> = Đừng...
 </teacher_script>
 
-🔊 [Track 29](https://img.loigiaihay.com/picture/2023/0803/track-29.mp3)
+<!-- chunk: bai2-speaking -->
+### Bài 2 trang 52 - Practice Giving Advice
 
-<reading>
-**Mua Lan and Shishi-mai**
-
-In Vietnam, the lion dance is called **mua lan**. It is usually performed during Tet, the Mid-Autumn Festival, and at weddings or other special occasions. One or more performers dance inside a colorful lion costume while others beat drums loudly. The loud drumming is believed to chase away bad spirits and bring good luck.
-
-In Japan, a similar dance is called **shishi-mai** (獅子舞). It is mainly performed during New Year celebrations. Like mua lan, shishi-mai performers wear a lion head and dance to chase away bad spirits. However, shishi-mai performers also show off their **acrobatics** skills, doing flips and jumps. They also play **flutes** and **drums** during the performance, creating a lively atmosphere.
-
-Both mua lan and shishi-mai share the same purpose: to chase away bad spirits and bring good luck to the community. Both dances can be performed by one or more people. While mua lan is performed on many different occasions including Mid-Autumn festivals, shishi-mai is mainly a New Year tradition in Japan.
-</reading>
-
-<teacher_script pause="120">
-Đọc và hiểu đoạn văn đi. 2 phút nha rồi làm bài tập.
-</teacher_script>
-
-<!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 trang 52 - điền từ vào chỗ trống dựa vào bài đọc nha. 5 câu, làm trong 1 phút đi.
+Bài 2. Làm việc theo cặp. Tạo hội thoại tương tự với 2 tình huống bên dưới. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Fill in each blank based on the reading passage about mua lan and shishi-mai.
-**Dịch đề:** Điền từ vào chỗ trống dựa vào đoạn văn đọc về múa lân và shishi-mai.
+**Đề:** Work in pairs. Make similar conversations with the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các đoạn hội thoại tương tự với các tình huống sau.
+
+1. Student A is travelling to Sa Pa in winter. He / She doesn't know what to wear. Student B gives advice.
+*(Học sinh A đi du lịch Sa Pa vào mùa đông. Người đó không biết mặc gì. Học sinh B cho lời khuyên.)*
+
+2. Student A is going to a birthday party. He / She doesn't know what kind of gift to bring. Student B gives advice.
+*(Học sinh A chuẩn bị đi dự sinh nhật. Người đó không biết mua quà gì. Học sinh B cho lời khuyên.)*
 </task>
 
+<teacher_script pause="0">
+Đáp án mẫu nè.
+</teacher_script>
+
+<answer>
+**Mẫu 1 - Sa Pa trip:**
+**A:** My family are going to travel to Sapa in this winter. But I don't know what to wear. Can you give me some advice?
+*(Gia đình mình sắp đi Sa Pa vào mùa đông này. Nhưng mình không biết mặc gì. Cậu có thể cho mình gợi ý không?)*
+**B:** Sure. The temperature in Sapa is very cold. Perhaps you should bring winter clothing.
+*(Chắc chắn rồi. Nhiệt độ ở Sa Pa rất lạnh. Có lẽ cậu nên mang theo quần áo mùa đông.)*
+**A:** Can you suggest a list?
+*(Cậu có thể gợi ý cho mình danh sách không?)*
+**B:** It's a good idea to bring beanies, sweaters, gloves, scarf, and a jacket. And don't forget a raincoat or umbrella.
+*(Sẽ là ý hay nếu mang nón len, áo khoác, găng tay, khăn quàng cổ. Và đừng quên áo mưa hay ô nha.)*
+
+**Mẫu 2 - Birthday party:**
+**A:** Tomorrow is C's birthday. I don't know what kind of gift to bring. Any ideas?
+*(Mai là sinh nhật C rồi. Mình không biết nên mua quà gì. Cậu có ý tưởng gì không?)*
+**B:** Perhaps you should give him something related to his hobbies. It's a good idea to ask his friends what he likes.
+*(Có lẽ cậu nên tặng thứ gì đó liên quan đến sở thích của cậu ấy. Sẽ là ý hay nếu hỏi bạn bè cậu ấy thích gì.)*
+</answer>
+
+<!-- chunk: bai3-reading -->
+### Bài 3 trang 52 - The Japanese Lion Dance
+
+<teacher_script pause="0">
+Bài 3. Đọc bài về múa lân Nhật Bản rồi hoàn thành bảng với thông tin từ bài đọc nha.
+</teacher_script>
+
+<task>
+**Đề:** Read the text about the lion dance in Japan and complete the table with the information from the text.
+**Dịch đề:** Đọc văn bản về múa lân ở Nhật Bản và hoàn thành bảng với thông tin từ văn bản.
+</task>
+
+<reading>
+The lion dance is called **shishi-mai** in Japanese. People perform it during New Year celebrations. Shishi-mai groups also perform at other important occasions such as business openings and weddings. Most forms of shishi-mai have one or more people performing the dance. The performers are excellent at **acrobatics**. One person controls the lion's head and the other moves the lion's body. The lion dances to the sounds of **flutes** and **drums**. The drummers and flute players often follow the lion around, but they do not dance with it.
+
+The Japanese perform shishi-mai to chase away **bad spirits** and to bring good luck.
+</reading>
+
+<translation>
+Múa sư tử ở Nhật được gọi là shishi-mai. Người ta biểu diễn nó vào những ngày mừng Năm Mới. Những nhóm múa sư tử cũng biểu diễn ở các sự kiện quan trọng như khai trương hay đám cưới. Hình dạng phổ biến nhất của múa sư tử có một hoặc nhiều người cùng biểu diễn. Những người biểu diễn rất xuất sắc ở những động tác nhào lộn. Một người điều khiển đầu của con sư tử còn những người khác di chuyển phần thân. Con sư tử nhảy theo tiếng sáo và tiếng trống. Người chơi trống và chơi sáo thường đi theo con sư tử nhưng họ không nhảy chung với nó.
+
+Những người biểu diễn múa sư tử ở Nhật thường xua đuổi tà ma và đem lại may mắn.
+</translation>
+
+<teacher_script pause="60">
+Đọc xong rồi điền vào bảng nha. 1 phút.
+</teacher_script>
+
 <questions type="fill_blanks">
-**1.** The Japanese lion dance is called _______.
-*Múa lân của Nhật Bản được gọi là _______.*
+**Japanese lion dance**
 
-**2.** Both mua lan and shishi-mai are performed during _______ celebrations.
-*Cả mua lan và shishi-mai đều được biểu diễn trong dịp _______ đến.*
-
-**3.** The shishi-mai performers also show off their _______ skills.
-*Người biểu diễn shishi-mai còn thể hiện kỹ năng _______ của mình.*
-
-**4.** Shishi-mai performers play _______ and drums during the dance.
-*Người biểu diễn shishi-mai chơi _______ và trống trong khi múa.*
-
-**5.** Both dances are meant to chase away _______ and bring good luck.
-*Cả hai điệu múa đều nhằm xua đuổi _______ và mang lại may mắn.*
+| | |
+|---|---|
+| Japanese name | (1) _______ |
+| Occasions | (2) _______ / other important occasions |
+| Number of performers | one or more |
+| Skills | (3) _______ |
+| Dance partner | no dance partner |
+| Musical instruments | (4) _______ and drums |
+| Purposes | to chase away (5) _______ / to bring good luck |
 </questions>
 
 <teacher_script pause="0">
@@ -121,101 +147,78 @@ Bài 3 trang 52 - điền từ vào chỗ trống dựa vào bài đọc nha. 5 
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. shishi-mai | 2. New Year | 3. acrobatics | 4. flutes | 5. bad spirits
+**Bài 3 - Đáp án:**
+(1) shishi-mai
+(2) New Year celebration
+(3) controls the lion's head and moves the lion's body
+(4) flutes
+(5) bad spirit(s)
 </answer>
 
 <explanation>
-**1. shishi-mai:** Bài đọc câu 2 đoạn 2: "In Japan, a similar dance is called shishi-mai." - múa lân Nhật Bản gọi là shishi-mai.
+**(1) shishi-mai** — "The lion dance is called **shishi-mai** in Japanese."
 
-**2. New Year:** Cả hai loại múa đều biểu diễn trong dịp Năm Mới. Mua lan biểu diễn vào Tết (Vietnamese New Year), shishi-mai vào Tết Nhật (New Year celebrations).
+**(2) New Year celebration** — "People perform it during **New Year celebrations**."
 
-**3. acrobatics:** Bài đọc: "shishi-mai performers also show off their acrobatics skills, doing flips and jumps" - nhào lộn, lật nhào và nhảy.
+**(3) controls the lion's head and moves the lion's body** — "One person **controls the lion's head** and the other **moves the lion's body**." — kỹ năng điều khiển sư tử.
 
-**4. flutes:** Bài đọc: "They also play flutes and drums during the performance" - người biểu diễn shishi-mai chơi cả sáo lẫn trống. Khác mua lan chỉ dùng trống.
+**(4) flutes** — "The lion dances to the sounds of **flutes** and drums." — nhạc cụ là sáo và trống.
 
-**5. bad spirits:** Bài đọc: "Both mua lan and shishi-mai share the same purpose: to chase away bad spirits and bring good luck" - mục đích chung là xua tà ma và cầu may mắn.
+**(5) bad spirit(s)** — "The Japanese perform shishi-mai to chase away **bad spirits**." — mục đích xua tà ma.
 </explanation>
 
-<!-- chunk: exercise-4 -->
-<teacher_script pause="0">
-Bài 4 - viết câu so sánh dùng <eng>while</eng> và <eng>both... and...</eng> nha. Nhìn bảng so sánh rồi viết câu, ít nhất 4 câu.
+<!-- chunk: bai4-speaking -->
+### Bài 4 trang 52 - Compare the Two Dances
+
+<teacher_script pause="120">
+Bài 4. Làm việc nhóm. Đọc ghi chú của Mai về múa lân Việt Nam rồi so sánh với múa lân Nhật Bản. 2 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Use the information from the reading and the table to write sentences comparing mua lan and shishi-mai. Use **while** (for differences) and **both... and...** (for similarities).
-**Dịch đề:** Dùng thông tin từ bài đọc và bảng so sánh để viết câu so sánh mua lan và shishi-mai. Dùng **while** (cho điểm khác biệt) và **both... and...** (cho điểm giống nhau).
+**Đề:** Work in groups. Read Mai's notes on the Vietnamese unicorn dance. Compare the Vietnamese unicorn dance with the Japanese lion dance.
+**Dịch đề:** Làm việc nhóm. Đọc ghi chú của Mai về múa lân Việt Nam. So sánh múa lân Việt Nam với múa lân Nhật Bản.
+
+**Example:** The Vietnamese unicorn dance and the Japanese lion dance are both popular on New Year Festivals.
+*(Múa lân của Việt Nam và múa sư tử của Nhật Bản đều phổ biến trong các dịp Tết.)*
 </task>
 
-<questions type="writing">
-Viết ít nhất 4 câu: 2 câu dùng **while**, 2 câu dùng **both... and...**
+<reading>
+**Mai's notes — Vietnamese unicorn dance (Múa lân Việt Nam)**
 
-**Gợi ý (Differences - dùng while):**
-- Mua lan: nhiều dịp (Tết, Trung Thu, đám cưới) ↔ Shishi-mai: chủ yếu Năm Mới
-- Mua lan: chỉ dùng trống ↔ Shishi-mai: sáo + trống
-- Mua lan: múa + nhảy ↔ Shishi-mai: thêm nhào lộn
-
-**Gợi ý (Similarities - dùng both):**
-- Cả hai đều biểu diễn vào Năm Mới
-- Cả hai đều xua tà ma và cầu may
-- Cả hai đều có thể biểu diễn bởi 1 hoặc nhiều người
-</questions>
+| | |
+|---|---|
+| Vietnamese name | Mua lan *(Múa lân)* |
+| Occasions | Mid-Autumn and New Year Festivals / Business openings and weddings |
+| Number of performers | One or more |
+| Skills | Martial arts and acrobatics |
+| Dance partner | Ong Dia *(Ông Địa)* |
+| Musical instrument | drum |
+| Purpose | To wish for luck and success |
+</reading>
 
 <teacher_script pause="0">
-Đây là câu mẫu nha lớp 8.
+Đáp án mẫu nè — điểm giống và khác nhau nha.
 </teacher_script>
 
 <answer>
-**Câu mẫu:**
+**Điểm giống nhau (Similarities):**
+- Both the unicorn dance in Vietnam and the shishi-mai in Japan are performed during New Year celebrations and other important occasions like business openings and weddings.
+*(Cả múa lân Việt Nam và shishi-mai Nhật Bản đều biểu diễn vào Năm Mới và các dịp quan trọng như khai trương, đám cưới.)*
+- Both dances can have one or more performers.
+*(Cả hai loại múa đều có thể có một hoặc nhiều người biểu diễn.)*
+- Both aim to bring good luck and success.
+*(Cả hai đều nhằm mang lại may mắn và thành công.)*
 
-**Dùng WHILE (khác biệt):**
-1. Mua lan is usually performed during Mid-Autumn festivals, **while** shishi-mai is not.
-2. Mua lan uses drums only, **while** shishi-mai uses both flutes and drums.
-3. Mua lan is performed on many occasions including weddings, **while** shishi-mai is mainly a New Year tradition.
-
-**Dùng BOTH (giống nhau):**
-4. **Both** mua lan **and** shishi-mai are performed during New Year celebrations.
-5. **Both** dances are meant to chase away bad spirits and bring good luck.
-6. **Both** mua lan **and** shishi-mai can be performed by one or more people.
+**Điểm khác nhau (Differences):**
+- While the Vietnamese unicorn dance has Ong Dia as a dancing partner, shishi-mai in Japan has no dancing partner.
+*(Trong khi múa lân Việt Nam có Ông Địa là người múa cùng, thì shishi-mai Nhật Bản không có.)*
+- In the Vietnamese unicorn dance, only drums are used, while shishi-mai uses both flutes and drums.
+*(Múa lân Việt Nam chỉ dùng trống, trong khi shishi-mai dùng cả sáo lẫn trống.)*
+- The Vietnamese unicorn dance is also performed during the Mid-Autumn Festival, while shishi-mai is mainly a New Year tradition.
+*(Múa lân Việt Nam còn được biểu diễn vào Tết Trung Thu, trong khi shishi-mai chủ yếu là truyền thống Năm Mới.)*
 </answer>
 
-<explanation>
-**While** = "trong khi đó" - dùng để đối lập hai ý trái nhau trong cùng một câu. Lưu ý: thường đặt dấu phẩy trước *while*.
-
-**Both... and...** = "cả... lẫn..." - dùng để nói hai chủ thể cùng làm/có một điều gì đó. Cấu trúc: Both [A] and [B] + động từ số nhiều.
-
-Nhớ: khi viết câu so sánh, cần chú ý cả **hình thức** (while/both) lẫn **nội dung** thực sự của điểm giống/khác nhau.
-</explanation>
-
-<!-- chunk: speaking -->
+<!-- chunk: end -->
 <teacher_script pause="0">
-Phần cuối bài <eng>Communication</eng> - nói chuyện với bạn bên cạnh nha. Khảo sát xem bạn biết phong tục/truyền thống gì thú vị.
-</teacher_script>
-
-<task>
-**Đề:** Work in pairs. Ask and answer questions about a custom or tradition you know. Use the question prompts below.
-**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về một phong tục hay truyền thống mà em biết. Dùng các câu hỏi gợi ý bên dưới.
-</task>
-
-<questions type="speaking">
-**Câu hỏi gợi ý:**
-1. What is the tradition/custom called?
-   *(Phong tục/truyền thống đó gọi là gì?)*
-2. Where is it from? (Which country/region?)
-   *(Phong tục đó đến từ đâu? Nước/vùng nào?)*
-3. When is it usually performed/celebrated?
-   *(Thường biểu diễn/tổ chức vào dịp nào?)*
-4. What do people do?
-   *(Mọi người làm gì?)*
-5. What is its purpose?
-   *(Mục đích của nó là gì?)*
-
-**Sau đó:** So sánh phong tục của bạn với phong tục của bạn cặp bằng **while** và **both... and...**
-</questions>
-
-<teacher_script pause="180">
-Nói chuyện với bạn cặp đi nha. 3 phút, sau đó thầy/cô kêu một số cặp chia sẻ trước lớp.
-</teacher_script>
-
-<teacher_script pause="0">
-Xong bài <eng>Communication</eng> rồi nha! Các em đã biết cách so sánh phong tục dùng **while** và **both... and...** rồi đó. Tiết sau học <eng>Skills 1</eng> - đọc hiểu và nói về lễ hội dân gian nha!
+Xong bài <eng>Communication</eng> Unit 5 rồi nha! Nhớ ba cách đưa lời khuyên: <eng>Perhaps you should...</eng>, <eng>It's a good idea to...</eng>, <eng>Don't...</eng>. Và múa lân Nhật Bản gọi là <eng>shishi-mai</eng> — biểu diễn vào Năm Mới, dùng sáo và trống, không có Ông Địa. Ôn bài hen!
 </teacher_script>

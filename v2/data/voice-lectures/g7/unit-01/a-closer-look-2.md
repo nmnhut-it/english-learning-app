@@ -137,14 +137,12 @@ Bài 3 trang 11 — đọc đoạn văn và điền động từ đúng dạng. 
 ### Bài 3 trang 11 - Complete the passage
 
 <task>
-**Đề:** Complete the passage with the correct forms of the verbs in the box.
-**Dịch đề:** Hoàn thành đoạn văn với dạng đúng của các động từ trong hộp.
+**Đề:** Fill in each blank with the correct form of the verb in brackets.
+**Dịch đề:** Điền vào mỗi chỗ trống dạng đúng của động từ trong ngoặc.
 </task>
 
 <questions type="fill_blanks">
-**Động từ cho sẵn:** enjoy / spend / not like / go / begin / not enjoy
-
-Minh is a 12-year-old student. He __(1)__ playing football. He __(2)__ most of his free time playing with his friends. His sister, Ha, __(3)__ outdoor activities. She __(4)__ to the library every Saturday. Her reading club __(5)__ at 9 am. Their parents __(6)__ staying at home on weekends. They love going out together as a family.
+My family members have different hobbies. My dad (1. enjoy) ________ gardening. He (2. spend) ________ two hours in our garden every day. My mum and sister (3. not like) ________ gardening, but they love cooking. They (4. go) ________ to a cooking class every Sunday. Their lesson (5. begin) ________ at 9 a.m. I (6. not enjoy) ________ cooking, and I cannot cook very well.
 </questions>
 
 <teacher_script pause="0">
@@ -152,21 +150,21 @@ Minh is a 12-year-old student. He __(1)__ playing football. He __(2)__ most of h
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. enjoys | 2. spends | 3. doesn't like | 4. goes | 5. begins | 6. don't enjoy
+**Bài 3 - Đáp án:** 1. enjoys | 2. spends | 3. don't like | 4. go | 5. begins | 6. don't enjoy
 </answer>
 
 <explanation>
-**1. enjoys** — "Minh" (he) → số ít → enjoy + **s** = enjoys.
+**1. enjoys** — "My dad" → số ít → enjoy + **s** = enjoys.
 
 **2. spends** — "He" → số ít → spend + **s** = spends.
 
-**3. doesn't like** — "Ha" (she) → số ít → phủ định → **doesn't** like.
+**3. don't like** — "My mum and sister" → số nhiều → phủ định → **don't** like (KHÔNG dùng "doesn't").
 
-**4. goes** — "She" → số ít → go + **es** = goes (go → goes, đặc biệt).
+**4. go** — "They" (mum and sister) → số nhiều → giữ nguyên động từ → **go** (KHÔNG thêm -es).
 
-**5. begins** — "Her reading club" (it) → số ít → begin + **s** = begins.
+**5. begins** — "Their lesson" → số ít → begin + **s** = begins.
 
-**6. don't enjoy** — "Their parents" → số nhiều → phủ định → **don't** enjoy.
+**6. don't enjoy** — "I" → phủ định → **don't** enjoy.
 </explanation>
 
 <!-- chunk: exercise-4 -->

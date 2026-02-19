@@ -102,11 +102,11 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.C | 2.B | 3.A
+**Bài 2 - Đáp án:** 1.C | 2.C | 3.A
 
 **1.C** — Hội thoại chủ yếu nói về cuộc sống của người Tày ở làng Lai: nhà sàn, ruộng bậc thang, văn hóa, đàn tính, xôi ngũ sắc.
 
-**2.B** — Tom nói: *"a bamboo house on high posts"* và Lai xác nhận đó là nhà sàn (*stilt house*) → được xây trên các cột cao.
+**2.C** — Lai nói: *"Our house overlooks terraced fields"* = nhà sàn **luôn nhìn ra một cánh đồng** (*always faces a field*). KHÔNG phải B vì Tom dùng "on high posts" để hỏi, không phải Lai định nghĩa nhà sàn.
 
 **3.A** — Lai nói: *"You can see it in our folk dances, musical instruments like the dan tinh..."* → múa dân gian.
 </answer>

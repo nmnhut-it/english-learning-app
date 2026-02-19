@@ -181,49 +181,49 @@ Bài 1 - điền <eng>a / an / the / ∅</eng> vào chỗ trống. 5 câu nha. �
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 - tiếp tục điền mạo từ nha. 5 câu nữa, làm trong 1 phút.
+Bài 2 - tìm lỗi sai trong câu và sửa lại nha. Mỗi câu có 3 phần gạch chân A, B, C — chỉ 1 phần bị sai về mạo từ. Đọc kỹ từng câu rồi chọn. 2 phút.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with **a**, **an**, **the**, or **∅** (no article).
-**Dịch đề:** Điền **a**, **an**, **the** hoặc **∅** vào chỗ trống.
+**Đề:** Which of the underlined parts in each sentence is incorrect? Find and correct it.
+**Dịch đề:** Phần nào được gạch chân trong mỗi câu là không chính xác? Tìm và sửa lại.
 </task>
 
-<questions type="fill_blanks">
-**1.** He wants to become _______ monk when he grows up.
-*Anh ấy muốn trở thành _______ nhà sư khi lớn lên.*
+<questions type="multiple_choice">
+**1.** **The** worshipping Kitchen Gods is **a** long-time tradition of **the** Vietnamese.
+*(A = The / B = a / C = the)*
 
-**2.** _______ whale worship is an ancient tradition in central Vietnam.
-*_______ tục thờ cá voi là một truyền thống cổ xưa ở miền Trung Việt Nam.*
+**2.** People organise **the** worshipping ceremony at noon so that **a** Kitchen Gods can leave for **Heaven** at 12 o'clock.
+*(A = the / B = a / C = Heaven)*
 
-**3.** My family has _______ important custom: cleaning the whole house before Tet.
-*Gia đình mình có _______ phong tục quan trọng: dọn sạch toàn bộ nhà trước Tết.*
+**3.** Most families in **the** Viet Nam prepare offerings for **the** Kitchen Gods.
+*(A = the / B = the / C = Kitchen Gods)*
 
-**4.** Have you ever seen _______ lion dance performance before?
-*Bạn đã từng xem _______ màn biểu diễn múa lân chưa?*
+**4.** The offerings include **a** set of flowers and fruits, **a** paper clothes, and **three** carps.
+*(A = a / B = a / C = three)*
 
-**5.** _______ reunion dinner on Tet Eve is very important for Vietnamese families.
-*_______ bữa cơm đoàn tụ vào đêm Giao Thừa rất quan trọng với các gia đình Việt Nam.*
+**5.** **The** Vietnamese people believe that **the** Kitchen Gods go to Heaven on carps.
+*(A = The / B = the / C = carps)*
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè.
+Đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.a | 2.∅ | 3.an | 4.a | 5.The
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.B | 4.C | 5.A
 </answer>
 
 <explanation>
-**1. a:** *A monk* - nhà sư được nhắc lần đầu, chưa xác định cụ thể. *Monk* bắt đầu phụ âm /m/ → dùng **a**.
+**1. A** — "The" → **∅**: *Worshipping Kitchen Gods* là tên hành động/phong tục → không dùng mạo từ. *(∅ Worshipping Kitchen Gods is a long-time tradition...)*
 
-**2. ∅ (không dùng mạo từ):** *Whale worship* ở đây dùng như một khái niệm, tên của một phong tục. Dùng như danh từ trừu tượng nói chung → không dùng mạo từ. Tương tự: ∅ ancestor worship, ∅ folk dancing.
+**2. C** — "a" → **∅** (hoặc the): *Kitchen Gods* là danh từ đã được đề cập, xác định rõ → dùng **the** hoặc không dùng mạo từ. KHÔNG dùng "a" vì Kitchen Gods là số nhiều và đã xác định. *(so that the Kitchen Gods can leave...)*
 
-**3. an:** *An important custom* - phong tục được nhắc lần đầu, chưa xác định. *Important* bắt đầu bằng nguyên âm /ɪ/ → dùng **an**.
+**3. B** — "the" → **∅**: Trước tên quốc gia "Viet Nam" KHÔNG dùng mạo từ. *(Most families in ∅ Viet Nam...)*
 
-**4. a:** *A lion dance performance* - màn biểu diễn nhắc lần đầu. *Lion* bắt đầu bằng phụ âm /l/ → dùng **a**.
+**4. C** — "a" → **∅**: "paper clothes" là danh từ số nhiều → KHÔNG dùng mạo từ "a". *(a set of flowers and fruits, ∅ paper clothes, and three carps)*
 
-**5. The:** *The reunion dinner on Tet Eve* - bữa cơm CỤ THỂ vào đêm Giao Thừa. Cụm "on Tet Eve" xác định rõ đây là bữa cơm nào → dùng **the**.
+**5. A** — "The" → **∅**: "Vietnamese people" = người Việt Nam nói chung → KHÔNG dùng mạo từ. *(∅ Vietnamese people believe...)*
 </explanation>
 
 <!-- chunk: exercise-3 -->
@@ -275,29 +275,16 @@ Bài 3 - 5 câu nữa nha. Nhớ: **∅** = không điền gì hết, cứ để
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 - bài cuối ngữ pháp rồi nha. 5 câu nữa thôi, làm nhanh trong 1 phút đi.
+Bài 4 - đọc đoạn văn rồi điền **the** hoặc **∅** vào 5 chỗ trống nha. Lần này chỉ chọn giữa 2 thôi: **the** hoặc không điền gì. 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with **a**, **an**, **the**, or **∅**.
-**Dịch đề:** Điền **a**, **an**, **the** hoặc **∅** vào chỗ trống.
+**Đề:** Complete the text with **the** or **∅** (zero article).
+**Dịch đề:** Hoàn thành đoạn văn bằng **the** hoặc **∅** (không dùng mạo từ).
 </task>
 
 <questions type="fill_blanks">
-**1.** _______ Christmas is celebrated on 25th December every year.
-*_______ Giáng Sinh được tổ chức vào ngày 25 tháng 12 mỗi năm.*
-
-**2.** Elena bought _______ kumquat tree for Tet decoration.
-*Elena mua _______ cây quất để trang trí Tết.*
-
-**3.** _______ folk dances are an important part of ethnic minority culture.
-*_______ Các điệu dân vũ là một phần quan trọng trong văn hóa dân tộc thiểu số.*
-
-**4.** She placed flowers on _______ altar in the middle of the room.
-*Cô ấy đặt hoa lên _______ bàn thờ ở giữa phòng.*
-
-**5.** Trang is wearing _______ ao dai in the photo.
-*Trang đang mặc _______ áo dài trong bức ảnh.*
+A recent study in (1) _______ UK shows that family time traditions are good for (2) _______ teens. These traditions include family members playing card games, watching their favourite TV programmes, or performing (3) _______ karaoke shows at weekends with one another. These activities often lead to lots of laughter and (4) _______ fun conversations. By taking part in such activities, teens strengthen (5) _______ bonds with their family.
 </questions>
 
 <teacher_script pause="0">
@@ -305,19 +292,19 @@ Bài 4 - bài cuối ngữ pháp rồi nha. 5 câu nữa thôi, làm nhanh trong
 </teacher_script>
 
 <answer>
-**Bài 4 - Đáp án:** 1.∅ | 2.a | 3.∅ | 4.the | 5.an
+**Bài 4 - Đáp án:** 1.the | 2.∅ | 3.∅ | 4.∅ | 5.the
 </answer>
 
 <explanation>
-**1. ∅:** *Christmas* là tên ngày lễ → không dùng mạo từ. Tương tự: ∅ Easter, ∅ Tet, ∅ Halloween.
+**1. the** — "the UK" = tên quốc gia liên bang → dùng **the**. *(the United Kingdom = the UK)*
 
-**2. a:** *A kumquat tree* - cây quất được nhắc lần đầu, chưa xác định cụ thể. *Kumquat* bắt đầu phụ âm /k/ → dùng **a**.
+**2. ∅** — "teens" = thanh thiếu niên nói chung (danh từ số nhiều, nghĩa chung) → KHÔNG dùng mạo từ.
 
-**3. ∅:** *Folk dances* là danh từ số nhiều dùng theo nghĩa chung (tất cả các điệu dân vũ nói chung) → không dùng mạo từ. Nếu là "the folk dances of the North" (điệu dân vũ cụ thể của miền Bắc) thì dùng **the**.
+**3. ∅** — "karaoke shows" = danh từ số nhiều chưa xác định → KHÔNG dùng mạo từ.
 
-**4. the:** *The altar in the middle of the room* - bàn thờ xác định (cụm "in the middle of the room" chỉ rõ bàn thờ nào) → dùng **the**.
+**4. ∅** — "fun conversations" = danh từ số nhiều chưa xác định → KHÔNG dùng mạo từ.
 
-**5. an:** *An ao dai* - áo dài được nhắc lần đầu. Mặc dù "ao dai" là từ tiếng Việt, khi đọc trong tiếng Anh thì bắt đầu bằng nguyên âm /æ/ (âm "a") → dùng **an**.
+**5. the** — "the bonds with their family" = mối quan hệ CỤ THỂ (đã xác định bởi "with their family") → dùng **the**.
 </explanation>
 
 <teacher_script pause="0">

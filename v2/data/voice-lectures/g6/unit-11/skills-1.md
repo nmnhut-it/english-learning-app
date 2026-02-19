@@ -3,7 +3,7 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok Unit 11, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài phỏng vấn về cách làm cho trường học xanh hơn — rồi nói về các mẹo đó. Mở sách trang 54 đi. Học từ vựng trước nha.
+Ok Unit 11, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài phỏng vấn với Nam về cách làm trường học xanh hơn — rồi nói về các mẹo đó. Mở sách trang 54 đi. Học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
@@ -16,45 +16,79 @@ Ok Unit 11, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài phỏng vấn v�
 7. **instead of** : (prep) thay vì /ɪnˈsted əv/
 8. **borrow** : (v) mượn /ˈbɒrəʊ/
 9. **borrow books from the library** : mượn sách từ thư viện /ˈbɒrəʊ bʊks frəm ðə ˈlaɪbrəri/
-10. **save paper** : tiết kiệm giấy /seɪv ˈpeɪpə/
-11. **breeze** : (n) gió nhẹ, gió mát /briːz/
-12. **old items** : đồ vật cũ /əʊld ˈaɪtəmz/
-13. **find creative ways** : tìm cách sáng tạo /faɪnd kriˈeɪtɪv weɪz/
-14. **throw away** : vứt bỏ /θrəʊ əˈweɪ/
+10. **reusable** : (adj) có thể tái sử dụng /ˌriːˈjuːzəbl/
+11. **old items** : đồ vật cũ /əʊld ˈaɪtəmz/
+12. **find creative ways** : tìm cách sáng tạo /faɪnd kriˈeɪtɪv weɪz/
+13. **throw away** : vứt bỏ /θrəʊ əˈweɪ/
 </vocabulary>
 
 <teacher_script pause="0">
-Ok, từ xong rồi. Giờ đọc bài phỏng vấn với Nam nha. Đọc kỹ để làm bài tập.
+Ok, từ xong rồi. Giờ đọc bài phỏng vấn với Nam — thành viên câu lạc bộ 3Rs. Đọc kỹ để làm bài tập.
 </teacher_script>
 
 <!-- chunk: reading -->
 <teacher_script pause="0">
-Bài đọc trang 54 — bài phỏng vấn với Nam về các mẹo làm trường học xanh hơn. Đọc hết rồi làm bài 2 nha.
+Bài 1 trang 54 — một phóng viên đang phỏng vấn Nam, thành viên câu lạc bộ 3Rs. Đọc và tìm gạch dưới những từ trong khung nha.
 </teacher_script>
 
+<task>
+**Đề:** A reporter is interviewing Nam, a member of the 3Rs club. Read the interview. Find these words or phrases and underline them.
+**Dịch đề:** Một phóng viên đang phỏng vấn Nam, thành viên câu lạc bộ 3Rs. Đọc cuộc phỏng vấn. Tìm những từ hoặc cụm từ này và gạch chân chúng.
+
+**Word box:** *instead of / recycling bins / exchange / reusable / charity*
+</task>
+
 <reading>
-**Interview: Making Our School Greener**
+**Reporter:** Can you share with us some tips to make your school greener?
 
-**Interviewer:** Nam, can you share some tips to make our school greener?
+**Nam:** Sure. Firstly, we put **recycling bins** in every classroom.
 
-**Nam:** Sure! First, we plan to put recycling bins in every classroom. Students can separate their rubbish — paper in one bin, plastic in another.
+**Reporter:** What about old books and uniforms?
 
-**Interviewer:** Great idea! What else?
+**Nam:** We **exchange** them with our friends or give them to **charity**. We don't throw them away.
 
-**Nam:** We can also exchange old books and uniforms with friends, or give them to charity instead of throwing them away.
+**Reporter:** Anything else?
 
-**Interviewer:** And what about saving paper?
+**Nam:** We borrow books from the school library **instead of** buying new ones.
 
-**Nam:** Good point! Students should borrow books from the school library instead of buying new ones. That way, we save paper and money!
+**Reporter:** Great! You can save much paper.
 
-**Interviewer:** Anything else?
+**Nam:** And there's another tip. We bring **reusable** water bottles to school.
 
-**Nam:** Yes — we encourage students to bring reusable water bottles to school. And before throwing away old items, find creative ways to reuse them. For example, use an old bottle as a flower vase or pencil holder.
+**Reporter:** I see lots of trees in your school. Is planting trees a good tip?
 
-**Interviewer:** Wonderful! Thank you, Nam.
+**Nam:** Yeah. It makes our school greener.
 
-**Nam:** Thank you! Let's all make our school a greener place!
+**Reporter:** Thanks for sharing. Do you want to add anything?
+
+**Nam:** Finally, we usually find creative ways to reuse old items before throwing them away.
 </reading>
+
+<translation>
+**Phóng viên:** Bạn có thể chia sẻ với chúng tôi một số bí quyết để làm cho trường học của bạn xanh hơn?
+
+**Nam:** Chắc chắn rồi. Thứ nhất, chúng tôi đặt các thùng rác tái chế trong mỗi lớp học.
+
+**Phóng viên:** Còn sách và đồng phục cũ thì sao?
+
+**Nam:** Chúng tôi trao đổi chúng với bạn bè của chúng tôi hoặc tặng chúng cho tổ chức từ thiện. Chúng tôi không vứt bỏ chúng.
+
+**Phóng viên:** Còn gì nữa không?
+
+**Nam:** Chúng tôi mượn sách từ thư viện trường thay vì mua sách mới.
+
+**Phóng viên:** Tuyệt vời! Bạn có thể tiết kiệm nhiều giấy.
+
+**Nam:** Và còn một mẹo nữa. Chúng tôi mang chai nước tái sử dụng đến trường.
+
+**Phóng viên:** Tôi thấy trường của bạn có rất nhiều cây xanh. Trồng cây có phải là một mẹo hay?
+
+**Nam:** Ừm. Nó làm cho trường học của chúng tôi xanh hơn.
+
+**Phóng viên:** Cảm ơn những chia sẻ. Bạn có muốn thêm gì không?
+
+**Nam:** Cuối cùng, chúng tôi thường tìm ra những cách sáng tạo để tái sử dụng những món đồ cũ trước khi vứt bỏ chúng.
+</translation>
 
 <teacher_script pause="180">
 Đọc xong chưa? Dịch bài đọc vô vở nha. 3 phút.
@@ -102,44 +136,29 @@ e. in the place of somebody or something *(thay vì)*
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 trang 54. Đọc lại bài phỏng vấn và trả lời câu hỏi. 1 phút nha.
+Bài 3 trang 54. Đọc lại bài phỏng vấn rồi trả lời câu hỏi. Viết câu trả lời ngắn nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Read the interview again and answer the questions.
-**Dịch đề:** Đọc lại bài phỏng vấn và trả lời câu hỏi.
+**Đề:** Read the text again. Answer the questions.
+**Dịch đề:** Đọc văn bản một lần nữa. Trả lời các câu hỏi.
 </task>
 
-<questions type="multiple_choice">
+<questions type="complete_sentences">
 **1.** What is the interview about?
-*Bài phỏng vấn nói về điều gì?*
-- A. How to recycle rubbish at home
-- B. Tips to make school greener
-- C. How to save money at school
+*(Cuộc phỏng vấn nói về điều gì?)*
 
 **2.** What will they put in every classroom?
-*Họ sẽ đặt gì trong mỗi lớp học?*
-- A. Flower vases
-- B. New bookshelves
-- C. Recycling bins
+*(Họ sẽ đặt gì trong mỗi lớp học?)*
 
-**3.** What can students do with their old uniforms?
-*Học sinh có thể làm gì với đồng phục cũ?*
-- A. Throw them away
-- B. Exchange them with friends or give to charity
-- C. Sell them at the market
+**3.** What can they do with their old uniforms?
+*(Họ có thể làm gì với đồng phục cũ của mình?)*
 
-**4.** What will students do instead of buying new books?
-*Học sinh sẽ làm gì thay vì mua sách mới?*
-- A. Borrow books from the school library
-- B. Download books online
-- C. Ask friends to share books
+**4.** What will they do instead of buying new books?
+*(Họ sẽ làm gì thay vì mua sách mới?)*
 
 **5.** What type of bottles do they bring to school?
-*Họ mang loại chai nào đến trường?*
-- A. Plastic bottles
-- B. Glass bottles
-- C. Reusable water bottles
+*(Họ mang loại chai nào đến trường?)*
 </questions>
 
 <teacher_script pause="0">
@@ -147,16 +166,13 @@ Bài 3 trang 54. Đọc lại bài phỏng vấn và trả lời câu hỏi. 1 p
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1.B | 2.C | 3.B | 4.A | 5.C
+**Bài 3 - Đáp án:**
+1. It's about sharing some tips to make school greener. *(Nói về chia sẻ một số mẹo để làm cho trường học xanh hơn.)*
+2. Recycling bins. *(Thùng tái chế.)*
+3. Exchange them with friends or give them to charity. *(Trao đổi với bạn bè hoặc tặng cho tổ chức từ thiện.)*
+4. They borrow books from the school library. *(Họ mượn sách từ thư viện trường.)*
+5. Reusable water bottles. *(Chai nước có thể tái sử dụng.)*
 </answer>
-
-<explanation>
-1. **B** — *"share some tips to make our school greener"* — mẹo làm trường học xanh hơn.
-2. **C** — *"put recycling bins in every classroom"* — thùng tái chế trong mỗi lớp.
-3. **B** — *"exchange old books and uniforms with friends, or give them to charity"*.
-4. **A** — *"borrow books from the school library instead of buying new ones"*.
-5. **C** — *"bring reusable water bottles to school"* — chai nước tái sử dụng.
-</explanation>
 
 <!-- chunk: speaking-4 -->
 <teacher_script pause="120">
@@ -164,8 +180,8 @@ Bài 4 trang 54. Nhìn vào 6 mẹo của Nam — sắp xếp từ dễ nhất �
 </teacher_script>
 
 <task>
-**Đề:** Work in groups. Put Nam's tips in order from the easiest (1) to the most difficult (6).
-**Dịch đề:** Làm theo nhóm. Xếp các mẹo của Nam theo thứ tự từ dễ nhất (1) đến khó nhất (6).
+**Đề:** Nam mentions the following tips in the interview. Work in groups and discuss to put the tips in order from the easiest to the most difficult.
+**Dịch đề:** Nam đề cập đến những lời khuyên sau đây trong cuộc phỏng vấn. Làm việc theo nhóm và thảo luận để đưa ra các mẹo theo thứ tự từ dễ nhất đến khó nhất.
 </task>
 
 <questions type="ordering">
@@ -193,15 +209,8 @@ Gợi ý sắp xếp nha — nhưng không có đáp án duy nhất đúng, tùy
 </teacher_script>
 
 <answer>
-**Gợi ý:** d → f → b → c → a → e
+**Gợi ý:** 1. d → 2. f → 3. b → 4. c → 5. a → 6. e
 *(từ dễ nhất → khó nhất)*
-
-- **d** (chai nước tái sử dụng) — dễ nhất: chỉ cần mua một cái, dùng mãi.
-- **f** (tái sử dụng sáng tạo) — cần chút sáng tạo.
-- **b** (trao đổi/tặng sách + đồng phục) — cần phối hợp với bạn.
-- **c** (mượn thư viện) — cần thói quen mới.
-- **a** (đặt thùng tái chế) — cần được nhà trường phê duyệt.
-- **e** (trồng cây) — khó nhất: cần nhiều người, thời gian, nguồn lực.
 </answer>
 
 <!-- chunk: speaking-5 -->
@@ -210,8 +219,8 @@ Bài 5 trang 54. Mẹo *f* nói tìm cách sáng tạo để tái sử dụng đ
 </teacher_script>
 
 <task>
-**Đề:** Can you think of ways to reuse the following items?
-**Dịch đề:** Bạn có thể nghĩ ra cách tái sử dụng những thứ sau không?
+**Đề:** Tip f tells you to find creative ways to reuse old items. Can you think of any ways to reuse?
+**Dịch đề:** Mẹo f cho bạn biết cách sáng tạo để tái sử dụng những món đồ cũ. Bạn có thể nghĩ ra bất kỳ cách nào để sử dụng lại?
 </task>
 
 <questions type="speaking">
@@ -225,20 +234,14 @@ Gợi ý nè.
 </teacher_script>
 
 <answer>
-**a. Giấy gói quà đã dùng:**
-- Bọc sách, vở
-- Cắt thành hình xinh để trang trí
-- Làm thiệp tự tay
+**a.** We can reuse used gift wrap to cover books, notebooks, cut them into beautiful shapes to decorate houses.
+*(Có thể dùng lại giấy gói quà đã qua sử dụng để bọc sách, vở, cắt thành những hình xinh xắn để trang trí nhà cửa.)*
 
-**b. Chai nước đã dùng:**
-- Trồng cây nhỏ
-- Đựng bút, thước
-- Làm đồ chơi, mô hình
+**b.** We can reuse used water bottles to plant trees, keep pens, make toys.
+*(Có thể tận dụng những chai nước đã qua sử dụng để trồng cây, đựng bút, làm đồ chơi.)*
 
-**c. Sách cũ:**
-- Tặng cho thư viện trường hoặc thư viện địa phương
-- Trao đổi với bạn bè
-- Gói đồ, lót bàn học
+**c.** We can reuse used books to wrap things, give them to the school library or the local library.
+*(Có thể dùng lại những cuốn sách cũ để gói đồ, tặng cho thư viện trường hoặc thư viện địa phương.)*
 </answer>
 
 <teacher_script action="record" pause="0">
@@ -247,5 +250,5 @@ Bây giờ nói về ý kiến của em — chọn 1 trong 3 đồ vật trên v
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng> rồi nha. Nhớ các mẹo của Nam nha — thùng tái chế, trao đổi sách đồng phục, mượn thư viện, chai tái sử dụng, tái sử dụng sáng tạo! Bài tiếp theo là <eng>Skills 2</eng> — nghe và viết. Chuẩn bị nha!
+Xong bài <eng>Skills 1</eng> Unit 11 rồi nha. Nhớ các mẹo của Nam: thùng tái chế, trao đổi sách/đồng phục, mượn thư viện, chai tái sử dụng, trồng cây, tái sử dụng sáng tạo! Bài tiếp theo là <eng>Skills 2</eng>. Chuẩn bị nha!
 </teacher_script>

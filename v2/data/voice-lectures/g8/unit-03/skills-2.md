@@ -27,14 +27,17 @@ Giờ nghe 3 bạn học sinh nói về vấn đề của các bạn ấy nha. N
 <reading>
 🎧 [Track 17](https://img.loigiaihay.com/picture/2023/0803/track-17.mp3)
 
-**Student A:**
-I feel really stressed lately. My parents have very high expectations of me. They want me to study piano, do karate and take extra English classes — all at the same time! I'm so tired. I don't even have time to rest or do the things I enjoy.
+**Mi:** Ms Hoa said we can discuss the stress we have in our lives on the class forum. So, what stress do you have?
 
-**Student B:**
-My parents also have lots of expectations. But I think it's important to focus on your own interests and abilities, not just what your parents want. If I do what I love, I'll do it better. Also, if you push yourself too hard, your health will suffer. Good health is the most important thing.
+**Minh:** I'm tired of trying to meet my parents' expectations. They want me to study well and be good at many things, so they send me to many classes like maths, English, piano, and karate.
 
-**Student C:**
-My biggest problem is that I sometimes feel jealous of my friends' achievements. They get better grades, win more competitions... and I feel bad about myself. I also have arguments with my parents about how much time I spend on social media. They think I'm on it too much.
+**Ann:** Why don't you tell them your interests and abilities, Minh? I talked to my parents about this so they no longer send me to classes I don't like. Now I just focus on my health and try to lose some weight.
+
+**Minh:** You look fit, Ann. You should feel good about your body.
+
+**Ann:** Are you kidding, Mi? I still need to lose a few more kilos. How about you, Mi?
+
+**Mi:** Actually, I don't get on with my sister. She is jealous of anything I have and always starts arguments. So I had to talk to my mum...
 </reading>
 
 <teacher_script pause="0">
@@ -44,9 +47,12 @@ Nghe xong rồi nha. Mình dịch nhanh để hiểu nội dung.
 <translation>
 | English | Vietnamese |
 |---------|------------|
-| **Student A:** I feel really stressed lately. My parents have very high expectations of me. They want me to study piano, do karate and take extra English classes — all at the same time! I'm so tired. I don't even have time to rest or do the things I enjoy. | **Học sinh A:** Gần đây tôi cảm thấy rất căng thẳng. Ba mẹ tôi có rất nhiều kỳ vọng vào tôi. Họ muốn tôi học đàn piano, học karate và tham gia lớp tiếng Anh bổ sung — tất cả cùng một lúc! Tôi mệt quá. Tôi không có thời gian để nghỉ ngơi hay làm những thứ mình thích. |
-| **Student B:** My parents also have lots of expectations. But I think it's important to focus on your own interests and abilities, not just what your parents want. If I do what I love, I'll do it better. Also, if you push yourself too hard, your health will suffer. Good health is the most important thing. | **Học sinh B:** Ba mẹ tôi cũng có nhiều kỳ vọng. Nhưng tôi nghĩ điều quan trọng là tập trung vào sở thích và khả năng của bản thân, không chỉ là những gì ba mẹ muốn. Nếu tôi làm điều mình yêu thích, tôi sẽ làm tốt hơn. Ngoài ra, nếu bạn ép bản thân quá mức, sức khỏe sẽ bị ảnh hưởng. Sức khỏe tốt là điều quan trọng nhất. |
-| **Student C:** My biggest problem is that I sometimes feel jealous of my friends' achievements. They get better grades, win more competitions... and I feel bad about myself. I also have arguments with my parents about how much time I spend on social media. They think I'm on it too much. | **Học sinh C:** Vấn đề lớn nhất của tôi là đôi khi tôi cảm thấy ghen tỵ với thành tích của bạn bè. Họ có điểm tốt hơn, giành nhiều giải thưởng hơn... và tôi tự cảm thấy tệ về bản thân. Tôi cũng hay cãi nhau với ba mẹ về việc dành bao nhiêu thời gian trên mạng xã hội. Họ nghĩ tôi dùng quá nhiều. |
+| **Mi:** Ms Hoa said we can discuss the stress we have in our lives on the class forum. So, what stress do you have? | **Mi:** Cô Hoa nói rằng chúng ta có thể thảo luận về những áp lực trên diễn đàn lớp. Nào, các cậu có những áp lực gì? |
+| **Minh:** I'm tired of trying to meet my parents' expectations. They want me to study well and be good at many things, so they send me to many classes like maths, English, piano, and karate. | **Minh:** Tớ mệt mỏi vì phải cố gắng đáp ứng kỳ vọng của bố mẹ. Họ muốn tớ học giỏi và giỏi nhiều thứ nên đăng ký cho tớ rất nhiều lớp như toán, tiếng Anh, piano và karate. |
+| **Ann:** Why don't you tell them your interests and abilities, Minh? I talked to my parents about this so they no longer send me to classes I don't like. Now I just focus on my health and try to lose some weight. | **Ann:** Tại sao cậu không nói với bố mẹ về sở thích và khả năng, Minh? Tớ đã nói chuyện với bố mẹ nên họ không còn đưa tớ đến những lớp tớ không thích nữa. Bây giờ tớ chỉ tập trung vào sức khỏe và cố giảm cân. |
+| **Minh:** You look fit, Ann. You should feel good about your body. | **Minh:** Cậu trông vừa vặn mà, Ann. Cậu nên cảm thấy ổn về cơ thể của cậu. |
+| **Ann:** Are you kidding, Mi? I still need to lose a few more kilos. How about you, Mi? | **Ann:** Cậu đùa à, Mi? Tớ vẫn cần giảm thêm vài kg. Thế còn cậu thì sao, Mi? |
+| **Mi:** Actually, I don't get on with my sister. She is jealous of anything I have and always starts arguments. So I had to talk to my mum... | **Mi:** Thực ra, tớ không hòa thuận với em gái. Em ấy ghen tị với bất cứ thứ gì tớ có và luôn bắt đầu tranh cãi. Vì vậy tớ đã phải nói chuyện với mẹ... |
 </translation>
 
 <teacher_script pause="120">
@@ -54,79 +60,63 @@ Dịch vô vở nhanh nha. 2 phút.
 </teacher_script>
 
 <!-- chunk: exercise-bai2 -->
-<teacher_script pause="0">
-Bài 2 — ghép xem ai có vấn đề nào nha. Nghe lại nếu cần rồi ghép. 1 phút rưỡi.
+<teacher_script pause="60">
+Bài 2 — nghe và chọn đáp án đúng nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match each problem (1–3) with the correct student (A, B, or C).
-**Dịch đề:** Ghép mỗi vấn đề (1–3) với học sinh đúng (A, B, hoặc C).
+**Đề:** Listen to a conversation and choose the correct answer to each question.
+**Dịch đề:** Nghe đoạn hội thoại và chọn câu trả lời đúng cho mỗi câu hỏi.
 </task>
 
-<questions type="matching">
-**1.** feels too much pressure to do many activities
-*cảm thấy quá nhiều áp lực khi phải làm nhiều hoạt động*
+<questions type="multiple_choice">
+**1.** How many students are talking?
+*(Có bao nhiêu học sinh đang nói chuyện?)*
+- A. One.
+- B. Two.
+- C. Three.
 
-**2.** wants to do what they are good at
-*muốn làm những gì phù hợp với bản thân*
-
-**3.** argues with parents about social media use
-*cãi nhau với ba mẹ về việc dùng mạng xã hội*
-
----
-
-**Students:** A | B | C
+**2.** What are they discussing?
+*(Họ đang thảo luận điều gì?)*
+- A. Their class forum.
+- B. Their stress.
+- C. Their community activities.
 </questions>
-
-<teacher_script pause="90">
-Làm đi nha, 1 phút rưỡi.
-</teacher_script>
 
 <teacher_script pause="0">
 Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1-A | 2-B | 3-C
+**Bài 2 - Đáp án:** 1.C | 2.B
 </answer>
 
 <explanation>
-**1-A:** Học sinh A nói ba mẹ muốn học piano, karate VÀ lớp tiếng Anh cùng lúc — *"I'm so tired. I don't even have time to rest"* → quá nhiều áp lực phải làm quá nhiều hoạt động.
+**1. C (Three)** — Có 3 học sinh nói chuyện: Minh, Ann, và Mi. KHÔNG phải 1 hay 2.
 
-**2-B:** Học sinh B nói thẳng: *"I think it's important to focus on your own interests and abilities, not just what your parents want"* → muốn làm theo sở thích và khả năng của bản thân, không chỉ theo ý ba mẹ.
-
-**3-C:** Học sinh C nói rõ: *"I also have arguments with my parents about how much time I spend on social media"* → cãi nhau với ba mẹ về thời gian dùng mạng xã hội.
+**2. B (Their stress)** — Các bạn thảo luận về áp lực của bản thân. Mi bắt đầu: *"what stress do you have?"* → chủ đề là áp lực/căng thẳng.
 </explanation>
 
 <!-- chunk: exercise-bai3 -->
 <teacher_script pause="0">
-Bài 3 — đúng hay sai nha. Nghe lại nếu cần rồi xác định. 2 phút.
+Bài 3 — nghe lại và điền vào bảng, mỗi ô chỉ điền MỘT từ thôi nha. 2 phút.
 </teacher_script>
 
 <task>
-**Đề:** Listen again and decide if the statements are True (T) or False (F).
-**Dịch đề:** Nghe lại và quyết định các câu sau là Đúng (T) hay Sai (F).
+**Đề:** Listen to the conversation again and fill in each blank with ONE word.
+**Dịch đề:** Nghe lại và điền vào mỗi chỗ trống bằng MỘT từ.
 </task>
 
-<questions type="true_false">
-**1.** The students are talking about teenage problems.
-*Các học sinh đang nói về những vấn đề của tuổi teen.*
-
-**2.** Student A has to study piano, karate and English.
-*Học sinh A phải học đàn piano, karate và tiếng Anh.*
-
-**3.** Student B wants to please their parents.
-*Học sinh B muốn làm hài lòng ba mẹ.*
-
-**4.** Student C spends too much time on social media.
-*Học sinh C dành quá nhiều thời gian trên mạng xã hội.*
-
-**5.** All three students feel happy about their lives.
-*Cả ba học sinh đều cảm thấy hạnh phúc về cuộc sống của mình.*
+<questions type="fill_blanks">
+| Vấn đề (Problem) | Giải pháp (Solution) |
+|------------------|----------------------|
+| Minh has pressure from his (1) _____. | Minh should tell his parents about his interests and (2) _____. |
+| Ann is unhappy about her (3) _____. | Ann should feel (4) _____ about her body. |
+| Mi doesn't get on with her (5) _____. | She should (6) _____ to her mum. |
 </questions>
 
 <teacher_script pause="120">
-Làm đi, 2 phút nha.
+Làm đi nha. 2 phút.
 </teacher_script>
 
 <teacher_script pause="0">
@@ -134,19 +124,21 @@ Xem đáp án nào.
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
+**Bài 3 - Đáp án:** 1. parents | 2. abilities | 3. body/weight | 4. good | 5. sister | 6. talk
 </answer>
 
 <explanation>
-**1. T — Đúng:** Ba bạn học sinh đều chia sẻ các vấn đề họ gặp phải — căng thẳng, áp lực, ghen tỵ, cãi nhau với ba mẹ. Đây đều là vấn đề của tuổi teen.
+**1. parents** — Minh: *"tired of trying to meet my parents' expectations"* → áp lực từ **bố mẹ**.
 
-**2. T — Đúng:** Học sinh A nói trực tiếp: *"They want me to study piano, do karate and take extra English classes"* — đúng ba môn đó.
+**2. abilities** — Ann gợi ý: *"tell them your interests and abilities"* → nói về sở thích và **khả năng**.
 
-**3. F — Sai:** Học sinh B *không* muốn làm hài lòng ba mẹ — ngược lại, bạn ấy nói nên tập trung vào *"your own interests and abilities, not just what your parents want"*. Bạn ấy muốn sống theo bản thân, không phải theo ý ba mẹ.
+**3. body/weight** — Ann: *"focus on my health and try to lose some weight"* → không vui về **thân hình/cân nặng**.
 
-**4. T — Đúng:** Ba mẹ học sinh C nghĩ bạn ấy dùng mạng xã hội quá nhiều, và hai bên có tranh cãi về vấn đề này → ngụ ý học sinh C đúng là dành nhiều thời gian trên mạng.
+**4. good** — Minh nói với Ann: *"You should feel good about your body"* → nên cảm thấy **tốt** về bản thân.
 
-**5. F — Sai:** Không bạn nào cảm thấy hạnh phúc trong đoạn hội thoại này — học sinh A mệt và căng thẳng, học sinh B lo lắng về sức khỏe, học sinh C cảm thấy ghen tỵ và bị ba mẹ la.
+**5. sister** — Mi: *"I don't get on with my sister"* → không hòa hợp với **em/chị gái**.
+
+**6. talk** — Mi: *"I had to talk to my mum"* → nên **nói chuyện** với mẹ.
 </explanation>
 
 <!-- chunk: writing -->

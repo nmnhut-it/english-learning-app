@@ -1,100 +1,14 @@
 # UNIT 2: LIFE IN THE COUNTRYSIDE
-## COMMUNICATION - Making Compliments & Comparing Villages
+## COMMUNICATION - Giving and Responding to Compliments
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 8, hôm nay mình học <eng>Communication</eng> Unit 2 nha. Phần này học cách **khen ngợi** và so sánh 2 làng quê: một làng ở Việt Nam và một làng ở Hà Lan. Mở sách trang 22 đi!
-</teacher_script>
-
-<!-- chunk: language_focus -->
-### Language Focus: Making Compliments
-
-<teacher_script pause="0">
-Học cách khen ngợi nha. Có công thức rất đơn giản.
-</teacher_script>
-
-<grammar>
-## Câu khen ngợi (Exclamations)
-
-**Công thức:**
-> **What + a/an + adjective + noun + (subject + verb)!**
-
-**Ví dụ:**
-> What **a beautiful** village! *(Thật là một ngôi làng đẹp!)*
-> What **an amazing** view you have! *(Bạn có một tầm nhìn tuyệt vời thật!)*
-> What **a hard-working** farmer! *(Thật là một người nông dân chăm chỉ!)*
-
-**Trả lời lời khen:**
-> Thanks. I'm glad you like it! *(Cảm ơn. Tôi vui vì bạn thích nó!)*
-> Thank you! That's very kind of you. *(Cảm ơn! Bạn thật tốt bụng.)*
-</grammar>
-
-<!-- chunk: exercise_1 -->
-### Bài 1 trang 22 - Practice Compliments
-
-<teacher_script pause="60">
-Bài 1. Nhìn tranh và tạo câu khen ngợi nha. 1 phút.
-</teacher_script>
-
-<task>
-**Đề:** Look at the pictures and make compliments using the structure.
-**Dịch đề:** Nhìn tranh và tạo câu khen ngợi theo công thức.
-</task>
-
-<questions type="complete_sentences">
-**1.** *(picturesque village scene)*
-→ What _______ !
-
-**2.** *(farmer working hard in fields)*
-→ What _______ !
-
-**3.** *(vast rice paddy stretching to horizon)*
-→ What _______ !
-
-**4.** *(friendly, hospitable villagers welcoming guests)*
-→ What _______ !
-</questions>
-
-<teacher_script pause="0">
-Mẫu câu khen nè:
-</teacher_script>
-
-<answer>
-**Ví dụ mẫu:**
-1. What a picturesque village!
-2. What a hard-working farmer!
-3. What a vast paddy field!
-4. What hospitable people!
-</answer>
-
-<!-- chunk: exercise_2 -->
-### Bài 2 trang 22 - Dialogue Practice
-
-<teacher_script pause="0">
-Bài 2. Luyện hội thoại khen ngợi với bạn nha.
-</teacher_script>
-
-<dialogue>
-**A:** Wow! What a beautiful village you live in!
-**B:** Thanks. I'm glad you like it.
-**A:** What a vast paddy field! Does your family farm here?
-**B:** Yes, we do. The rice harvest is really enjoyable.
-</dialogue>
-
-<translation>
-**A:** Ồ! Bạn sống trong một ngôi làng đẹp thật!
-**B:** Cảm ơn. Tôi vui vì bạn thích.
-**A:** Cánh đồng lúa rộng lớn thật! Gia đình bạn canh tác ở đây không?
-**B:** Vâng, chúng tôi có. Mùa gặt thật thú vị.
-</translation>
-
-<teacher_script action="record">
-Luyện hội thoại khen ngợi theo cặp nha. Bấm nút ghi âm khi sẵn sàng.
+Ok lớp 8, hôm nay mình học <eng>Communication</eng> Unit 2 nha. Phần này học cách **khen ngợi và đáp lại lời khen**, rồi đọc về 2 làng cổ: Đường Lâm (Việt Nam) và Hollum (Hà Lan). Mở sách trang 22 đi!
 </teacher_script>
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Giờ học từ vựng để đọc về 2 ngôi làng nha.
+Học từ vựng trước rồi vào bài nha. Bấm nút "Bắt đầu".
 </teacher_script>
 
 <vocabulary>
@@ -114,42 +28,129 @@ Giờ học từ vựng để đọc về 2 ngôi làng nha.
 14. **ferry** : (n) phà /ˈfɛri/
 </vocabulary>
 
+<!-- chunk: bai1-dialogue -->
+### Bài 1 trang 22 - Listen and read
+
+<teacher_script pause="0">
+Bài 1. Nghe và đọc 2 đoạn hội thoại. Chú ý các câu khen ngợi được in đậm nha.
+</teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-10.mp3">
+**Audio:** Communication - Giving and responding to compliments
+</audio>
+
+<task>
+**Đề:** Listen and read the conversations. Pay attention to the highlighted sentences.
+**Dịch đề:** Nghe và đọc các đoạn hội thoại. Chú ý đến những câu được làm nổi bật.
+</task>
+
+<dialogue>
+**(1)**
+**Tom:** **What a beautiful kite you have, Mai!**
+**Mai:** Thank you, Tom. My dad made it for me last weekend.
+
+**(2)**
+**Nick:** **You really have a nice dress, Hoa.**
+**Hoa:** I'm glad you like it, Nick. I think its colour really suits me.
+</dialogue>
+
+<translation>
+**(1)**
+**Tom:** Cậu có con diều đẹp thật đấy, Mai!
+**Mai:** Cám ơn, Tom. Bố mình làm cho mình vào cuối tuần trước.
+
+**(2)**
+**Nick:** Cậu có một cái đầm đẹp thật đấy, Hoa.
+**Hoa:** Tôi vui vì cậu thích nó, Nick. Tôi nghĩ là màu của nó hợp với tôi.
+</translation>
+
+<teacher_script pause="0">
+Hai cách khen nè:
+- <eng>What a beautiful kite you have!</eng> = câu cảm thán "What a/an + adj + noun"!
+- <eng>You really have a nice dress.</eng> = khen trực tiếp.
+Đáp lại: <eng>Thank you.</eng> hoặc <eng>I'm glad you like it.</eng>
+</teacher_script>
+
+<!-- chunk: bai2-speaking -->
+### Bài 2 trang 22 - Practice Compliments
+
+<teacher_script pause="60">
+Bài 2. Làm việc theo cặp. Tạo hội thoại tương tự để khen: áo sơ mi, xe đạp, cặp sách. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Make similar conversations to practice giving and responding to compliments, using the cues below.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự để thực hành đưa ra và đáp lại lời khen, sử dụng các gợi ý bên dưới.
+
+**Cues:** *a shirt / a bicycle / a school bag*
+</task>
+
+<teacher_script pause="0">
+Đáp án mẫu nè.
+</teacher_script>
+
+<answer>
+**Mẫu 1 - shirt:**
+**A:** What a nice shirt you have!
+*(Cậu có cái áo đẹp thật đấy!)*
+**B:** Thank you. My mom bought it for me last month.
+*(Cám ơn. Mẹ mình mua nó cho mình tháng trước.)*
+
+**Mẫu 2 - bicycle:**
+**A:** You really have a nice bicycle!
+*(Cậu có một cái xe đạp đẹp thế!)*
+**B:** I'm glad you like it.
+*(Mình vui vì cậu thích nó.)*
+
+**Mẫu 3 - school bag:**
+**A:** What a nice school bag you have!
+*(Cậu có một cái cặp đẹp thật đấy!)*
+**B:** Thank you. My brother gave it to me yesterday.
+*(Cám ơn. Anh mình cho mình hôm qua đấy.)*
+</answer>
+
 <!-- chunk: reading -->
 ### Bài 3 trang 23 - Reading: Two Villages
 
 <teacher_script pause="0">
-Bài 3. Đọc về 2 ngôi làng cổ nha: Làng Đường Lâm (Việt Nam) và làng Hollum (Hà Lan).
+Bài 3. Đọc quảng cáo cho 2 ngôi làng cổ nha: Đường Lâm (Việt Nam) và Hollum (Hà Lan). Sau đó đánh dấu thông tin mô tả làng nào.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2023/0803/track-10.mp3">
-**Audio:** Communication - Bài 3
-</audio>
-
 <reading>
-**Đường Lâm Village** *(Làng Đường Lâm)*
+**Duong Lam Village** *(Làng Đường Lâm)*
 
-Đường Lâm, one of the oldest ancient villages in Hanoi, is situated in Son Tay District. Visitors can get there from central Hanoi by car, bus, or even by bicycle. It is famous for its ancient pagodas, traditional houses, and temples. Besides, visitors can observe the locals making specialties, such as "keo doi" candy and "che lam" cake, and then try them.
+Duong Lam, one of the most ancient villages in Ha Noi, is situated in Son Tay. Visitors can get there from the centre of Ha Noi by car, bus or even by bicycle. It is famous for its ancient pagoda, traditional houses, and temples. Besides these, visitors can observe the locals making specialities, such as keo doi, che lam, etc. and then try them.
 
 **Hollum Village** *(Làng Hollum)*
 
-Hollum is one of the oldest villages on Ameland Island in the Netherlands. Many tourists visit the village for its historical and cultural values. There are many interesting sights such as traditional houses, museums, a church, and a lighthouse. Besides sightseeing, visitors can also enjoy sports like kite-flying and surfing. Visitors can get to the village by air or by ferry.
+Hollum is one of the ancient villages on the island of Ameland, the Netherlands. Many visitors come to the village because of its historical and cultural values. It is full of fascinating sights, such as traditional houses, a museum, a church, a lighthouse, etc. Besides sightseeing, visitors can also take part in sports like kite-flying, surfing, etc. Visitors can reach the village by air or ferry.
 </reading>
 
-<teacher_script pause="0">
-Đáp án bài 3. So sánh 2 làng nha.
+<translation>
+**Làng cổ Đường Lâm**
+
+Đường Lâm, một trong những ngôi làng cổ nhất ở Hà Nội, tọa lạc ở Sơn Tây. Khách thăm quan có thể đến đó từ trung tâm Hà Nội bằng xe hơi, xe buýt thậm chí là xe đạp. Nó nổi tiếng vì những ngôi chùa cổ kính, những ngôi nhà truyền thống và những ngôi đền. Bên cạnh đó, du khách có thể quan sát người dân làm các đặc sản như kẹo dồi, chè lam v.v, và sau đó thử chúng.
+
+**Làng Hollum**
+
+Hollum là một trong những ngôi làng cổ trên đảo Ameland, Hà Lan. Nhiều du khách đến thăm làng vì giá trị lịch sử và văn hóa của nó. Nơi đây có rất nhiều cảnh đẹp như những ngôi nhà truyền thống, một viện bảo tàng, một nhà thờ, một đèn hải đăng v.v. Bên cạnh việc đi thăm quan, du khách có thể tham gia vào các môn thể thao như thả diều, lướt sóng v.v. Du khách có thể đến làng bằng máy bay hoặc phà.
+</translation>
+
+<teacher_script pause="60">
+Đọc xong rồi đánh dấu thông tin. Đường Lâm = DL, Hollum = H, cả hai = cả hai. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Read and decide: Does the information describe Đường Lâm (D), Hollum (H), or Both (B)?
-**Dịch đề:** Đọc và quyết định: thông tin mô tả Đường Lâm (D), Hollum (H), hay Cả hai (B)?
+**Đề:** Read the adverts for the two beautiful villages. Tick (✓) the boxes to show which village the statements describe. Sometimes both boxes need to be ticked.
+**Dịch đề:** Đọc quảng cáo cho hai ngôi làng xinh đẹp. Đánh dấu (✓) vào các ô để cho biết câu nói mô tả ngôi làng nào. Đôi khi cả hai ô cần được đánh dấu.
 </task>
 
 <questions type="matching">
-**1.** It is an ancient village. *(Đây là một ngôi làng cổ.)*
-**2.** Visitors can observe locals making food specialties. *(Du khách có thể xem người dân làm đặc sản.)*
-**3.** Visitors can enjoy water sports. *(Du khách có thể tham gia thể thao trên biển.)*
-**4.** It is situated near the capital city. *(Nó nằm gần thủ đô.)*
-**5.** Visitors can get there by ferry. *(Du khách có thể đến bằng phà.)*
+**1.** It's an ancient village. *(Đây là một ngôi làng cổ.)*
+**2.** We can visit an ancient pagoda, traditional houses, and temples in this village. *(Chúng ta có thể thăm chùa cổ, nhà truyền thống và đền đài.)*
+**3.** We can get there by plane or ferry. *(Chúng ta có thể đến đó bằng máy bay hoặc phà.)*
+**4.** We can go there by car, bus or bike. *(Chúng ta có thể đến đó bằng xe hơi, xe buýt hoặc xe đạp.)*
+**5.** It has a lighthouse. *(Ở đó có một ngọn hải đăng.)*
 </questions>
 
 <teacher_script pause="0">
@@ -157,41 +158,72 @@ Hollum is one of the oldest villages on Ameland Island in the Netherlands. Many 
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. Both | 2. Đường Lâm | 3. Hollum | 4. Đường Lâm | 5. Hollum
+**Bài 3 - Đáp án:** 1. DL & H | 2. DL | 3. H | 4. DL | 5. H
 </answer>
 
 <explanation>
-- **1. Both:** Cả hai đều là "one of the oldest ancient villages".
-- **2. Đường Lâm:** "visitors can observe the locals making specialties" = chỉ Đường Lâm có làm kẹo dồi, chè lam.
-- **3. Hollum:** "kite-flying and surfing" = chỉ Hollum có thể thao nước.
-- **4. Đường Lâm:** "situated in Son Tay District" gần Hà Nội (thủ đô Việt Nam).
-- **5. Hollum:** "Visitors can get to the village by air or by ferry" = đi phà.
+- **1. DL & H (Both):** Cả hai đều là "one of the most/the ancient villages" → cả hai là làng cổ.
+- **2. DL (Đường Lâm):** "famous for its ancient pagoda, traditional houses, and temples" → chỉ Đường Lâm.
+- **3. H (Hollum):** "Visitors can reach the village by air or ferry" → chỉ Hollum.
+- **4. DL (Đường Lâm):** "by car, bus or even by bicycle" → chỉ Đường Lâm.
+- **5. H (Hollum):** "a lighthouse" → chỉ Hollum đề cập ngọn hải đăng.
 </explanation>
 
-<!-- chunk: speaking -->
-### Bài 4 trang 23 - Speaking: Your Village
+<!-- chunk: bai4-compare -->
+### Bài 4 trang 23 - Compare the Two Villages
 
-<teacher_script pause="0">
-Bài 4. Nói về một ngôi làng ở Việt Nam mà em biết nha. Dùng gợi ý.
+<teacher_script pause="120">
+Bài 4. Làm việc nhóm. Thay phiên nhau nói về điểm giống và khác nhau giữa Đường Lâm và Hollum. 2 phút.
 </teacher_script>
 
 <task>
-**Đề:** Talk about a village in Vietnam that you know or have visited.
-**Dịch đề:** Nói về một ngôi làng ở Việt Nam mà em biết hoặc đã đến thăm.
+**Đề:** Work in groups. Take turns to talk about the similarities and differences between Duong Lam and Hollum.
+**Dịch đề:** Làm việc nhóm. Thay phiên nhau nói về những điểm giống và khác nhau giữa Đường Lâm và Hollum.
+
+**Example:** Duong Lam and Hollum are both ancient villages,...
 </task>
 
-<questions type="speaking">
-- Where is it?
-- What is it famous for?
-- What can visitors do there?
-- How can visitors get there?
-</questions>
+<answer>
+**Điểm giống nhau:** Cả hai đều là làng cổ (ancient villages).
 
-<teacher_script action="record">
-Các em nói về một ngôi làng Việt Nam em biết nha. Bấm ghi âm khi sẵn sàng.
+**Điểm khác nhau:**
+
+| **Đường Lâm** | **Hollum** |
+|---|---|
+| Situated in Son Tay, Ha Noi *(tọa lạc ở Sơn Tây, Hà Nội)* | Located on the island of Ameland, the Netherlands *(trên đảo Ameland, Hà Lan)* |
+| Get there by car, bus or even by bicycle *(đến bằng xe hơi, xe buýt, xe đạp)* | Get there by plane or ferry *(đến bằng máy bay hoặc phà)* |
+| Places to visit: ancient pagoda, traditional houses, temples *(chùa cổ, nhà truyền thống, đền đài)* | Places to visit: traditional houses, a museum, a church, a lighthouse *(nhà truyền thống, bảo tàng, nhà thờ, đèn hải đăng)* |
+| Activities: observe the locals making specialities (keo doi, che lam) *(xem làm đặc sản)* | Activities: kite-flying, surfing *(thả diều, lướt sóng)* |
+</answer>
+
+<!-- chunk: bai5-speaking -->
+### Bài 5 trang 23 - Your Preference
+
+<teacher_script pause="60">
+Bài 5. Làm việc theo cặp. Em muốn đến làng nào trong 2 làng trên để nghỉ hè? Giải thích lý do cho bạn nghe nha. 1 phút.
 </teacher_script>
+
+<task>
+**Đề:** Work in pairs. Which village in 3 would you like to visit for a holiday? Explain your choice to your partner.
+**Dịch đề:** Làm việc theo cặp. Ngôi làng nào trong bài 3 bạn muốn đến thăm vào kỳ nghỉ? Giải thích sự lựa chọn của bạn.
+
+**Example:**
+**A:** Which village would you like to visit for a holiday?
+**B:** Duong Lam, of course!
+**A:** Why?
+**B:** Because I love watching the locals making specialties and...
+</task>
+
+<answer>
+**Bài mẫu:**
+**A:** Which village would you like to visit for a holiday?
+*(Ngôi làng nào mà bạn muốn đến cho kì nghỉ?)*
+
+**B:** Duong Lam, of course! Because Duong Lam is quite near my house, I've visited it many times. In addition, I also love watching the locals making specialities, such as keo doi, che lam, and then trying them.
+*(Chắc chắn là làng cổ Đường Lâm rồi! Vì Đường Lâm khá gần nhà tôi nên tôi đã đến thăm nhiều lần. Ngoài ra, tôi thích quan sát người dân làm đặc sản như kẹo dồi, chè lam và thử chúng.)*
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Bài <eng>Communication</eng> Unit 2 xong rồi nha! Nhớ công thức khen: "What a/an + adj + noun!" và trả lời "Thanks, I'm glad you like it!" Ôn bài kỹ hen!
+Bài <eng>Communication</eng> Unit 2 xong rồi nha! Nhớ 2 cách khen: <eng>What a/an + adj + noun!</eng> và <eng>You really have a nice...</eng>. Trả lời: <eng>Thank you</eng> hoặc <eng>I'm glad you like it</eng>. Ôn bài kỹ hen!
 </teacher_script>

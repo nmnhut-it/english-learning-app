@@ -33,82 +33,82 @@ Làm bài trắc nghiệm từ vựng đi rồi ghi vô tập nha. Nhớ ghi c�
 
 <!-- chunk: reading -->
 <teacher_script pause="0">
-Giờ mình đọc hai bài văn nha — một của ông Năm 70 tuổi, một của bạn Mai 15 tuổi. Hai người ở hai thế hệ khác nhau kể về việc đi học của mình. Đọc kỹ và so sánh nha.
+Giờ mình đọc hai đoạn văn nha — ông Nam 70 tuổi và cháu gái Mai 15 tuổi. Hai người ở hai thế hệ khác nhau kể về phong cách học tập của mình. Đọc kỹ và so sánh nha.
 </teacher_script>
 
 <reading>
-**Ông Năm, 70 tuổi — Nông dân**
+**Mr Nam, grandfather, a 70-year-old farmer**
 
-"I started school at the age of 8. Back then, few children could go to school — most stayed home to help on the farm. Our school had only a few old textbooks and no lab or library. We walked about 5km to school every day. We learned simply by memorising what the teacher said. We rarely asked questions — it wasn't the custom. I depended mostly on my teacher for all knowledge. There was no internet then, of course."
+I was one of the few children in my village who was still at school at the age of 15. Every day, I got up early and walked to school. Learning then depended mostly on our teachers and textbooks. We had no library or lab. The nearest bookshop was six kilometres away. I learned simply by taking notes during class, memorising them, and doing the homework. Life then was simple. We rarely travelled outside our village, so we didn't know much about the world around us.
 
 ---
 
-**Mai, 15 tuổi — Học sinh**
+**Mai, granddaughter, a 15-year-old student**
 
-"I start school at 6. Today's students have so many resources — the internet, Google, YouTube, and various apps. I mostly search online when I have questions. My school has labs and a library. I can pursue my own interests — music, coding, or art. My teachers allow me to be independent and do projects on my own. Learning has become more personal and exciting."
+Learning today is very different from my grandfather's time. **It** is easier and more convenient. Besides learning from teachers and textbooks, we use the Internet. It provides us with various online sources such as documents, clips, and programmes. Google helps us find the answers to almost any questions we have. The Internet also allows us to pursue our own interests. Learning has become more independent. Although most children in my village have fewer private learning facilities than the students in the city, **we** are still luckier than my grandfather's generation. We have TVs to watch at home and a library and computers at school.
 </reading>
 
 <translation>
-**Ông Năm, 70 tuổi — Nông dân**
+**Ông Nam, ông nội, nông dân 70 tuổi**
 
-"Tôi bắt đầu đi học lúc 8 tuổi. Hồi đó, ít trẻ em được đi học — hầu hết ở nhà giúp việc đồng áng. Trường tôi chỉ có vài cuốn sách cũ và không có phòng thí nghiệm hay thư viện. Chúng tôi đi bộ khoảng 5km đến trường mỗi ngày. Chúng tôi học bằng cách đơn giản là thuộc lòng những gì thầy giáo nói. Chúng tôi hiếm khi đặt câu hỏi — đó không phải là thói quen. Tôi phụ thuộc chủ yếu vào thầy giáo để có kiến thức. Lúc đó không có internet, tất nhiên rồi."
+Tôi là một trong số ít trẻ em trong làng vẫn còn đi học ở tuổi 15. Hàng ngày, tôi dậy sớm và đi bộ đến trường. Việc học lúc đó phụ thuộc chủ yếu vào thầy cô và sách giáo khoa. Chúng tôi không có thư viện hay phòng thí nghiệm. Hiệu sách gần nhất cách đó sáu cây số. Tôi học đơn giản bằng cách ghi chép trong lớp, ghi nhớ và làm bài tập về nhà. Cuộc sống lúc đó thật đơn giản. Chúng tôi hiếm khi đi ra ngoài làng nên không biết nhiều về thế giới xung quanh.
 
 ---
 
-**Mai, 15 tuổi — Học sinh**
+**Mai, cháu gái, học sinh 15 tuổi**
 
-"Tôi bắt đầu đi học lúc 6 tuổi. Học sinh ngày nay có rất nhiều tài nguyên — internet, Google, YouTube, và các ứng dụng đa dạng. Tôi chủ yếu tìm kiếm trực tuyến khi có câu hỏi. Trường tôi có phòng thí nghiệm và thư viện. Tôi có thể theo đuổi sở thích của mình — âm nhạc, lập trình hoặc nghệ thuật. Thầy cô cho phép tôi tự lập và tự làm dự án. Việc học đã trở nên cá nhân hơn và thú vị hơn."
+Việc học ngày nay rất khác so với thời ông nội tôi. Nó dễ dàng và thuận tiện hơn. Bên cạnh việc học từ giáo viên và sách giáo khoa, chúng ta còn sử dụng Internet. Nó cung cấp cho chúng tôi nhiều nguồn trực tuyến khác nhau như tài liệu, clip và chương trình. Google giúp chúng tôi tìm câu trả lời cho hầu hết mọi câu hỏi. Internet cũng cho phép chúng ta theo đuổi sở thích riêng của mình. Việc học đã trở nên độc lập hơn. Dù hầu hết trẻ em ở làng tôi có ít cơ sở học tập riêng hơn học sinh thành phố, chúng tôi vẫn may mắn hơn thế hệ ông nội. Chúng tôi có TV ở nhà, thư viện và máy tính ở trường.
 </translation>
 
 <teacher_script pause="180">
-Dịch hai đoạn văn vô vở nha. Ghi tên từng người và thông tin cho rõ. Có 3 phút.
+Dịch hai đoạn văn vô vở nha. Ghi tên từng người cho rõ: ông Nam và Mai. Có 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 nha — <eng>Multiple choice</eng>. Đọc câu hỏi rồi chọn đáp án đúng dựa vào hai đoạn văn. Có 1 phút.
+Bài 2 nha — trắc nghiệm. Đọc câu hỏi rồi chọn đáp án đúng dựa vào bài đọc. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the best answer A, B, C, or D.
-**Dịch đề:** Chọn đáp án đúng nhất A, B, C hoặc D.
+**Đề:** Read the passages and choose the correct answer A, B, C, or D.
+**Dịch đề:** Đọc đoạn văn và chọn câu trả lời đúng A, B, C hoặc D.
 </task>
 
 <questions type="multiple_choice">
-**1.** How old was Ông Năm when he started school?
-- A. 8 years old
-- B. 6 years old
-- C. 10 years old
-- D. 5 years old
-*Ông Năm bao nhiêu tuổi khi bắt đầu đi học?*
+**1.** In Mr Nam's time, ________.
+*Vào thời ông Nam, ________.*
+- A. teachers played an important role
+- B. there were no bookshops
+- C. students did experiments in labs
+- D. all children stayed on at school until they were 15
 
-**2.** What did Ông Năm's school NOT have?
-- A. Old textbooks
-- B. A teacher
-- C. A lab and a library
-- D. Classrooms
-*Trường của ông Năm KHÔNG có gì?*
+**2.** Few people travelled outside their village, so ________.
+*Ít người đi ra ngoài làng, vì vậy ________.*
+- A. life in the village was simple
+- B. his school didn't have any learning facilities
+- C. the villagers didn't know much about the world around
+- D. none of the villagers knew about city life
 
-**3.** How does Mai find answers to her questions?
-- A. She asks her teachers only
-- B. She reads old textbooks
-- C. She searches online
-- D. She memorises from lessons
-*Mai tìm câu trả lời bằng cách nào?*
+**3.** Learning now ________.
+*Việc học hiện nay ________.*
+- A. does not require textbooks
+- B. uses some online programmes
+- C. depends only on the Internet
+- D. does not require students to take notes
 
-**4.** What can Mai pursue at school?
-- A. Her own interests
-- B. Only maths and science
-- C. Traditional subjects
-- D. Physical training
-*Mai có thể theo đuổi điều gì ở trường?*
+**4.** The word "It" in Mai's paragraph refers to ________.
+*Từ "It" trong đoạn của Mai ám chỉ ________.*
+- A. learning today
+- B. my grandfather's time
+- C. learning facilities
+- D. the Internet
 
-**5.** What is the BIGGEST difference between Ông Năm's and Mai's education?
-- A. The distance to school
-- B. The number of teachers
-- C. The school building size
-- D. Internet access and learning resources
-*Sự khác biệt LỚN NHẤT giữa việc học của ông Năm và Mai là gì?*
+**5.** The word "we" in the last part of Mai's paragraph refers to ________.
+*Từ "we" ở cuối đoạn của Mai ám chỉ ________.*
+- A. learning facilities
+- B. students at my grandfather's generation
+- C. students in the city
+- D. children in the village
 </questions>
 
 <teacher_script pause="0">
@@ -116,48 +116,46 @@ Bài 2 nha — <eng>Multiple choice</eng>. Đọc câu hỏi rồi chọn đáp 
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.A | 2.C | 3.C | 4.A | 5.D
+**Bài 2 - Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.D
 </answer>
 
 <explanation>
-**1.A** — Ông Năm nói rõ *"I started school at the age of 8"* — 8 tuổi nha.
+**1.A** — Ông Nam nói: *"Learning then depended mostly on our teachers and textbooks"* → thầy cô đóng vai trò quan trọng. B sai vì có hiệu sách (6km); C sai vì *no lab*; D sai vì ông Nam là *một trong số ít* còn đi học.
 
-**2.C** — Ông Năm nói *"no lab or library"* — không có phòng thí nghiệm và thư viện. Chỉ có sách cũ thôi.
+**2.C** — Ông Nam nói: *"We rarely travelled outside our village, so we didn't know much about the world around us"* → không biết nhiều về thế giới xung quanh. Câu hỏi hỏi *kết quả* của việc ít đi ra ngoài.
 
-**3.C** — Mai nói *"I mostly search online when I have questions"* — tìm kiếm trực tuyến là chủ yếu.
+**3.B** — Mai nói: *"It provides us with various online sources such as documents, clips, and programmes"* → sử dụng một số chương trình trực tuyến. A sai vì vẫn học từ sách giáo khoa (*besides learning from teachers and textbooks*); C sai vì không *chỉ* phụ thuộc internet.
 
-**4.A** — Mai nói *"I can pursue my own interests — music, coding, or art"* — theo đuổi sở thích cá nhân nha.
+**4.A** — Câu trước: *"Learning today is very different from my grandfather's time."* → *"It is easier and more convenient."* → "It" = *learning today* (việc học ngày nay).
 
-**5.D** — Sự khác biệt lớn nhất là internet và tài nguyên học tập. Ông Năm hoàn toàn không có internet, còn Mai có Google, YouTube và nhiều ứng dụng — đó là thay đổi căn bản nhất đó.
+**5.D** — Ngữ cảnh: *"most children in my village... we are still luckier"* → "we" = *children in the village* (trẻ em trong làng của Mai). C sai vì câu đang so sánh làng của Mai với thành phố.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 nha — điền từ vô chỗ trống. Chọn từ đúng trong ô và điền vô. Có 1 phút.
+Bài 3 nha — điền một từ từ bài đọc vào chỗ trống. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words from the box.
-**Dịch đề:** Điền từ đúng vào chỗ trống từ ô từ cho sẵn.
-
-*Word box: textbooks / memorising / various / Google / pursue*
+**Đề:** Fill in each blank with ONE word from the passage.
+**Dịch đề:** Điền vào mỗi chỗ trống MỘT từ từ đoạn văn.
 </task>
 
 <questions type="fill_blanks">
-**1.** Ông Năm's school had only a few old ________.
-*Trường của ông Năm chỉ có vài cuốn ________ cũ.*
+**1.** Mr Nam learned mainly from teachers and ________.
+*Ông Nam học chủ yếu từ giáo viên và ________.*
 
-**2.** Students learned by ________ what the teacher said.
-*Học sinh học bằng cách ________ những gì thầy giáo nói.*
+**2.** He learned by ________ the information he got in class.
+*Ông ấy học bằng cách ________ những thông tin có được trong lớp.*
 
-**3.** Mai uses ________ apps and websites to learn.
-*Mai dùng các ứng dụng và trang web ________ để học.*
+**3.** Nowadays, students can learn from ________ online sources.
+*Ngày nay, học sinh có thể học từ nhiều nguồn trực tuyến ________.*
 
-**4.** When Mai has a question, she searches on ________.
-*Khi Mai có câu hỏi, cô bé tìm kiếm trên ________.*
+**4.** An example of an online source is ________.
+*Một ví dụ về nguồn trực tuyến là ________.*
 
-**5.** Today, students can ________ their own interests at school.
-*Ngày nay, học sinh có thể ________ sở thích của bản thân ở trường.*
+**5.** The Internet helps children ________ their interests.
+*Internet giúp trẻ ________ sở thích của mình.*
 </questions>
 
 <teacher_script pause="0">
@@ -169,15 +167,15 @@ Bài 3 nha — điền từ vô chỗ trống. Chọn từ đúng trong ô và �
 </answer>
 
 <explanation>
-**1. textbooks** — Ông Năm nói *"only a few old textbooks"* — sách giáo khoa cũ. *Textbook* = sách giáo khoa nha.
+**1. textbooks** — *"Learning then depended mostly on our teachers and textbooks"* → sách giáo khoa.
 
-**2. memorising** — Ông Năm nói *"by memorising what the teacher said"* — học bằng cách thuộc lòng. Động từ *memorise* = ghi nhớ / học thuộc.
+**2. memorising** — *"I learned simply by taking notes during class, memorising them"* → ghi nhớ, học thuộc.
 
-**3. various** — Mai nói *"various apps"* — *various* = đa dạng, nhiều loại.
+**3. various** — *"various online sources such as documents, clips, and programmes"* → đa dạng.
 
-**4. Google** — Mai nói *"I mostly search online"* và nhắc đến Google, YouTube. Google là công cụ tìm kiếm phổ biến nhất nha.
+**4. Google** — *"Google helps us find the answers"* → Google là ví dụ về nguồn trực tuyến.
 
-**5. pursue** — Mai nói *"I can pursue my own interests"* — *pursue* = theo đuổi. Nhớ từ này — dùng nhiều lắm đó.
+**5. pursue** — *"The Internet also allows us to pursue our own interests"* → theo đuổi sở thích.
 </explanation>
 
 <!-- chunk: speaking -->
