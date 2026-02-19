@@ -14,6 +14,8 @@
     "test:observe": "OBSERVE=true playwright test -c tests/voice-lecture/playwright.config.ts --project=observation specs/user-observation.spec.ts",
     "test:observe:fast": "playwright test -c tests/voice-lecture/playwright.config.ts --headed specs/user-observation.spec.ts",
     "test:validate-content": "playwright test -c tests/voice-lecture/playwright.config.ts specs/content-validation.spec.ts",
+    "test:walk-all": "playwright test -c tests/voice-lecture/playwright.config.ts specs/walk-all-lessons.spec.ts --workers=4",
+    "test:walk-grade": "playwright test -c tests/voice-lecture/playwright.config.ts specs/walk-all-lessons.spec.ts --workers=4 -g",
     "playwright:install": "playwright install chromium",
     "render": "npx ts-node --esm src/voice-lecture/tools/render-cli.ts",
     "render:json": "npx ts-node --esm src/voice-lecture/tools/render-cli.ts --json"
