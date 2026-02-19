@@ -107,7 +107,7 @@ Bài 3 nha — ôn ngữ pháp. Điền dạng đúng của động từ trong n
 |----------|-----------|-------|
 | **Thì tương lai đơn** | S + **will** + V | *I will send you the details.* |
 | **Phủ định tương lai** | S + **won't** + V | *We won't be late.* |
-| **Câu điều kiện loại 1 - mệnh đề IF** | If + S + **V (hiện tại đơn)** | *If she wins the competition...* |
+| **Câu điều kiện loại 1 - mệnh đề IF** | If + S + **V (hiện tại đơn)** | *If they win the competition...* |
 | **Câu điều kiện loại 1 - mệnh đề chính** | S + **will** + V | *...she will get a prize.* |
 | **Unless** | Unless = If... not | *Unless you hurry = If you don't hurry* |
 </grammar>
@@ -122,8 +122,8 @@ Bài 3 nha — ôn ngữ pháp. Điền dạng đúng của động từ trong n
 **3.** Many scientists believe online learning _______ (become) the main method of education in the future.
 *Nhiều nhà khoa học tin rằng học trực tuyến _______ phương pháp giáo dục chính trong tương lai.*
 
-**4.** If she _______ (win) the tribal dance competition, she'll receive a cash prize.
-*Nếu cô ấy _______ cuộc thi múa bộ lạc, cô ấy sẽ nhận được phần thưởng bằng tiền mặt.*
+**4.** If they _______ (win) the tribal dance competition, they'll receive a cash prize.
+*Nếu họ _______ cuộc thi múa bộ lạc, họ sẽ nhận được phần thưởng bằng tiền mặt.*
 
 **5.** _______ we _______ (have to) wear traditional costumes to the cultural festival?
 *Chúng ta _______ phải mặc trang phục truyền thống đến lễ hội văn hóa không?*
@@ -134,14 +134,14 @@ Bài 3 nha — ôn ngữ pháp. Điền dạng đúng của động từ trong n
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. will send | 2. won't be | 3. will become | 4. wins | 5. Will / have to
+**Đáp án:** 1. will send | 2. won't be | 3. will become | 4. win | 5. Will / have to
 </answer>
 
 <explanation>
 - **Câu 1 - will send:** Có từ *"very soon"* → dự đoán/kế hoạch trong tương lai → dùng *will + V*: *will send*.
 - **Câu 2 - won't be:** *"Unless you book... there won't be any rooms"* = Nếu bạn không đặt phòng thì sẽ không còn phòng. *Unless* = If... not → mệnh đề chính dùng *won't + V*.
 - **Câu 3 - will become:** *"believe that... in the future"* → dự đoán tương lai → *will become*.
-- **Câu 4 - wins:** Đây là mệnh đề *IF* của câu điều kiện loại 1. Mệnh đề *if* dùng **hiện tại đơn**: *wins* (không dùng *will win* trong mệnh đề *if*!).
+- **Câu 4 - win:** Đây là mệnh đề *IF* của câu điều kiện loại 1. Mệnh đề *if* dùng **hiện tại đơn**: *win* (không dùng *will win* trong mệnh đề *if*!).
 - **Câu 5 - Will / have to:** Câu hỏi tương lai với *have to*: *Will + S + have to + V?* → *Will we have to wear...?*
 </explanation>
 

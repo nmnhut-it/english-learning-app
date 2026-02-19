@@ -30,9 +30,9 @@ Ok lớp 8, Unit 6 nha - LIFESTYLES - Lối sống. Mở sách trang đầu Unit
 Nghe xong từ vựng rồi hen. Giờ mình qua phần hội thoại nha. Bài 1 <eng>Listen and read</eng> - nghe và đọc hội thoại giữa <eng>Nam</eng> và <eng>Tom</eng>. Tom là bạn nước ngoài đang sống ở Việt Nam, bạn ấy chia sẻ về sự khác biệt giữa hai đất nước. Bấm nút nghe audio đi.
 </teacher_script>
 
-<reading>
-[Audio: https://img.loigiaihay.com/picture/2023/0803/track-32.mp3]
-</reading>
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-32.mp3">
+**Audio:** Listen and read the conversation
+</audio>
 
 <dialogue>
 **Nam:** Hello, Tom. How're things?
@@ -149,29 +149,31 @@ Xong chưa? Đáp án nè.
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 nha. Điền từ vào chỗ trống. Dùng những từ/cụm từ này: <eng>street food / pizza / greet / online learning / food in restaurant</eng>. 1 phút đi.
+Bài 4 nha. Ghi nhãn từ/cụm từ cho mỗi hình ảnh. Dùng những từ này: <eng>street food / food in restaurant / pizza / online learning / greet</eng>. 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words: **street food / pizza / greet / online learning / food in restaurant**
-**Dịch đề:** Điền từ/cụm từ thích hợp vào chỗ trống.
+**Đề:** Label each picture with a word or phrase from the box.
+**Dịch đề:** Ghi nhãn cho mỗi hình ảnh bằng một từ hoặc cụm từ trong hộp.
+
+**Word box:** *street food / food in restaurant / pizza / online learning / greet*
 </task>
 
 <questions type="fill_blanks">
-**1.** Pho is a popular type of _______ in Vietnam.
-*Phở là một loại _______ phổ biến ở Việt Nam.*
+**1.** Picture: A vendor selling pho on the sidewalk → _______
+*Hình: Người bán phở trên vỉa hè → _______*
 
-**2.** The Italians invented _______, which is now eaten all over the world.
-*Người Ý đã phát minh ra _______, hiện nay được ăn trên toàn thế giới.*
+**2.** Picture: People eating dinner at a nice restaurant → _______
+*Hình: Mọi người ăn tối ở nhà hàng sang trọng → _______*
 
-**3.** In many countries, students _______ teachers at the beginning of class.
-*Ở nhiều quốc gia, học sinh _______ thầy cô vào đầu giờ học.*
+**3.** Picture: A round Italian dish with cheese and toppings → _______
+*Hình: Món ăn tròn của Ý với phô mai và topping → _______*
 
-**4.** Some students prefer _______ because they can study from home.
-*Một số học sinh thích _______ vì họ có thể học ở nhà.*
+**4.** Picture: A student studying at home on a computer → _______
+*Hình: Học sinh học ở nhà trên máy tính → _______*
 
-**5.** Some people prefer to eat _______ for special occasions.
-*Một số người thích ăn _______ trong những dịp đặc biệt.*
+**5.** Picture: Two people shaking hands or bowing → _______
+*Hình: Hai người bắt tay hoặc cúi chào → _______*
 </questions>
 
 <teacher_script pause="0">
@@ -179,15 +181,15 @@ Ok đáp án bài 4 nè.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. street food | 2. pizza | 3. greet | 4. online learning | 5. food in restaurant
+**Đáp án:** 1. street food | 2. food in restaurant | 3. pizza | 4. online learning | 5. greet
 </answer>
 
 <explanation>
-- **Câu 1 - street food:** Phở là thức ăn bán trên đường phố điển hình của Việt Nam → *street food*.
-- **Câu 2 - pizza:** Pizza xuất phát từ nước Ý và giờ nổi tiếng toàn cầu → *pizza*.
-- **Câu 3 - greet:** Học sinh *chào hỏi* thầy cô đầu giờ → *greet*.
-- **Câu 4 - online learning:** Học từ nhà → *online learning* (học trực tuyến).
-- **Câu 5 - food in restaurant:** Dịp đặc biệt → ăn ở nhà hàng → *food in restaurant*.
+- **Câu 1 - street food:** Hình bán phở trên vỉa hè → *street food* (thức ăn đường phố).
+- **Câu 2 - food in restaurant:** Hình ăn tối trong nhà hàng → *food in restaurant* (đồ ăn trong nhà hàng).
+- **Câu 3 - pizza:** Hình món ăn tròn của Ý → *pizza*.
+- **Câu 4 - online learning:** Hình học sinh học trên máy tính → *online learning* (học trực tuyến).
+- **Câu 5 - greet:** Hình bắt tay/cúi chào → *greet* (chào hỏi).
 </explanation>
 
 <!-- chunk: end -->

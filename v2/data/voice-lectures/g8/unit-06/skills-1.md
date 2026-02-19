@@ -3,39 +3,40 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 8, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài về lối sống của người bản địa Canada, sau đó nói về truyền thống ở nơi các em sống. Ghi tựa bài vô tập rồi bấm "Bắt đầu" học từ vựng trước nha.
+Ok lớp 8, bài <eng>Skills 1</eng> nha. Hôm nay đọc bài về lối sống truyền thống ở Alaska, Mỹ — nơi có người bản địa và xe chó kéo. Ghi tựa bài vô tập rồi bấm "Bắt đầu" học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
 1. **quite** : (adv) khá, tương đối /kwaɪt/
 2. **million** : (n) triệu /ˈmɪljən/
-3. **native** : (adj/n) bản địa, người bản địa /ˈneɪtɪv/
-4. **various** : (adj) nhiều loại, khác nhau /ˈveəriəs/
-5. **carving** : (n) điêu khắc, chạm khắc /ˈkɑːvɪŋ/
-6. **experience** : (v/n) trải nghiệm /ɪkˈspɪəriəns/
-7. **compete for** : (v phrase) tranh tài, cạnh tranh để giành /kəmˈpiːt fɔː/
-8. **cash** : (n) tiền mặt /kæʃ/
-9. **convenient** : (adj) tiện lợi /kənˈviːniənt/
-10. **independent** : (adj) độc lập /ˌɪndɪˈpendənt/
+3. **square kilometre** : (n) ki-lô-mét vuông /skweə kɪˈlɒmɪtə/
+4. **native** : (adj/n) bản địa, người bản địa /ˈneɪtɪv/
+5. **maintain** : (v) duy trì, gìn giữ /meɪnˈteɪn/
+6. **various** : (adj) nhiều loại, khác nhau /ˈveəriəs/
+7. **carving** : (n) điêu khắc, chạm khắc /ˈkɑːvɪŋ/
+8. **weaving** : (n) dệt vải /ˈwiːvɪŋ/
+9. **tribal** : (adj) thuộc bộ lạc /ˈtraɪbl/
+10. **drumming** : (n) đánh trống /ˈdrʌmɪŋ/
+11. **experience** : (v) trải nghiệm /ɪkˈspɪəriəns/
+12. **gallery** : (n) phòng trưng bày /ˈɡæləri/
+13. **dogsled** : (n) xe chó kéo /ˈdɒɡsled/
+14. **mushing** : (n) môn đua xe chó kéo /ˈmʌʃɪŋ/
+15. **mushers** : (n) người lái xe chó kéo /ˈmʌʃəz/
+16. **compete for** : (v phrase) tranh tài để giành /kəmˈpiːt fɔː/
+17. **cash** : (n) tiền mặt /kæʃ/
 </vocabulary>
 
 <!-- chunk: reading -->
 <teacher_script pause="0">
-Từ vựng xong rồi nha. Giờ mình đọc bài — <eng>Read the passage about the lifestyle of First Nations people in Canada</eng>. Đọc kỹ nha, sau đó làm bài tập.
+Từ vựng xong rồi nha. Giờ mình đọc bài về Alaska — bang lạnh nhất nước Mỹ với văn hóa người bản địa độc đáo.
 </teacher_script>
 
 <reading>
-## The First Nations People of Canada
+If you go to the American state of Alaska, you might find the traditional lifestyle there interesting. Although Alaska is quite large, with nearly 1.7 million square kilometres, it has a small population of about 730,000.
 
-Canada is quite a large and diverse country with a population of about 38 million people. Among them are the Aboriginal people, also known as First Nations, who have lived on this land for thousands of years.
+The native peoples in Alaska still maintain many of their traditions. They keep their old ways of making arts and crafts alive. Various native groups have their own special styles of carving or weaving as well as their unique tribal dances and drumming. Therefore, visitors to Alaska may experience some of their culture in their villages. They may see performances of traditional music and native art in galleries and museums.
 
-First Nations people maintain their traditional lifestyles in various ways. One of the most important is through native art. They are skilled at carving totem poles from wood — tall wooden poles with images of animals and figures that tell the story of a family or community. They also practice weaving, making crafts such as baskets, clothing, and jewelry from natural materials.
-
-Cultural galleries and festivals are another important way First Nations people keep their traditions alive. These events celebrate their history, music, dance, and art. Young people can experience traditional activities such as dogsled riding across snowy landscapes and tribal dances at cultural festivals.
-
-Traditional skill competitions are also popular in First Nations communities. Young and old alike compete for cash prizes by demonstrating skills passed down through generations — from carving and weaving to traditional games and cooking.
-
-Through these activities, First Nations people ensure that their unique lifestyle, language, and culture continue to thrive for future generations.
+Alaska is also known for its unusual method of transport - the dogsled. Today, dog sledding (= mushing) is more of a sport than a true means of transport. The best-known race is the Iditarod Trail Sled Dog Race, a 1,510 km race from Anchorage to Nome. Mushers from all over the world come to Anchorage each March to compete for cash and prizes.
 </reading>
 
 <teacher_script pause="0">
@@ -43,17 +44,11 @@ Through these activities, First Nations people ensure that their unique lifestyl
 </teacher_script>
 
 <translation>
-## Người Dân Bản Địa (First Nations) của Canada
+Nếu bạn đến bang Alaska của Mỹ, bạn có thể sẽ thấy lối sống truyền thống ở đó thú vị. Dù Alaska khá rộng lớn với diện tích gần 1,7 triệu ki-lô-mét vuông, nó có một dân số nhỏ khoảng 730.000 người.
 
-Canada là một đất nước khá rộng lớn và đa dạng với dân số khoảng 38 triệu người. Trong số đó có người Thổ dân, còn được gọi là First Nations (Dân tộc Đầu tiên), những người đã sống trên vùng đất này hàng ngàn năm.
+Người dân bản địa ở Alaska vẫn giữ được nhiều truyền thống của họ. Họ vẫn bảo tồn cách làm đồ mỹ thuật và thủ công của họ. Rất nhiều nhóm người bản địa có những kiểu chạm khắc và dệt may độc đáo của riêng họ cùng với những tiếng trống và vũ điệu bộ tộc độc đáo. Do đó, du khách đến Alaska sẽ trải nghiệm được một số văn hóa trong làng của họ. Họ sẽ thấy những màn biểu diễn âm nhạc truyền thống và những tác phẩm nghệ thuật bản địa trong các phòng trưng bày và viện bảo tàng.
 
-Người First Nations duy trì lối sống truyền thống của họ theo nhiều cách khác nhau. Một trong những cách quan trọng nhất là thông qua nghệ thuật bản địa. Họ có kỹ năng chạm khắc cột totem từ gỗ — những cột gỗ cao với hình ảnh các con vật và nhân vật kể câu chuyện về một gia đình hoặc cộng đồng. Họ cũng thực hành dệt vải, làm đồ thủ công như giỏ, quần áo và đồ trang sức từ nguyên liệu tự nhiên.
-
-Các phòng trưng bày văn hóa và lễ hội là một cách quan trọng khác để người First Nations gìn giữ truyền thống. Những sự kiện này tôn vinh lịch sử, âm nhạc, điệu múa và nghệ thuật của họ. Người trẻ có thể trải nghiệm các hoạt động truyền thống như đi xe chó kéo qua những cảnh quan tuyết phủ và các điệu múa bộ lạc tại các lễ hội văn hóa.
-
-Các cuộc thi kỹ năng truyền thống cũng rất phổ biến trong cộng đồng First Nations. Cả già lẫn trẻ đều tranh tài để giành giải thưởng bằng tiền mặt bằng cách trình diễn các kỹ năng được truyền lại qua nhiều thế hệ — từ chạm khắc và dệt vải đến các trò chơi truyền thống và nấu ăn.
-
-Thông qua các hoạt động này, người First Nations đảm bảo rằng lối sống, ngôn ngữ và văn hóa độc đáo của họ tiếp tục phát triển cho các thế hệ tương lai.
+Alaska được biết đến với một phương tiện đi lại đặc biệt – xe chó kéo. Ngày nay, chó kéo xe trượt tuyết trở thành một môn thể thao hơn là một phương thức vận chuyển. Cuộc đua chó kéo nổi tiếng nhất là cuộc đua Iditarod Trail Sled Dog Race, một cuộc đua dài 1.510 km từ Anchorage đến Nome. Người lái xe chó kéo từ khắp mọi nơi trên thế giới đến Anchorage mỗi tháng 3 để tranh giải tiền mặt và các phần thưởng.
 </translation>
 
 <teacher_script pause="180">
@@ -62,29 +57,26 @@ Thông qua các hoạt động này, người First Nations đảm bảo rằng 
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="45">
-Bài 2 nha — <eng>True or False</eng>. Đọc câu và xác định đúng (T) hay sai (F) dựa vào bài đọc. 45 giây đi.
+Bài 2 nha — <eng>Match the highlighted words with their meanings</eng>. Nối từ được in đậm với nghĩa của nó. 45 giây đi.
 </teacher_script>
 
 <task>
-**Đề:** Read the sentences and write T (True) or F (False).
-**Dịch đề:** Đọc các câu và viết T (Đúng) hoặc F (Sai).
+**Đề:** Match the highlighted words in the text with their meanings.
+**Dịch đề:** Nối các từ được đánh dấu trong văn bản với ý nghĩa của chúng.
 </task>
 
-<questions type="true_false">
-**1.** Canada has a large and diverse population.
-*Canada có dân số lớn và đa dạng.*
+<questions type="matching">
+| Từ | Nghĩa |
+|----|-------|
+| 1. maintain | a. particular ways of doing something |
+| 2. styles | b. people who drive dogsleds |
+| 3. experience | c. to do or feel something |
+| 4. mushers | d. to keep, make something continue |
 
-**2.** First Nations people maintain their traditional lifestyles.
-*Người First Nations duy trì lối sống truyền thống của họ.*
-
-**3.** Carving is no longer practised by indigenous people.
-*Điêu khắc không còn được người bản địa thực hành nữa.*
-
-**4.** Young people cannot participate in traditional activities.
-*Người trẻ không thể tham gia các hoạt động truyền thống.*
-
-**5.** Traditional skill competitions offer cash prizes.
-*Các cuộc thi kỹ năng truyền thống trao giải thưởng bằng tiền mặt.*
+*1. maintain — ?*
+*2. styles — ?*
+*3. experience — ?*
+*4. mushers — ?*
 </questions>
 
 <teacher_script pause="0">
@@ -92,51 +84,41 @@ Bài 2 nha — <eng>True or False</eng>. Đọc câu và xác định đúng (T)
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.T
+**Đáp án:** 1-d | 2-a | 3-c | 4-b
 </answer>
 
 <explanation>
-- **Câu 1 - T:** Bài đọc nói *"Canada is quite a large and diverse country with a population of about 38 million people"* → Đúng, Canada rộng lớn và đa dạng.
-- **Câu 2 - T:** Bài đọc nói *"First Nations people maintain their traditional lifestyles in various ways"* → Đúng, họ vẫn duy trì lối sống truyền thống.
-- **Câu 3 - F (SAI):** Bài đọc nói *"They are skilled at carving totem poles"* → Sai, điêu khắc vẫn được thực hành, thậm chí rất phổ biến.
-- **Câu 4 - F (SAI):** Bài đọc nói *"Young people can experience traditional activities such as dogsled riding"* → Sai, người trẻ hoàn toàn có thể tham gia.
-- **Câu 5 - T:** Bài đọc nói *"compete for cash prizes by demonstrating skills"* → Đúng, có trao giải thưởng bằng tiền mặt.
+- **1-d: maintain** = to keep, make something continue → duy trì, giữ cho cái gì đó tiếp tục
+- **2-a: styles** = particular ways of doing something → phong cách, cách làm riêng biệt
+- **3-c: experience** = to do or feel something → trải nghiệm, làm hoặc cảm nhận điều gì đó
+- **4-b: mushers** = people who drive dogsleds → người lái xe chó kéo
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 — trắc nghiệm nha. 4 câu hỏi về nội dung bài đọc. 1 phút đi.
+Bài 3 — đọc lại bài và trả lời 5 câu hỏi. Viết câu trả lời đầy đủ nha. 1 phút đi.
 </teacher_script>
 
 <task>
-**Đề:** Choose the best answer (A, B, or C) based on the reading passage.
-**Dịch đề:** Chọn câu trả lời đúng nhất (A, B, hoặc C) dựa vào bài đọc.
+**Đề:** Read the text again and answer the questions.
+**Dịch đề:** Đọc lại văn bản và trả lời các câu hỏi.
 </task>
 
-<questions type="multiple_choice">
-**1.** What is one way First Nations people maintain their culture?
-- A. Through native art and crafts
-- B. Through modern music
-- C. Through online videos
-*Một cách người First Nations duy trì văn hóa của họ là gì?*
+<questions type="short_answer">
+**1.** What is the population of Alaska?
+*Dân số của Alaska là bao nhiêu?*
 
-**2.** What type of art involves creating images from wood?
-- A. Weaving
-- B. Carving
-- C. Painting
-*Loại hình nghệ thuật nào liên quan đến việc tạo ra hình ảnh từ gỗ?*
+**2.** Who have special styles of carving or weaving?
+*Ai có phong cách đặc biệt trong điêu khắc và dệt vải?*
 
-**3.** What can young people experience at cultural festivals?
-- A. Modern technology
-- B. Western food
-- C. Traditional activities like dogsled riding
-*Người trẻ có thể trải nghiệm điều gì tại các lễ hội văn hóa?*
+**3.** Where can we find the culture of the native peoples in Alaska?
+*Chúng ta có thể tìm thấy văn hóa của người bản địa Alaska ở đâu?*
 
-**4.** What do skill competitions offer to winners?
-- A. Fame
-- B. Trophy
-- C. Cash prizes
-*Các cuộc thi kỹ năng trao gì cho người thắng?*
+**4.** How long is the Iditarod Trail Sled Dog Race?
+*Cuộc đua chó kéo Iditarod dài bao nhiêu?*
+
+**5.** Is the Iditarod Trail Sled Dog Race an international competition?
+*Cuộc đua chó kéo Iditarod có phải một cuộc thi quốc tế không?*
 </questions>
 
 <teacher_script pause="0">
@@ -144,118 +126,73 @@ Bài 3 — trắc nghiệm nha. 4 câu hỏi về nội dung bài đọc. 1 phú
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.C | 4.C
+**Đáp án:**
+1. It is about 730,000 (/ 730 thousand).
+2. Various native groups have their own special styles of carving or weaving.
+3. We can find it in their villages, galleries and museums.
+4. It is 1,510 km (long).
+5. Yes, it is. (Mushers from all over the world come to compete.)
 </answer>
 
 <explanation>
-- **Câu 1 - A:** *"One of the most important is through native art... weaving, making crafts"* → Đáp án A: nghệ thuật bản địa và đồ thủ công.
-- **Câu 2 - B:** *"skilled at carving totem poles from wood"* → *Carving* (điêu khắc) là tạo hình ảnh từ gỗ. Đáp án B.
-- **Câu 3 - C:** *"Young people can experience traditional activities such as dogsled riding"* → Đáp án C: hoạt động truyền thống như đi xe chó kéo.
-- **Câu 4 - C:** *"compete for cash prizes"* → Đáp án C: giải thưởng bằng tiền mặt (*cash prizes*).
+- **Câu 1:** Bài đọc nói *"it has a small population of about 730,000"* → Dân số khoảng 730.000 người.
+- **Câu 2:** Bài đọc nói *"Various native groups have their own special styles of carving or weaving"* → Các nhóm bản địa khác nhau có phong cách riêng.
+- **Câu 3:** Bài đọc nói *"experience some of their culture in their villages"* và *"see performances... in galleries and museums"* → Trong làng, phòng trưng bày và bảo tàng.
+- **Câu 4:** Bài đọc nói *"a 1,510 km race from Anchorage to Nome"* → Cuộc đua dài 1.510 km.
+- **Câu 5:** Bài đọc nói *"Mushers from all over the world come to Anchorage"* → Đúng, đó là cuộc thi quốc tế vì có người từ khắp thế giới tham gia.
 </explanation>
 
 <!-- chunk: speaking -->
 <teacher_script pause="0">
-Xong phần đọc rồi nha. Giờ mình qua phần <eng>Speaking</eng> — nói về truyền thống ở địa phương các em. Xem câu hỏi gợi ý đi.
+Xong phần đọc rồi nha. Giờ mình qua phần <eng>Speaking</eng> — nói về cách người dân ở một số nơi duy trì lối sống truyền thống.
 </teacher_script>
 
 <task>
-**Đề:** Discuss: What do people in your community do to maintain their traditional lifestyle?
-**Dịch đề:** Thảo luận: Người dân ở cộng đồng em làm gì để duy trì lối sống truyền thống?
+**Đề (Bài 4):** Work in pairs. Look at the pictures and use the cues to talk about what people in some places do to maintain their traditional lifestyle.
+**Dịch đề:** Làm việc theo cặp. Nhìn vào các bức tranh và sử dụng các gợi ý để nói về những gì người dân ở một số nơi làm để duy trì lối sống truyền thống.
 </task>
 
 <grammar>
-**Câu gợi ý / Useful language:**
+**Gợi ý các địa điểm:**
 
-- *"In my community, people maintain their traditions by..."*
-- *"People often attend... / celebrate... / practise..."*
-- *"Young people experience traditional activities such as..."*
-- *"One unique tradition in my area is..."*
-- *"Every year, we compete in..."*
+| Địa điểm | Hoạt động |
+|----------|-----------|
+| Chau An Village | performing traditional dances, holding festivals |
+| Dam Ri Village | cooking and selling traditional food, making crafts |
+| Son Ca Village | weaving clothing, singing folk songs |
 
-**Ví dụ:**
-*"In my community, people maintain their traditions by attending the Tet festival every year. We eat traditional food like banh chung and give lucky money. Young people experience activities like lion dances and folk games. It is a great way to keep our culture alive."*
+**Mẫu câu hỏi-đáp:**
+- *A: What do people in [place] do to maintain their traditional lifestyle?*
+- *B: They [activity 1]. They also [activity 2].*
 </grammar>
 
 <questions type="speaking">
-Nói về lối sống truyền thống ở địa phương em. Đề cập đến:
-- Hoạt động truyền thống phổ biến ở nơi em sống
-- Lễ hội hoặc sự kiện văn hóa
-- Cách người trẻ tham gia
+**Mẫu hội thoại:**
+
+**A:** What do people in Chau An Village do to maintain their traditional lifestyle?
+**B:** They perform traditional dances. They also hold festivals.
+
+**A:** What do people in Dam Ri Village do to maintain their traditional lifestyle?
+**B:** They cook and sell traditional food. They also make crafts.
+
+**A:** What do people in Son Ca Village do to maintain their traditional lifestyle?
+**B:** They weave clothing. They also sing folk songs.
 </questions>
 
-<teacher_script action="record" pause="0">
-Ok, đến lượt các em nói nha. Bấm nút ghi âm và chia sẻ về lối sống truyền thống ở địa phương mình. Tự nhiên thôi, không cần hoàn hảo đâu!
-</teacher_script>
-
-<!-- chunk: writing-vocab -->
 <teacher_script pause="0">
-Xong phần nói rồi. Giờ mình qua phần <eng>Writing</eng> — viết về ưu và nhược điểm của học trực tuyến. Học từ vựng trước nha.
-</teacher_script>
-
-<vocabulary>
-1. **convenient** : (adj) tiện lợi /kənˈviːniənt/
-2. **comfortable** : (adj) thoải mái /ˈkʌmftəbl/
-3. **difficult to concentrate** : (phrase) khó tập trung /ˈdɪfɪkəlt tə ˈkɒnsntreɪt/
-4. **more freedom** : (phrase) nhiều tự do hơn /mɔː ˈfriːdəm/
-5. **no real interaction** : (phrase) không có tương tác thực /noʊ rɪəl ˌɪntərˈækʃn/
-6. **independent** : (adj) độc lập /ˌɪndɪˈpendənt/
-7. **harmful to our eyes** : (phrase) có hại cho mắt /ˈhɑːmfl tə aʊər aɪz/
-8. **expensive equipment** : (phrase) thiết bị đắt tiền /ɪkˈspensɪv ɪˈkwɪpmənt/
-</vocabulary>
-
-<!-- chunk: exercise-5 -->
-<teacher_script pause="0">
-Bài 5 nha — đọc đoạn văn mẫu về ưu điểm của học trực tuyến. Sau đó các em tự viết một đoạn về nhược điểm nha.
+Bài 5 — hỏi và trả lời về cách người dân ở khu vực của em duy trì lối sống truyền thống. Dùng ý tưởng từ bài 4 và bài đọc nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the model paragraph about the advantages of online learning. Then write a paragraph about the disadvantages.
-**Dịch đề:** Đọc đoạn văn mẫu về ưu điểm của học trực tuyến. Sau đó viết một đoạn về nhược điểm.
+**Đề (Bài 5):** Work in pairs. Ask and answer about how people in your area maintain their traditional lifestyle.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về cách người dân trong khu vực của bạn duy trì lối sống truyền thống.
 </task>
 
-<reading>
-**Model paragraph — Advantages of online learning:**
-
-Online learning has many advantages for students. First, it allows them to study safely from home during situations like the Coronavirus, helping them avoid illness. Second, it uses new technology, making it easy to watch lesson videos, communicate with teachers, and get quick feedback on homework. Finally, online learning helps students become more independent, improving their time management and focus. Overall, online learning is a convenient and modern way to help students succeed in their studies.
-
----
-
-**Đoạn văn mẫu — Ưu điểm của học trực tuyến:**
-
-Học trực tuyến có nhiều ưu điểm đối với học sinh. Thứ nhất, nó cho phép các em học an toàn ở nhà trong các tình huống như dịch Coronavirus, giúp các em tránh bị bệnh. Thứ hai, nó sử dụng công nghệ mới, giúp dễ dàng xem video bài học, liên lạc với giáo viên và nhận phản hồi nhanh về bài tập về nhà. Cuối cùng, học trực tuyến giúp học sinh trở nên độc lập hơn, cải thiện khả năng quản lý thời gian và tập trung. Nhìn chung, học trực tuyến là một cách thuận tiện và hiện đại để giúp học sinh thành công trong học tập.
-</reading>
-
-<grammar>
-**Từ nối hữu ích / Useful linking words:**
-
-| Vị trí | Từ nối | Nghĩa |
-|--------|--------|-------|
-| Mở đầu | *However, ... has many disadvantages* | Tuy nhiên, ... có nhiều nhược điểm |
-| Điểm 1 | *First, / Firstly,* | Thứ nhất, |
-| Điểm 2 | *Second, / In addition,* | Thứ hai, / Ngoài ra, |
-| Điểm 3 | *Finally, / Furthermore,* | Cuối cùng, / Hơn nữa, |
-| Kết luận | *Overall, / In conclusion,* | Nhìn chung, / Tóm lại, |
-
-**Nhược điểm cần đề cập:** *difficult to concentrate / no real interaction / harmful to our eyes / expensive equipment*
-</grammar>
-
-<questions type="writing">
-Viết một đoạn văn (80–100 từ) về **nhược điểm của học trực tuyến**.
-
-Gợi ý cấu trúc:
-1. Câu mở đầu: *"However, online learning also has some disadvantages."*
-2. Nhược điểm 1: khó tập trung (*difficult to concentrate*)
-3. Nhược điểm 2: không có tương tác thực (*no real interaction*)
-4. Nhược điểm 3: có hại cho mắt / thiết bị đắt tiền
-5. Câu kết: tổng kết nhược điểm
-</questions>
-
-<teacher_script action="photo" pause="0">
-Ok, các em viết đoạn văn vô vở rồi chụp hình nộp nha. Nhớ viết ít nhất 80 từ và dùng các từ nối đã học đó!
+<teacher_script action="record" pause="0">
+Ok, đến lượt các em nói nha. Bấm nút ghi âm và chia sẻ về lối sống truyền thống ở địa phương mình. Ví dụ: lễ hội, đồ ăn truyền thống, nghề thủ công...
 </teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng> rồi nha! Các em đã đọc về người First Nations ở Canada, thảo luận về truyền thống địa phương và viết về học trực tuyến. Bài <eng>Looking Back</eng> mình ôn tập lại toàn bộ Unit 6. Hẹn gặp lại hen!
+Xong bài <eng>Skills 1</eng> rồi nha! Các em đã đọc về người bản địa Alaska và xe chó kéo, rồi nói về cách duy trì lối sống truyền thống. Nhớ: <eng>maintain</eng> = duy trì, <eng>dogsled</eng> = xe chó kéo, <eng>mushers</eng> = người lái xe chó kéo. Bài sau là <eng>Skills 2</eng> nha. Hẹn gặp lại hen!
 </teacher_script>

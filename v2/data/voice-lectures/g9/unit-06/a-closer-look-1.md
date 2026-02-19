@@ -1,79 +1,57 @@
 # UNIT 6: VIET NAM: THEN AND NOW
-## A CLOSER LOOK 1 - Từ vựng & Phát âm
+## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 9, tiếp tục Unit 6 nha — bài <eng>A Closer Look 1</eng>. Hôm nay mình học từ vựng về sự thay đổi trong giáo dục, trang phục và phương tiện giao thông — qua câu chuyện của bạn bè từ Tokyo, New Delhi và Cairo luôn. Mở sách, ghi tựa bài, rồi bấm "Bắt đầu" để học từ vựng đi nha.
+Ok lớp 9, tiếp tục Unit 6 nha — bài <eng>A Closer Look 1</eng>. Hôm nay mình học từ vựng về sự thay đổi trong lối sống Việt Nam — gia đình, học tập và giải trí. Mở sách trang 62, ghi tựa bài rồi bấm "Bắt đầu" học từ vựng đi nha.
 </teacher_script>
 
 <vocabulary>
-1. **monk** : (n) nhà sư /mʌŋk/
-2. **profession** : (n) nghề nghiệp /prəˈfeʃən/
-3. **professional training** : (n phrase) đào tạo chuyên nghiệp /prəˈfeʃənəl ˈtreɪnɪŋ/
-4. **comfort** : (n) sự thoải mái /ˈkʌmfət/
-5. **style** : (n) phong cách /staɪl/
-6. **instead** : (adv) thay vào đó /ɪnˈsted/
-7. **replace** : (v) thay thế /rɪˈpleɪs/
-8. **transportation** : (n) phương tiện giao thông /ˌtrænspɔːˈteɪʃən/
-9. **temple school** : (n phrase) trường chùa /ˈtempəl skuːl/
-10. **western wear** : (n phrase) trang phục phương Tây /ˈwestən weə/
-11. **ancestor** : (n) tổ tiên /ˈænsestə/
-12. **trade** : (v/n) buôn bán /treɪd/
-13. **convenience** : (n) sự tiện lợi /kənˈviːniəns/
-14. **era** : (n) thời đại /ˈɪərə/
+1. **take notes** : (phrase) ghi chú /teɪk nəʊts/
+2. **depend on** : (phrase) phụ thuộc vào /dɪˈpend ɒn/
+3. **exactly** : (adv) chính xác /ɪɡˈzæktli/
+4. **memorise** : (v) ghi nhớ /ˈmeməraɪz/
+5. **pursue** : (v) theo đuổi /pəˈsjuː/
+6. **replace** : (v) thay thế /rɪˈpleɪs/
+7. **rely on** : (phrase) dựa vào /rɪˈlaɪ ɒn/
+8. **achieve** : (v) đạt được /əˈtʃiːv/
+9. **extended** : (adj) mở rộng (gia đình nhiều thế hệ) /ɪkˈstendɪd/
+10. **democratic** : (adj) dân chủ /ˌdeməˈkrætɪk/
+11. **various** : (adj) đa dạng, nhiều loại /ˈveəriəs/
+12. **family-oriented** : (adj) hướng về gia đình /ˈfæmɪli ˈɔːrientɪd/
+13. **privacy** : (n) sự riêng tư /ˈprɪvəsi/
+14. **equal right** : (n phrase) quyền bình đẳng /ˈiːkwəl raɪt/
+15. **relationship** : (n) mối quan hệ /rɪˈleɪʃənʃɪp/
 </vocabulary>
 
 <teacher_script pause="0">
 Xong từ vựng rồi nha. Làm trắc nghiệm từ vựng đi, rồi ghi vô tập — nhớ ghi cả nghĩa tiếng Việt và phiên âm nha.
 </teacher_script>
 
-<!-- chunk: reading -->
-<teacher_script pause="0">
-Giờ mình đọc ba đoạn văn ngắn nha. Ba bạn Aki ở Tokyo, Sanjay ở New Delhi, và Asim ở Cairo — mỗi bạn kể về sự thay đổi ở quê hương mình. Đọc kỹ từng đoạn nha.
-</teacher_script>
-
-<reading>
-**Aki — Tokyo, Japan**
-"In the past, children in Japan studied at temple schools called 'terakoya'. Boys learned reading, writing, and accounting. Today, Japanese schools are modern with computers and internet. I study English and science too. Education has changed completely."
-
-**Sanjay — New Delhi, India**
-"My grandmother wore traditional saris every day. Now young people often prefer western-style clothes — jeans and T-shirts. Traditional costumes are mostly worn at weddings and festivals now. Comfort and style have replaced strict tradition."
-
-**Asim — Cairo, Egypt**
-"A hundred years ago, people in Cairo used horses and camels for transportation. Merchants would travel great distances by camel to trade. Now we have planes, ships, and trains. The old ways have almost disappeared, though camels are still used in rural areas."
-</reading>
-
-<translation>
-**Aki — Tokyo, Nhật Bản**
-"Ngày xưa, trẻ em Nhật học ở các trường chùa gọi là 'terakoya'. Con trai học đọc, viết và tính toán. Ngày nay, trường học Nhật hiện đại với máy tính và internet. Tôi còn học tiếng Anh và khoa học nữa. Giáo dục đã thay đổi hoàn toàn."
-
-**Sanjay — New Delhi, Ấn Độ**
-"Bà tôi mặc sari truyền thống mỗi ngày. Bây giờ giới trẻ thường thích trang phục phương Tây hơn — quần jeans và áo thun. Trang phục truyền thống chủ yếu được mặc trong đám cưới và lễ hội. Sự thoải mái và phong cách đã thay thế truyền thống nghiêm khắc."
-
-**Asim — Cairo, Ai Cập**
-"Một trăm năm trước, người dân Cairo dùng ngựa và lạc đà để đi lại. Các thương nhân đi những quãng đường dài bằng lạc đà để buôn bán. Bây giờ chúng tôi có máy bay, tàu thủy và tàu hỏa. Những phương tiện cũ gần như đã biến mất, dù lạc đà vẫn còn được dùng ở vùng nông thôn."
-</translation>
-
-<teacher_script pause="180">
-Dịch ba đoạn văn vô vở nha — ghi tên từng bạn và thành phố cho rõ. Có 3 phút.
-</teacher_script>
-
 <!-- chunk: exercise-1 -->
 <teacher_script pause="60">
-Bài 1 nha — <eng>Matching</eng>. Nối chủ đề với thành phố đúng. Đọc lại ba đoạn rồi nối nha. Có 1 phút.
+Bài 1 trang 62 nha — <eng>Matching</eng>. Nối động từ hoặc cụm động từ với nghĩa đúng. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match each topic to the correct city.
-**Dịch đề:** Nối mỗi chủ đề với thành phố đúng.
+**Đề:** Match the verbs or phrasal verbs with their meanings.
+**Dịch đề:** Nối các động từ hoặc cụm động từ với nghĩa của chúng.
 </task>
 
 <questions type="matching">
-| Topic / Chủ đề | City / Thành phố |
-|----------------|-----------------|
-| 1. Education / Giáo dục | A. Asim / Cairo |
-| 2. Clothes / Trang phục | B. Aki / Tokyo |
-| 3. Transportation / Giao thông | C. Sanjay / New Delhi |
+| Verbs / Động từ | Meanings / Nghĩa |
+|-----------------|------------------|
+| 1. take notes | a. to make something no longer be used |
+| 2. depend on | b. to have trust in |
+| 3. replace | c. to write down information |
+| 4. rely on | d. to be affected by |
+| 5. achieve | e. to succeed in getting a result |
+
+*1. take notes — ?*
+*2. depend on — ?*
+*3. replace — ?*
+*4. rely on — ?*
+*5. achieve — ?*
 </questions>
 
 <teacher_script pause="0">
@@ -81,44 +59,44 @@ Bài 1 nha — <eng>Matching</eng>. Nối chủ đề với thành phố đúng.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1 — B (Aki / Tokyo) | 2 — C (Sanjay / New Delhi) | 3 — A (Asim / Cairo)
+**Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
 </answer>
 
 <explanation>
-**1 — B (Aki / Tokyo):** Aki kể về trường chùa *terakoya* và trường học hiện đại ngày nay — đây là chủ đề giáo dục nha.
-
-**2 — C (Sanjay / New Delhi):** Sanjay kể về sari truyền thống vs quần jeans và áo thun — đây là chủ đề trang phục.
-
-**3 — A (Asim / Cairo):** Asim kể về ngựa và lạc đà ngày xưa vs máy bay và tàu ngày nay — chủ đề phương tiện giao thông luôn.
+- **1-c: take notes** = to write down information → ghi chú, viết thông tin ra giấy
+- **2-d: depend on** = to be affected by → phụ thuộc vào, bị ảnh hưởng bởi
+- **3-a: replace** = to make something no longer be used → thay thế, làm cho cái gì không còn được dùng nữa
+- **4-b: rely on** = to have trust in → dựa vào, tin tưởng vào
+- **5-e: achieve** = to succeed in getting a result → đạt được kết quả
 </explanation>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 nha — điền từ vô chỗ trống. Dùng từ trong ô để điền cho đúng nha. Có 1 phút.
+Bài 2 trang 62 nha — điền từ vào chỗ trống. Dùng từ trong ô: <eng>extended, democratic, various, personal, family-oriented</eng>. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words from the box.
-**Dịch đề:** Điền từ đúng vào chỗ trống từ ô từ cho sẵn.
+**Đề:** Fill in each blank with one of the words from the box.
+**Dịch đề:** Điền từ đúng vào mỗi chỗ trống từ ô từ cho sẵn.
 
-*Word box: temple schools / traditional / western / comfort / camels*
+*Word box: extended / democratic / various / personal / family-oriented*
 </task>
 
 <questions type="fill_blanks">
-**1.** In old Japan, children studied at ________ called terakoya.
-*Ở Nhật ngày xưa, trẻ em học ở ________ gọi là terakoya.*
+**1.** Four generations live in my house: my great grandparents, my grandparents, my parents and me. We have an ________ family.
+*Bốn thế hệ sống trong nhà tôi: ông bà cố, ông bà, bố mẹ và tôi. Chúng tôi có một gia đình ________.*
 
-**2.** Sanjay's grandmother wore ________ saris every day.
-*Bà của Sanjay mặc sari ________ mỗi ngày.*
+**2.** In our group, everybody has equal rights to speak and work. We make decisions in a ________ way.
+*Trong nhóm chúng tôi, mọi người đều có quyền nói và làm việc bình đẳng. Chúng tôi đưa ra quyết định theo cách ________.*
 
-**3.** Young people in India now prefer ________ clothes like jeans and T-shirts.
-*Giới trẻ Ấn Độ bây giờ thích quần áo ________ như jeans và áo thun.*
+**3.** They have ________ interests, so they go to different clubs after school.
+*Họ có sở thích ________, nên họ đi các câu lạc bộ khác nhau sau giờ học.*
 
-**4.** ________ and style have replaced strict tradition in fashion.
-*________ và phong cách đã thay thế truyền thống nghiêm khắc trong thời trang.*
+**4.** He needs his ________ space, so he always does his homework alone in his room.
+*Anh ấy cần không gian ________ của mình, nên anh ấy luôn làm bài tập một mình trong phòng.*
 
-**5.** In Cairo's past, merchants used ________ to travel and trade.
-*Ngày xưa ở Cairo, các thương nhân dùng ________ để đi lại và buôn bán.*
+**5.** Vietnamese people are very ________. They often gather together on special occasions.
+*Người Việt Nam rất ________. Họ thường tụ họp vào những dịp đặc biệt.*
 </questions>
 
 <teacher_script pause="0">
@@ -126,46 +104,62 @@ Bài 2 nha — điền từ vô chỗ trống. Dùng từ trong ô để điền
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. temple schools | 2. traditional | 3. western | 4. Comfort | 5. camels
+**Đáp án:** 1. extended | 2. democratic | 3. various | 4. personal | 5. family-oriented
 </answer>
 
 <explanation>
-**1. temple schools** — Aki nói *"studied at temple schools called 'terakoya'"* — trường chùa là *temple schools* nha.
-
-**2. traditional** — Bà Sanjay mặc sari truyền thống — *traditional saris* — mỗi ngày.
-
-**3. western** — Giới trẻ bây giờ thích trang phục phương Tây — *western-style clothes* — jeans và áo thun.
-
-**4. Comfort** — Asim nói *"Comfort and style have replaced strict tradition"* — sự thoải mái và phong cách đã thay thế truyền thống.
-
-**5. camels** — Asim nói *"Merchants would travel great distances by camel to trade"* — lạc đà là phương tiện chính ngày xưa nha.
+- **Câu 1 - extended:** Bốn thế hệ sống cùng nhau → *extended family* = gia đình mở rộng (nhiều thế hệ)
+- **Câu 2 - democratic:** Mọi người có quyền bình đẳng → *democratic* = dân chủ, bình đẳng trong quyết định
+- **Câu 3 - various:** Họ có sở thích khác nhau → *various interests* = nhiều sở thích đa dạng
+- **Câu 4 - personal:** Cần không gian riêng → *personal space* = không gian cá nhân, riêng tư
+- **Câu 5 - family-oriented:** Người Việt thích tụ họp gia đình → *family-oriented* = hướng về gia đình
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 nha — <eng>True or False</eng>. Đọc câu rồi xác định đúng hay sai dựa vào ba đoạn văn. Có 1 phút nha.
+Bài 3 trang 62 nha — trắc nghiệm. Chọn đáp án đúng để hoàn thành câu. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Read the statements and write True (T) or False (F).
-**Dịch đề:** Đọc các câu và ghi True (T) hoặc False (F).
+**Đề:** Choose the best answer (A, B, C or D) to complete each sentence.
+**Dịch đề:** Chọn đáp án đúng nhất (A, B, C hoặc D) để hoàn thành mỗi câu.
 </task>
 
-<questions type="true_false">
-**1.** Terakoya were temple schools in Japan. (T/F)
-*Terakoya là trường chùa ở Nhật.*
+<questions type="multiple_choice">
+**1.** In the past, children had to ________ everything the teacher said.
+- A. memorise
+- B. achieve
+- C. pursue
+- D. replace
+*Ngày xưa, học sinh phải ________ mọi thứ thầy cô nói.*
 
-**2.** Sanjay's grandmother wore western clothes every day. (T/F)
-*Bà của Sanjay mặc quần áo phương Tây mỗi ngày.*
+**2.** Students today can ________ a lot of information on the Internet.
+- A. take notes
+- B. depend on
+- C. rely on
+- D. achieve
+*Học sinh ngày nay có thể ________ nhiều thông tin trên Internet.*
 
-**3.** Young people in India today often prefer western-style clothes. (T/F)
-*Giới trẻ Ấn Độ ngày nay thường thích trang phục phương Tây hơn.*
+**3.** Today, young people have more freedom to ________ their interests.
+- A. memorise
+- B. pursue
+- C. replace
+- D. rely on
+*Ngày nay, người trẻ có nhiều tự do hơn để ________ sở thích của họ.*
 
-**4.** Camels have completely disappeared from Egypt. (T/F)
-*Lạc đà đã biến mất hoàn toàn khỏi Ai Cập.*
+**4.** Technology has ________ many traditional teaching methods.
+- A. achieved
+- B. memorised
+- C. replaced
+- D. pursued
+*Công nghệ đã ________ nhiều phương pháp dạy học truyền thống.*
 
-**5.** Planes, ships, and trains have replaced horses and camels in Cairo. (T/F)
-*Máy bay, tàu thủy và tàu hỏa đã thay thế ngựa và lạc đà ở Cairo.*
+**5.** Students don't ________ textbooks only; they also use online resources.
+- A. replace
+- B. pursue
+- C. achieve
+- D. depend on
+*Học sinh không chỉ ________ vào sách giáo khoa; họ còn dùng tài liệu trực tuyến.*
 </questions>
 
 <teacher_script pause="0">
@@ -173,101 +167,89 @@ Bài 3 nha — <eng>True or False</eng>. Đọc câu rồi xác định đúng h
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.F | 3.T | 4.F | 5.T
+**Đáp án:** 1.A | 2.C | 3.B | 4.C | 5.D
 </answer>
 
 <explanation>
-**1.T** — Aki nói rõ *"temple schools called 'terakoya'"* — đúng nha, terakoya là trường chùa.
-
-**2.F** — Sai nha! Bà của Sanjay mặc *sari truyền thống* mỗi ngày, không phải trang phục phương Tây. Trang phục phương Tây là của giới trẻ bây giờ.
-
-**3.T** — Sanjay nói *"young people often prefer western-style clothes"* — đúng luôn.
-
-**4.F** — Sai nha! Asim nói *"camels are still used in rural areas"* — lạc đà vẫn còn dùng ở vùng nông thôn, chưa biến mất hoàn toàn.
-
-**5.T** — Asim nói *"Now we have planes, ships, and trains"* — đúng, đã thay thế ngựa và lạc đà rồi.
+- **Câu 1 - A (memorise):** Ngày xưa học sinh phải *ghi nhớ* (memorise) mọi thứ thầy cô nói.
+- **Câu 2 - C (rely on):** Học sinh có thể *dựa vào* (rely on) thông tin trên Internet.
+- **Câu 3 - B (pursue):** Người trẻ có tự do *theo đuổi* (pursue) sở thích.
+- **Câu 4 - C (replaced):** Công nghệ đã *thay thế* (replaced) phương pháp truyền thống.
+- **Câu 5 - D (depend on):** Học sinh không chỉ *phụ thuộc vào* (depend on) sách giáo khoa.
 </explanation>
 
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
-Giờ mình học phần phát âm nha — <eng>Stress in 2-syllable nouns vs verbs</eng>. Đây là quy tắc rất hay luôn — cùng một từ nhưng cách nhấn âm khác nhau tùy theo từ loại nha!
+Xong phần từ vựng rồi nha. Giờ qua phần <eng>Pronunciation</eng> — luyện phát âm từ có trọng âm khác nhau khi là danh từ và động từ.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0815/034.mp3">
+**Audio:** Bài 4 - Listen and repeat
+</audio>
+
 <grammar>
-## Phát âm: Trọng âm trong từ 2 âm tiết — Danh từ vs Động từ
+**Quy tắc trọng âm — Noun vs Verb:**
 
-**Quy tắc:**
-- Danh từ 2 âm tiết → nhấn âm tiết **ĐẦU** (âm tiết 1)
-- Động từ 2 âm tiết → nhấn âm tiết **SAU** (âm tiết 2)
+| Word | Noun (Danh từ) | Verb (Động từ) |
+|------|----------------|----------------|
+| **increase** | **IN**-crease /ˈɪnkriːs/ | in-**CREASE** /ɪnˈkriːs/ |
+| **permit** | **PER**-mit /ˈpɜːmɪt/ | per-**MIT** /pəˈmɪt/ |
+| **protest** | **PRO**-test /ˈprəʊtest/ | pro-**TEST** /prəˈtest/ |
 
-| Từ | Danh từ (N) | Động từ (V) |
-|----|------------|------------|
-| record | **RE**-cord (bản ghi âm) | re-**CORD** (ghi âm) |
-| present | **PRE**-sent (quà / bài thuyết trình) | pre-**SENT** (trình bày) |
-| rebel | **RE**-bel (kẻ nổi loạn) | re-**BEL** (nổi loạn) |
-| conduct | **CON**-duct (hành vi) | con-**DUCT** (điều hành) |
-
-**Mẹo nhớ:** Danh từ = âm **ĐẦU** tiên | Động từ = âm **SAU** (phía sau mới hành động!)
+**Mẹo nhớ:**
+- **Danh từ → nhấn âm đầu** (âm tiết 1)
+- **Động từ → nhấn âm sau** (âm tiết 2)
 </grammar>
 
 <teacher_script pause="0">
-Thấy pattern chưa nha? Danh từ nhấn âm đầu, động từ nhấn âm sau. Nghe tự nhiên hơn khi nói đúng trọng âm lắm đó. Giờ làm bài tập nha.
+Nghe và lặp lại theo nha. Chú ý sự khác biệt trọng âm giữa danh từ và động từ.
 </teacher_script>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 nha — đánh dấu trọng âm đúng cho danh từ và động từ. Viết dạng danh từ và động từ với trọng âm đúng nha. Có 1 phút.
+Bài 4 trang 62 nha — nghe và đánh dấu trọng âm cho mỗi từ khi là danh từ và động từ. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Mark the correct stress for each word as a noun (N) and as a verb (V).
-**Dịch đề:** Đánh dấu trọng âm đúng cho mỗi từ khi là danh từ (N) và khi là động từ (V).
+**Đề:** Listen and mark the stress for each word as a noun and as a verb.
+**Dịch đề:** Nghe và đánh dấu trọng âm cho mỗi từ khi là danh từ và động từ.
 </task>
 
-<questions type="fill_blanks">
-**1.** increase
-- As a noun (N): ________ (stress on which syllable?)
-- As a verb (V): ________ (stress on which syllable?)
-
-**2.** permit
-- As a noun (N): ________
-- As a verb (V): ________
-
-**3.** protest
-- As a noun (N): ________
-- As a verb (V): ________
+<questions type="pronunciation">
+**1.** increase: (N) ________ | (V) ________
+**2.** permit: (N) ________ | (V) ________
+**3.** protest: (N) ________ | (V) ________
 </questions>
 
 <teacher_script pause="0">
-Đáp án bài phát âm nè.
+Đáp án nè.
 </teacher_script>
 
 <answer>
-**1.** increase: (N) **IN**-crease | (V) in-**CREASE**
-**2.** permit: (N) **PER**-mit | (V) per-**MIT**
-**3.** protest: (N) **PRO**-test | (V) pro-**TEST**
+**Đáp án:**
+- **1.** increase: (N) **IN**-crease | (V) in-**CREASE**
+- **2.** permit: (N) **PER**-mit | (V) per-**MIT**
+- **3.** protest: (N) **PRO**-test | (V) pro-**TEST**
 </answer>
 
 <explanation>
 **1. increase:**
-- (N) **IN**-crease = sự tăng lên (danh từ → nhấn âm đầu *IN*)
-- (V) in-**CREASE** = tăng lên (động từ → nhấn âm sau *CREASE*)
+- (N) **IN**-crease = sự tăng lên → nhấn âm đầu *IN*
+- (V) in-**CREASE** = tăng lên → nhấn âm sau *CREASE*
 - Ví dụ: *There was an **IN**-crease in prices.* / *Prices in-**CREASE**d last year.*
 
 **2. permit:**
-- (N) **PER**-mit = giấy phép (danh từ → nhấn *PER*)
-- (V) per-**MIT** = cho phép (động từ → nhấn *MIT*)
+- (N) **PER**-mit = giấy phép → nhấn *PER*
+- (V) per-**MIT** = cho phép → nhấn *MIT*
 - Ví dụ: *Do you have a **PER**-mit?* / *They don't per-**MIT** smoking here.*
 
 **3. protest:**
-- (N) **PRO**-test = cuộc biểu tình (danh từ → nhấn *PRO*)
-- (V) pro-**TEST** = phản đối / biểu tình (động từ → nhấn *TEST*)
-- Ví dụ: *The **PRO**-test lasted all day.* / *Students pro-**TEST**ed the new rules.*
-
-Nhớ quy tắc nha: **Danh từ → âm ĐẦU | Động từ → âm SAU!**
+- (N) **PRO**-test = cuộc biểu tình → nhấn *PRO*
+- (V) pro-**TEST** = phản đối → nhấn *TEST*
+- Ví dụ: *There was a **PRO**-test yesterday.* / *They pro-**TEST**ed against the decision.*
 </explanation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>A Closer Look 1</eng> Unit 6 rồi nha! Hôm nay mình học từ vựng về giáo dục, trang phục và giao thông qua ba đất nước — Nhật, Ấn Độ và Ai Cập. Thêm quy tắc trọng âm từ 2 âm tiết nữa — nhớ: danh từ nhấn âm đầu, động từ nhấn âm sau nha! Ôn lại ở nhà rồi bài sau mình học ngữ pháp <eng>A Closer Look 2</eng>. Học tốt hen!
+Xong bài <eng>A Closer Look 1</eng> Unit 6 rồi nha! Các em đã học từ vựng về lối sống Việt Nam — <eng>extended family</eng> = gia đình mở rộng, <eng>democratic</eng> = dân chủ, <eng>family-oriented</eng> = hướng về gia đình. Nhớ quy tắc trọng âm: danh từ nhấn âm đầu, động từ nhấn âm sau. Bài sau là <eng>A Closer Look 2</eng> — ngữ pháp. Hẹn gặp lại hen!
 </teacher_script>
