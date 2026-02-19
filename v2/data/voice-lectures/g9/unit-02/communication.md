@@ -52,12 +52,15 @@ Bây giờ nghe và đọc hai hội thoại mẫu nha. Chú ý các câu <eng>O
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Duong's dad:** I can take you to the airport if you like. | **Bố Dương:** Bố có thể đưa con ra sân bay nếu con thích. |
-| **Duong:** Thanks, Dad. | **Dương:** Cảm ơn bố. |
-| **Minh:** Would you like me to give you a ride home? | **Minh:** Bạn có muốn tôi chở bạn về nhà không? |
-| **Hoang:** Thank you. That's so kind of you. | **Hoàng:** Cảm ơn bạn. Bạn thật là tốt bụng. |
+**1.**
+
+**Duong's dad:** I can take you to the airport if you like.
+**Duong:** Thanks, Dad.
+
+**2.**
+
+**Minh:** Would you like me to give you a ride home?
+**Hoang:** Thank you. That's so kind of you.
 </dialogue>
 
 <teacher_script pause="180">

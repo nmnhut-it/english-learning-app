@@ -68,10 +68,10 @@ Bài 1 — <eng>Listen and read</eng> nha. Hai hội thoại về xin lỗi và 
 <audio src="30.mp3"></audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mai:** Can I come in? I'm really sorry. I'm late. There was a lot of traffic. | **Mai:** Em vào lớp được không ạ? Em thực sự xin lỗi. Em đến trễ. Em bị kẹt xe. |
-| **Teacher:** That's okay, Mai. | **Giáo viên:** Không sao đâu Mai. |
+**1.**
+
+**Mai:** Can I come in? I'm really sorry. I'm late. There was a lot of traffic.
+**Teacher:** That's okay, Mai.
 </dialogue>
 
 <teacher_script pause="0">
@@ -79,11 +79,11 @@ Hội thoại 2 nha — con trai quên giặt đồ và xin lỗi mẹ.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mother:** Have you done the washing yet? | **Mẹ:** Con giặt đồ chưa? |
-| **Son:** Oops, my mistake, Mum. I thought I could do it later. | **Con trai:** Ôi, lỗi của con, mẹ ạ. Con nghĩ con có thể làm điều đó sau. |
-| **Mother:** Oh, that's right. But please do it now. | **Mẹ:** Ồ, đúng rồi. Nhưng hãy làm điều đó ngay bây giờ. |
+**2.**
+
+**Mother:** Have you done the washing yet?
+**Son:** Oops, my mistake, Mum. I thought I could do it later.
+**Mother:** Oh, that's right. But please do it now.
 </dialogue>
 
 <teacher_script pause="180">

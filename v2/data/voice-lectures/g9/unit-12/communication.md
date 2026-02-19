@@ -34,10 +34,10 @@ Hội thoại 1 — Minh và Dương. Đọc theo nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Minh:** I've filled in the registration form. Hopefully, I'll be a member of the science club. | **Minh:** Tôi đã điền vào mẫu đăng ký. Hy vọng tôi sẽ là thành viên của câu lạc bộ khoa học. |
-| **Duong:** I hope so, too. | **Duong:** Tôi cũng mong vậy. |
+**1.**
+
+**Minh:** I've filled in the registration form. Hopefully, I'll be a member of the science club.
+**Duong:** I hope so, too.
 </dialogue>
 
 <!-- chunk: dialogue-2 -->
@@ -46,10 +46,10 @@ Hội thoại 2 — Học sinh và nhân viên. Đọc theo nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Student:** Here's my teacher's reference letter. I hope I'll get the job. | **Student:** Đây là thư giới thiệu của giáo viên tôi. Tôi hy vọng tôi sẽ nhận được công việc. |
-| **Staff:** Thank you. Good luck. | **Staff:** Cảm ơn bạn. Chúc may mắn. |
+**2.**
+
+**Student:** Here's my teacher's reference letter. I hope I'll get the job.
+**Staff:** Thank you. Good luck.
 </dialogue>
 
 <teacher_script pause="0">
@@ -65,6 +65,12 @@ Bài 2 trang 131 — làm theo cặp, tạo hội thoại tương tự với hai
 **Đề:** Work in pairs. Make similar conversations with the following situations.
 **Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự với các tình huống sau.
 </task>
+
+<reading>
+1. A friend has just taken part in a design competition. She is looking forward to the result.
+
+2. A teacher is asking a student to give a teacher-parent conference invitation to his/her parents. She hopes that the parents will come.
+</reading>
 
 <questions type="speaking">
 **Tình huống 1:** A friend has just taken part in a design competition. She is looking forward to the result.
