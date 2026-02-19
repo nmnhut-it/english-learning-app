@@ -44,20 +44,32 @@ Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe v
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Shop assistant:** Good morning! What can I do for you? | **Nhân viên:** Chào buổi sáng! Tôi có thể giúp gì cho bạn? |
-| **Customer:** Good morning! I'd like to buy a computer for my son. | **Khách hàng:** Chào buổi sáng! Tôi muốn mua một chiếc máy tính cho con trai tôi. |
-| **Shop assistant:** We have desktops, laptops, and tablets. Which one are you interested in? | **Nhân viên:** Chúng tôi có máy tính để bàn, máy tính xách tay, và máy tính bảng. Bạn quan tâm đến cái nào? |
-| **Customer:** I want to buy one for my son that is portable and can be used for studying and entertainment. | **Khách hàng:** Tôi muốn mua cho con trai tôi một chiếc di động và có thể dùng để học tập và giải trí. |
-| **Shop assistant:** Ah, in this case I suggest you should buy a tablet. Look at this grey tablet. It can work as effectively as a laptop. But it's the size of a book. And it's much lighter than a laptop because it's smaller. It also has a lightweight aluminium case. | **Nhân viên:** À, trong trường hợp này tôi khuyên bạn nên mua một chiếc máy tính bảng. Hãy nhìn chiếc máy tính bảng xám này. Nó có thể hoạt động hiệu quả như laptop. Nhưng nó chỉ bằng kích thước cuốn sách. Và nó nhẹ hơn nhiều so với laptop vì nhỏ hơn. Nó cũng có vỏ nhôm nhẹ. |
-| **Customer:** Sounds good. | **Khách hàng:** Nghe hay đấy. |
-| **Shop assistant:** It also has two cameras to take photos, shoot videos, and scan documents. It has a touchscreen, so you can do everything with your fingers. | **Nhân viên:** Nó còn có hai camera để chụp ảnh, quay video và quét tài liệu. Nó có màn hình cảm ứng, nên bạn có thể làm mọi thứ bằng ngón tay. |
-| **Customer:** Is it easy to type on? | **Khách hàng:** Đánh máy có dễ không? |
-| **Shop assistant:** Yes, it is. There is a virtual keyboard. If you don't want to use it, you can use the wireless hardware keyboard. | **Nhân viên:** Vâng, có. Có bàn phím ảo. Nếu không muốn sử dụng, bạn có thể dùng bàn phím cứng không dây. |
-| **Customer:** Can I write and draw on it? | **Khách hàng:** Tôi có thể viết và vẽ trên đó được không? |
-| **Shop assistant:** You can use its pencil to take notes, draw pictures or diagrams, and make 3D designs. | **Nhân viên:** Bạn có thể sử dụng bút chì của nó để ghi chú, vẽ tranh hoặc sơ đồ và tạo các thiết kế 3D. |
+**Shop assistant:** Good morning! What can I do for you?
+**Customer:** Good morning! I'd like to buy a computer for my son.
+**Shop assistant:** We have desktops, laptops, and tablets. Which one are you interested in?
+**Customer:** I want to buy one for my son that is portable and can be used for studying and entertainment.
+**Shop assistant:** Ah, in this case I suggest you should buy a tablet. Look at this grey tablet. It can work as effectively as a laptop. But it's the size of a book. And it's much lighter than a laptop because it's smaller. It also has a lightweight aluminium case.
+**Customer:** Sounds good.
+**Shop assistant:** It also has two cameras to take photos, shoot videos, and scan documents. It has a touchscreen, so you can do everything with your fingers.
+**Customer:** Is it easy to type on?
+**Shop assistant:** Yes, it is. There is a virtual keyboard. If you don't want to use it, you can use the wireless hardware keyboard.
+**Customer:** Can I write and draw on it?
+**Shop assistant:** You can use its pencil to take notes, draw pictures or diagrams, and make 3D designs.
 </dialogue>
+
+<translation>
+**Nhân viên:** Chào buổi sáng! Tôi có thể giúp gì cho bạn?
+**Khách hàng:** Chào buổi sáng! Tôi muốn mua một chiếc máy tính cho con trai tôi.
+**Nhân viên:** Chúng tôi có máy tính để bàn, máy tính xách tay, và máy tính bảng. Bạn quan tâm đến cái nào?
+**Khách hàng:** Tôi muốn mua cho con trai tôi một chiếc di động và có thể dùng để học tập và giải trí.
+**Nhân viên:** À, trong trường hợp này tôi khuyên bạn nên mua một chiếc máy tính bảng. Hãy nhìn chiếc máy tính bảng xám này. Nó có thể hoạt động hiệu quả như laptop. Nhưng nó chỉ bằng kích thước cuốn sách. Và nó nhẹ hơn nhiều so với laptop vì nhỏ hơn. Nó cũng có vỏ nhôm nhẹ.
+**Khách hàng:** Nghe hay đấy.
+**Nhân viên:** Nó còn có hai camera để chụp ảnh, quay video và quét tài liệu. Nó có màn hình cảm ứng, nên bạn có thể làm mọi thứ bằng ngón tay.
+**Khách hàng:** Đánh máy có dễ không?
+**Nhân viên:** Vâng, có. Có bàn phím ảo. Nếu không muốn sử dụng, bạn có thể dùng bàn phím cứng không dây.
+**Khách hàng:** Tôi có thể viết và vẽ trên đó được không?
+**Nhân viên:** Bạn có thể sử dụng bút chì của nó để ghi chú, vẽ tranh hoặc sơ đồ và tạo các thiết kế 3D.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Có bảng song ngữ ở trên để các em tham khảo. 3 phút nha.

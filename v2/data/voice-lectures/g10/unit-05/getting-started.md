@@ -31,17 +31,26 @@ Giờ nghe và đọc hội thoại nha. Phong và bố đang bàn về việc m
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Phong:** Dad, I've saved some money since Tet holiday. I think I'll buy something new for my studies. | **Phong:** Bố, con đã tiết kiệm tiền từ Tết. Con nghĩ sẽ mua cái gì đó mới cho việc học. |
-| **Dad:** Good idea, Phong. What do you want to buy? | **Bố:** Ý kiến hay đấy. Con muốn mua gì? |
-| **Phong:** I'm not sure. It's hard to choose between a smartphone and a laptop. They're both useful and I've wanted either of them for a long time. What do you think, Dad? | **Phong:** Con không chắc. Thật khó chọn giữa điện thoại thông minh và laptop. Cả hai đều hữu ích và con muốn 1 trong 2 từ lâu rồi. Bố nghĩ sao? |
-| **Dad:** Perhaps a laptop is a better choice. Since laptops were invented, they've allowed us to study better and work faster. They've completely changed our lives in the last 20 years. | **Bố:** Có lẽ laptop là lựa chọn tốt hơn. Kể từ khi laptop được phát minh, chúng giúp ta học tốt hơn và làm việc nhanh hơn. Chúng đã thay đổi hoàn toàn cuộc sống trong 20 năm qua. |
-| **Phong:** That's true, Dad. But smartphones have also improved the way we work and study. | **Phong:** Đúng vậy bố. Nhưng smartphone cũng cải thiện cách làm việc và học tập. |
-| **Dad:** Really? I didn't know smartphones were suitable for learning. | **Bố:** Thật à? Bố không biết smartphone phù hợp cho việc học. |
-| **Phong:** Well, it's actually a lot of fun to learn with educational apps. It's also very convenient for learners to use them. Some of my classmates love using them on their smartphones. The apps allow them to communicate and learn at the same time. | **Phong:** Thật ra rất thú vị khi học với ứng dụng giáo dục. Rất thuận tiện cho người học. Một số bạn học của con thích dùng chúng trên điện thoại. Các ứng dụng cho phép giao tiếp và học cùng lúc. |
-| **Dad:** I didn't know that! There have been so many valuable inventions. Hmm... Perhaps you should ask your teacher. She may be able to help you decide. | **Bố:** Bố không biết điều đó! Có rất nhiều phát minh giá trị. Hmm... Có lẽ con nên hỏi cô giáo. Cô ấy có thể giúp con quyết định. |
+**Phong:** Dad, I've saved some money since Tet holiday. I think I'll buy something new for my studies.
+**Dad:** Good idea, Phong. What do you want to buy?
+**Phong:** I'm not sure. It's hard to choose between a smartphone and a laptop. They're both useful and I've wanted either of them for a long time. What do you think, Dad?
+**Dad:** Perhaps a laptop is a better choice. Since laptops were invented, they've allowed us to study better and work faster. They've completely changed our lives in the last 20 years.
+**Phong:** That's true, Dad. But smartphones have also improved the way we work and study.
+**Dad:** Really? I didn't know smartphones were suitable for learning.
+**Phong:** Well, it's actually a lot of fun to learn with educational apps. It's also very convenient for learners to use them. Some of my classmates love using them on their smartphones. The apps allow them to communicate and learn at the same time.
+**Dad:** I didn't know that! There have been so many valuable inventions. Hmm... Perhaps you should ask your teacher. She may be able to help you decide.
 </dialogue>
+
+<translation>
+**Phong:** Bố, con đã tiết kiệm tiền từ Tết. Con nghĩ sẽ mua cái gì đó mới cho việc học.
+**Bố:** Ý kiến hay đấy. Con muốn mua gì?
+**Phong:** Con không chắc. Thật khó chọn giữa điện thoại thông minh và laptop. Cả hai đều hữu ích và con muốn 1 trong 2 từ lâu rồi. Bố nghĩ sao?
+**Bố:** Có lẽ laptop là lựa chọn tốt hơn. Kể từ khi laptop được phát minh, chúng giúp ta học tốt hơn và làm việc nhanh hơn. Chúng đã thay đổi hoàn toàn cuộc sống trong 20 năm qua.
+**Phong:** Đúng vậy bố. Nhưng smartphone cũng cải thiện cách làm việc và học tập.
+**Bố:** Thật à? Bố không biết smartphone phù hợp cho việc học.
+**Phong:** Thật ra rất thú vị khi học với ứng dụng giáo dục. Rất thuận tiện cho người học. Một số bạn học của con thích dùng chúng trên điện thoại. Các ứng dụng cho phép giao tiếp và học cùng lúc.
+**Bố:** Bố không biết điều đó! Có rất nhiều phát minh giá trị. Hmm... Có lẽ con nên hỏi cô giáo. Cô ấy có thể giúp con quyết định.
+</translation>
 
 <teacher_script pause="180">
 Đọc hội thoại và dịch vô vở nha. 3 phút.

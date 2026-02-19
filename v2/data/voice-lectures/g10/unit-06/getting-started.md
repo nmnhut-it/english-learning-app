@@ -34,17 +34,26 @@ Ok giờ mình nghe và đọc hội thoại bài 1 nha. Ba bạn Lan, Mark và 
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Lan:** It's great to have another week full of activities and trips at the camp. | **Lan:** Thật tuyệt khi có một tuần đầy các hoạt động và chuyến đi khác tại trại hè. |
-| **Mark:** Oh, yeah. I like the trip to the kindergarten most. The kids were adorable and the teachers were great. I think I'll be a kindergarten teacher. | **Mark:** Ồ, đúng vậy. Mình thích chuyến đi đến trường mẫu giáo nhất. Những đứa trẻ thật đáng yêu và giáo viên thì tuyệt vời. Mình nghĩ mình sẽ là một giáo viên mẫu giáo. |
-| **Lan:** That's fantastic. My cousin works at a kindergarten and the children love being in his class. By the way, what do you want to be in the future, Linda? | **Lan:** Thật tuyệt vời. Anh họ của mình làm việc tại một trường mẫu giáo và bọn trẻ thích ở trong lớp của anh ấy. Nhân tiện, bạn muốn trở thành gì trong tương lai thế Linda? |
-| **Linda:** Oh, I've always wanted to be a surgeon, so I'll go to medical school. What about you, Lan? | **Linda:** Ồ, mình thì luôn muốn trở thành một bác sĩ phẫu thuật, vì vậy mình sẽ đi học trường y. Còn bạn thì sao, Lan? |
-| **Lan:** Me? My dream is to become an airline pilot. That's why I'm focusing on maths and physics, and exercising more to improve my fitness. | **Lan:** Mình á? Ước mơ của mình là trở thành một phi công hàng không. Đó là lý do tại sao mình tập trung vào toán học và vật lý, đồng thời tập thể dục nhiều hơn để cải thiện thể chất. |
-| **Linda:** Cool! I hope your dream will come true. In some countries girls may not be allowed to be pilots. | **Linda:** Tuyệt đấy! Mình hy vọng ước mơ của bạn sẽ trở thành hiện thực. Ở một số quốc gia, con gái có thể không được phép làm phi công. |
-| **Lan:** That's true, Linda. We're lucky to live in a country where boys and girls are encouraged to do the jobs they want. | **Lan:** Đúng vậy, Linda. Chúng ta thật may mắn khi được sống ở một quốc gia nơi nam và nữ được khuyến khích làm những công việc mà họ muốn. |
-| **Mark:** I couldn't agree more. Girls mustn't be kept home in today's world. Boys and girls should be treated equally and given the same job opportunities. | **Mark:** Mình hoàn toàn đồng ý. Con gái không thể cứ bị giữ ở nhà trong thế giới ngày nay. Nam và nữ phải được đối xử bình đẳng và có cơ hội việc làm như nhau. |
+**Lan:** It's great to have another week full of activities and trips at the camp.
+**Mark:** Oh, yeah. I like the trip to the kindergarten most. The kids were adorable and the teachers were great. I think I'll be a kindergarten teacher.
+**Lan:** That's fantastic. My cousin works at a kindergarten and the children love being in his class. By the way, what do you want to be in the future, Linda?
+**Linda:** Oh, I've always wanted to be a surgeon, so I'll go to medical school. What about you, Lan?
+**Lan:** Me? My dream is to become an airline pilot. That's why I'm focusing on maths and physics, and exercising more to improve my fitness.
+**Linda:** Cool! I hope your dream will come true. In some countries girls may not be allowed to be pilots.
+**Lan:** That's true, Linda. We're lucky to live in a country where boys and girls are encouraged to do the jobs they want.
+**Mark:** I couldn't agree more. Girls mustn't be kept home in today's world. Boys and girls should be treated equally and given the same job opportunities.
 </dialogue>
+
+<translation>
+**Lan:** Thật tuyệt khi có một tuần đầy các hoạt động và chuyến đi khác tại trại hè.
+**Mark:** Ồ, đúng vậy. Mình thích chuyến đi đến trường mẫu giáo nhất. Những đứa trẻ thật đáng yêu và giáo viên thì tuyệt vời. Mình nghĩ mình sẽ là một giáo viên mẫu giáo.
+**Lan:** Thật tuyệt vời. Anh họ của mình làm việc tại một trường mẫu giáo và bọn trẻ thích ở trong lớp của anh ấy. Nhân tiện, bạn muốn trở thành gì trong tương lai thế Linda?
+**Linda:** Ồ, mình thì luôn muốn trở thành một bác sĩ phẫu thuật, vì vậy mình sẽ đi học trường y. Còn bạn thì sao, Lan?
+**Lan:** Mình á? Ước mơ của mình là trở thành một phi công hàng không. Đó là lý do tại sao mình tập trung vào toán học và vật lý, đồng thời tập thể dục nhiều hơn để cải thiện thể chất.
+**Linda:** Tuyệt đấy! Mình hy vọng ước mơ của bạn sẽ trở thành hiện thực. Ở một số quốc gia, con gái có thể không được phép làm phi công.
+**Lan:** Đúng vậy, Linda. Chúng ta thật may mắn khi được sống ở một quốc gia nơi nam và nữ được khuyến khích làm những công việc mà họ muốn.
+**Mark:** Mình hoàn toàn đồng ý. Con gái không thể cứ bị giữ ở nhà trong thế giới ngày nay. Nam và nữ phải được đối xử bình đẳng và có cơ hội việc làm như nhau.
+</translation>
 
 <teacher_script pause="180">
 Các em đọc hội thoại và dịch vô vở nha. 3 phút.

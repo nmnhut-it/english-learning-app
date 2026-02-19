@@ -36,20 +36,32 @@ Ok, giờ nghe hội thoại bài 1 nha. Tom gặp Lai - một bạn học sinh 
 </reading>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Tom:** Hi, I'm Tom. You look new here. | **Tom:** Xin chào, mình là Tom. Trông cậu giống người mới đến đây. |
-| **Lai:** I am. I'm Lai from Ha Giang. | **Lai:** Đúng rồi. Mình là Lai đến từ Hà Giang. |
-| **Tom:** Oh, I've heard about beautiful Ha Giang. Do you live in the mountains? | **Tom:** Ồ, mình đã nghe về tỉnh Hà Giang tươi đẹp rồi. Cậu có sống trên những ngọn núi không? |
-| **Lai:** Yes, I do. I'm from the Tay ethnic group. We are the second largest ethnic group in Viet Nam, only after the Kinh. | **Lai:** Có chứ. Mình là người Tày. Dân tộc mình lớn thứ hai ở Việt Nam, chỉ sau người Kinh. |
-| **Tom:** Oh... I once saw a bamboo house on high posts in a travel brochure. Do you live in a home like that? | **Tom:** Ồ… mình từng thấy một ngôi nhà tre trên một tờ gấp quảng cáo du lịch. Cậu có sống ở một căn nhà như thế không? |
-| **Lai:** Yes, we call it a "stilt house". Our house overlooks terraced fields. | **Lai:** Có chứ, người ta gọi đó là nhà sàn. Nhà mình thì nhìn ra được ruộng bậc thang. |
-| **Tom:** Awesome. What is life in your village like? | **Tom:** Tuyệt vời. Cuộc sống ở làng bạn như thế nào? |
-| **Lai:** It's peaceful. There are 16 houses in my village. We live very close to nature. | **Lai:** Nó rất là yên bình. Có 16 ngôi nhà trong làng mình. Làng mình sống rất gần gũi với thiên nhiên. |
-| **Tom:** I love it. Can you tell me something about your culture? | **Tom:** Thích quá. Cậu có thể nói cho mình biết một vài thứ về văn hóa làng cậu không? |
-| **Lai:** Certainly. We have our own culture. You can see it in our folk dances, musical instruments like the dan tinh, and our special five-colour sticky rice. | **Lai:** Chắc chắn rồi. Tụi mình có nền văn hóa riêng. Cậu có thể thấy nó trong các điệu dân vũ, hay các nhạc cụ như đàn tính và món xôi ngũ sắc đặc biệt. |
-| **Tom:** It sounds interesting. I hope to visit Ha Giang one day. | **Tom:** Nghe thú vị quá. Mong là ngày nào đó mình sẽ được đến thăm Hà Giang. |
+**Tom:** Hi, I'm Tom. You look new here.
+**Lai:** I am. I'm Lai from Ha Giang.
+**Tom:** Oh, I've heard about beautiful Ha Giang. Do you live in the mountains?
+**Lai:** Yes, I do. I'm from the Tay ethnic group. We are the second largest ethnic group in Viet Nam, only after the Kinh.
+**Tom:** Oh... I once saw a bamboo house on high posts in a travel brochure. Do you live in a home like that?
+**Lai:** Yes, we call it a "stilt house". Our house overlooks terraced fields.
+**Tom:** Awesome. What is life in your village like?
+**Lai:** It's peaceful. There are 16 houses in my village. We live very close to nature.
+**Tom:** I love it. Can you tell me something about your culture?
+**Lai:** Certainly. We have our own culture. You can see it in our folk dances, musical instruments like the dan tinh, and our special five-colour sticky rice.
+**Tom:** It sounds interesting. I hope to visit Ha Giang one day.
 </dialogue>
+
+<translation>
+**Tom:** Xin chào, mình là Tom. Trông cậu giống người mới đến đây.
+**Lai:** Đúng rồi. Mình là Lai đến từ Hà Giang.
+**Tom:** Ồ, mình đã nghe về tỉnh Hà Giang tươi đẹp rồi. Cậu có sống trên những ngọn núi không?
+**Lai:** Có chứ. Mình là người Tày. Dân tộc mình lớn thứ hai ở Việt Nam, chỉ sau người Kinh.
+**Tom:** Ồ… mình từng thấy một ngôi nhà tre trên một tờ gấp quảng cáo du lịch. Cậu có sống ở một căn nhà như thế không?
+**Lai:** Có chứ, người ta gọi đó là nhà sàn. Nhà mình thì nhìn ra được ruộng bậc thang.
+**Tom:** Tuyệt vời. Cuộc sống ở làng bạn như thế nào?
+**Lai:** Nó rất là yên bình. Có 16 ngôi nhà trong làng mình. Làng mình sống rất gần gũi với thiên nhiên.
+**Tom:** Thích quá. Cậu có thể nói cho mình biết một vài thứ về văn hóa làng cậu không?
+**Lai:** Chắc chắn rồi. Tụi mình có nền văn hóa riêng. Cậu có thể thấy nó trong các điệu dân vũ, hay các nhạc cụ như đàn tính và món xôi ngũ sắc đặc biệt.
+**Tom:** Nghe thú vị quá. Mong là ngày nào đó mình sẽ được đến thăm Hà Giang.
+</translation>
 
 <teacher_script pause="180">
 Ok, giờ dịch hội thoại vô vở nha. Nhìn cột tiếng Việt để tham khảo. Cho 3 phút.

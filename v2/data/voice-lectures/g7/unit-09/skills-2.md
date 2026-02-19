@@ -219,18 +219,24 @@ Các em có 5 phút để viết email nha.
 </teacher_script>
 
 <dialogue>
-**Bài mẫu:**
-
-| English | Vietnamese |
-|---------|------------|
-| Hi Mark, | Chào Mark, |
-| I want to tell you about the Mid-Autumn Festival. | Mình muốn kể cho bạn nghe về Tết Trung thu. |
-| My family celebrates it in the middle of the eighth lunar month every year. | Gia đình mình tổ chức vào giữa tháng 8 âm lịch hàng năm. |
-| We eat moon cakes and autumn fruits together. | Chúng mình ăn bánh trung thu và trái cây mùa thu cùng nhau. |
-| We watch lion dances and I carry a lantern with my friends. | Chúng mình xem múa lân và mình rước đèn với bạn bè. |
-| I love this festival because it is fun and meaningful. | Mình thích lễ hội này vì nó vui và ý nghĩa. |
-| Best, | Thân, |
+Hi Mark,
+I want to tell you about the Mid-Autumn Festival.
+My family celebrates it in the middle of the eighth lunar month every year.
+We eat moon cakes and autumn fruits together.
+We watch lion dances and I carry a lantern with my friends.
+I love this festival because it is fun and meaningful.
+Best,
 </dialogue>
+
+<translation>
+Chào Mark,
+Mình muốn kể cho bạn nghe về Tết Trung thu.
+Gia đình mình tổ chức vào giữa tháng 8 âm lịch hàng năm.
+Chúng mình ăn bánh trung thu và trái cây mùa thu cùng nhau.
+Chúng mình xem múa lân và mình rước đèn với bạn bè.
+Mình thích lễ hội này vì nó vui và ý nghĩa.
+Thân,
+</translation>
 
 <teacher_script pause="0" action="photo">
 Các em hãy chụp hình bài viết của mình và gửi cho thầy nhé.

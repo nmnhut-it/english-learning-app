@@ -37,19 +37,30 @@ Bài hội thoại hôm nay là cuộc trò chuyện giữa Tom và Mi về chuy
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Tom:** How was your trip to Dalat, Mi? | **Tom:** Chuyến đi Đà Lạt của bạn thế nào, Mi? |
-| **Mi:** It was brilliant! We visited Langbiang Mountain — the scenery was absolutely magnificent. | **Mi:** Tuyệt vời lắm! Chúng mình đã thăm núi Langbiang — phong cảnh thật sự hùng vĩ. |
-| **Tom:** Did you do anything thrilling? | **Tom:** Bạn có làm gì hồi hộp không? |
-| **Mi:** Yes! We rode a jeep up the mountain. It was so exciting! We also went on an eco-tour around Cu Lan Village. | **Mi:** Có! Chúng mình cưỡi xe jeep lên núi. Hồi hộp lắm! Chúng mình cũng đi tham quan sinh thái quanh Làng Cù Lần. |
-| **Tom:** What's special about Cu Lan Village? | **Tom:** Làng Cù Lần có gì đặc biệt vậy? |
-| **Mi:** It's a beautiful area with diverse flora and fauna. The streams and waterfalls are stunning. And we watched a gong performance by minority people in traditional costumes. | **Mi:** Đó là vùng đất đẹp với hệ thực vật và động vật phong phú. Các con suối và thác nước rất ấn tượng. Và chúng mình được xem biểu diễn cồng chiêng của người dân tộc thiểu số mặc trang phục truyền thống. |
-| **Tom:** Amazing! Did you try any local specialities? | **Tom:** Tuyệt vời! Bạn có thử đặc sản địa phương không? |
-| **Mi:** Of course! Dalat has the best strawberries, avocados, and artichokes in Vietnam. We ate so much! | **Mi:** Tất nhiên rồi! Đà Lạt có dâu tây, bơ và atisô ngon nhất Việt Nam. Chúng mình ăn rất nhiều! |
-| **Tom:** I really want to go. How long did it take to get there? | **Tom:** Mình thực sự muốn đến đó. Mất bao lâu để đến đó? |
-| **Mi:** About 7 hours by bus from Ho Chi Minh City, but it is so worth it! | **Mi:** Khoảng 7 tiếng bằng xe buýt từ Thành phố Hồ Chí Minh, nhưng rất đáng đó! |
+**Tom:** How was your trip to Dalat, Mi?
+**Mi:** It was brilliant! We visited Langbiang Mountain — the scenery was absolutely magnificent.
+**Tom:** Did you do anything thrilling?
+**Mi:** Yes! We rode a jeep up the mountain. It was so exciting! We also went on an eco-tour around Cu Lan Village.
+**Tom:** What's special about Cu Lan Village?
+**Mi:** It's a beautiful area with diverse flora and fauna. The streams and waterfalls are stunning. And we watched a gong performance by minority people in traditional costumes.
+**Tom:** Amazing! Did you try any local specialities?
+**Mi:** Of course! Dalat has the best strawberries, avocados, and artichokes in Vietnam. We ate so much!
+**Tom:** I really want to go. How long did it take to get there?
+**Mi:** About 7 hours by bus from Ho Chi Minh City, but it is so worth it!
 </dialogue>
+
+<translation>
+**Tom:** Chuyến đi Đà Lạt của bạn thế nào, Mi?
+**Mi:** Tuyệt vời lắm! Chúng mình đã thăm núi Langbiang — phong cảnh thật sự hùng vĩ.
+**Tom:** Bạn có làm gì hồi hộp không?
+**Mi:** Có! Chúng mình cưỡi xe jeep lên núi. Hồi hộp lắm! Chúng mình cũng đi tham quan sinh thái quanh Làng Cù Lần.
+**Tom:** Làng Cù Lần có gì đặc biệt vậy?
+**Mi:** Đó là vùng đất đẹp với hệ thực vật và động vật phong phú. Các con suối và thác nước rất ấn tượng. Và chúng mình được xem biểu diễn cồng chiêng của người dân tộc thiểu số mặc trang phục truyền thống.
+**Tom:** Tuyệt vời! Bạn có thử đặc sản địa phương không?
+**Mi:** Tất nhiên rồi! Đà Lạt có dâu tây, bơ và atisô ngon nhất Việt Nam. Chúng mình ăn rất nhiều!
+**Tom:** Mình thực sự muốn đến đó. Mất bao lâu để đến đó?
+**Mi:** Khoảng 7 tiếng bằng xe buýt từ Thành phố Hồ Chí Minh, nhưng rất đáng đó!
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút thôi, cố lên!

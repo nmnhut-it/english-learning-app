@@ -36,18 +36,28 @@ Xong từ vựng rồi nha. Giờ mình nghe audio hội thoại đi. Bài 1 tra
 🔊 [Track 26](https://img.loigiaihay.com/picture/2023/0803/track-26.mp3)
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Elena:** Wow, this girl looks so cute. | **Elena:** Ồ, cô bé này trông dễ thương quá! |
-| **Trang:** Yeah... She's my cousin. She's at Sa Dec Flower Village. Tet is coming soon, so many people visit flower villages to take pictures with the blooming flowers. | **Trang:** Ừ... Đó là em họ của mình. Em ấy đang ở Làng Hoa Sa Đéc đó. Tết sắp đến rồi, nên nhiều người đến làng hoa để chụp ảnh với những bông hoa đang nở rộ. |
-| **Elena:** Oh, I'm fond of admiring the flowers. Does your family visit places like this too? | **Elena:** Ồ, mình rất thích ngắm hoa. Gia đình bạn cũng đến những nơi như vậy không? |
-| **Trang:** Yes, we do. We usually visit Nhat Tan Village to buy kumquat trees and peach blossoms. | **Trang:** Có chứ. Gia đình mình thường đến Làng Nhật Tân để mua cây quất và hoa đào. |
-| **Elena:** I see flowers and ornamental trees everywhere these days. What are they for? | **Elena:** Dạo này mình thấy hoa và cây cảnh ở khắp nơi luôn. Chúng dùng để làm gì vậy? |
-| **Trang:** We, Vietnamese, use plants and flowers for decorations and for offerings. They are an important part of our Tet tradition. | **Trang:** Người Việt mình dùng cây và hoa để trang trí và làm đồ cúng. Đó là phần quan trọng trong truyền thống Tết của mình. |
-| **Elena:** And what's that tall tree in the photo? | **Elena:** Còn cái cây cao cao trong ảnh kia là gì vậy? |
-| **Trang:** Well, it's actually a bamboo pole. People place it in the yard of the communal house. They hang decorative items like small bells and lanterns on it. They want to chase away bad luck and pray for a lucky new year. | **Trang:** À, đó thật ra là cây nêu đó. Người ta dựng nó trong sân nhà cộng đồng. Họ treo các vật trang trí như chuông nhỏ và đèn lồng lên đó. Họ muốn xua đuổi vận xui và cầu nguyện cho một năm mới may mắn. |
-| **Elena:** Interesting! I didn't know that. | **Elena:** Thú vị thật! Mình không biết điều đó đâu. |
+**Elena:** Wow, this girl looks so cute.
+**Trang:** Yeah... She's my cousin. She's at Sa Dec Flower Village. Tet is coming soon, so many people visit flower villages to take pictures with the blooming flowers.
+**Elena:** Oh, I'm fond of admiring the flowers. Does your family visit places like this too?
+**Trang:** Yes, we do. We usually visit Nhat Tan Village to buy kumquat trees and peach blossoms.
+**Elena:** I see flowers and ornamental trees everywhere these days. What are they for?
+**Trang:** We, Vietnamese, use plants and flowers for decorations and for offerings. They are an important part of our Tet tradition.
+**Elena:** And what's that tall tree in the photo?
+**Trang:** Well, it's actually a bamboo pole. People place it in the yard of the communal house. They hang decorative items like small bells and lanterns on it. They want to chase away bad luck and pray for a lucky new year.
+**Elena:** Interesting! I didn't know that.
 </dialogue>
+
+<translation>
+**Elena:** Ồ, cô bé này trông dễ thương quá!
+**Trang:** Ừ... Đó là em họ của mình. Em ấy đang ở Làng Hoa Sa Đéc đó. Tết sắp đến rồi, nên nhiều người đến làng hoa để chụp ảnh với những bông hoa đang nở rộ.
+**Elena:** Ồ, mình rất thích ngắm hoa. Gia đình bạn cũng đến những nơi như vậy không?
+**Trang:** Có chứ. Gia đình mình thường đến Làng Nhật Tân để mua cây quất và hoa đào.
+**Elena:** Dạo này mình thấy hoa và cây cảnh ở khắp nơi luôn. Chúng dùng để làm gì vậy?
+**Trang:** Người Việt mình dùng cây và hoa để trang trí và làm đồ cúng. Đó là phần quan trọng trong truyền thống Tết của mình.
+**Elena:** Còn cái cây cao cao trong ảnh kia là gì vậy?
+**Trang:** À, đó thật ra là cây nêu đó. Người ta dựng nó trong sân nhà cộng đồng. Họ treo các vật trang trí như chuông nhỏ và đèn lồng lên đó. Họ muốn xua đuổi vận xui và cầu nguyện cho một năm mới may mắn.
+**Elena:** Thú vị thật! Mình không biết điều đó đâu.
+</translation>
 
 <teacher_script pause="180">
 Ok, đọc và dịch hội thoại vô vở nha. 3 phút đó.

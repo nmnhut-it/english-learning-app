@@ -39,20 +39,32 @@ Bài 1 <eng>Listen and read</eng> nha. Tom tình cờ gặp Trang ở cửa hàn
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Tom:** Hi, Trang. Surprised to see you here. What brings you here? | **Tom:** Chào Trang. Ngạc nhiên khi thấy bạn ở đây. Có chuyện gì đưa bạn đến đây vậy? |
-| **Trang:** Oh, hi Tom. I'm looking for a knitting kit. | **Trang:** Ồ, chào Tom. Tôi đang tìm một bộ đồ đan len. |
-| **Tom:** A knitting kit? I didn't know you were keen on knitting. | **Tom:** Bộ đồ đan len? Tôi không biết bạn thích đan len. |
-| **Trang:** Actually, I'm keen on lots of DIY activities. In my leisure time, I enjoy knitting, building dollhouses, and making paper flowers. | **Trang:** Thực ra, tôi thích nhiều hoạt động tự làm lắm. Trong thời gian rảnh, tôi thích đan len, xây nhà búp bê và làm hoa giấy. |
-| **Tom:** I see. So you prefer spending time on your own. | **Tom:** Tôi hiểu rồi. Vậy bạn thích dành thời gian một mình hơn. |
-| **Trang:** Yes, I do. What do you do in your free time? | **Trang:** Đúng vậy. Bạn làm gì trong thời gian rảnh? |
-| **Tom:** I'm a bit different. I usually hang out with friends. We go to the cinema, cycling, or play sport in the park. | **Tom:** Tôi hơi khác. Tôi thường đi chơi với bạn bè. Chúng tôi đi xem phim, đi xe đạp, hoặc chơi thể thao trong công viên. |
-| **Trang:** So you prefer spending your free time with other people. | **Trang:** Vậy bạn thích dành thời gian rảnh với người khác hơn nhỉ. |
-| **Tom:** That's right. By the way, would you like to come to the cinema with me and Mark this Sunday? There's a new comedy at New World Cinema. | **Tom:** Đúng vậy. Nhân tiện, bạn có muốn đi xem phim với tôi và Mark vào Chủ Nhật này không? Có một bộ phim hài mới tại Rạp New World. |
-| **Trang:** Yes, I'd love to. Can Mai join us? | **Trang:** Ừ, tôi rất muốn. Mai có thể tham gia được không? |
-| **Tom:** Sure. Let's meet outside the cinema at 9 a.m. | **Tom:** Được chứ. Gặp nhau ngoài rạp chiếu phim lúc 9 giờ sáng nhé. |
+**Tom:** Hi, Trang. Surprised to see you here. What brings you here?
+**Trang:** Oh, hi Tom. I'm looking for a knitting kit.
+**Tom:** A knitting kit? I didn't know you were keen on knitting.
+**Trang:** Actually, I'm keen on lots of DIY activities. In my leisure time, I enjoy knitting, building dollhouses, and making paper flowers.
+**Tom:** I see. So you prefer spending time on your own.
+**Trang:** Yes, I do. What do you do in your free time?
+**Tom:** I'm a bit different. I usually hang out with friends. We go to the cinema, cycling, or play sport in the park.
+**Trang:** So you prefer spending your free time with other people.
+**Tom:** That's right. By the way, would you like to come to the cinema with me and Mark this Sunday? There's a new comedy at New World Cinema.
+**Trang:** Yes, I'd love to. Can Mai join us?
+**Tom:** Sure. Let's meet outside the cinema at 9 a.m.
 </dialogue>
+
+<translation>
+**Tom:** Chào Trang. Ngạc nhiên khi thấy bạn ở đây. Có chuyện gì đưa bạn đến đây vậy?
+**Trang:** Ồ, chào Tom. Tôi đang tìm một bộ đồ đan len.
+**Tom:** Bộ đồ đan len? Tôi không biết bạn thích đan len.
+**Trang:** Thực ra, tôi thích nhiều hoạt động tự làm lắm. Trong thời gian rảnh, tôi thích đan len, xây nhà búp bê và làm hoa giấy.
+**Tom:** Tôi hiểu rồi. Vậy bạn thích dành thời gian một mình hơn.
+**Trang:** Đúng vậy. Bạn làm gì trong thời gian rảnh?
+**Tom:** Tôi hơi khác. Tôi thường đi chơi với bạn bè. Chúng tôi đi xem phim, đi xe đạp, hoặc chơi thể thao trong công viên.
+**Trang:** Vậy bạn thích dành thời gian rảnh với người khác hơn nhỉ.
+**Tom:** Đúng vậy. Nhân tiện, bạn có muốn đi xem phim với tôi và Mark vào Chủ Nhật này không? Có một bộ phim hài mới tại Rạp New World.
+**Trang:** Ừ, tôi rất muốn. Mai có thể tham gia được không?
+**Tom:** Được chứ. Gặp nhau ngoài rạp chiếu phim lúc 9 giờ sáng nhé.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

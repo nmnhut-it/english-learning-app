@@ -39,18 +39,28 @@ Giờ mình đọc hội thoại bài <eng>Getting Started</eng> nha. Đây là 
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Teacher:** Can anyone tell me about an impressive heritage site they know? | **Thầy/Cô:** Ai có thể kể cho cô nghe về một địa điểm di sản ấn tượng mà em biết không? |
-| **Mi:** I know Angkor Wat in Cambodia, teacher. It's over 900 years old and has magnificent architecture. | **Mi:** Em biết Angkor Wat ở Campuchia ạ. Nó hơn 900 năm tuổi và có kiến trúc hùng vĩ. |
-| **Nam:** I'd like to mention Dinh Bang Communal House in Bac Ninh. It's about 300 years old and it's very well-preserved. | **Nam:** Em muốn nhắc đến Đình Làng Đình Bảng ở Bắc Ninh ạ. Nó khoảng 300 năm tuổi và được bảo tồn rất tốt. |
-| **Lan:** I read about Windsor Castle in England. It's been used for over 1,000 years and it's still occupied by the royal family. | **Lan:** Em đọc về Lâu đài Windsor ở Anh ạ. Nó đã được sử dụng hơn 1.000 năm và vẫn đang có hoàng gia sinh sống. |
-| **Teacher:** Excellent! Now, why do you think it's important to preserve these heritage sites? | **Thầy/Cô:** Xuất sắc! Bây giờ, theo em, tại sao việc bảo tồn các địa điểm di sản này lại quan trọng? |
-| **Mi:** So that future generations can learn about their ancestors, teacher. | **Mi:** Để các thế hệ tương lai có thể tìm hiểu về tổ tiên của họ ạ. |
-| **Nam:** Heritage sites show how people lived in the past. They are like a window into history. | **Nam:** Các địa điểm di sản cho thấy người xưa đã sống như thế nào. Chúng giống như một cửa sổ nhìn vào lịch sử. |
-| **Lan:** And they attract tourists who help the local economy. Thanks to heritage tourism, many communities benefit. | **Lan:** Và chúng thu hút khách du lịch, giúp ích cho nền kinh tế địa phương. Nhờ vào du lịch di sản, nhiều cộng đồng được hưởng lợi. |
-| **Teacher:** Very well said! Heritage sites are both culturally significant and economically important. | **Thầy/Cô:** Nói rất hay! Các địa điểm di sản vừa có ý nghĩa văn hóa vừa quan trọng về mặt kinh tế. |
+**Teacher:** Can anyone tell me about an impressive heritage site they know?
+**Mi:** I know Angkor Wat in Cambodia, teacher. It's over 900 years old and has magnificent architecture.
+**Nam:** I'd like to mention Dinh Bang Communal House in Bac Ninh. It's about 300 years old and it's very well-preserved.
+**Lan:** I read about Windsor Castle in England. It's been used for over 1,000 years and it's still occupied by the royal family.
+**Teacher:** Excellent! Now, why do you think it's important to preserve these heritage sites?
+**Mi:** So that future generations can learn about their ancestors, teacher.
+**Nam:** Heritage sites show how people lived in the past. They are like a window into history.
+**Lan:** And they attract tourists who help the local economy. Thanks to heritage tourism, many communities benefit.
+**Teacher:** Very well said! Heritage sites are both culturally significant and economically important.
 </dialogue>
+
+<translation>
+**Thầy/Cô:** Ai có thể kể cho cô nghe về một địa điểm di sản ấn tượng mà em biết không?
+**Mi:** Em biết Angkor Wat ở Campuchia ạ. Nó hơn 900 năm tuổi và có kiến trúc hùng vĩ.
+**Nam:** Em muốn nhắc đến Đình Làng Đình Bảng ở Bắc Ninh ạ. Nó khoảng 300 năm tuổi và được bảo tồn rất tốt.
+**Lan:** Em đọc về Lâu đài Windsor ở Anh ạ. Nó đã được sử dụng hơn 1.000 năm và vẫn đang có hoàng gia sinh sống.
+**Thầy/Cô:** Xuất sắc! Bây giờ, theo em, tại sao việc bảo tồn các địa điểm di sản này lại quan trọng?
+**Mi:** Để các thế hệ tương lai có thể tìm hiểu về tổ tiên của họ ạ.
+**Nam:** Các địa điểm di sản cho thấy người xưa đã sống như thế nào. Chúng giống như một cửa sổ nhìn vào lịch sử.
+**Lan:** Và chúng thu hút khách du lịch, giúp ích cho nền kinh tế địa phương. Nhờ vào du lịch di sản, nhiều cộng đồng được hưởng lợi.
+**Thầy/Cô:** Nói rất hay! Các địa điểm di sản vừa có ý nghĩa văn hóa vừa quan trọng về mặt kinh tế.
+</translation>
 
 <teacher_script pause="180">
 Ok, mình dịch hội thoại vô vở nha. 3 phút thôi, cố lên!

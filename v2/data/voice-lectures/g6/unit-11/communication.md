@@ -30,13 +30,18 @@ Bài 1 trang 52, <eng>Everyday English</eng>. Mình học cách đưa ra lời c
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** You are giving the goldfish too much food. Don't do that. | **Mi:** Bạn đang cho cá vàng ăn quá nhiều. Đừng làm vậy. |
-| **Mike:** Why? | **Mike:** Tại sao? |
-| **Mi:** If you give them too much food, they will die. | **Mi:** Nếu bạn cho chúng ăn quá nhiều, chúng sẽ chết. |
-| **Mike:** I see. Thank you. | **Mike:** Tôi hiểu rồi. Cảm ơn bạn. |
+**Mi:** You are giving the goldfish too much food. Don't do that.
+**Mike:** Why?
+**Mi:** If you give them too much food, they will die.
+**Mike:** I see. Thank you.
 </dialogue>
+
+<translation>
+**Mi:** Bạn đang cho cá vàng ăn quá nhiều. Đừng làm vậy.
+**Mike:** Tại sao?
+**Mi:** Nếu bạn cho chúng ăn quá nhiều, chúng sẽ chết.
+**Mike:** Tôi hiểu rồi. Cảm ơn bạn.
+</translation>
 
 <teacher_script pause="0">
 Để đưa ra lời cảnh báo, các em nói người ta đang làm gì sai: <eng>You are giving... too much...</eng> rồi bảo đừng làm: <eng>Don't do that!</eng> Sau đó dùng câu điều kiện loại 1 để giải thích: <eng>If you..., they will...</eng> Nhớ nha!
@@ -185,11 +190,14 @@ Bài 4. Phỏng vấn một bạn cùng lớp, sử dụng các câu hỏi trong
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** What's your answer to Question 1? | **A:** Câu trả lời của bạn cho Câu hỏi 1 là gì? |
-| **B:** It's A. What's your answer? | **B:** Là A. Câu trả lời của bạn là gì? |
+**A:** What's your answer to Question 1?
+**B:** It's A. What's your answer?
 </dialogue>
+
+<translation>
+**A:** Câu trả lời của bạn cho Câu hỏi 1 là gì?
+**B:** Là A. Câu trả lời của bạn là gì?
+</translation>
 
 <teacher_script pause="90">
 Các em phỏng vấn nhau nha. 1 phút 30 giây.

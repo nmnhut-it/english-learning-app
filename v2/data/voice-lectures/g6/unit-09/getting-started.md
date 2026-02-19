@@ -39,22 +39,36 @@ Giờ nghe hội thoại giữa Tom và Mai nha. Tom đang khoe ảnh đi du l�
 **GETTING STARTED - What nice photos!**
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mai:** Tom, are these photos from your holidays? | **Mai:** Tom, đây có phải là những bức ảnh chụp trong kỳ nghỉ của bạn không? |
-| **Tom:** Yes, they are. This is Sydney, a city in Australia. | **Tom:** Đúng vậy. Đây là Sydney, một thành phố ở Úc. |
-| **Mai:** What's it like? | **Mai:** Nó như thế nào? |
-| **Tom:** It's exciting with a lot of beaches. | **Tom:** Rất thú vị với rất nhiều bãi biển. |
-| **Mai:** What a beautiful place! | **Mai:** Thật là một nơi tuyệt đẹp! |
-| **Tom:** Yes, its beaches are very clean. | **Tom:** Đúng vậy, những bãi biển của nó rất sạch. |
-| **Mai:** Wonderful. Oh, this is London. Isn't it raining? What bad weather! | **Mai:** Tuyệt vời. Ồ, đây là London. Không phải là trời đang mưa đó chứ? Thời tiết thật tệ! |
-| **Tom:** Yes, it rains all the time. Can you see Big Ben? | **Tom:** Đúng vậy, trời mưa suốt. Bạn có thấy Big Ben không? |
-| **Mai:** Yeah... on the River Thames. It's a landmark of London. | **Mai:** Ừ... trên sông Thames. Đó là một địa danh của London. |
-| **Tom:** It is. And this is Times Square in New York, crowded but interesting. | **Tom:** Đúng vậy. Còn đây là Quảng trường Thời đại ở New York, đông đúc nhưng thú vị. |
-| **Mai:** You're lucky to visit many places. | **Mai:** Bạn thật may mắn khi được đến tham quan nhiều nơi. |
-| **Tom:** I am. What about your holidays? | **Tom:** Đúng vậy. Còn kỳ nghỉ của bạn thì sao? |
-| **Mai:** Here are some photos of mine. This is... | **Mai:** Đây là một số hình ảnh của tôi. Đây là... |
+**Mai:** Tom, are these photos from your holidays?
+**Tom:** Yes, they are. This is Sydney, a city in Australia.
+**Mai:** What's it like?
+**Tom:** It's exciting with a lot of beaches.
+**Mai:** What a beautiful place!
+**Tom:** Yes, its beaches are very clean.
+**Mai:** Wonderful. Oh, this is London. Isn't it raining? What bad weather!
+**Tom:** Yes, it rains all the time. Can you see Big Ben?
+**Mai:** Yeah... on the River Thames. It's a landmark of London.
+**Tom:** It is. And this is Times Square in New York, crowded but interesting.
+**Mai:** You're lucky to visit many places.
+**Tom:** I am. What about your holidays?
+**Mai:** Here are some photos of mine. This is...
 </dialogue>
+
+<translation>
+**Mai:** Tom, đây có phải là những bức ảnh chụp trong kỳ nghỉ của bạn không?
+**Tom:** Đúng vậy. Đây là Sydney, một thành phố ở Úc.
+**Mai:** Nó như thế nào?
+**Tom:** Rất thú vị với rất nhiều bãi biển.
+**Mai:** Thật là một nơi tuyệt đẹp!
+**Tom:** Đúng vậy, những bãi biển của nó rất sạch.
+**Mai:** Tuyệt vời. Ồ, đây là London. Không phải là trời đang mưa đó chứ? Thời tiết thật tệ!
+**Tom:** Đúng vậy, trời mưa suốt. Bạn có thấy Big Ben không?
+**Mai:** Ừ... trên sông Thames. Đó là một địa danh của London.
+**Tom:** Đúng vậy. Còn đây là Quảng trường Thời đại ở New York, đông đúc nhưng thú vị.
+**Mai:** Bạn thật may mắn khi được đến tham quan nhiều nơi.
+**Tom:** Đúng vậy. Còn kỳ nghỉ của bạn thì sao?
+**Mai:** Đây là một số hình ảnh của tôi. Đây là...
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở. 3 phút nha.
@@ -181,16 +195,22 @@ Bài 5. Trò chơi đoán thành phố. Một người mô tả thành phố, ng
 </task>
 
 <dialogue>
-**Ví dụ mẫu:**
-| English | Vietnamese |
-|---------|------------|
-| **A:** What's it like? | **A:** Nó như thế nào? |
-| **B:** It has beautiful beaches. | **B:** Nó có những bãi biển đẹp. |
-| **C:** Is it in Australia? | **C:** Nó ở Úc phải không? |
-| **B:** Yes, it is. | **B:** Đúng vậy. |
-| **A:** It's Sydney. | **A:** Đó là Sydney. |
-| **B:** Right! | **B:** Đúng rồi! |
+**A:** What's it like?
+**B:** It has beautiful beaches.
+**C:** Is it in Australia?
+**B:** Yes, it is.
+**A:** It's Sydney.
+**B:** Right!
 </dialogue>
+
+<translation>
+**A:** Nó như thế nào?
+**B:** Nó có những bãi biển đẹp.
+**C:** Nó ở Úc phải không?
+**B:** Đúng vậy.
+**A:** Đó là Sydney.
+**B:** Đúng rồi!
+</translation>
 
 <answer>
 **Bài mẫu - Đoán Hà Nội:**

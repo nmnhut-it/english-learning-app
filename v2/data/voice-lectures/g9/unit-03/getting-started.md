@@ -39,19 +39,30 @@ Hội thoại hôm nay giữa Mi và cô Trang — cố vấn tâm lý của tr�
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Dr. Trang:** Hello Mi, come in! What's been bothering you lately? | **Cô Trang:** Chào Mi, vào đi! Dạo này em có chuyện gì vậy? |
-| **Mi:** Hi Dr. Trang. I've been really stressed. I stay up late studying but still feel exhausted all the time. | **Mi:** Chào cô Trang. Em căng thẳng lắm cô ơi. Em thức khuya học bài nhưng vẫn mệt mỏi suốt. |
-| **Dr. Trang:** I see. Getting enough sleep should be your top priority. How many hours do you usually sleep? | **Cô Trang:** Cô hiểu rồi. Ngủ đủ giấc phải là ưu tiên hàng đầu của em. Em thường ngủ bao nhiêu tiếng? |
-| **Mi:** About 5 or 6 hours a night. | **Mi:** Khoảng 5-6 tiếng một đêm ạ. |
-| **Dr. Trang:** That's not enough! Teenagers need at least 8 hours. Now, what do you usually eat? | **Cô Trang:** Không đủ đâu em! Tuổi teen cần ít nhất 8 tiếng. Còn em thường ăn gì? |
-| **Mi:** I skip breakfast and eat junk food for lunch. | **Mi:** Em bỏ bữa sáng và ăn đồ ăn vặt buổi trưa ạ. |
-| **Dr. Trang:** A well-balanced diet gives your brain the energy it needs to concentrate. You should also exercise regularly — even a 20-minute walk helps a lot! | **Cô Trang:** Chế độ ăn cân bằng cung cấp năng lượng cho não của em để tập trung. Em cũng nên tập thể dục thường xuyên — đi bộ 20 phút thôi cũng giúp ích nhiều lắm! |
-| **Mi:** What about my screen time? I spend about 4 hours a day on my phone. | **Mi:** Còn thời gian dùng điện thoại của em thì sao ạ? Em dùng khoảng 4 tiếng mỗi ngày. |
-| **Dr. Trang:** I suggest reducing that to 1 hour on school nights. And if you feel stressed, talk to friends or do something you enjoy. | **Cô Trang:** Cô gợi ý giảm xuống còn 1 tiếng vào đêm có học. Và nếu em cảm thấy căng thẳng, hãy nói chuyện với bạn bè hoặc làm việc gì em thích. |
-| **Mi:** Thank you so much, Dr. Trang! I feel better already. | **Mi:** Cảm ơn cô Trang nhiều lắm! Em cảm thấy tốt hơn rồi đó. |
+**Dr. Trang:** Hello Mi, come in! What's been bothering you lately?
+**Mi:** Hi Dr. Trang. I've been really stressed. I stay up late studying but still feel exhausted all the time.
+**Dr. Trang:** I see. Getting enough sleep should be your top priority. How many hours do you usually sleep?
+**Mi:** About 5 or 6 hours a night.
+**Dr. Trang:** That's not enough! Teenagers need at least 8 hours. Now, what do you usually eat?
+**Mi:** I skip breakfast and eat junk food for lunch.
+**Dr. Trang:** A well-balanced diet gives your brain the energy it needs to concentrate. You should also exercise regularly — even a 20-minute walk helps a lot!
+**Mi:** What about my screen time? I spend about 4 hours a day on my phone.
+**Dr. Trang:** I suggest reducing that to 1 hour on school nights. And if you feel stressed, talk to friends or do something you enjoy.
+**Mi:** Thank you so much, Dr. Trang! I feel better already.
 </dialogue>
+
+<translation>
+**Cô Trang:** Chào Mi, vào đi! Dạo này em có chuyện gì vậy?
+**Mi:** Chào cô Trang. Em căng thẳng lắm cô ơi. Em thức khuya học bài nhưng vẫn mệt mỏi suốt.
+**Cô Trang:** Cô hiểu rồi. Ngủ đủ giấc phải là ưu tiên hàng đầu của em. Em thường ngủ bao nhiêu tiếng?
+**Mi:** Khoảng 5-6 tiếng một đêm ạ.
+**Cô Trang:** Không đủ đâu em! Tuổi teen cần ít nhất 8 tiếng. Còn em thường ăn gì?
+**Mi:** Em bỏ bữa sáng và ăn đồ ăn vặt buổi trưa ạ.
+**Cô Trang:** Chế độ ăn cân bằng cung cấp năng lượng cho não của em để tập trung. Em cũng nên tập thể dục thường xuyên — đi bộ 20 phút thôi cũng giúp ích nhiều lắm!
+**Mi:** Còn thời gian dùng điện thoại của em thì sao ạ? Em dùng khoảng 4 tiếng mỗi ngày.
+**Cô Trang:** Cô gợi ý giảm xuống còn 1 tiếng vào đêm có học. Và nếu em cảm thấy căng thẳng, hãy nói chuyện với bạn bè hoặc làm việc gì em thích.
+**Mi:** Cảm ơn cô Trang nhiều lắm! Em cảm thấy tốt hơn rồi đó.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Chú ý các lời khuyên của cô Trang: ngủ đủ giấc, ăn uống cân bằng, tập thể dục, giảm thời gian dùng điện thoại. Ba phút.

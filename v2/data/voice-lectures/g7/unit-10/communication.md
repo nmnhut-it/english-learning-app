@@ -35,13 +35,18 @@ Bài 1. Nghe và đọc hội thoại. Chú ý câu hỏi in đậm nha.
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Lan:** What does "solar energy" mean? | **Lan:** "Năng lượng mặt trời" nghĩa là gì? |
-| **Mr Tan:** Well, it's energy that comes from the sun. | **Thầy Tân:** À, đó là năng lượng đến từ mặt trời. |
-| **Lan:** And what does "wind energy" mean? | **Lan:** Và "năng lượng gió" có nghĩa là gì? |
-| **Mr Tan:** It's another type of energy and it comes from wind. | **Thầy Tân:** Đó là một dạng năng lượng khác và nó đến từ gió. |
+**Lan:** What does "solar energy" mean?
+**Mr Tan:** Well, it's energy that comes from the sun.
+**Lan:** And what does "wind energy" mean?
+**Mr Tan:** It's another type of energy and it comes from wind.
 </dialogue>
+
+<translation>
+**Lan:** "Năng lượng mặt trời" nghĩa là gì?
+**Thầy Tân:** À, đó là năng lượng đến từ mặt trời.
+**Lan:** Và "năng lượng gió" có nghĩa là gì?
+**Thầy Tân:** Đó là một dạng năng lượng khác và nó đến từ gió.
+</translation>
 
 <teacher_script pause="0">
 Các em thấy không, khi muốn hỏi nghĩa, Lan dùng câu <eng>What does "solar energy" mean?</eng> Thầy Tân trả lời bằng cách giải thích: <eng>It's energy that comes from the sun</eng>. Cấu trúc này rất hữu ích khi các em muốn hỏi nghĩa từ mới nha.
@@ -65,13 +70,18 @@ Bài 2. Làm việc theo cặp. Tạo các hội thoại tương tự để hỏ
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nam:** What does "hydro energy" mean? | **Nam:** "Năng lượng thủy điện" nghĩa là gì? |
-| **Minh:** Well, it's energy that comes from the water. | **Minh:** À, đó là năng lượng đến từ nước. |
-| **Nam:** And what does "energy from coal" mean? | **Nam:** Và "năng lượng từ than đá" nghĩa là gì? |
-| **Minh:** It's another type of energy and it comes from coal. | **Minh:** Đó là một dạng năng lượng khác và nó đến từ than đá. |
+**Nam:** What does "hydro energy" mean?
+**Minh:** Well, it's energy that comes from the water.
+**Nam:** And what does "energy from coal" mean?
+**Minh:** It's another type of energy and it comes from coal.
 </dialogue>
+
+<translation>
+**Nam:** "Năng lượng thủy điện" nghĩa là gì?
+**Minh:** À, đó là năng lượng đến từ nước.
+**Nam:** Và "năng lượng từ than đá" nghĩa là gì?
+**Minh:** Đó là một dạng năng lượng khác và nó đến từ than đá.
+</translation>
 
 <teacher_script pause="60" action="record">
 Bây giờ các em thực hành nói theo cặp nha. Một em hỏi <eng>What does "..." mean?</eng>, em kia trả lời <eng>Well, it's energy that comes from...</eng>. 1 phút nha, rồi ghi âm lại.

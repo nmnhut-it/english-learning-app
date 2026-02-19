@@ -41,22 +41,36 @@ Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Trang và 
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Trang:** Mark, we're having a video conference with Tech Savvy next Thursday, but ... | **Trang:** Mark ơi, chúng ta có một buổi hội nghị truyền hình với Tech Savvy vào thứ năm tuần tới, nhưng … |
-| **Mark:** Hold on. Is that the technology club at the Japanese school? | **Mark:** Đợi đã. Đó có phải là câu lạc bộ công nghệ ở trường Nhật Bản không? |
-| **Trang:** Exactly. But I'm a bit worried. I've never had a video conference call. | **Trang:** Chính xác. Nhưng mình có chút lo lắng. Mình chưa bao giờ dự một buổi hội nghị truyền hình. |
-| **Mark:** You're kidding! Who doesn't know how to make a video call? Alright, let's do a practice call now. | **Mark:** Cậu đùa à! Ai lại không biết gọi video chứ? Được rồi, bây giờ cùng nhau gọi một cuộc điện thoại nào. |
-| **Trang:** Hmm, what do I need to do first? | **Trang:** Hmm, bây giờ mình cần làm gì trước? |
-| **Mark:** It's a piece of cake, Trang. Now, you sit in front of the computer. I'll connect with you via one of my tablets and ... | **Mark:** Nó đơn giản lắm Trang. Bây giờ cậu hãy ngồi trước màn hình máy tính. Mình sẽ kết nối với cậu thông qua một trong những máy tính bảng của mình và … |
-| **Trang:** Sorry, but how can I adjust this webcam? It's focusing on my forehead. | **Trang:** Xin lỗi nhưng mà mình có thể điều chỉnh cái webcam này như thế nào thế? Nó đang chiếu vào trán mình. |
-| **Mark:** Use this button to move it up or down, and this to zoom in or out. | **Mark:** Dùng phím này để chuyển lên chuyển xuống, và phím này để phóng to và thu nhỏ. |
-| **Trang:** Thanks. And can you see me clearly on your tablet? | **Trang:** Cảm ơn. Và cậu có thể thấy mình rõ trên máy tính bảng chứ? |
-| **Mark:** Yes, of course. We have a high-speed Internet connection here. | **Mark:** Tất nhiên rồi. Chúng ta có Internet tốc độ cao ở đây. |
-| **Trang:** I hope the conference goes smoothly. | **Trang:** Mình mong là buổi hội nghị sẽ diễn ra mượt mà. |
-| **Mark:** I'm sure it will. We should hold more video conferences like this in the future. | **Mark:** Chắc chắn rồi. Chúng ta nên tổ chức những buổi hội nghị truyền hình như này trong tương lai. |
-| **Trang:** That's exactly how I feel. | **Trang:** Đó chính xác là thứ mà mình nghĩ. |
+**Trang:** Mark, we're having a video conference with Tech Savvy next Thursday, but ...
+**Mark:** Hold on. Is that the technology club at the Japanese school?
+**Trang:** Exactly. But I'm a bit worried. I've never had a video conference call.
+**Mark:** You're kidding! Who doesn't know how to make a video call? Alright, let's do a practice call now.
+**Trang:** Hmm, what do I need to do first?
+**Mark:** It's a piece of cake, Trang. Now, you sit in front of the computer. I'll connect with you via one of my tablets and ...
+**Trang:** Sorry, but how can I adjust this webcam? It's focusing on my forehead.
+**Mark:** Use this button to move it up or down, and this to zoom in or out.
+**Trang:** Thanks. And can you see me clearly on your tablet?
+**Mark:** Yes, of course. We have a high-speed Internet connection here.
+**Trang:** I hope the conference goes smoothly.
+**Mark:** I'm sure it will. We should hold more video conferences like this in the future.
+**Trang:** That's exactly how I feel.
 </dialogue>
+
+<translation>
+**Trang:** Mark ơi, chúng ta có một buổi hội nghị truyền hình với Tech Savvy vào thứ năm tuần tới, nhưng …
+**Mark:** Đợi đã. Đó có phải là câu lạc bộ công nghệ ở trường Nhật Bản không?
+**Trang:** Chính xác. Nhưng mình có chút lo lắng. Mình chưa bao giờ dự một buổi hội nghị truyền hình.
+**Mark:** Cậu đùa à! Ai lại không biết gọi video chứ? Được rồi, bây giờ cùng nhau gọi một cuộc điện thoại nào.
+**Trang:** Hmm, bây giờ mình cần làm gì trước?
+**Mark:** Nó đơn giản lắm Trang. Bây giờ cậu hãy ngồi trước màn hình máy tính. Mình sẽ kết nối với cậu thông qua một trong những máy tính bảng của mình và …
+**Trang:** Xin lỗi nhưng mà mình có thể điều chỉnh cái webcam này như thế nào thế? Nó đang chiếu vào trán mình.
+**Mark:** Dùng phím này để chuyển lên chuyển xuống, và phím này để phóng to và thu nhỏ.
+**Trang:** Cảm ơn. Và cậu có thể thấy mình rõ trên máy tính bảng chứ?
+**Mark:** Tất nhiên rồi. Chúng ta có Internet tốc độ cao ở đây.
+**Trang:** Mình mong là buổi hội nghị sẽ diễn ra mượt mà.
+**Mark:** Chắc chắn rồi. Chúng ta nên tổ chức những buổi hội nghị truyền hình như này trong tương lai.
+**Trang:** Đó chính xác là thứ mà mình nghĩ.
+</translation>
 
 <teacher_script pause="180">
 Các em dịch hội thoại vô vở nha. 3 phút.

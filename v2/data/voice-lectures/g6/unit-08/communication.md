@@ -72,13 +72,18 @@ Bài 1 <eng>Listen and read the short conversation</eng> nha. Nghe rồi đọc 
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Duong:** Last week I played table tennis with Duy, and I won for the first time. | **Dương:** Tuần trước mình chơi bóng bàn với Duy, lần đầu tiên mình đã thắng. |
-| **Mai:** **Congratulations!** | **Mai:** **Chúc mừng bạn nha!** |
-| **Duong:** **Thank you**, Mai. | **Dương:** **Cảm ơn**, Mai. |
-| **Mai:** So you're our class champion now. | **Mai:** Vậy bây giờ bạn là nhà vô địch lớp rồi. |
+**Duong:** Last week I played table tennis with Duy, and I won for the first time.
+**Mai:** **Congratulations!**
+**Duong:** **Thank you**, Mai.
+**Mai:** So you're our class champion now.
 </dialogue>
+
+<translation>
+**Dương:** Tuần trước mình chơi bóng bàn với Duy, lần đầu tiên mình đã thắng.
+**Mai:** **Chúc mừng bạn nha!**
+**Dương:** **Cảm ơn**, Mai.
+**Mai:** Vậy bây giờ bạn là nhà vô địch lớp rồi.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_cad1e56b.mp3">
 Trong đoạn hội thoại, khi Dương thông báo đã thắng trận bóng bàn, Mai nói: <eng>Congratulations!</eng>. Sau đó Dương đáp lại: <eng>Thank you, Mai.</eng>
@@ -100,17 +105,22 @@ Bài 2 <eng>Work in pairs</eng> nha. Làm theo cặp đi. Một bạn đóng vai
 </task>
 
 <dialogue>
-**Hội thoại mẫu:**
-
-| English | Vietnamese |
-|---------|------------|
-| **My:** Last week I won the first prize of my school's singing contest. | **My:** Tuần trước mình đã giành giải nhất cuộc thi hát của trường. |
-| **Minh:** Congratulations! | **Minh:** Chúc mừng bạn nhé! |
-| **My:** Thank you, Minh. | **My:** Cảm ơn Minh. |
-| **Minh:** So you're your school's idol. Anyway, last week I also won the championship of my school's badminton competition. | **Minh:** Vậy bạn là thần tượng của trường rồi. À này, tuần trước mình cũng đã giành chức vô địch trong cuộc thi cầu lông của trường đấy. |
-| **My:** Congratulations! | **My:** Chúc mừng bạn nha! |
-| **Minh:** It's very kind of you. Thanks, My. | **Minh:** Bạn rất tốt. Cảm ơn, My. |
+**My:** Last week I won the first prize of my school's singing contest.
+**Minh:** Congratulations!
+**My:** Thank you, Minh.
+**Minh:** So you're your school's idol. Anyway, last week I also won the championship of my school's badminton competition.
+**My:** Congratulations!
+**Minh:** It's very kind of you. Thanks, My.
 </dialogue>
+
+<translation>
+**My:** Tuần trước mình đã giành giải nhất cuộc thi hát của trường.
+**Minh:** Chúc mừng bạn nhé!
+**My:** Cảm ơn Minh.
+**Minh:** Vậy bạn là thần tượng của trường rồi. À này, tuần trước mình cũng đã giành chức vô địch trong cuộc thi cầu lông của trường đấy.
+**My:** Chúc mừng bạn nha!
+**Minh:** Bạn rất tốt. Cảm ơn, My.
+</translation>
 
 <teacher_script pause="60" href="audio/tts_4ffef525.mp3">
 Viết hội thoại của mình vô vở đi. 1 phút nha. Nhớ dùng <eng>Congratulations!</eng> và <eng>Thank you!</eng>.

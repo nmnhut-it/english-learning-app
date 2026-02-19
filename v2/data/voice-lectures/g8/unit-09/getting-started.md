@@ -39,20 +39,32 @@ Ok từ vựng xong rồi nha. Bây giờ mình đọc hội thoại giữa Mi v
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Tom:** You look pretty sad, Mi. What's the matter? | **Tom:** Trông bạn buồn quá Mi. Có chuyện gì vậy? |
-| **Mi:** My uncle called us this morning. Our hometown has been affected by a flood. It's the second time this year. | **Mi:** Bác tôi gọi cho chúng tôi sáng nay. Quê mình bị ảnh hưởng bởi lũ lụt. Đây là lần thứ hai trong năm nay rồi. |
-| **Tom:** I'm sorry to hear that. How are things there now? | **Tom:** Mình rất tiếc khi nghe điều đó. Mọi thứ bên đó bây giờ thế nào? |
-| **Mi:** My uncle, his wife, and his children are all safe. They moved everything to the second floor of their house last night. Are there natural disasters in your hometown in the US? | **Mi:** Bác tôi, vợ bác và con của bác đều an toàn. Họ chuyển hết đồ lên tầng hai vào tối qua. Ở quê bạn bên Mỹ có thiên tai không? |
-| **Tom:** Yes, we sometimes have tornadoes. | **Tom:** Có chứ, đôi khi có lốc xoáy. |
-| **Mi:** Tornadoes? Sounds strange. What's a tornado? | **Mi:** Lốc xoáy? Nghe lạ quá. Lốc xoáy là gì? |
-| **Tom:** It's a violent storm that moves in a circle with very strong winds. I still remember the tornado we had last year. | **Tom:** Đó là một cơn bão dữ dội di chuyển theo vòng tròn với gió rất mạnh. Mình vẫn nhớ trận lốc xoáy năm ngoái. |
-| **Mi:** What happened? | **Mi:** Chuyện gì đã xảy ra? |
-| **Tom:** One evening my parents and I were having dinner. Suddenly, we heard a very loud noise. When we looked out of the window, we saw a big funnel of wind moving towards us. | **Tom:** Một buổi tối bố mẹ tôi và tôi đang ăn tối. Đột nhiên, chúng tôi nghe thấy tiếng động rất lớn. Khi nhìn ra cửa sổ, chúng tôi thấy một phễu gió lớn đang tiến về phía mình. |
-| **Mi:** Did it cause any damage? | **Mi:** Nó có gây ra thiệt hại gì không? |
-| **Tom:** Yes, a lot. It damaged the roof of our house and pulled up some trees in our yard. Fortunately, no one was hurt. | **Tom:** Có, nhiều lắm. Nó làm hỏng mái nhà và nhổ bật một số cây trong sân. May mắn thay, không ai bị thương. |
+**Tom:** You look pretty sad, Mi. What's the matter?
+**Mi:** My uncle called us this morning. Our hometown has been affected by a flood. It's the second time this year.
+**Tom:** I'm sorry to hear that. How are things there now?
+**Mi:** My uncle, his wife, and his children are all safe. They moved everything to the second floor of their house last night. Are there natural disasters in your hometown in the US?
+**Tom:** Yes, we sometimes have tornadoes.
+**Mi:** Tornadoes? Sounds strange. What's a tornado?
+**Tom:** It's a violent storm that moves in a circle with very strong winds. I still remember the tornado we had last year.
+**Mi:** What happened?
+**Tom:** One evening my parents and I were having dinner. Suddenly, we heard a very loud noise. When we looked out of the window, we saw a big funnel of wind moving towards us.
+**Mi:** Did it cause any damage?
+**Tom:** Yes, a lot. It damaged the roof of our house and pulled up some trees in our yard. Fortunately, no one was hurt.
 </dialogue>
+
+<translation>
+**Tom:** Trông bạn buồn quá Mi. Có chuyện gì vậy?
+**Mi:** Bác tôi gọi cho chúng tôi sáng nay. Quê mình bị ảnh hưởng bởi lũ lụt. Đây là lần thứ hai trong năm nay rồi.
+**Tom:** Mình rất tiếc khi nghe điều đó. Mọi thứ bên đó bây giờ thế nào?
+**Mi:** Bác tôi, vợ bác và con của bác đều an toàn. Họ chuyển hết đồ lên tầng hai vào tối qua. Ở quê bạn bên Mỹ có thiên tai không?
+**Tom:** Có chứ, đôi khi có lốc xoáy.
+**Mi:** Lốc xoáy? Nghe lạ quá. Lốc xoáy là gì?
+**Tom:** Đó là một cơn bão dữ dội di chuyển theo vòng tròn với gió rất mạnh. Mình vẫn nhớ trận lốc xoáy năm ngoái.
+**Mi:** Chuyện gì đã xảy ra?
+**Tom:** Một buổi tối bố mẹ tôi và tôi đang ăn tối. Đột nhiên, chúng tôi nghe thấy tiếng động rất lớn. Khi nhìn ra cửa sổ, chúng tôi thấy một phễu gió lớn đang tiến về phía mình.
+**Mi:** Nó có gây ra thiệt hại gì không?
+**Tom:** Có, nhiều lắm. Nó làm hỏng mái nhà và nhổ bật một số cây trong sân. May mắn thay, không ai bị thương.
+</translation>
 
 <teacher_script pause="180">
 Ok dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt. Thầy/cô cho 3 phút á.

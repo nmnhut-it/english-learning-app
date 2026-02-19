@@ -39,21 +39,34 @@ Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe v
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **President:** Hi, welcome to our science club. Our topic today is planet Earth. Our guest is Mr An, an earth scientist. | **Chủ tịch:** Xin chào, chào mừng đến với câu lạc bộ khoa học của chúng tôi. Chủ đề của chúng ta hôm nay là hành tinh Trái Đất. Khách của chúng tôi là ông An, một nhà khoa học Trái Đất. |
-| **Mr An:** Hi everybody. Pleased to meet you. I'm looking forward to answering your questions about our planet. | **Ông An:** Chào mọi người. Hân hạnh được gặp các bạn. Tôi rất mong được trả lời câu hỏi của các bạn về hành tinh của chúng ta. |
-| **Lan:** Mr An, where's Earth in the Solar System? | **Lan:** Ông An, Trái Đất ở đâu trong Hệ Mặt Trời? |
-| **Mr An:** There are eight planets in the Solar System, and Earth is the third from the Sun, after Mercury and Venus. It's also the fifth largest in our system. | **Ông An:** Có tám hành tinh trong Hệ Mặt Trời và Trái Đất là hành tinh thứ ba tính từ Mặt Trời, sau Sao Thủy và Sao Kim. Nó cũng là hành tinh lớn thứ năm trong hệ của chúng ta. |
-| **Nick:** Is it also called the Blue Planet? | **Nick:** Nó còn được gọi là Hành tinh Xanh phải không? |
-| **Mr An:** Right. From the outer space it looks blue because water covers more than 70 per cent of it. | **Ông An:** Đúng vậy. Từ không gian bên ngoài, nó có màu xanh vì nước bao phủ hơn 70% diện tích. |
-| **Lan:** Is it the only planet that has liquid water? | **Lan:** Đây có phải là hành tinh duy nhất có nước ở dạng lỏng không? |
-| **Mr An:** Exactly. Without it, there wouldn't be living things, like humans, or the flora and fauna of your habitat. | **Ông An:** Chính xác. Không có nó thì sẽ không có sinh vật sống, như con người, hay hệ thực vật và động vật trong môi trường sống của bạn. |
-| **Nick:** How about the role of air, light, and heat? How do they affect Earth? | **Nick:** Còn vai trò của không khí, ánh sáng và nhiệt thì sao? Chúng ảnh hưởng đến Trái Đất như thế nào? |
-| **Mr An:** Well, water bodies and landforms which are main areas on Earth, together with air, light, and heat, provide essential habitats for plants and animals. | **Ông An:** À, các vùng nước và địa hình là những khu vực chính trên Trái Đất, cùng với không khí, ánh sáng và nhiệt, cung cấp môi trường sống thiết yếu cho thực vật và động vật. |
-| **Nick:** It's fascinating to observe and study these habitats. | **Nick:** Thật thú vị khi quan sát và nghiên cứu những môi trường sống này. |
-| **Mr An:** Yes. However, they are being destroyed by pollution. We should all help out to preserve them. | **Ông An:** Đúng vậy. Tuy nhiên, chúng đang bị phá hủy bởi ô nhiễm. Tất cả chúng ta nên giúp đỡ để bảo tồn chúng. |
+**President:** Hi, welcome to our science club. Our topic today is planet Earth. Our guest is Mr An, an earth scientist.
+**Mr An:** Hi everybody. Pleased to meet you. I'm looking forward to answering your questions about our planet.
+**Lan:** Mr An, where's Earth in the Solar System?
+**Mr An:** There are eight planets in the Solar System, and Earth is the third from the Sun, after Mercury and Venus. It's also the fifth largest in our system.
+**Nick:** Is it also called the Blue Planet?
+**Mr An:** Right. From the outer space it looks blue because water covers more than 70 per cent of it.
+**Lan:** Is it the only planet that has liquid water?
+**Mr An:** Exactly. Without it, there wouldn't be living things, like humans, or the flora and fauna of your habitat.
+**Nick:** How about the role of air, light, and heat? How do they affect Earth?
+**Mr An:** Well, water bodies and landforms which are main areas on Earth, together with air, light, and heat, provide essential habitats for plants and animals.
+**Nick:** It's fascinating to observe and study these habitats.
+**Mr An:** Yes. However, they are being destroyed by pollution. We should all help out to preserve them.
 </dialogue>
+
+<translation>
+**Chủ tịch:** Xin chào, chào mừng đến với câu lạc bộ khoa học của chúng tôi. Chủ đề của chúng ta hôm nay là hành tinh Trái Đất. Khách của chúng tôi là ông An, một nhà khoa học Trái Đất.
+**Ông An:** Chào mọi người. Hân hạnh được gặp các bạn. Tôi rất mong được trả lời câu hỏi của các bạn về hành tinh của chúng ta.
+**Lan:** Ông An, Trái Đất ở đâu trong Hệ Mặt Trời?
+**Ông An:** Có tám hành tinh trong Hệ Mặt Trời và Trái Đất là hành tinh thứ ba tính từ Mặt Trời, sau Sao Thủy và Sao Kim. Nó cũng là hành tinh lớn thứ năm trong hệ của chúng ta.
+**Nick:** Nó còn được gọi là Hành tinh Xanh phải không?
+**Ông An:** Đúng vậy. Từ không gian bên ngoài, nó có màu xanh vì nước bao phủ hơn 70% diện tích.
+**Lan:** Đây có phải là hành tinh duy nhất có nước ở dạng lỏng không?
+**Ông An:** Chính xác. Không có nó thì sẽ không có sinh vật sống, như con người, hay hệ thực vật và động vật trong môi trường sống của bạn.
+**Nick:** Còn vai trò của không khí, ánh sáng và nhiệt thì sao? Chúng ảnh hưởng đến Trái Đất như thế nào?
+**Ông An:** À, các vùng nước và địa hình là những khu vực chính trên Trái Đất, cùng với không khí, ánh sáng và nhiệt, cung cấp môi trường sống thiết yếu cho thực vật và động vật.
+**Nick:** Thật thú vị khi quan sát và nghiên cứu những môi trường sống này.
+**Ông An:** Đúng vậy. Tuy nhiên, chúng đang bị phá hủy bởi ô nhiễm. Tất cả chúng ta nên giúp đỡ để bảo tồn chúng.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Có bảng song ngữ ở trên để các em tham khảo. 3 phút nha.

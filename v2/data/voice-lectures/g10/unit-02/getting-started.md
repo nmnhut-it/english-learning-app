@@ -36,19 +36,30 @@ Giờ nghe và đọc hội thoại giữa Mike và Nam nha. Bài 1 trang 18.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mike:** What are you going to do this weekend, Nam? | **Mike:** Cuối tuần này bạn định làm gì vậy Nam? |
-| **Nam:** I'm going to attend the first meeting of my school's Go Green Club. | **Nam:** Mình sẽ tham dự cuộc họp đầu tiên của Câu lạc bộ Go Green của trường. |
-| **Mike:** Really? Can you tell me about the club, please? | **Mike:** Thật á? Bạn kể về câu lạc bộ đi? |
-| **Nam:** Well, it was set up by the Youth Union in my school. Its aim is to improve our environment and encourage people to adopt a greener lifestyle. | **Nam:** À, nó được Đoàn Thanh niên trường thành lập. Mục đích là cải thiện môi trường và khuyến khích mọi người sống xanh hơn. |
-| **Mike:** Sounds interesting. What's the first thing you are going to do? | **Mike:** Nghe thú vị. Điều đầu tiên các bạn sẽ làm là gì? |
-| **Nam:** We're going to clean up the school right after the ceremony. | **Nam:** Tụi mình sẽ dọn dẹp trường ngay sau buổi lễ. |
-| **Mike:** Do you have any other planned events? | **Mike:** Các bạn có sự kiện nào khác chưa? |
-| **Nam:** Not yet, but I think we'll organise more activities to raise local people's awareness of environmental issues. | **Nam:** Chưa, nhưng mình nghĩ sẽ tổ chức nhiều hoạt động hơn để nâng cao nhận thức về vấn đề môi trường. |
-| **Mike:** I'm keen to reduce my carbon footprint, but I don't know what to do. Can I join the club? | **Mike:** Mình rất muốn giảm lượng khí thải carbon, nhưng không biết phải làm gì. Mình tham gia được không? |
-| **Nam:** Sure. The club welcomes all students in the area. I hope we'll be able to do a lot to protect our environment. | **Nam:** Chắc chắn rồi. Câu lạc bộ chào đón tất cả học sinh. Mình hy vọng sẽ làm được nhiều điều để bảo vệ môi trường. |
+**Mike:** What are you going to do this weekend, Nam?
+**Nam:** I'm going to attend the first meeting of my school's Go Green Club.
+**Mike:** Really? Can you tell me about the club, please?
+**Nam:** Well, it was set up by the Youth Union in my school. Its aim is to improve our environment and encourage people to adopt a greener lifestyle.
+**Mike:** Sounds interesting. What's the first thing you are going to do?
+**Nam:** We're going to clean up the school right after the ceremony.
+**Mike:** Do you have any other planned events?
+**Nam:** Not yet, but I think we'll organise more activities to raise local people's awareness of environmental issues.
+**Mike:** I'm keen to reduce my carbon footprint, but I don't know what to do. Can I join the club?
+**Nam:** Sure. The club welcomes all students in the area. I hope we'll be able to do a lot to protect our environment.
 </dialogue>
+
+<translation>
+**Mike:** Cuối tuần này bạn định làm gì vậy Nam?
+**Nam:** Mình sẽ tham dự cuộc họp đầu tiên của Câu lạc bộ Go Green của trường.
+**Mike:** Thật á? Bạn kể về câu lạc bộ đi?
+**Nam:** À, nó được Đoàn Thanh niên trường thành lập. Mục đích là cải thiện môi trường và khuyến khích mọi người sống xanh hơn.
+**Mike:** Nghe thú vị. Điều đầu tiên các bạn sẽ làm là gì?
+**Nam:** Tụi mình sẽ dọn dẹp trường ngay sau buổi lễ.
+**Mike:** Các bạn có sự kiện nào khác chưa?
+**Nam:** Chưa, nhưng mình nghĩ sẽ tổ chức nhiều hoạt động hơn để nâng cao nhận thức về vấn đề môi trường.
+**Mike:** Mình rất muốn giảm lượng khí thải carbon, nhưng không biết phải làm gì. Mình tham gia được không?
+**Nam:** Chắc chắn rồi. Câu lạc bộ chào đón tất cả học sinh. Mình hy vọng sẽ làm được nhiều điều để bảo vệ môi trường.
+</translation>
 
 <teacher_script pause="180">
 Đọc hội thoại và dịch vô vở nha. 3 phút.

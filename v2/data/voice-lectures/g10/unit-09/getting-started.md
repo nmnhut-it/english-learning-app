@@ -31,23 +31,38 @@ Bài 1, nghe và đọc hội thoại giữa Nam và bố nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Nam's father:** What are you doing, Nam? | **Bố:** Con đang làm gì vậy Nam? |
-| **Nam:** I'm preparing a presentation for my geography class. | **Nam:** Con đang chuẩn bị bài thuyết trình cho lớp địa lý. |
-| **Nam's father:** What's the topic? | **Bố:** Chủ đề là gì thế con? |
-| **Nam:** It's environmental protection. My teacher asked me to do some research, but I don't know where to start. | **Nam:** Là bảo vệ môi trường ạ. Cô yêu cầu con nghiên cứu, nhưng con không biết bắt đầu từ đâu. |
-| **Nam's father:** I think you should identify some environmental problems first. What have you found so far? | **Bố:** Bố nghĩ con nên xác định vấn đề môi trường trước. Con tìm được gì rồi? |
-| **Nam:** I've come up with a range of environmental issues such as global warming, deforestation, endangered animals and pollution, but I don't know how to organise them. | **Nam:** Con nghĩ ra nhiều vấn đề như nóng lên toàn cầu, phá rừng, động vật tuyệt chủng và ô nhiễm, nhưng không biết sắp xếp sao. |
-| **Nam's father:** You should focus on each problem, explain the main causes of it, and then suggest the solutions. | **Bố:** Con nên tập trung từng vấn đề, giải thích nguyên nhân, rồi đề xuất giải pháp. |
-| **Nam:** Thanks, Dad. But presenting all the solutions will be hard. | **Nam:** Cảm ơn bố. Nhưng trình bày hết giải pháp thì khó lắm. |
-| **Nam's father:** Have you asked your teacher for advice? | **Bố:** Con đã hỏi ý kiến cô giáo chưa? |
-| **Nam:** Yes, I have. She advised that I should start with small, practical actions to protect the environment before coming up with big ideas that need a lot of effort or money to succeed. | **Nam:** Dạ rồi. Cô khuyên con nên bắt đầu từ hành động nhỏ thiết thực để bảo vệ môi trường trước khi nghĩ đến ý tưởng lớn cần nhiều công sức hay tiền bạc. |
-| **Nam's father:** Sounds good. You'd better follow her advice. When did she ask you to present it? | **Bố:** Hay đó. Con nên theo lời cô. Khi nào cô yêu cầu con trình bày? |
-| **Nam:** She said I should present it the following week. | **Nam:** Cô nói con trình bày tuần sau. |
-| **Nam's father:** You still have a lot of time. Good luck! | **Bố:** Con vẫn còn nhiều thời gian. Chúc may mắn! |
-| **Nam:** Thanks, Dad. | **Nam:** Cảm ơn bố. |
+**Nam's father:** What are you doing, Nam?
+**Nam:** I'm preparing a presentation for my geography class.
+**Nam's father:** What's the topic?
+**Nam:** It's environmental protection. My teacher asked me to do some research, but I don't know where to start.
+**Nam's father:** I think you should identify some environmental problems first. What have you found so far?
+**Nam:** I've come up with a range of environmental issues such as global warming, deforestation, endangered animals and pollution, but I don't know how to organise them.
+**Nam's father:** You should focus on each problem, explain the main causes of it, and then suggest the solutions.
+**Nam:** Thanks, Dad. But presenting all the solutions will be hard.
+**Nam's father:** Have you asked your teacher for advice?
+**Nam:** Yes, I have. She advised that I should start with small, practical actions to protect the environment before coming up with big ideas that need a lot of effort or money to succeed.
+**Nam's father:** Sounds good. You'd better follow her advice. When did she ask you to present it?
+**Nam:** She said I should present it the following week.
+**Nam's father:** You still have a lot of time. Good luck!
+**Nam:** Thanks, Dad.
 </dialogue>
+
+<translation>
+**Bố:** Con đang làm gì vậy Nam?
+**Nam:** Con đang chuẩn bị bài thuyết trình cho lớp địa lý.
+**Bố:** Chủ đề là gì thế con?
+**Nam:** Là bảo vệ môi trường ạ. Cô yêu cầu con nghiên cứu, nhưng con không biết bắt đầu từ đâu.
+**Bố:** Bố nghĩ con nên xác định vấn đề môi trường trước. Con tìm được gì rồi?
+**Nam:** Con nghĩ ra nhiều vấn đề như nóng lên toàn cầu, phá rừng, động vật tuyệt chủng và ô nhiễm, nhưng không biết sắp xếp sao.
+**Bố:** Con nên tập trung từng vấn đề, giải thích nguyên nhân, rồi đề xuất giải pháp.
+**Nam:** Cảm ơn bố. Nhưng trình bày hết giải pháp thì khó lắm.
+**Bố:** Con đã hỏi ý kiến cô giáo chưa?
+**Nam:** Dạ rồi. Cô khuyên con nên bắt đầu từ hành động nhỏ thiết thực để bảo vệ môi trường trước khi nghĩ đến ý tưởng lớn cần nhiều công sức hay tiền bạc.
+**Bố:** Hay đó. Con nên theo lời cô. Khi nào cô yêu cầu con trình bày?
+**Nam:** Cô nói con trình bày tuần sau.
+**Bố:** Con vẫn còn nhiều thời gian. Chúc may mắn!
+**Nam:** Cảm ơn bố.
+</translation>
 
 <teacher_script pause="120">
 Đọc và dịch hội thoại nha. 2 phút.

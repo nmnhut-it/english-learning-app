@@ -79,13 +79,18 @@ Day la hoi thoai thu nhat nha. Mi thuyet phuc Tom doc sach ve He Mat troi.
 **Conversation 1:**
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** Have you read this book about the Solar System? | **Mi:** Ban da doc cuon sach nay ve He Mat troi chua? |
-| **Tom:** Not yet. I don't feel like reading it. | **Tom:** Chua. Toi khong cam thay thich doc no. |
-| **Mi:** **Why don't you give it a go?** You will like it. | **Mi:** **Tai sao ban khong thu?** Ban se thich no. |
-| **Tom:** **OK, I'll think about that.** | **Tom:** **Duoc roi, toi se suy nghi ve dieu do.** |
+**Mi:** Have you read this book about the Solar System?
+**Tom:** Not yet. I don't feel like reading it.
+**Mi:** **Why don't you give it a go?** You will like it.
+**Tom:** **OK, I'll think about that.**
 </dialogue>
+
+<translation>
+**Mi:** Ban da doc cuon sach nay ve He Mat troi chua?
+**Tom:** Chua. Toi khong cam thay thich doc no.
+**Mi:** **Tai sao ban khong thu?** Ban se thich no.
+**Tom:** **Duoc roi, toi se suy nghi ve dieu do.**
+</translation>
 
 <teacher_script pause="0">
 Cau noi de thuyet phuc la <eng>Why don't you give it a go?</eng> nghia la "Tai sao ban khong thu di?". Va cach tra loi dong y la <eng>OK, I'll think about that</eng> - "Duoc roi, toi se suy nghi ve dieu do". Bay gio nghe hoi thoai thu hai nha.
@@ -94,13 +99,18 @@ Cau noi de thuyet phuc la <eng>Why don't you give it a go?</eng> nghia la "Tai s
 **Conversation 2:**
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Lan:** **How would you feel about** contributing to the fund to protect our wildlife? | **Lan:** **Ban cam thay the nao** khi dong gop vao quy bao ve dong vat hoang da cua chung ta? |
-| **Local resident:** Contribute to a fund? | **Nguoi dan dia phuong:** Dong gop vao quy? |
-| **Lan:** **Yes, your contribution would really help us out.** | **Lan:** **Vang, su dong gop cua ban thuc su se giup ich cho chung toi.** |
-| **Local resident:** **Alright. I'll make a contribution.** | **Nguoi dan dia phuong:** **Duoc roi. Toi se dong gop.** |
+**Lan:** **How would you feel about** contributing to the fund to protect our wildlife?
+**Local resident:** Contribute to a fund?
+**Lan:** **Yes, your contribution would really help us out.**
+**Local resident:** **Alright. I'll make a contribution.**
 </dialogue>
+
+<translation>
+**Lan:** **Ban cam thay the nao** khi dong gop vao quy bao ve dong vat hoang da cua chung ta?
+**Nguoi dan dia phuong:** Dong gop vao quy?
+**Lan:** **Vang, su dong gop cua ban thuc su se giup ich cho chung toi.**
+**Nguoi dan dia phuong:** **Duoc roi. Toi se dong gop.**
+</translation>
 
 <teacher_script pause="0">
 O hoi thoai nay, cau thuyet phuc la <eng>How would you feel about + V-ing?</eng> nghia la "Ban cam thay the nao ve viec...?". Va cau <eng>Your contribution would really help us out</eng> de nhan manh su dong gop se giup ich. Cach tra loi dong y la <eng>Alright. I'll make a contribution</eng> - "Duoc roi. Toi se dong gop".
@@ -159,24 +169,34 @@ Ok dap an mau ne.
 **Sample answer 1:**
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **You:** Have you watched a movie about planet Earth? | **Ban:** Ban da xem mot bo phim ve hanh tinh Trai Dat chua? |
-| **Your friend:** Not yet. I don't feel like watching it. | **Ban cua ban:** Chua. Toi khong cam thay thich xem no. |
-| **You:** Why don't you give it a go? You will like it. | **Ban:** Tai sao ban khong thu? Ban se thich no. |
-| **Your friend:** OK, I'll think about that. | **Ban cua ban:** Duoc roi, toi se suy nghi ve dieu do. |
+**You:** Have you watched a movie about planet Earth?
+**Your friend:** Not yet. I don't feel like watching it.
+**You:** Why don't you give it a go? You will like it.
+**Your friend:** OK, I'll think about that.
 </dialogue>
+
+<translation>
+**Ban:** Ban da xem mot bo phim ve hanh tinh Trai Dat chua?
+**Ban cua ban:** Chua. Toi khong cam thay thich xem no.
+**Ban:** Tai sao ban khong thu? Ban se thich no.
+**Ban cua ban:** Duoc roi, toi se suy nghi ve dieu do.
+</translation>
 
 **Sample answer 2:**
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **You:** How would you feel about contributing to a fund to build a nature reserve? | **Ban:** Ban cam thay the nao khi dong gop vao quy xay dung khu bao ton thien nhien? |
-| **Local resident:** Contribute to a fund? | **Nguoi dan dia phuong:** Dong gop vao quy? |
-| **You:** Yes, your contribution would really help us out. | **Ban:** Vang, su dong gop cua ban thuc su se giup ich cho chung toi. |
-| **Local resident:** Alright. I'll make a contribution. | **Nguoi dan dia phuong:** Duoc roi. Toi se dong gop. |
+**You:** How would you feel about contributing to a fund to build a nature reserve?
+**Local resident:** Contribute to a fund?
+**You:** Yes, your contribution would really help us out.
+**Local resident:** Alright. I'll make a contribution.
 </dialogue>
+
+<translation>
+**Ban:** Ban cam thay the nao khi dong gop vao quy xay dung khu bao ton thien nhien?
+**Nguoi dan dia phuong:** Dong gop vao quy?
+**Ban:** Vang, su dong gop cua ban thuc su se giup ich cho chung toi.
+**Nguoi dan dia phuong:** Duoc roi. Toi se dong gop.
+</translation>
 </answer>
 
 <!-- chunk: earths-habitats-intro -->

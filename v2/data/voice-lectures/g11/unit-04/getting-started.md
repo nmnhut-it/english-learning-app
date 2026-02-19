@@ -32,20 +32,32 @@ Bài 1. Nghe và đọc hội thoại nha. Mai đến văn phòng AYVP gặp cô
 <audio>https://img.loigiaihay.com/picture/2023/0805/track-26.mp3</audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mai:** Good afternoon. My name's Mai Nguyen. Are you Ms Pang? You replied to my email and invited me to visit your office. | **Mai:** Chào buổi chiều. Cháu tên Mai Nguyễn. Cô có phải cô Pang không? Cô đã trả lời email và mời cháu đến văn phòng. |
-| **Ms Pang:** Yes. I'm Ms Pang. It's nice to meet you, Mai. So how did you hear about us? | **Cô Pang:** Vâng. Tôi là cô Pang. Rất vui gặp em, Mai. Vậy em biết về chúng tôi như thế nào? |
-| **Mai:** My cousin was an AYVP volunteer. He often said taking part in the programme was an experience he would never forget. | **Mai:** Em họ cháu là tình nguyện viên AYVP. Cậu ấy thường nói tham gia chương trình là trải nghiệm không bao giờ quên. |
-| **Ms Pang:** Glad to hear that. The main goals of AYVP are promoting youth volunteering and helping the development of the ASEAN community. | **Cô Pang:** Vui khi nghe điều đó. Mục tiêu chính của AYVP là thúc đẩy thanh niên tình nguyện và giúp phát triển cộng đồng ASEAN. |
-| **Mai:** What can I do to prepare for the programme? | **Mai:** Cháu cần chuẩn bị gì cho chương trình ạ? |
-| **Ms Pang:** Well, to become an AYVP volunteer, you must be qualified for the programme, and this depends on the themes for the year. | **Cô Pang:** Để trở thành tình nguyện viên AYVP, em phải đủ điều kiện, và điều này phụ thuộc vào chủ đề của năm. |
-| **Mai:** What are the areas covered by AYVP? | **Mai:** AYVP bao gồm những lĩnh vực nào ạ? |
-| **Ms Pang:** There are eight themes. I suggest checking our website to find out this year's themes. | **Cô Pang:** Có 8 chủ đề. Tôi khuyên em nên vào trang web để xem chủ đề năm nay. |
-| **Mai:** How are volunteers selected? | **Mai:** Tình nguyện viên được chọn như thế nào ạ? |
-| **Ms Pang:** To be selected, you should be over 18. Then you may need to propose a community project related to the theme. And we'll probably interview you to make sure you speak English well and are very keen on participating in the programme. | **Cô Pang:** Để được chọn, em phải trên 18 tuổi. Rồi em có thể cần đề xuất một dự án cộng đồng liên quan đến chủ đề. Và chúng tôi có thể phỏng vấn em để đảm bảo em nói tiếng Anh tốt và rất muốn tham gia. |
-| **Mai:** That doesn't sound too difficult. Thanks so much for meeting me. | **Mai:** Nghe không quá khó. Cảm ơn cô rất nhiều vì đã gặp cháu. |
+**Mai:** Good afternoon. My name's Mai Nguyen. Are you Ms Pang? You replied to my email and invited me to visit your office.
+**Ms Pang:** Yes. I'm Ms Pang. It's nice to meet you, Mai. So how did you hear about us?
+**Mai:** My cousin was an AYVP volunteer. He often said taking part in the programme was an experience he would never forget.
+**Ms Pang:** Glad to hear that. The main goals of AYVP are promoting youth volunteering and helping the development of the ASEAN community.
+**Mai:** What can I do to prepare for the programme?
+**Ms Pang:** Well, to become an AYVP volunteer, you must be qualified for the programme, and this depends on the themes for the year.
+**Mai:** What are the areas covered by AYVP?
+**Ms Pang:** There are eight themes. I suggest checking our website to find out this year's themes.
+**Mai:** How are volunteers selected?
+**Ms Pang:** To be selected, you should be over 18. Then you may need to propose a community project related to the theme. And we'll probably interview you to make sure you speak English well and are very keen on participating in the programme.
+**Mai:** That doesn't sound too difficult. Thanks so much for meeting me.
 </dialogue>
+
+<translation>
+**Mai:** Chào buổi chiều. Cháu tên Mai Nguyễn. Cô có phải cô Pang không? Cô đã trả lời email và mời cháu đến văn phòng.
+**Cô Pang:** Vâng. Tôi là cô Pang. Rất vui gặp em, Mai. Vậy em biết về chúng tôi như thế nào?
+**Mai:** Em họ cháu là tình nguyện viên AYVP. Cậu ấy thường nói tham gia chương trình là trải nghiệm không bao giờ quên.
+**Cô Pang:** Vui khi nghe điều đó. Mục tiêu chính của AYVP là thúc đẩy thanh niên tình nguyện và giúp phát triển cộng đồng ASEAN.
+**Mai:** Cháu cần chuẩn bị gì cho chương trình ạ?
+**Cô Pang:** Để trở thành tình nguyện viên AYVP, em phải đủ điều kiện, và điều này phụ thuộc vào chủ đề của năm.
+**Mai:** AYVP bao gồm những lĩnh vực nào ạ?
+**Cô Pang:** Có 8 chủ đề. Tôi khuyên em nên vào trang web để xem chủ đề năm nay.
+**Mai:** Tình nguyện viên được chọn như thế nào ạ?
+**Cô Pang:** Để được chọn, em phải trên 18 tuổi. Rồi em có thể cần đề xuất một dự án cộng đồng liên quan đến chủ đề. Và chúng tôi có thể phỏng vấn em để đảm bảo em nói tiếng Anh tốt và rất muốn tham gia.
+**Mai:** Nghe không quá khó. Cảm ơn cô rất nhiều vì đã gặp cháu.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

@@ -37,19 +37,30 @@ Bài 1 trang 58 — <eng>Listen and read</eng>. Nick và Phong đang tham quan t
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nick:** Dr Adams! Can you tell us about the robots in the show, please? | **Nick:** Tiến sĩ Adams! Chú có thể cho chúng cháu biết về các robot trong buổi trình diễn được không? |
-| **Dr Adams:** Sure. This is H8, a home robot. It can do the dishes, iron clothes, put toys away... | **Tiến sĩ Adams:** Chắc chắn rồi. Đây là H8, một robot gia đình. Nó có thể rửa bát, ủi quần áo, cất đồ chơi... |
-| **Nick:** It looks very useful! | **Nick:** Nó trông rất hữu ích! |
-| **Dr Adams:** Yes, it can even make meals. | **Tiến sĩ Adams:** Đúng vậy, nó thậm chí có thể nấu ăn. |
-| **Phong:** Look! That's the biggest robot in the show. | **Phong:** Nhìn kìa! Đó là robot lớn nhất trong buổi trình diễn. |
-| **Dr Adams:** Right, it's WB2, a worker robot, it's the strongest and fastest robot here. | **Tiến sĩ Adams:** Đúng rồi, đó là WB2, một robot công nhân, nó là robot mạnh nhất và nhanh nhất ở đây. |
-| **Nick:** What can it do? | **Nick:** Nó có thể làm gì? |
-| **Dr Adams:** It can move heavy things or repair broken machines. | **Tiến sĩ Adams:** Nó có thể di chuyển những thứ nặng hoặc sửa chữa máy móc bị hỏng. |
-| **Nick:** And what is this? | **Nick:** Và đây là gì? |
-| **Dr Adams:** It's Shifa, a doctor robot. It's the smartest robot. It can help sick people and do many things like humans. | **Tiến sĩ Adams:** Đó là Shifa, một robot bác sĩ. Đó là robot thông minh nhất. Nó có thể giúp đỡ mọi người và làm nhiều việc giống như con người. |
+**Nick:** Dr Adams! Can you tell us about the robots in the show, please?
+**Dr Adams:** Sure. This is H8, a home robot. It can do the dishes, iron clothes, put toys away...
+**Nick:** It looks very useful!
+**Dr Adams:** Yes, it can even make meals.
+**Phong:** Look! That's the biggest robot in the show.
+**Dr Adams:** Right, it's WB2, a worker robot, it's the strongest and fastest robot here.
+**Nick:** What can it do?
+**Dr Adams:** It can move heavy things or repair broken machines.
+**Nick:** And what is this?
+**Dr Adams:** It's Shifa, a doctor robot. It's the smartest robot. It can help sick people and do many things like humans.
 </dialogue>
+
+<translation>
+**Nick:** Tiến sĩ Adams! Chú có thể cho chúng cháu biết về các robot trong buổi trình diễn được không?
+**Tiến sĩ Adams:** Chắc chắn rồi. Đây là H8, một robot gia đình. Nó có thể rửa bát, ủi quần áo, cất đồ chơi...
+**Nick:** Nó trông rất hữu ích!
+**Tiến sĩ Adams:** Đúng vậy, nó thậm chí có thể nấu ăn.
+**Phong:** Nhìn kìa! Đó là robot lớn nhất trong buổi trình diễn.
+**Tiến sĩ Adams:** Đúng rồi, đó là WB2, một robot công nhân, nó là robot mạnh nhất và nhanh nhất ở đây.
+**Nick:** Nó có thể làm gì?
+**Tiến sĩ Adams:** Nó có thể di chuyển những thứ nặng hoặc sửa chữa máy móc bị hỏng.
+**Nick:** Và đây là gì?
+**Tiến sĩ Adams:** Đó là Shifa, một robot bác sĩ. Đó là robot thông minh nhất. Nó có thể giúp đỡ mọi người và làm nhiều việc giống như con người.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

@@ -313,14 +313,16 @@ Bài 3 <eng>Work in groups</eng> nha. Hỏi đáp về hoạt động cuối tu�
 </task>
 
 <dialogue>
-**Mẫu hội thoại:**
-
-| English | Vietnamese |
-|---------|------------|
-| **A:** Did you do any sports last weekend? | A: Cuối tuần trước bạn có chơi thể thao không? |
-| **B:** Oh, yes, and I was exhausted. | B: Ồ, có chứ, và mình rất mệt luôn. |
-| **C:** Really? What did you do? | C: Thật à? Bạn đã làm gì? |
+**A:** Did you do any sports last weekend?
+**B:** Oh, yes, and I was exhausted.
+**C:** Really? What did you do?
 </dialogue>
+
+<translation>
+A: Cuối tuần trước bạn có chơi thể thao không?
+B: Ồ, có chứ, và mình rất mệt luôn.
+C: Thật à? Bạn đã làm gì?
+</translation>
 
 <grammar>
 **Các câu hỏi gợi ý:**

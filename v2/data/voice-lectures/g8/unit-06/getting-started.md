@@ -35,21 +35,34 @@ Nghe xong từ vựng rồi hen. Giờ mình qua phần hội thoại nha. Bài 
 </reading>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nam:** Hello, Tom. How're things? | **Nam:** Chào Tom. Mọi chuyện thế nào rồi? |
-| **Tom:** Oh good. I like it here. The lifestyle is interesting and different from that in my country. | **Tom:** Ồ tốt mà. Mình thích ở đây. Lối sống ở đây rất thú vị và khác biệt với đất nước mình. |
-| **Nam:** Really? | **Nam:** Thật không? |
-| **Tom:** Sure. Students here call their teachers by their title "teacher", not by their names. | **Tom:** Chắc chứ. Học sinh ở đây chỉ gọi giáo viên của họ bằng chức danh "thầy hoặc cô" thôi, không gọi tên. |
-| **Nam:** Right. How do you greet your teachers? | **Nam:** Đúng rồi. Cậu chào giáo viên như thế nào? |
-| **Tom:** We usually say "Hello" or "Good morning" then Mr, Mrs, or Miss and their surnames, for example "Good morning, Mr Smith." | **Tom:** Tụi mình thường nói "Xin chào" hoặc "Chào buổi sáng" sau đó là thầy hoặc cô và họ của người đó, ví dụ như là "Chào buổi sáng, thầy Smith." |
-| **Nam:** Are there other differences? | **Nam:** Còn những khác biệt nào khác không? |
-| **Tom:** People buy and sell a lot of street food here. In my country, people usually buy food in a store or a restaurant. | **Tom:** Mọi người mua và bán rất nhiều đồ ăn trên đường. Ở đất nước của mình thì mọi người chỉ mua đồ ăn trong tiệm hoặc nhà hàng. |
-| **Nam:** Yeah. Buying street food is a common practice in my city. | **Nam:** Đúng rồi. Mua đồ ăn trên đường là một thói quen phổ biến ở đất nước mình. |
-| **Tom:** And I've noticed that many people have breakfast on the street too! In my country, we typically have a light breakfast at home. | **Tom:** Và mình cũng để ý là nhiều người cũng ăn sáng ở trên đường nữa! Ở đất nước của mình, mọi người thường có một bữa sáng nhẹ ở nhà. |
-| **Nam:** I see. But here many adults are in the habit of having breakfast outside of their homes. If they're not in a hurry, they'll even have a leisurely coffee there. | **Nam:** Mình biết. Nhưng mà ở đây có nhiều người lớn có thói quen ăn sáng ở ngoài. Nếu họ không vội, họ sẽ thảnh thơi uống cà phê ở đó nữa. |
-| **Tom:** That's fascinating! | **Tom:** Nghe thú vị đấy! |
+**Nam:** Hello, Tom. How're things?
+**Tom:** Oh good. I like it here. The lifestyle is interesting and different from that in my country.
+**Nam:** Really?
+**Tom:** Sure. Students here call their teachers by their title "teacher", not by their names.
+**Nam:** Right. How do you greet your teachers?
+**Tom:** We usually say "Hello" or "Good morning" then Mr, Mrs, or Miss and their surnames, for example "Good morning, Mr Smith."
+**Nam:** Are there other differences?
+**Tom:** People buy and sell a lot of street food here. In my country, people usually buy food in a store or a restaurant.
+**Nam:** Yeah. Buying street food is a common practice in my city.
+**Tom:** And I've noticed that many people have breakfast on the street too! In my country, we typically have a light breakfast at home.
+**Nam:** I see. But here many adults are in the habit of having breakfast outside of their homes. If they're not in a hurry, they'll even have a leisurely coffee there.
+**Tom:** That's fascinating!
 </dialogue>
+
+<translation>
+**Nam:** Chào Tom. Mọi chuyện thế nào rồi?
+**Tom:** Ồ tốt mà. Mình thích ở đây. Lối sống ở đây rất thú vị và khác biệt với đất nước mình.
+**Nam:** Thật không?
+**Tom:** Chắc chứ. Học sinh ở đây chỉ gọi giáo viên của họ bằng chức danh "thầy hoặc cô" thôi, không gọi tên.
+**Nam:** Đúng rồi. Cậu chào giáo viên như thế nào?
+**Tom:** Tụi mình thường nói "Xin chào" hoặc "Chào buổi sáng" sau đó là thầy hoặc cô và họ của người đó, ví dụ như là "Chào buổi sáng, thầy Smith."
+**Nam:** Còn những khác biệt nào khác không?
+**Tom:** Mọi người mua và bán rất nhiều đồ ăn trên đường. Ở đất nước của mình thì mọi người chỉ mua đồ ăn trong tiệm hoặc nhà hàng.
+**Nam:** Đúng rồi. Mua đồ ăn trên đường là một thói quen phổ biến ở đất nước mình.
+**Tom:** Và mình cũng để ý là nhiều người cũng ăn sáng ở trên đường nữa! Ở đất nước của mình, mọi người thường có một bữa sáng nhẹ ở nhà.
+**Nam:** Mình biết. Nhưng mà ở đây có nhiều người lớn có thói quen ăn sáng ở ngoài. Nếu họ không vội, họ sẽ thảnh thơi uống cà phê ở đó nữa.
+**Tom:** Nghe thú vị đấy!
+</translation>
 
 <teacher_script pause="180">
 Các em đọc lại hội thoại và dịch vô vở nha. 3 phút đó.

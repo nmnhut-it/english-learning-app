@@ -63,19 +63,30 @@ Nhớ chưa nha? Ba nhóm: hỏi → xác nhận → xin giải thích. Giờ đ
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nam:** So with this phone, you can take amazing photos in portrait mode. | **Nam:** Với điện thoại này, bạn có thể chụp ảnh tuyệt vời ở chế độ chân dung. |
-| **Linh:** Portrait mode? Could you explain what that means? | **Linh:** Chế độ chân dung? Bạn có thể giải thích nó nghĩa là gì không? |
-| **Nam:** It blurs the background and keeps your face sharp — perfect for selfies. | **Nam:** Nó làm mờ nền và giữ khuôn mặt bạn sắc nét — hoàn hảo cho ảnh tự chụp. |
-| **Linh:** Oh, got it! And what about the storage? | **Linh:** À, hiểu rồi! Còn dung lượng lưu trữ thì sao? |
-| **Nam:** It has 256GB. You can store thousands of photos and videos. | **Nam:** Nó có 256GB. Bạn có thể lưu hàng nghìn ảnh và video. |
-| **Linh:** Do you mean I won't need to delete things as often? | **Linh:** Ý bạn là tôi sẽ không cần xóa nhiều nữa phải không? |
-| **Nam:** Exactly! Plus it updates automatically at night. | **Nam:** Đúng vậy! Thêm nữa là nó tự cập nhật vào ban đêm. |
-| **Linh:** I see. So the battery needs to be charged every night? | **Linh:** À, tôi hiểu. Vậy pin cần sạc mỗi đêm phải không? |
-| **Nam:** Not exactly — it charges wirelessly while updating. | **Nam:** Không hẳn — nó sạc không dây trong khi cập nhật. |
-| **Linh:** Wow, I got what you mean now. Technology is amazing! | **Linh:** Ồ, tôi hiểu ý bạn rồi. Công nghệ thật tuyệt vời! |
+**Nam:** So with this phone, you can take amazing photos in portrait mode.
+**Linh:** Portrait mode? Could you explain what that means?
+**Nam:** It blurs the background and keeps your face sharp — perfect for selfies.
+**Linh:** Oh, got it! And what about the storage?
+**Nam:** It has 256GB. You can store thousands of photos and videos.
+**Linh:** Do you mean I won't need to delete things as often?
+**Nam:** Exactly! Plus it updates automatically at night.
+**Linh:** I see. So the battery needs to be charged every night?
+**Nam:** Not exactly — it charges wirelessly while updating.
+**Linh:** Wow, I got what you mean now. Technology is amazing!
 </dialogue>
+
+<translation>
+**Nam:** Với điện thoại này, bạn có thể chụp ảnh tuyệt vời ở chế độ chân dung.
+**Linh:** Chế độ chân dung? Bạn có thể giải thích nó nghĩa là gì không?
+**Nam:** Nó làm mờ nền và giữ khuôn mặt bạn sắc nét — hoàn hảo cho ảnh tự chụp.
+**Linh:** À, hiểu rồi! Còn dung lượng lưu trữ thì sao?
+**Nam:** Nó có 256GB. Bạn có thể lưu hàng nghìn ảnh và video.
+**Linh:** Ý bạn là tôi sẽ không cần xóa nhiều nữa phải không?
+**Nam:** Đúng vậy! Thêm nữa là nó tự cập nhật vào ban đêm.
+**Linh:** À, tôi hiểu. Vậy pin cần sạc mỗi đêm phải không?
+**Nam:** Không hẳn — nó sạc không dây trong khi cập nhật.
+**Linh:** Ồ, tôi hiểu ý bạn rồi. Công nghệ thật tuyệt vời!
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Ghi cả hai cột tiếng Anh và tiếng Việt. Có 3 phút — chú ý các câu kiểm tra sự hiểu trong hội thoại nha.

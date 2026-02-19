@@ -199,19 +199,30 @@ You can ask about:
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** Where did you go on your recent holiday? | **A:** Bạn đã đi đâu trong kỳ nghỉ gần đây? |
-| **B:** I visited Da Nang. | **B:** Tôi đã đến thăm Đà Nẵng. |
-| **A:** Did you take a package tour or plan it yourself? | **A:** Bạn đã tham gia một chuyến du lịch trọn gói hay tự mình lên kế hoạch? |
-| **B:** I took a self-guided tour. I did some research beforehand and created an itinerary based on the places I wanted to visit. | **B:** Tôi đã tham gia một chuyến tham quan tự túc. Tôi đã thực hiện một số nghiên cứu trước và lập một hành trình dựa trên những địa điểm tôi muốn ghé thăm. |
-| **A:** How did you travel to Da Nang? | **A:** Bạn đến Đà Nẵng bằng phương tiện gì? |
-| **B:** I flew to Da Nang. There are direct flights from my city, so it was convenient. | **B:** Tôi đã bay tới Đà Nẵng. Có chuyến bay thẳng từ thành phố của tôi nên rất thuận tiện. |
-| **A:** Where did you stay during your visit? | **A:** Bạn đã ở đâu trong chuyến thăm của bạn? |
-| **B:** I stayed at a hotel near My Khe Beach. It was a comfortable and convenient location for exploring the city. | **B:** Tôi ở tại một khách sạn gần bãi biển Mỹ Khê. Đó là một vị trí thoải mái và thuận tiện để khám phá thành phố. |
-| **A:** What were some of the activities or sights you experienced? | **A:** Một số hoạt động hoặc điểm tham quan mà bạn đã trải nghiệm là gì? |
-| **B:** I spent some time relaxing on My Khe Beach, soaking up the sun. I also explored the Marble Mountains and visited the Dragon Bridge. | **B:** Tôi dành thời gian thư giãn trên bãi biển Mỹ Khê, tắm nắng. Tôi cũng đã khám phá Ngũ Hành Sơn và thăm Cầu Rồng. |
+**A:** Where did you go on your recent holiday?
+**B:** I visited Da Nang.
+**A:** Did you take a package tour or plan it yourself?
+**B:** I took a self-guided tour. I did some research beforehand and created an itinerary based on the places I wanted to visit.
+**A:** How did you travel to Da Nang?
+**B:** I flew to Da Nang. There are direct flights from my city, so it was convenient.
+**A:** Where did you stay during your visit?
+**B:** I stayed at a hotel near My Khe Beach. It was a comfortable and convenient location for exploring the city.
+**A:** What were some of the activities or sights you experienced?
+**B:** I spent some time relaxing on My Khe Beach, soaking up the sun. I also explored the Marble Mountains and visited the Dragon Bridge.
 </dialogue>
+
+<translation>
+**A:** Bạn đã đi đâu trong kỳ nghỉ gần đây?
+**B:** Tôi đã đến thăm Đà Nẵng.
+**A:** Bạn đã tham gia một chuyến du lịch trọn gói hay tự mình lên kế hoạch?
+**B:** Tôi đã tham gia một chuyến tham quan tự túc. Tôi đã thực hiện một số nghiên cứu trước và lập một hành trình dựa trên những địa điểm tôi muốn ghé thăm.
+**A:** Bạn đến Đà Nẵng bằng phương tiện gì?
+**B:** Tôi đã bay tới Đà Nẵng. Có chuyến bay thẳng từ thành phố của tôi nên rất thuận tiện.
+**A:** Bạn đã ở đâu trong chuyến thăm của bạn?
+**B:** Tôi ở tại một khách sạn gần bãi biển Mỹ Khê. Đó là một vị trí thoải mái và thuận tiện để khám phá thành phố.
+**A:** Một số hoạt động hoặc điểm tham quan mà bạn đã trải nghiệm là gì?
+**B:** Tôi dành thời gian thư giãn trên bãi biển Mỹ Khê, tắm nắng. Tôi cũng đã khám phá Ngũ Hành Sơn và thăm Cầu Rồng.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_2071ff4a.webm">
 Hỏi về: đi đâu (Where), tour trọn gói hay tự túc (Package or self-guided), đi bằng gì (How did you travel), ở đâu (Where did you stay), làm gì (What did you do).

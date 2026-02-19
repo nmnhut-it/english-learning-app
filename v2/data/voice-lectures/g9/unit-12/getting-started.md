@@ -38,20 +38,32 @@ Bài 1 trang 125 — <eng>Listen and read</eng>. Đọc hội thoại giữa Mi 
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** I'm not sure what career to pursue. I like working with people and I'm quite creative. | **Mi:** Em không chắc mình nên theo đuổi nghề gì. Em thích làm việc với người và em khá sáng tạo. |
-| **Advisor:** Have you thought about hairdressing? It's creative and you interact with people all day. | **Cố vấn:** Em có nghĩ đến nghề cắt tóc chưa? Nó sáng tạo và em tiếp xúc với mọi người cả ngày. |
-| **Mi:** Really? What qualifications do I need? | **Mi:** Thật á? Em cần bằng cấp gì ạ? |
-| **Advisor:** You can attend a vocational college for 2 years and earn a certificate. Many hairdressers also complete an apprenticeship first. | **Cố vấn:** Em có thể theo học trường cao đẳng nghề trong 2 năm để lấy chứng chỉ. Nhiều thợ cắt tóc cũng học việc trước. |
-| **Mi:** Is it well-paid? | **Mi:** Nghề đó có lương cao không ạ? |
-| **Advisor:** It can be quite rewarding — both financially and personally. You'd see the results of your work right away. | **Cố vấn:** Có thể khá xứng đáng — cả về tài chính lẫn cá nhân. Em sẽ thấy kết quả công việc của mình ngay lập tức. |
-| **Mi:** My dad says I should become a doctor or engineer. | **Mi:** Ba em nói em nên trở thành bác sĩ hoặc kỹ sư. |
-| **Advisor:** Those are demanding careers that require many years of study. But any skilled job can be fulfilling if you're passionate. | **Cố vấn:** Đó là những nghề đòi hỏi cao và cần nhiều năm học. Nhưng bất kỳ nghề lành nghề nào cũng có thể thỏa mãn nếu em đam mê. |
-| **Mi:** What about becoming a mechanic? My uncle is one and he loves it. | **Mi:** Còn nghề thợ sửa máy thì sao ạ? Chú em làm nghề đó và chú ấy rất yêu thích. |
-| **Advisor:** Mechanics are always in demand! It's a manual job but very skilled and well-paid. | **Cố vấn:** Thợ sửa máy luôn có nhu cầu cao! Đó là công việc thủ công nhưng rất lành nghề và lương cao. |
-| **Mi:** I think I'll research more before deciding. | **Mi:** Em nghĩ em sẽ tìm hiểu thêm trước khi quyết định. |
+**Mi:** I'm not sure what career to pursue. I like working with people and I'm quite creative.
+**Advisor:** Have you thought about hairdressing? It's creative and you interact with people all day.
+**Mi:** Really? What qualifications do I need?
+**Advisor:** You can attend a vocational college for 2 years and earn a certificate. Many hairdressers also complete an apprenticeship first.
+**Mi:** Is it well-paid?
+**Advisor:** It can be quite rewarding — both financially and personally. You'd see the results of your work right away.
+**Mi:** My dad says I should become a doctor or engineer.
+**Advisor:** Those are demanding careers that require many years of study. But any skilled job can be fulfilling if you're passionate.
+**Mi:** What about becoming a mechanic? My uncle is one and he loves it.
+**Advisor:** Mechanics are always in demand! It's a manual job but very skilled and well-paid.
+**Mi:** I think I'll research more before deciding.
 </dialogue>
+
+<translation>
+**Mi:** Em không chắc mình nên theo đuổi nghề gì. Em thích làm việc với người và em khá sáng tạo.
+**Cố vấn:** Em có nghĩ đến nghề cắt tóc chưa? Nó sáng tạo và em tiếp xúc với mọi người cả ngày.
+**Mi:** Thật á? Em cần bằng cấp gì ạ?
+**Cố vấn:** Em có thể theo học trường cao đẳng nghề trong 2 năm để lấy chứng chỉ. Nhiều thợ cắt tóc cũng học việc trước.
+**Mi:** Nghề đó có lương cao không ạ?
+**Cố vấn:** Có thể khá xứng đáng — cả về tài chính lẫn cá nhân. Em sẽ thấy kết quả công việc của mình ngay lập tức.
+**Mi:** Ba em nói em nên trở thành bác sĩ hoặc kỹ sư.
+**Cố vấn:** Đó là những nghề đòi hỏi cao và cần nhiều năm học. Nhưng bất kỳ nghề lành nghề nào cũng có thể thỏa mãn nếu em đam mê.
+**Mi:** Còn nghề thợ sửa máy thì sao ạ? Chú em làm nghề đó và chú ấy rất yêu thích.
+**Cố vấn:** Thợ sửa máy luôn có nhu cầu cao! Đó là công việc thủ công nhưng rất lành nghề và lương cao.
+**Mi:** Em nghĩ em sẽ tìm hiểu thêm trước khi quyết định.
+</translation>
 
 <teacher_script pause="180">
 Giờ các em dịch hội thoại vô vở nha. 3 phút thôi. Cố gắng dịch không nhìn bảng dịch, kiểm tra lại sau.

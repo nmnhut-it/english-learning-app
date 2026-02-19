@@ -124,13 +124,18 @@ Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đ
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: **What's your favourite TV programme?** | A: **Chương trình TV yêu thích của bạn là gì?** |
-| B: The animal programme. | B: Chương trình về động vật. |
-| A: **Why do you like it?** | A: **Tại sao bạn thích nó?** |
-| B: **Because** I can see the animals in their real life. | B: **Vì** tôi có thể thấy động vật trong cuộc sống thực. |
+A: **What's your favourite TV programme?**
+B: The animal programme.
+A: **Why do you like it?**
+B: **Because** I can see the animals in their real life.
 </dialogue>
+
+<translation>
+A: **Chương trình TV yêu thích của bạn là gì?**
+B: Chương trình về động vật.
+A: **Tại sao bạn thích nó?**
+B: **Vì** tôi có thể thấy động vật trong cuộc sống thực.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_87ac8cfd.mp3">
 Đây là hội thoại mẫu.
@@ -244,13 +249,18 @@ Và đây là gợi ý lý do: <eng>Because it's funny. Because it's interesting
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: What's your favourite TV programme? | A: Chương trình TV yêu thích của bạn là gì? |
-| B: Educational programme. | B: Chương trình giáo dục. |
-| A: Why do you like it? | A: Tại sao bạn thích nó? |
-| B: Because I want to practise Maths and English more after school. | B: Vì tôi muốn luyện Toán và Tiếng Anh thêm sau khi học ở trường. |
+A: What's your favourite TV programme?
+B: Educational programme.
+A: Why do you like it?
+B: Because I want to practise Maths and English more after school.
 </dialogue>
+
+<translation>
+A: Chương trình TV yêu thích của bạn là gì?
+B: Chương trình giáo dục.
+A: Tại sao bạn thích nó?
+B: Vì tôi muốn luyện Toán và Tiếng Anh thêm sau khi học ở trường.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_6333082a.mp3">
 Hội thoại mẫu. A hỏi: <eng>What's your favourite TV programme?</eng>
@@ -554,13 +564,18 @@ Dùng cấu trúc: <eng>I like... because... I prefer... because...</eng> - <eng
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| I like Let's Learn because it has cute characters and fun songs. | Tôi thích Let's Learn vì nó có nhân vật đáng yêu và bài hát thú vị. |
-| I prefer Hello Fatty because it's funny and educational. | Tôi thích Hello Fatty hơn vì nó thú vị và có tính giáo dục. |
-| I like Let's Learn because it makes learning fun. | Tôi thích Let's Learn vì nó làm cho việc học trở nên thú vị. |
-| I prefer Hello Fatty because I love the clever fox Fatty. | Tôi thích Hello Fatty hơn vì tôi yêu con cáo thông minh Fatty. |
+I like Let's Learn because it has cute characters and fun songs.
+I prefer Hello Fatty because it's funny and educational.
+I like Let's Learn because it makes learning fun.
+I prefer Hello Fatty because I love the clever fox Fatty.
 </dialogue>
+
+<translation>
+Tôi thích Let's Learn vì nó có nhân vật đáng yêu và bài hát thú vị.
+Tôi thích Hello Fatty hơn vì nó thú vị và có tính giáo dục.
+Tôi thích Let's Learn vì nó làm cho việc học trở nên thú vị.
+Tôi thích Hello Fatty hơn vì tôi yêu con cáo thông minh Fatty.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_b54a251d.mp3">
 Mẫu 1: <eng>I like Let's Learn because it has cute characters and fun songs.</eng>

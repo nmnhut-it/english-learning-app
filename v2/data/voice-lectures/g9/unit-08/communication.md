@@ -21,13 +21,18 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe hội thoại về cách diễn đ�
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mother:** Lan, you **must** hurry up or we'll miss the train. | **Mẹ:** Lan, con **phải** nhanh lên nếu không chúng ta sẽ lỡ chuyến tàu. |
-| **Lan:** Yes, Mum. I'm coming. | **Lan:** Vâng thưa mẹ. Con đang đến. |
-| **Nick:** **Is it necessary** for us to wait in the queue? | **Nick:** Chúng tôi **có cần phải** xếp hàng chờ không? |
-| **Stranger:** I'm sorry, **it is**. | **Người lạ:** Tôi xin lỗi, **đúng vậy**. |
+**Mother:** Lan, you **must** hurry up or we'll miss the train.
+**Lan:** Yes, Mum. I'm coming.
+**Nick:** **Is it necessary** for us to wait in the queue?
+**Stranger:** I'm sorry, **it is**.
 </dialogue>
+
+<translation>
+**Mẹ:** Lan, con **phải** nhanh lên nếu không chúng ta sẽ lỡ chuyến tàu.
+**Lan:** Vâng thưa mẹ. Con đang đến.
+**Nick:** Chúng tôi **có cần phải** xếp hàng chờ không?
+**Người lạ:** Tôi xin lỗi, **đúng vậy**.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_259d41a4.webm">
 Chú ý nha! <eng>Must</eng> dùng để nói điều bắt buộc - "you must hurry up" = con phải nhanh lên. <eng>Is it necessary...?</eng> dùng để hỏi có cần thiết không.

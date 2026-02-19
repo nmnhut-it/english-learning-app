@@ -33,22 +33,36 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc hội thoại giữa Mi v
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** Hi, Nick. | **Mi:** Chào Nick. |
-| **Nick:** Hello Mi. | **Nick:** Chào Mi. |
-| **Mi:** You've bought a lot of things. | **Mi:** Cậu mua nhiều thứ thật. |
-| **Nick:** Yes. We're going on a picnic tomorrow. What are you doing at the supermarket, Mi? | **Nick:** Vâng. Ngày mai chúng mình sẽ đi dã ngoại. Bạn đang làm gì ở siêu thị vậy, Mi? |
-| **Mi:** I'm buying some eggs. Hey, what's this? | **Mi:** Mình đang mua một ít trứng. Đây là gì? |
-| **Nick:** It's a reusable shopping bag. | **Nick:** Đó là một chiếc túi mua sắm có thể tái sử dụng. |
-| **Mi:** Do you always use it? | **Mi:** Bạn có hay sử dụng nó không? |
-| **Nick:** Yes. It's better than a plastic one. If we use this kind of bag, we will help the environment. | **Nick:** Có chứ. Nó tốt hơn túi nhựa. Nếu chúng ta sử dụng loại túi này, chúng ta sẽ giúp ích cho môi trường. |
-| **Mi:** I see. I'll buy one for my mum. Where can I buy one? | **Mi:** Mình hiểu rồi. Mình sẽ mua một cái cho mẹ. Mình có thể mua một cái ở đâu nhỉ? |
-| **Nick:** At the check-out. By the way, you're also green. You're cycling. | **Nick:** Ở quầy thanh toán. À này, bạn cũng sống xanh đó. Bạn đang đi xe đạp. |
-| **Mi:** You're right. If more people cycle, the air will be cleaner. Right? | **Mi:** Bạn nói đúng. Nếu nhiều người đạp xe hơn, không khí sẽ sạch hơn. Đúng không? |
-| **Nick:** Yes. Oh, it's 5 o'clock already. I have to go now. See you later. | **Nick:** Đúng vậy. Ồ, đã 5 giờ rồi. Mình phải đi ngay bây giờ. Hẹn gặp lại. |
-| **Mi:** See you, Nick. Bye. | **Mi:** Hẹn gặp lại, Nick. Tạm biệt. |
+**Mi:** Hi, Nick.
+**Nick:** Hello Mi.
+**Mi:** You've bought a lot of things.
+**Nick:** Yes. We're going on a picnic tomorrow. What are you doing at the supermarket, Mi?
+**Mi:** I'm buying some eggs. Hey, what's this?
+**Nick:** It's a reusable shopping bag.
+**Mi:** Do you always use it?
+**Nick:** Yes. It's better than a plastic one. If we use this kind of bag, we will help the environment.
+**Mi:** I see. I'll buy one for my mum. Where can I buy one?
+**Nick:** At the check-out. By the way, you're also green. You're cycling.
+**Mi:** You're right. If more people cycle, the air will be cleaner. Right?
+**Nick:** Yes. Oh, it's 5 o'clock already. I have to go now. See you later.
+**Mi:** See you, Nick. Bye.
 </dialogue>
+
+<translation>
+**Mi:** Chào Nick.
+**Nick:** Chào Mi.
+**Mi:** Cậu mua nhiều thứ thật.
+**Nick:** Vâng. Ngày mai chúng mình sẽ đi dã ngoại. Bạn đang làm gì ở siêu thị vậy, Mi?
+**Mi:** Mình đang mua một ít trứng. Đây là gì?
+**Nick:** Đó là một chiếc túi mua sắm có thể tái sử dụng.
+**Mi:** Bạn có hay sử dụng nó không?
+**Nick:** Có chứ. Nó tốt hơn túi nhựa. Nếu chúng ta sử dụng loại túi này, chúng ta sẽ giúp ích cho môi trường.
+**Mi:** Mình hiểu rồi. Mình sẽ mua một cái cho mẹ. Mình có thể mua một cái ở đâu nhỉ?
+**Nick:** Ở quầy thanh toán. À này, bạn cũng sống xanh đó. Bạn đang đi xe đạp.
+**Mi:** Bạn nói đúng. Nếu nhiều người đạp xe hơn, không khí sẽ sạch hơn. Đúng không?
+**Nick:** Đúng vậy. Ồ, đã 5 giờ rồi. Mình phải đi ngay bây giờ. Hẹn gặp lại.
+**Mi:** Hẹn gặp lại, Nick. Tạm biệt.
+</translation>
 
 <teacher_script pause="180">
 Đọc hội thoại và dịch vô vở nha. 3 phút.
@@ -207,30 +221,44 @@ Bài 5 <eng>Find someone who ... Work in groups. Ask and answer to find someone 
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Example:** | **Ví dụ:** |
-| **A:** Do you plant trees? | **A:** Bạn có trồng cây không? |
-| **B:** No, I don't. | **B:** Không, tôi không. |
-| **A:** Do you pick up rubbish? | **A:** Bạn có nhặt rác không? |
-| **B:** Yes, I do. | **B:** Vâng, tôi có. |
+**Example:**
+**A:** Do you plant trees?
+**B:** No, I don't.
+**A:** Do you pick up rubbish?
+**B:** Yes, I do.
 </dialogue>
+
+<translation>
+**Ví dụ:**
+**A:** Bạn có trồng cây không?
+**B:** Không, tôi không.
+**A:** Bạn có nhặt rác không?
+**B:** Vâng, tôi có.
+</translation>
 
 <teacher_script pause="0">
 Đây là mẫu câu trả lời nè.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Sample answer:** | **Câu trả lời mẫu:** |
-| **A:** Do you cycle? | **A:** Bạn có đạp xe không? |
-| **B:** No, I don't. | **B:** Không, tôi không. |
-| **A:** Do you walk to school? | **A:** Bạn có đi bộ đến trường không? |
-| **B:** Yes, I do. | **B:** Vâng, tôi có. |
-| **A:** Do you use reusable bags when shopping? | **A:** Bạn có sử dụng túi tái sử dụng khi mua sắm không? |
-| **B:** Yes, I do. | **B:** Vâng, tôi có. |
+**Sample answer:**
+**A:** Do you cycle?
+**B:** No, I don't.
+**A:** Do you walk to school?
+**B:** Yes, I do.
+**A:** Do you use reusable bags when shopping?
+**B:** Yes, I do.
 </dialogue>
+
+<translation>
+**Câu trả lời mẫu:**
+**A:** Bạn có đạp xe không?
+**B:** Không, tôi không.
+**A:** Bạn có đi bộ đến trường không?
+**B:** Vâng, tôi có.
+**A:** Bạn có sử dụng túi tái sử dụng khi mua sắm không?
+**B:** Vâng, tôi có.
+</translation>
 
 <teacher_script pause="90" action="record">
 Bây giờ các em tự hỏi và trả lời về các hoạt động bảo vệ môi trường nha. Dùng mẫu câu: Do you + động từ? Nói và ghi âm lại. 1 phút 30 giây.

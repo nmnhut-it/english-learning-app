@@ -183,15 +183,22 @@ Bài 5 <eng>Listen to the conversation. Underline the final s in the words and p
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** Mum, are you home? | **Mi:** Mẹ ơi, mẹ có nhà không ạ? |
-| **Mum:** Yes, honey. I'm in the kitchen. I've bought these new bowls and chopsticks. | **Mẹ:** Vâng, con yêu, mẹ đang ở trong bếp. Mẹ đã mua những cái bát và đôi đũa mới này. |
-| **Mi:** They're beautiful, Mum. Where did you buy them? | **Mi:** Chúng thật đẹp, mẹ à. Mẹ mua chúng ở đâu ạ? |
-| **Mum:** In the department store near our house. They have a lot of things for homes. | **Mẹ:** Ở cửa hàng bách hóa gần nhà. Họ có rất nhiều món đồ gia dụng. |
-| **Mi:** Don't forget we need two lamps for my bedroom, Mum. | **Mi:** Đừng quên chúng ta cần hai chiếc đèn cho phòng ngủ của con nhé mẹ. |
-| **Mum:** Let's go there this weekend. | **Mẹ:** Cuối tuần này hãy đến đó. |
+**Mi:** Mum, are you home?
+**Mum:** Yes, honey. I'm in the kitchen. I've bought these new bowls and chopsticks.
+**Mi:** They're beautiful, Mum. Where did you buy them?
+**Mum:** In the department store near our house. They have a lot of things for homes.
+**Mi:** Don't forget we need two lamps for my bedroom, Mum.
+**Mum:** Let's go there this weekend.
 </dialogue>
+
+<translation>
+**Mi:** Mẹ ơi, mẹ có nhà không ạ?
+**Mẹ:** Vâng, con yêu, mẹ đang ở trong bếp. Mẹ đã mua những cái bát và đôi đũa mới này.
+**Mi:** Chúng thật đẹp, mẹ à. Mẹ mua chúng ở đâu ạ?
+**Mẹ:** Ở cửa hàng bách hóa gần nhà. Họ có rất nhiều món đồ gia dụng.
+**Mi:** Đừng quên chúng ta cần hai chiếc đèn cho phòng ngủ của con nhé mẹ.
+**Mẹ:** Cuối tuần này hãy đến đó.
+</translation>
 
 <teacher_script pause="0">
 Ok đáp án nè.

@@ -34,13 +34,18 @@ Bài 1. Nghe và đọc hội thoại. Chú ý câu được đánh dấu nha.
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Ann:** Do you think we will travel by flying car in the future? | **Ann:** Bạn có nghĩ chúng ta sẽ đi du lịch bằng ô tô bay trong tương lai không? |
-| **Tom:** We certainly will. | **Tom:** Chúng ta chắc chắn sẽ đi. |
-| **Ann:** Will it be able to fly across oceans? | **Ann:** Liệu nó có thể bay qua các đại dương không? |
-| **Tom:** It probably won't. | **Tom:** Nó có thể sẽ không. |
+**Ann:** Do you think we will travel by flying car in the future?
+**Tom:** We certainly will.
+**Ann:** Will it be able to fly across oceans?
+**Tom:** It probably won't.
 </dialogue>
+
+<translation>
+**Ann:** Bạn có nghĩ chúng ta sẽ đi du lịch bằng ô tô bay trong tương lai không?
+**Tom:** Chúng ta chắc chắn sẽ đi.
+**Ann:** Liệu nó có thể bay qua các đại dương không?
+**Tom:** Nó có thể sẽ không.
+</translation>
 
 <teacher_script pause="0">
 Các em thấy không, khi Ann hỏi <eng>Do you think we will travel by flying car?</eng>, Tom trả lời chắc chắn: <eng>We certainly will</eng>. Nhưng khi hỏi tiếp <eng>Will it be able to fly across oceans?</eng>, Tom nói <eng>It probably won't</eng> nghĩa là có lẽ sẽ không. Hai cấu trúc này dùng để đưa ra dự đoán nha: <eng>certainly will</eng> là chắc chắn sẽ, <eng>probably won't</eng> là có lẽ sẽ không.
@@ -68,26 +73,36 @@ Bài 2. Làm việc theo cặp. Tạo các hội thoại tương tự về việ
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nam:** Do you think we will travel long distances by hyperloop in the future? | **Nam:** Bạn có nghĩ chúng ta sẽ đi đường dài bằng tàu cao tốc trong tương lai không? |
-| **Phong:** We certainly will. | **Phong:** Chúng ta chắc chắn sẽ làm được. |
-| **Nam:** Will it be able to run by wind energy? | **Nam:** Nó có thể chạy bằng năng lượng gió không? |
-| **Phong:** It probably won't. | **Phong:** Chắc sẽ không đâu. |
+**Nam:** Do you think we will travel long distances by hyperloop in the future?
+**Phong:** We certainly will.
+**Nam:** Will it be able to run by wind energy?
+**Phong:** It probably won't.
 </dialogue>
+
+<translation>
+**Nam:** Bạn có nghĩ chúng ta sẽ đi đường dài bằng tàu cao tốc trong tương lai không?
+**Phong:** Chúng ta chắc chắn sẽ làm được.
+**Nam:** Nó có thể chạy bằng năng lượng gió không?
+**Phong:** Chắc sẽ không đâu.
+</translation>
 
 <teacher_script pause="0">
 Và đây là mẫu hội thoại thứ hai.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Minh:** Do you think we will travel to other planets for holidays? | **Minh:** Bạn có nghĩ rằng chúng ta sẽ đi du lịch đến các hành tinh khác vào những ngày nghỉ lễ không? |
-| **Tuan:** We certainly will. | **Tuan:** Chúng tôi chắc chắn sẽ làm được. |
-| **Minh:** Will we be able to travel there by SkyTran? | **Minh:** Liệu chúng ta có thể đến đó bằng SkyTran không? |
-| **Tuan:** It probably won't. | **Tuan:** Chắc sẽ không đâu. |
+**Minh:** Do you think we will travel to other planets for holidays?
+**Tuan:** We certainly will.
+**Minh:** Will we be able to travel there by SkyTran?
+**Tuan:** It probably won't.
 </dialogue>
+
+<translation>
+**Minh:** Bạn có nghĩ rằng chúng ta sẽ đi du lịch đến các hành tinh khác vào những ngày nghỉ lễ không?
+**Tuan:** Chúng tôi chắc chắn sẽ làm được.
+**Minh:** Liệu chúng ta có thể đến đó bằng SkyTran không?
+**Tuan:** Chắc sẽ không đâu.
+</translation>
 
 <teacher_script pause="60" action="record">
 Bây giờ các em thực hành nói theo cặp nha. Một em hỏi <eng>Do you think we will...?</eng>, em kia trả lời <eng>We certainly will</eng> hoặc <eng>It probably won't</eng>. 1 phút nha, rồi ghi âm lại.
@@ -155,20 +170,32 @@ Ok đáp án nè.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mark:** So what means of transport will students use to go to school? | **Mark:** Vậy học sinh sẽ sử dụng phương tiện giao thông nào để đến trường? |
-| **Lan:** I think they will go by walkcar. | **Lan:** Tôi nghĩ họ sẽ đi bằng xe điện cá nhân. |
-| **Mark:** Walkcar? How many wheels will a walkcar have? | **Mark:** Xe điện? Xe điện sẽ có bao nhiêu bánh? |
-| **Lan:** Four. | **Lan:** Bốn. |
-| **Mark:** How will it work? | **Mark:** Nó sẽ hoạt động như thế nào? |
-| **Lan:** You stand on it then turn on the switch and drive away. | **Lan:** Bạn đứng trên đó rồi bật công tắc và lái đi. |
-| **Mark:** What will it run on? | **Mark:** Nó sẽ chạy bằng gì? |
-| **Lan:** Electricity. | **Lan:** Điện. |
-| **Mark:** Won't riders fall off it? It sounds dangerous. | **Mark:** Người đi sẽ không ngã khỏi nó chứ? Nghe có vẻ nguy hiểm. |
-| **Lan:** No, they won't. It is self-balancing. | **Lan:** Không, họ sẽ không. Nó tự cân bằng. |
-| **Mark:** I can't wait to get one. | **Mark:** Tôi không thể chờ đợi để có được một cái. |
+**Mark:** So what means of transport will students use to go to school?
+**Lan:** I think they will go by walkcar.
+**Mark:** Walkcar? How many wheels will a walkcar have?
+**Lan:** Four.
+**Mark:** How will it work?
+**Lan:** You stand on it then turn on the switch and drive away.
+**Mark:** What will it run on?
+**Lan:** Electricity.
+**Mark:** Won't riders fall off it? It sounds dangerous.
+**Lan:** No, they won't. It is self-balancing.
+**Mark:** I can't wait to get one.
 </dialogue>
+
+<translation>
+**Mark:** Vậy học sinh sẽ sử dụng phương tiện giao thông nào để đến trường?
+**Lan:** Tôi nghĩ họ sẽ đi bằng xe điện cá nhân.
+**Mark:** Xe điện? Xe điện sẽ có bao nhiêu bánh?
+**Lan:** Bốn.
+**Mark:** Nó sẽ hoạt động như thế nào?
+**Lan:** Bạn đứng trên đó rồi bật công tắc và lái đi.
+**Mark:** Nó sẽ chạy bằng gì?
+**Lan:** Điện.
+**Mark:** Người đi sẽ không ngã khỏi nó chứ? Nghe có vẻ nguy hiểm.
+**Lan:** Không, họ sẽ không. Nó tự cân bằng.
+**Mark:** Tôi không thể chờ đợi để có được một cái.
+</translation>
 
 <teacher_script pause="0">
 Dịch hội thoại vô vở nha. Chú ý cách hỏi về phương tiện giao thông tương lai: hỏi số bánh, cách hoạt động, nguồn năng lượng, và độ an toàn.
@@ -198,40 +225,64 @@ Bài 4. Làm việc theo cặp. Chọn một phương tiện giao thông bên d�
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **John:** So what means of transport will students use to go to school? | **John:** Vậy học sinh sẽ sử dụng phương tiện giao thông nào để đến trường? |
-| **Linh:** I think they will go by bamboo-copter. | **Linh:** Tôi nghĩ họ sẽ đi bằng trực thăng chong chóng tre. |
-| **John:** Bamboo-copter? How many wings will a bamboo-copter have? | **John:** Trực thăng chong chóng tre? Một trực thăng chong chóng tre sẽ có bao nhiêu cánh? |
-| **Linh:** Three. | **Linh:** Ba. |
-| **John:** How will it work? | **John:** Nó sẽ hoạt động như thế nào? |
-| **Linh:** You put it on and turn on the switch and fly away. | **Linh:** Bạn đeo vào rồi bật công tắc bay đi. |
-| **John:** What will it run on? | **John:** Nó sẽ chạy bằng gì? |
-| **Linh:** Electricity. | **Linh:** Điện. |
-| **John:** Won't users fall off it? It sounds dangerous. | **John:** Người dùng sẽ không rơi khỏi nó chứ? Nghe có vẻ nguy hiểm. |
-| **Linh:** No, they won't. It is self-balancing. It is fun and safe to use it. | **Linh:** Không, họ sẽ không. Nó sẽ tự cân bằng. Rất vui và an toàn để sử dụng nó. |
-| **John:** I can't wait to get one. | **John:** Tôi không thể chờ đợi để có được một cái. |
+**John:** So what means of transport will students use to go to school?
+**Linh:** I think they will go by bamboo-copter.
+**John:** Bamboo-copter? How many wings will a bamboo-copter have?
+**Linh:** Three.
+**John:** How will it work?
+**Linh:** You put it on and turn on the switch and fly away.
+**John:** What will it run on?
+**Linh:** Electricity.
+**John:** Won't users fall off it? It sounds dangerous.
+**Linh:** No, they won't. It is self-balancing. It is fun and safe to use it.
+**John:** I can't wait to get one.
 </dialogue>
+
+<translation>
+**John:** Vậy học sinh sẽ sử dụng phương tiện giao thông nào để đến trường?
+**Linh:** Tôi nghĩ họ sẽ đi bằng trực thăng chong chóng tre.
+**John:** Trực thăng chong chóng tre? Một trực thăng chong chóng tre sẽ có bao nhiêu cánh?
+**Linh:** Ba.
+**John:** Nó sẽ hoạt động như thế nào?
+**Linh:** Bạn đeo vào rồi bật công tắc bay đi.
+**John:** Nó sẽ chạy bằng gì?
+**Linh:** Điện.
+**John:** Người dùng sẽ không rơi khỏi nó chứ? Nghe có vẻ nguy hiểm.
+**Linh:** Không, họ sẽ không. Nó sẽ tự cân bằng. Rất vui và an toàn để sử dụng nó.
+**John:** Tôi không thể chờ đợi để có được một cái.
+</translation>
 
 <teacher_script pause="0">
 Và đây là mẫu hội thoại về <eng>Solowheel</eng>.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nam:** So what means of transport will students use to go to school? | **Nam:** Vậy học sinh sẽ sử dụng phương tiện giao thông nào để đến trường? |
-| **Ann:** I think they will go by solowheel. | **Ann:** Tôi nghĩ họ sẽ đi bằng xe một bánh. |
-| **Nam:** Solowheel? How many wheels will a solowheel have? | **Nam:** Xe một bánh? Một xe một bánh sẽ có bao nhiêu bánh xe? |
-| **Ann:** One. | **Ann:** Một. |
-| **Nam:** How will it work? | **Nam:** Nó sẽ hoạt động như thế nào? |
-| **Ann:** You stand on it and turn on the switch and ride away. | **Ann:** Bạn đứng trên đó và bật công tắc và chạy đi. |
-| **Nam:** What will it run on? | **Nam:** Nó sẽ chạy bằng gì? |
-| **Ann:** Electricity. | **Ann:** Điện. |
-| **Nam:** Will it be big? | **Nam:** Nó sẽ lớn chứ? |
-| **Ann:** No, it won't. It is small. It is fun and green to use it. | **Ann:** Không, sẽ không đâu. Nó nhỏ. Sẽ rất vui và thân thiện với môi trường khi sử dụng nó. |
-| **Nam:** I can't wait to get one. | **Nam:** Tôi nóng lòng muốn có một cái. |
+**Nam:** So what means of transport will students use to go to school?
+**Ann:** I think they will go by solowheel.
+**Nam:** Solowheel? How many wheels will a solowheel have?
+**Ann:** One.
+**Nam:** How will it work?
+**Ann:** You stand on it and turn on the switch and ride away.
+**Nam:** What will it run on?
+**Ann:** Electricity.
+**Nam:** Will it be big?
+**Ann:** No, it won't. It is small. It is fun and green to use it.
+**Nam:** I can't wait to get one.
 </dialogue>
+
+<translation>
+**Nam:** Vậy học sinh sẽ sử dụng phương tiện giao thông nào để đến trường?
+**Ann:** Tôi nghĩ họ sẽ đi bằng xe một bánh.
+**Nam:** Xe một bánh? Một xe một bánh sẽ có bao nhiêu bánh xe?
+**Ann:** Một.
+**Nam:** Nó sẽ hoạt động như thế nào?
+**Ann:** Bạn đứng trên đó và bật công tắc và chạy đi.
+**Nam:** Nó sẽ chạy bằng gì?
+**Ann:** Điện.
+**Nam:** Nó sẽ lớn chứ?
+**Ann:** Không, sẽ không đâu. Nó nhỏ. Sẽ rất vui và thân thiện với môi trường khi sử dụng nó.
+**Nam:** Tôi nóng lòng muốn có một cái.
+</translation>
 
 <teacher_script pause="60" action="record">
 Bây giờ các em chọn một phương tiện rồi thực hành hội thoại theo cặp nha. Nhớ hỏi về số cánh hoặc bánh, cách hoạt động, nguồn năng lượng, và ưu điểm. 1 phút rồi ghi âm lại.

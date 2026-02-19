@@ -56,15 +56,18 @@ Bài 1. Đọc hội thoại mẫu và nhận xét cách mời và trả lời n
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **(1)** | |
-| **Trang:** Would you like to go to the cooking club with me this Sunday? | **Trang:** Cậu có muốn đến câu lạc bộ nấu ăn với mình vào Chủ nhật không? |
-| **Ann:** I'd love to. Thanks. | **Ann:** Mình muốn chứ. Cảm ơn. |
-| **(2)** | |
-| **Tom:** Do you fancy going for a walk? | **Tom:** Cậu có muốn đi dạo không? |
-| **Mark:** That's great. Thanks. | **Mark:** Tuyệt quá. Cảm ơn. |
+**Trang:** Would you like to go to the cooking club with me this Sunday?
+**Ann:** I'd love to. Thanks.
+**Tom:** Do you fancy going for a walk?
+**Mark:** That's great. Thanks.
 </dialogue>
+
+<translation>
+**Trang:** Cậu có muốn đến câu lạc bộ nấu ăn với mình vào Chủ nhật không?
+**Ann:** Mình muốn chứ. Cảm ơn.
+**Tom:** Cậu có muốn đi dạo không?
+**Mark:** Tuyệt quá. Cảm ơn.
+</translation>
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 12 - Practice Dialogues

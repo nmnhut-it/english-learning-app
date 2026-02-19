@@ -312,19 +312,26 @@ Viết bài tóm tắt. 5 phút nha.
 </teacher_script>
 
 <dialogue>
-**Sample Answer - Bài mẫu:**
-
-| English | Vietnamese |
-|---------|------------|
-| Mr An talked about the effects of plants and animals on their habitats and the things people should do. | Thầy An đã nói về tác động của thực vật và động vật lên môi trường sống của chúng và những điều con người nên làm. |
-| Firstly, plants help or harm the environment. | Đầu tiên, thực vật giúp ích hoặc gây hại cho môi trường. |
-| Plants can make places more beautiful, but they can harm the environment by taking over the natural resources of local plants. | Thực vật có thể làm cho nơi này đẹp hơn, nhưng chúng có thể gây hại cho môi trường bằng cách chiếm lấy tài nguyên thiên nhiên của thực vật địa phương. |
-| He also said that animals can harm or improve the environment as well. | Ông cũng nói rằng động vật cũng có thể gây hại hoặc cải thiện môi trường. |
-| He gave an example of beavers. | Ông đưa ra ví dụ về loài hải ly. |
-| Beavers can build dams and ponds which helps some plants and animals. | Hải ly có thể xây đập và ao, giúp ích cho một số loài thực vật và động vật. |
-| But they can cause flood to the homes of other plants and animals. | Nhưng chúng có thể gây lũ lụt cho nơi ở của các loài thực vật và động vật khác. |
-| He concluded that humans should preserve habitats, stop destroying the habitats of many species, and stop using pesticides. | Ông kết luận rằng con người nên bảo tồn môi trường sống, ngừng phá hủy môi trường sống của nhiều loài và ngừng sử dụng thuốc trừ sâu. |
+Mr An talked about the effects of plants and animals on their habitats and the things people should do.
+Firstly, plants help or harm the environment.
+Plants can make places more beautiful, but they can harm the environment by taking over the natural resources of local plants.
+He also said that animals can harm or improve the environment as well.
+He gave an example of beavers.
+Beavers can build dams and ponds which helps some plants and animals.
+But they can cause flood to the homes of other plants and animals.
+He concluded that humans should preserve habitats, stop destroying the habitats of many species, and stop using pesticides.
 </dialogue>
+
+<translation>
+Thầy An đã nói về tác động của thực vật và động vật lên môi trường sống của chúng và những điều con người nên làm.
+Đầu tiên, thực vật giúp ích hoặc gây hại cho môi trường.
+Thực vật có thể làm cho nơi này đẹp hơn, nhưng chúng có thể gây hại cho môi trường bằng cách chiếm lấy tài nguyên thiên nhiên của thực vật địa phương.
+Ông cũng nói rằng động vật cũng có thể gây hại hoặc cải thiện môi trường.
+Ông đưa ra ví dụ về loài hải ly.
+Hải ly có thể xây đập và ao, giúp ích cho một số loài thực vật và động vật.
+Nhưng chúng có thể gây lũ lụt cho nơi ở của các loài thực vật và động vật khác.
+Ông kết luận rằng con người nên bảo tồn môi trường sống, ngừng phá hủy môi trường sống của nhiều loài và ngừng sử dụng thuốc trừ sâu.
+</translation>
 
 <teacher_script pause="0">
 Phân tích bài mẫu nha:

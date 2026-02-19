@@ -146,12 +146,16 @@ Bài 3 nè. <eng>Work in pairs. Ask and answer questions about appliances.</eng>
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Example:** | **Ví dụ:** |
-| **A:** What can an electric cooker help us to do? | **A:** Nồi cơm điện có thể giúp chúng ta làm gì? |
-| **B:** It can help us to cook rice. | **B:** Nó có thể giúp chúng ta nấu cơm. |
+**Example:**
+**A:** What can an electric cooker help us to do?
+**B:** It can help us to cook rice.
 </dialogue>
+
+<translation>
+**Ví dụ:**
+**A:** Nồi cơm điện có thể giúp chúng ta làm gì?
+**B:** Nó có thể giúp chúng ta nấu cơm.
+</translation>
 
 <teacher_script pause="0">
 Đây là mẫu hội thoại nha. Các em hỏi đáp về các thiết bị khác tương tự.

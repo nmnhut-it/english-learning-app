@@ -30,18 +30,28 @@ Học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để h�
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mr Quang:** Good morning, class. Today's lesson will start with Mai and Nam's talk about some of the causes and consequences of global warming. Would you like to go first, Mai? | **Thầy Quang:** Chào cả lớp. Bài học hôm nay bắt đầu với bài nói của Mai và Nam về nguyên nhân và hậu quả của sự nóng lên toàn cầu. Em muốn nói trước không, Mai? |
-| **Mai:** Yes, thank you. First, let me remind you what global warming refers to - it's the increase in the earth's temperature because of certain gases in the atmosphere. | **Mai:** Vâng, cảm ơn thầy. Trước tiên, nóng lên toàn cầu là sự tăng nhiệt độ trái đất do một số khí trong khí quyển. |
-| **Nam:** Exactly. These gases are mainly produced through human activities. For example, burnt for energy, fossil fuels release large amounts of carbon dioxide into the atmosphere. | **Nam:** Chính xác. Các khí này chủ yếu do hoạt động con người. Ví dụ, khi đốt để lấy năng lượng, nhiên liệu hóa thạch thải ra lượng lớn CO2 vào khí quyển. |
-| **Mr Quang:** But how do these gases make the earth warmer? | **Thầy Quang:** Nhưng các khí này làm trái đất nóng lên bằng cách nào? |
-| **Mai:** Well, they act like the glass in a greenhouse. Trapping too much of the sun's heat, they stop it from escaping back into space. This makes the planet hotter and hotter. | **Mai:** Chà, chúng hoạt động như kính trong nhà kính. Giữ quá nhiều nhiệt mặt trời, chúng ngăn nhiệt thoát ra ngoài không gian. Điều này làm hành tinh ngày càng nóng hơn. |
-| **Nam:** That's right. That's why these heat-trapping pollutants are known as greenhouse gases, and their impact is called the greenhouse effect. | **Nam:** Đúng vậy. Đó là lý do chúng được gọi là khí nhà kính, và tác động gọi là hiệu ứng nhà kính. |
-| **Mai:** Global warming is also linked to rising sea levels. As temperatures rise, polar ice caps melt faster, adding more water to oceans. Higher sea levels can also lead to floods. | **Mai:** Nóng lên toàn cầu cũng liên quan đến mực nước biển dâng. Khi nhiệt độ tăng, băng cực tan nhanh hơn, thêm nước vào đại dương. Mực nước biển cao hơn cũng có thể dẫn đến lũ lụt. |
-| **Nam:** Each year, the consequences of global warming become more serious, and its negative impact on the environment and people gets stronger. | **Nam:** Mỗi năm, hậu quả của sự nóng lên toàn cầu trở nên nghiêm trọng hơn và tác động tiêu cực đến môi trường và con người ngày càng mạnh hơn. |
-| **Mr Quang:** Good job! Thank you for sharing the information. | **Thầy Quang:** Làm tốt lắm! Cảm ơn đã chia sẻ thông tin. |
+**Mr Quang:** Good morning, class. Today's lesson will start with Mai and Nam's talk about some of the causes and consequences of global warming. Would you like to go first, Mai?
+**Mai:** Yes, thank you. First, let me remind you what global warming refers to - it's the increase in the earth's temperature because of certain gases in the atmosphere.
+**Nam:** Exactly. These gases are mainly produced through human activities. For example, burnt for energy, fossil fuels release large amounts of carbon dioxide into the atmosphere.
+**Mr Quang:** But how do these gases make the earth warmer?
+**Mai:** Well, they act like the glass in a greenhouse. Trapping too much of the sun's heat, they stop it from escaping back into space. This makes the planet hotter and hotter.
+**Nam:** That's right. That's why these heat-trapping pollutants are known as greenhouse gases, and their impact is called the greenhouse effect.
+**Mai:** Global warming is also linked to rising sea levels. As temperatures rise, polar ice caps melt faster, adding more water to oceans. Higher sea levels can also lead to floods.
+**Nam:** Each year, the consequences of global warming become more serious, and its negative impact on the environment and people gets stronger.
+**Mr Quang:** Good job! Thank you for sharing the information.
 </dialogue>
+
+<translation>
+**Thầy Quang:** Chào cả lớp. Bài học hôm nay bắt đầu với bài nói của Mai và Nam về nguyên nhân và hậu quả của sự nóng lên toàn cầu. Em muốn nói trước không, Mai?
+**Mai:** Vâng, cảm ơn thầy. Trước tiên, nóng lên toàn cầu là sự tăng nhiệt độ trái đất do một số khí trong khí quyển.
+**Nam:** Chính xác. Các khí này chủ yếu do hoạt động con người. Ví dụ, khi đốt để lấy năng lượng, nhiên liệu hóa thạch thải ra lượng lớn CO2 vào khí quyển.
+**Thầy Quang:** Nhưng các khí này làm trái đất nóng lên bằng cách nào?
+**Mai:** Chà, chúng hoạt động như kính trong nhà kính. Giữ quá nhiều nhiệt mặt trời, chúng ngăn nhiệt thoát ra ngoài không gian. Điều này làm hành tinh ngày càng nóng hơn.
+**Nam:** Đúng vậy. Đó là lý do chúng được gọi là khí nhà kính, và tác động gọi là hiệu ứng nhà kính.
+**Mai:** Nóng lên toàn cầu cũng liên quan đến mực nước biển dâng. Khi nhiệt độ tăng, băng cực tan nhanh hơn, thêm nước vào đại dương. Mực nước biển cao hơn cũng có thể dẫn đến lũ lụt.
+**Nam:** Mỗi năm, hậu quả của sự nóng lên toàn cầu trở nên nghiêm trọng hơn và tác động tiêu cực đến môi trường và con người ngày càng mạnh hơn.
+**Thầy Quang:** Làm tốt lắm! Cảm ơn đã chia sẻ thông tin.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

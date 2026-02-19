@@ -42,19 +42,30 @@ Giờ nghe hội thoại nha. Cô Hoa, Trang và Mark đang nói về Lễ hội
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mark and Trang:** Good afternoon, Ms Hoa. | **Mark và Trang:** Chào buổi chiều, cô Hoa. |
-| **Ms Hoa:** Oh, hi. Come in. | **Cô Hoa:** Ồ, chào. Mời vào. |
-| **Trang:** Wow! This is a nice cozy room, Ms Hoa. I like the photos on the wall. I can see you among all those tulips. Where did you take the photos? | **Trang:** Wow! Đây là một căn phòng ấm cúng đẹp quá, cô Hoa. Con thích những bức ảnh trên tường. Con có thể thấy cô giữa những bông hoa tulip đó. Cô chụp ảnh ở đâu vậy ạ? |
-| **Ms Hoa:** I took them at the Tulip Festival in Australia last September. | **Cô Hoa:** Cô chụp chúng tại Lễ hội Tulip ở Úc vào tháng Chín năm ngoái. |
-| **Mark:** Really? I went to a tulip festival two years ago but it was in the Netherlands. It was the Dutch Tulip Festival. | **Mark:** Thật sao ạ? Con đã đến một lễ hội tulip hai năm trước nhưng là ở Hà Lan. Đó là Lễ hội Tulip Hà Lan. |
-| **Trang:** What did you do at the festival, Ms Hoa? | **Trang:** Cô đã làm gì ở lễ hội vậy, cô Hoa? |
-| **Ms Hoa:** I watched Dutch folk dances. The dancers wore traditional costumes. I also got a chance to try some delicious Dutch food and drinks. What about you, Mark? | **Cô Hoa:** Cô đã xem múa dân gian Hà Lan. Các vũ công mặc trang phục truyền thống. Cô cũng có cơ hội thử một số món ăn và đồ uống Hà Lan ngon tuyệt. Còn con thì sao, Mark? |
-| **Mark:** I watched folk dances too, but there wasn't any food or drinks. I also saw beautiful tulip floats at a parade. | **Mark:** Con cũng xem múa dân gian, nhưng không có đồ ăn và đồ uống nào cả. Con cũng được xem những chiếc xe hoa tulip đẹp trong buổi diễu hành. |
-| **Trang:** Do they hold the festival every year in Australia? | **Trang:** Họ có tổ chức lễ hội hàng năm ở Úc không ạ? |
-| **Ms Hoa:** Yes, they do. | **Cô Hoa:** Có chứ. |
+**Mark and Trang:** Good afternoon, Ms Hoa.
+**Ms Hoa:** Oh, hi. Come in.
+**Trang:** Wow! This is a nice cozy room, Ms Hoa. I like the photos on the wall. I can see you among all those tulips. Where did you take the photos?
+**Ms Hoa:** I took them at the Tulip Festival in Australia last September.
+**Mark:** Really? I went to a tulip festival two years ago but it was in the Netherlands. It was the Dutch Tulip Festival.
+**Trang:** What did you do at the festival, Ms Hoa?
+**Ms Hoa:** I watched Dutch folk dances. The dancers wore traditional costumes. I also got a chance to try some delicious Dutch food and drinks. What about you, Mark?
+**Mark:** I watched folk dances too, but there wasn't any food or drinks. I also saw beautiful tulip floats at a parade.
+**Trang:** Do they hold the festival every year in Australia?
+**Ms Hoa:** Yes, they do.
 </dialogue>
+
+<translation>
+**Mark và Trang:** Chào buổi chiều, cô Hoa.
+**Cô Hoa:** Ồ, chào. Mời vào.
+**Trang:** Wow! Đây là một căn phòng ấm cúng đẹp quá, cô Hoa. Con thích những bức ảnh trên tường. Con có thể thấy cô giữa những bông hoa tulip đó. Cô chụp ảnh ở đâu vậy ạ?
+**Cô Hoa:** Cô chụp chúng tại Lễ hội Tulip ở Úc vào tháng Chín năm ngoái.
+**Mark:** Thật sao ạ? Con đã đến một lễ hội tulip hai năm trước nhưng là ở Hà Lan. Đó là Lễ hội Tulip Hà Lan.
+**Trang:** Cô đã làm gì ở lễ hội vậy, cô Hoa?
+**Cô Hoa:** Cô đã xem múa dân gian Hà Lan. Các vũ công mặc trang phục truyền thống. Cô cũng có cơ hội thử một số món ăn và đồ uống Hà Lan ngon tuyệt. Còn con thì sao, Mark?
+**Mark:** Con cũng xem múa dân gian, nhưng không có đồ ăn và đồ uống nào cả. Con cũng được xem những chiếc xe hoa tulip đẹp trong buổi diễu hành.
+**Trang:** Họ có tổ chức lễ hội hàng năm ở Úc không ạ?
+**Cô Hoa:** Có chứ.
+</translation>
 
 <!-- chunk: exercise_2 -->
 <teacher_script pause="60">

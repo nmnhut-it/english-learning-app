@@ -314,17 +314,26 @@ Bây giờ dùng đáp án để tạo hội thoại theo mẫu nha. Đây là v
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** What invention do you like? | **A:** Bạn thích phát minh nào? |
-| **B:** I like biometrics. | **B:** Mình thích sinh trắc học. |
-| **A:** Who invented it? | **A:** Ai phát minh ra nó? |
-| **B:** Alphonse Bertillon. | **B:** Alphonse Bertillon. |
-| **A:** When was biometrics invented? | **A:** Sinh trắc học được phát minh khi nào? |
-| **B:** Biometrics was invented in 1800s. | **B:** Sinh trắc học được phát minh vào những năm 1800. |
-| **A:** What are the benefits? | **A:** Lợi ích là gì? |
-| **B:** Checking identities of people at airports or offices and checking students' attendance. | **B:** Kiểm tra danh tính ở sân bay hoặc văn phòng và điểm danh học sinh. |
+**A:** What invention do you like?
+**B:** I like biometrics.
+**A:** Who invented it?
+**B:** Alphonse Bertillon.
+**A:** When was biometrics invented?
+**B:** Biometrics was invented in 1800s.
+**A:** What are the benefits?
+**B:** Checking identities of people at airports or offices and checking students' attendance.
 </dialogue>
+
+<translation>
+**A:** Bạn thích phát minh nào?
+**B:** Mình thích sinh trắc học.
+**A:** Ai phát minh ra nó?
+**B:** Alphonse Bertillon.
+**A:** Sinh trắc học được phát minh khi nào?
+**B:** Sinh trắc học được phát minh vào những năm 1800.
+**A:** Lợi ích là gì?
+**B:** Kiểm tra danh tính ở sân bay hoặc văn phòng và điểm danh học sinh.
+</translation>
 
 <teacher_script pause="60">
 Tập nói hội thoại theo mẫu với bạn cùng bàn — 1 phút nha. Nhớ dùng đúng cấu trúc câu hỏi và trả lời đó!

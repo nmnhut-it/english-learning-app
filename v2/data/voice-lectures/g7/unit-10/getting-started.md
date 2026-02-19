@@ -42,19 +42,30 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc hội thoại giữa Lan 
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Lan:** Hi, Dad. | **Lan:** Chào bố. |
-| **Mr Tan:** Lan, what are you doing? It's pretty late now. | **Ông Tân:** Lan, con đang làm gì vậy? Bây giờ đã khá muộn. |
-| **Lan:** I'm doing a project on energy sources. But I don't quite understand what energy is. | **Lan:** Con đang làm một dự án về các nguồn năng lượng. Nhưng con không hoàn toàn hiểu năng lượng là gì. |
-| **Mr Tan:** Well, it's power that we use to provide us with light, heat or electricity. | **Ông Tân:** Đúng, đó là nguồn điện mà chúng ta sử dụng để cung cấp cho chúng ta ánh sáng, nhiệt hoặc điện. |
-| **Lan:** Oh. Where does it come from? | **Lan:** Ồ. Nó đến từ đâu vậy ạ? |
-| **Mr Tan:** It comes from many different sources like coal, oil, natural gas.... We call them non-renewable sources. | **Ông Tân:** Nó đến từ nhiều nguồn khác nhau như than đá, dầu mỏ, khí đốt tự nhiên... Chúng ta gọi đó là các nguồn không tái tạo. |
-| **Lan:** Can it come from the sun, wind or water too? | **Lan:** Nó có thể đến từ mặt trời, gió hay nước nữa không ạ? |
-| **Mr Tan:** Yes, it can. We call those types of energy renewable sources because we cannot run out of them. Renewable means we can easily replace them. | **Ông Tân:** Có, nó có thể. Chúng ta gọi đó là những nguồn năng lượng tái tạo bởi vì chúng ta không thể sử dụng hết chúng. Có thể tái tạo nghĩa là chúng ta có thể dễ dàng thay thế chúng. |
-| **Lan:** I get it now. | **Lan:** Con hiểu rồi. |
-| **Mr Tan:** You know, some types of energy are cheap and easy to use, but others are more expensive and harder to find… | **Ông Tân:** Con biết đấy, một số loại năng lượng rẻ và dễ sử dụng, nhưng một số loại khác thì đắt hơn và khó tìm hơn… |
+**Lan:** Hi, Dad.
+**Mr Tan:** Lan, what are you doing? It's pretty late now.
+**Lan:** I'm doing a project on energy sources. But I don't quite understand what energy is.
+**Mr Tan:** Well, it's power that we use to provide us with light, heat or electricity.
+**Lan:** Oh. Where does it come from?
+**Mr Tan:** It comes from many different sources like coal, oil, natural gas.... We call them non-renewable sources.
+**Lan:** Can it come from the sun, wind or water too?
+**Mr Tan:** Yes, it can. We call those types of energy renewable sources because we cannot run out of them. Renewable means we can easily replace them.
+**Lan:** I get it now.
+**Mr Tan:** You know, some types of energy are cheap and easy to use, but others are more expensive and harder to find…
 </dialogue>
+
+<translation>
+**Lan:** Chào bố.
+**Ông Tân:** Lan, con đang làm gì vậy? Bây giờ đã khá muộn.
+**Lan:** Con đang làm một dự án về các nguồn năng lượng. Nhưng con không hoàn toàn hiểu năng lượng là gì.
+**Ông Tân:** Đúng, đó là nguồn điện mà chúng ta sử dụng để cung cấp cho chúng ta ánh sáng, nhiệt hoặc điện.
+**Lan:** Ồ. Nó đến từ đâu vậy ạ?
+**Ông Tân:** Nó đến từ nhiều nguồn khác nhau như than đá, dầu mỏ, khí đốt tự nhiên... Chúng ta gọi đó là các nguồn không tái tạo.
+**Lan:** Nó có thể đến từ mặt trời, gió hay nước nữa không ạ?
+**Ông Tân:** Có, nó có thể. Chúng ta gọi đó là những nguồn năng lượng tái tạo bởi vì chúng ta không thể sử dụng hết chúng. Có thể tái tạo nghĩa là chúng ta có thể dễ dàng thay thế chúng.
+**Lan:** Con hiểu rồi.
+**Ông Tân:** Con biết đấy, một số loại năng lượng rẻ và dễ sử dụng, nhưng một số loại khác thì đắt hơn và khó tìm hơn…
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

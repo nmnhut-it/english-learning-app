@@ -44,17 +44,26 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để họ
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nick:** Can you tell me about your dream house, Linda? | **Nick:** Bạn có thể kể cho tôi nghe về ngôi nhà mơ ước của bạn được không, Linda? |
-| **Linda:** Well, it's a big villa by the sea. It has a view of the sea. It has a swimming pool and a garden. | **Linda:** À, đó là một biệt thự lớn bên biển. Phòng có tầm nhìn ra biển. Nó có một hồ bơi và một khu vườn. |
-| **Nick:** My dream house is different. | **Nick:** Những ngôi nhà mơ ước của tôi thì khác. |
-| **Linda:** Really? What's it like? | **Linda:** Thật không? Nó như thế nào? |
-| **Nick:** It's a beautiful flat in the city. It has a park view in front and a city view at the back. | **Nick:** Đó là một căn hộ đẹp trong thành phố. Nó có tầm nhìn ra công viên ở phía trước và tầm nhìn ra thành phố ở phía sau. |
-| **Linda:** Oh, sounds great! | **Linda:** Ồ, nghe hay quá! |
-| **Nick:** It has a super smart TV. I can watch films from other planets. | **Nick:** Nó có một chiếc TV siêu thông minh. Tôi có thể xem phim từ hành tinh khác. |
-| **Linda:** That sounds great, too. But I think it'll be... | **Linda:** Nghe cũng hay đấy. Nhưng tôi nghĩ nó sẽ là... |
+**Nick:** Can you tell me about your dream house, Linda?
+**Linda:** Well, it's a big villa by the sea. It has a view of the sea. It has a swimming pool and a garden.
+**Nick:** My dream house is different.
+**Linda:** Really? What's it like?
+**Nick:** It's a beautiful flat in the city. It has a park view in front and a city view at the back.
+**Linda:** Oh, sounds great!
+**Nick:** It has a super smart TV. I can watch films from other planets.
+**Linda:** That sounds great, too. But I think it'll be...
 </dialogue>
+
+<translation>
+**Nick:** Bạn có thể kể cho tôi nghe về ngôi nhà mơ ước của bạn được không, Linda?
+**Linda:** À, đó là một biệt thự lớn bên biển. Phòng có tầm nhìn ra biển. Nó có một hồ bơi và một khu vườn.
+**Nick:** Những ngôi nhà mơ ước của tôi thì khác.
+**Linda:** Thật không? Nó như thế nào?
+**Nick:** Đó là một căn hộ đẹp trong thành phố. Nó có tầm nhìn ra công viên ở phía trước và tầm nhìn ra thành phố ở phía sau.
+**Linda:** Ồ, nghe hay quá!
+**Nick:** Nó có một chiếc TV siêu thông minh. Tôi có thể xem phim từ hành tinh khác.
+**Linda:** Nghe cũng hay đấy. Nhưng tôi nghĩ nó sẽ là...
+</translation>
 
 <teacher_script pause="120">
 Dịch bài nghe vô vở. 2 phút nha.
@@ -234,13 +243,18 @@ Bài 4 nha. Làm việc theo cặp, thảo luận về ngôi nhà mơ ước và
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** What type of dream house is it? | **A:** Nó thuộc kiểu nhà mơ ước nào? |
-| **B:** It's a palace. | **B:** Đó là một cung điện. |
-| **A:** Where is it? | **A:** Nó ở đâu? |
-| **B:** It's in the mountains. | **B:** Nó ở trên núi. |
+**A:** What type of dream house is it?
+**B:** It's a palace.
+**A:** Where is it?
+**B:** It's in the mountains.
 </dialogue>
+
+<translation>
+**A:** Nó thuộc kiểu nhà mơ ước nào?
+**B:** Đó là một cung điện.
+**A:** Nó ở đâu?
+**B:** Nó ở trên núi.
+</translation>
 
 <questions type="fill_blanks">
 | Information | Your Answer |

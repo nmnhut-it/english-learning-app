@@ -33,19 +33,30 @@ Xong từ vựng rồi, giờ mình qua hội thoại nha. Bài này có hai b�
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mai:** What book are you reading, Nick? | **Mai:** Cậu đang đọc sách gì thế Nick? |
-| **Nick:** A journey back to Soduka. I'm on the last page. | **Nick:** Hành trình trở về Soduka. Mình đọc sắp xong rồi. |
-| **Mai:** That's a science fiction book, isn't it? What's it about? | **Mai:** Đó là sách khoa học viễn tưởng phải không? Nó nói về gì thế? |
-| **Nick:** Yes, it is. It's about four creatures Titu, Kaku, Hub, and Barb. They're travelling back to Soduka, a planet like Earth. Along the way they have to land on Earth because their spaceship breaks down. They meet Tommy and become friends with him. | **Nick:** Đúng rồi. Nó là về bốn sinh vật Titu, Kaku, Hub, và Barb. Họ đang trở về Soduka, một hành tinh giống Trái Đất. Trên đường về thì họ phải đáp xuống Trái Đất vì tàu vũ trụ của họ bị hỏng. Họ gặp Tommy và trở thành bạn với anh ta. |
-| **Mai:** What happens next? | **Mai:** Rồi chuyện gì xảy ra tiếp theo? |
-| **Nick:** Tommy helps the four creatures repair their spaceship, so they can travel back to their home planet. But their commander forces them to return to Earth to destroy it. Tommy and the four creatures try to oppose the commander. | **Nick:** Tommy giúp bốn sinh vật sửa lại tàu của chúng, để họ có thể trở về hành tinh mẹ của mình. Nhưng chỉ huy của họ bắt họ quay lại Trái Đất và hủy diệt nó. Tommy và bốn sinh vật cố gắng chống lại tên chỉ huy. |
-| **Mai:** Sounds thrilling! | **Mai:** Nghe gay cấn thế! |
-| **Nick:** Tommy and the four creatures manage to stop the commander from destroying Earth. | **Nick:** Tommy và bốn sinh vật cuối cùng cũng thành công ngăn cản ông chỉ huy hủy diệt Trái Đất. |
-| **Mai:** So it has a happy ending! What do you think about the possibility of aliens attacking Earth? | **Mai:** Vậy đó là một kết thúc có hậu! Cậu nghĩ sao về khả năng người ngoài hành tinh tấn công Trái Đất? |
-| **Nick:** I'm not sure about it. But I'm starting to think about it. I sometimes ask myself what we would do if aliens took over our planet. | **Nick:** Mình không chắc về điều đó. Nhưng mình sẽ bắt đầu nghĩ về nó. Đôi khi mình tự hỏi bản thân chúng ta sẽ làm gì nếu người ngoài hành tinh nắm quyền kiểm soát Trái Đất. |
+**Mai:** What book are you reading, Nick?
+**Nick:** A journey back to Soduka. I'm on the last page.
+**Mai:** That's a science fiction book, isn't it? What's it about?
+**Nick:** Yes, it is. It's about four creatures Titu, Kaku, Hub, and Barb. They're travelling back to Soduka, a planet like Earth. Along the way they have to land on Earth because their spaceship breaks down. They meet Tommy and become friends with him.
+**Mai:** What happens next?
+**Nick:** Tommy helps the four creatures repair their spaceship, so they can travel back to their home planet. But their commander forces them to return to Earth to destroy it. Tommy and the four creatures try to oppose the commander.
+**Mai:** Sounds thrilling!
+**Nick:** Tommy and the four creatures manage to stop the commander from destroying Earth.
+**Mai:** So it has a happy ending! What do you think about the possibility of aliens attacking Earth?
+**Nick:** I'm not sure about it. But I'm starting to think about it. I sometimes ask myself what we would do if aliens took over our planet.
 </dialogue>
+
+<translation>
+**Mai:** Cậu đang đọc sách gì thế Nick?
+**Nick:** Hành trình trở về Soduka. Mình đọc sắp xong rồi.
+**Mai:** Đó là sách khoa học viễn tưởng phải không? Nó nói về gì thế?
+**Nick:** Đúng rồi. Nó là về bốn sinh vật Titu, Kaku, Hub, và Barb. Họ đang trở về Soduka, một hành tinh giống Trái Đất. Trên đường về thì họ phải đáp xuống Trái Đất vì tàu vũ trụ của họ bị hỏng. Họ gặp Tommy và trở thành bạn với anh ta.
+**Mai:** Rồi chuyện gì xảy ra tiếp theo?
+**Nick:** Tommy giúp bốn sinh vật sửa lại tàu của chúng, để họ có thể trở về hành tinh mẹ của mình. Nhưng chỉ huy của họ bắt họ quay lại Trái Đất và hủy diệt nó. Tommy và bốn sinh vật cố gắng chống lại tên chỉ huy.
+**Mai:** Nghe gay cấn thế!
+**Nick:** Tommy và bốn sinh vật cuối cùng cũng thành công ngăn cản ông chỉ huy hủy diệt Trái Đất.
+**Mai:** Vậy đó là một kết thúc có hậu! Cậu nghĩ sao về khả năng người ngoài hành tinh tấn công Trái Đất?
+**Nick:** Mình không chắc về điều đó. Nhưng mình sẽ bắt đầu nghĩ về nó. Đôi khi mình tự hỏi bản thân chúng ta sẽ làm gì nếu người ngoài hành tinh nắm quyền kiểm soát Trái Đất.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút cho các em chép và dịch. Xong rồi mình qua bài tập.

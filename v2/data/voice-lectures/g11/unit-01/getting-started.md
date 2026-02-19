@@ -32,21 +32,34 @@ Ok giờ mình nghe và đọc hội thoại giữa Mark và Nam nha. Bấm nút
 <audio>https://img.loigiaihay.com/picture/2023/0620/track-1.mp3</audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mark:** Hi, Nam! | **Mark:** Chào, Nam! |
-| **Nam:** Hi, Mark! Long time no see. How are you? | **Nam:** Chào Mark! Lâu rồi không gặp. Bạn có khỏe không? |
-| **Mark:** I'm fine, thanks, but you look so fit and healthy! Have you started working out again? | **Mark:** Tôi khỏe, cảm ơn, nhưng trông bạn rất cân đối và khỏe mạnh! Bạn đã bắt đầu tập thể dục trở lại chưa? |
-| **Nam:** Yes, I have. I've also stopped eating fast food and given up bad habits, such as staying up late. | **Nam:** Vâng. Tôi cũng ngừng ăn đồ ăn nhanh và từ bỏ những thói quen xấu, chẳng hạn như thức khuya. |
-| **Mark:** I can't believe it! I thought you can't live without burgers and chips! | **Mark:** Tôi không thể tin được! Tôi nghĩ bạn không thể sống thiếu bánh mì kẹp thịt và khoai tây chiên! |
-| **Nam:** I know. I ate a lot of fast food, but now I prefer fresh fruits and vegetables. | **Nam:** Tôi biết. Tôi đã ăn rất nhiều thức ăn nhanh, nhưng bây giờ tôi thích trái cây và rau củ hơn. |
-| **Mark:** So what happened? | **Mark:** Vậy chuyện gì đã xảy ra? |
-| **Nam:** Well, it was my grandfather. I visited him during my last summer holiday and have learnt a lot of important life lessons from him. | **Nam:** À, đó là ông tôi. Tôi đã đến thăm ông trong kỳ nghỉ hè vừa qua và đã học được rất nhiều bài học quan trọng trong cuộc sống từ ông. |
-| **Mark:** Really? | **Mark:** Thật sao? |
-| **Nam:** Yes. He's a wonderful person. He has just had his 90th birthday, but he's still full of energy! | **Nam:** Vâng. Ông tôi là một người tuyệt vời. Ông vừa đón sinh nhật lần thứ 90 nhưng vẫn tràn đầy năng lượng! |
-| **Mark:** Amazing! How does he stay so active? | **Mark:** Tuyệt vời! Làm thế nào để ông ấy luôn năng động như vậy? |
-| **Nam:** Well, he does exercise every morning, goes to bed early, and eats a lot of vegetables. We spent a lot of time together cooking, working in his garden, and walking in the parks. I've learnt from him that taking regular exercise and eating a balanced diet are the key to a long and healthy life. | **Nam:** À, ông tập thể dục mỗi sáng, đi ngủ sớm và ăn nhiều rau. Chúng tôi dành nhiều thời gian cùng nhau nấu ăn, làm việc trong vườn và đi dạo trong công viên. Tôi đã học được từ ông rằng tập thể dục thường xuyên và ăn một chế độ ăn uống cân bằng là chìa khóa để có một cuộc sống lâu dài và khỏe mạnh. |
+**Mark:** Hi, Nam!
+**Nam:** Hi, Mark! Long time no see. How are you?
+**Mark:** I'm fine, thanks, but you look so fit and healthy! Have you started working out again?
+**Nam:** Yes, I have. I've also stopped eating fast food and given up bad habits, such as staying up late.
+**Mark:** I can't believe it! I thought you can't live without burgers and chips!
+**Nam:** I know. I ate a lot of fast food, but now I prefer fresh fruits and vegetables.
+**Mark:** So what happened?
+**Nam:** Well, it was my grandfather. I visited him during my last summer holiday and have learnt a lot of important life lessons from him.
+**Mark:** Really?
+**Nam:** Yes. He's a wonderful person. He has just had his 90th birthday, but he's still full of energy!
+**Mark:** Amazing! How does he stay so active?
+**Nam:** Well, he does exercise every morning, goes to bed early, and eats a lot of vegetables. We spent a lot of time together cooking, working in his garden, and walking in the parks. I've learnt from him that taking regular exercise and eating a balanced diet are the key to a long and healthy life.
 </dialogue>
+
+<translation>
+**Mark:** Chào, Nam!
+**Nam:** Chào Mark! Lâu rồi không gặp. Bạn có khỏe không?
+**Mark:** Tôi khỏe, cảm ơn, nhưng trông bạn rất cân đối và khỏe mạnh! Bạn đã bắt đầu tập thể dục trở lại chưa?
+**Nam:** Vâng. Tôi cũng ngừng ăn đồ ăn nhanh và từ bỏ những thói quen xấu, chẳng hạn như thức khuya.
+**Mark:** Tôi không thể tin được! Tôi nghĩ bạn không thể sống thiếu bánh mì kẹp thịt và khoai tây chiên!
+**Nam:** Tôi biết. Tôi đã ăn rất nhiều thức ăn nhanh, nhưng bây giờ tôi thích trái cây và rau củ hơn.
+**Mark:** Vậy chuyện gì đã xảy ra?
+**Nam:** À, đó là ông tôi. Tôi đã đến thăm ông trong kỳ nghỉ hè vừa qua và đã học được rất nhiều bài học quan trọng trong cuộc sống từ ông.
+**Mark:** Thật sao?
+**Nam:** Vâng. Ông tôi là một người tuyệt vời. Ông vừa đón sinh nhật lần thứ 90 nhưng vẫn tràn đầy năng lượng!
+**Mark:** Tuyệt vời! Làm thế nào để ông ấy luôn năng động như vậy?
+**Nam:** À, ông tập thể dục mỗi sáng, đi ngủ sớm và ăn nhiều rau. Chúng tôi dành nhiều thời gian cùng nhau nấu ăn, làm việc trong vườn và đi dạo trong công viên. Tôi đã học được từ ông rằng tập thể dục thường xuyên và ăn một chế độ ăn uống cân bằng là chìa khóa để có một cuộc sống lâu dài và khỏe mạnh.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

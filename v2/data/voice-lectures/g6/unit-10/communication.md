@@ -32,12 +32,16 @@ Bài 1 trang 42, <eng>Everyday English</eng>. Mình học cách bày tỏ sự n
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **David:** John! Hello! | **David:** John! Xin chào! |
-| **John:** Oh, hi, David. Wow! Is that your computer? It looks great. | **John:** Ồ, chào, David. Ồ! Đó có phải là máy tính của bạn không? Nó trông tuyệt. |
-| **David:** Yes, it's my new computer. My parents gave it to me for my birthday. | **David:** Vâng, đó là máy tính mới của tôi. Bố mẹ tôi đã tặng nó cho tôi nhân ngày sinh nhật của tôi. |
+**David:** John! Hello!
+**John:** Oh, hi, David. Wow! Is that your computer? It looks great.
+**David:** Yes, it's my new computer. My parents gave it to me for my birthday.
 </dialogue>
+
+<translation>
+**David:** John! Xin chào!
+**John:** Ồ, chào, David. Ồ! Đó có phải là máy tính của bạn không? Nó trông tuyệt.
+**David:** Vâng, đó là máy tính mới của tôi. Bố mẹ tôi đã tặng nó cho tôi nhân ngày sinh nhật của tôi.
+</translation>
 
 <teacher_script pause="0">
 Để bày tỏ sự ngạc nhiên, các em dùng <eng>Wow!</eng> rồi hỏi <eng>Is that your...?</eng> Sau đó khen luôn: <eng>It looks great!</eng> hoặc <eng>It's really beautiful!</eng> Nhớ nha!
@@ -146,15 +150,22 @@ Bài 4. Làm việc theo cặp. Dùng các câu hỏi trong bài 3 để phỏng
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **You:** Hi, Nam. Will you live in a hi-tech house in the future? | **Bạn:** Chào Nam. Bạn sẽ sống trong một ngôi nhà công nghệ cao trong tương lai? |
-| **Nam:** Yes. I will. | **Nam:** Vâng. Tôi sẽ. |
-| **You:** Will your house be in space? | **Bạn:** Ngôi nhà của bạn sẽ ở trong không gian? |
-| **Nam:** Oh, no. It won't. | **Nam:** Ồ, không. Nó sẽ không. |
-| **You:** So where will it be? | **Bạn:** Vậy nó sẽ ở đâu? |
-| **Nam:** I'm not sure. It might be by the sea. | **Nam:** Tôi không chắc nữa. Nó có thể ở gần biển. |
+**You:** Hi, Nam. Will you live in a hi-tech house in the future?
+**Nam:** Yes. I will.
+**You:** Will your house be in space?
+**Nam:** Oh, no. It won't.
+**You:** So where will it be?
+**Nam:** I'm not sure. It might be by the sea.
 </dialogue>
+
+<translation>
+**Bạn:** Chào Nam. Bạn sẽ sống trong một ngôi nhà công nghệ cao trong tương lai?
+**Nam:** Vâng. Tôi sẽ.
+**Bạn:** Ngôi nhà của bạn sẽ ở trong không gian?
+**Nam:** Ồ, không. Nó sẽ không.
+**Bạn:** Vậy nó sẽ ở đâu?
+**Nam:** Tôi không chắc nữa. Nó có thể ở gần biển.
+</translation>
 
 <teacher_script pause="90">
 Các em phỏng vấn nhau nha. 1 phút 30 giây.

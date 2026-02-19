@@ -23,13 +23,18 @@ Bài 1 trang 62. Nghe và đọc 2 đoạn hội thoại ngắn. Chú ý các c�
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** I think robots can help us a lot in our daily life. | **A:** Tôi nghĩ rằng robot có thể giúp chúng ta rất nhiều trong cuộc sống hàng ngày. |
-| **B:** **I agree with you.** | **B:** **Tôi đồng ý với bạn.** |
-| **A:** Peter says robots can do everything like humans. | **A:** Peter nói rằng robot có thể làm mọi thứ như con người. |
-| **B:** **I don't agree with him.** | **B:** **Tôi không đồng ý với anh ấy.** |
+**A:** I think robots can help us a lot in our daily life.
+**B:** **I agree with you.**
+**A:** Peter says robots can do everything like humans.
+**B:** **I don't agree with him.**
 </dialogue>
+
+<translation>
+**A:** Tôi nghĩ rằng robot có thể giúp chúng ta rất nhiều trong cuộc sống hàng ngày.
+**B:** **Tôi đồng ý với bạn.**
+**A:** Peter nói rằng robot có thể làm mọi thứ như con người.
+**B:** **Tôi không đồng ý với anh ấy.**
+</translation>
 
 <teacher_script pause="0">
 Nhớ 2 cụm quan trọng nha:

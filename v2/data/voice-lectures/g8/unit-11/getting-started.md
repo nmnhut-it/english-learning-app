@@ -36,17 +36,26 @@ Bài 1 <eng>Listen and read</eng> nha. Minh và Ann nói về học trực tuy�
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Minh:** Ann, do you like yesterday's lesson? I really enjoy learning online. | **Minh:** Ann, cậu có thích buổi học hôm qua không? Mình rất thích học trực tuyến. |
-| **Ann:** I prefer having face-to-face classes. I like to interact with my classmates during the lessons. | **Ann:** Mình thích học trực tiếp ở lớp hơn. Mình muốn được tương tác với bạn cùng lớp trong buổi học. |
-| **Minh:** I think online classes are convenient during bad weather or epidemics. Also, students can still interact when they are in breakout rooms. | **Minh:** Mình nghĩ là lớp học trực tuyến tiện ích trong những lúc thời tiết xấu hay dịch bệnh. Hơn nữa, học sinh vẫn có thể tương tác khi họ ở trong các nhóm nhỏ. |
-| **Ann:** But the Internet connection doesn't always work well enough for us to learn online. And my eyes get tired when I work in front of the computer screen for a long time. | **Ann:** Nhưng kết nối mạng không phải lúc nào cũng đủ ổn định để có thể học tập trực tuyến. Và mắt mình mệt mỏi khi mình làm việc trước màn hình máy tính trong một thời gian dài. |
-| **Minh:** I know what you mean. But there's some great news for us. 3D contact lenses will soon be available. With them, our eyes won't get tired when looking at a computer screen all day long. | **Minh:** Mình hiểu ý cậu. Nhưng có tin tốt cho chúng ta đây. Sẽ sớm có kính áp tròng 3D thôi. Với chúng thì mắt cậu không bị mỏi khi nhìn màn hình máy tính cả ngày. |
-| **Ann:** Wow, that's brilliant! | **Ann:** Quá tuyệt vời! |
-| **Minh:** Another helpful invention is robot teachers. They will teach us when our human teachers are not available or get ill. My uncle said the robots would be able to mark our work and give us feedback too. | **Minh:** Một sáng chế hữu ích khác là giáo viên robot. Chúng sẽ dạy chúng ta khi giáo viên thật của chúng ta không thể đến lớp hay bị ốm. Bác mình nói rằng những con robot đó có thể chấm điểm bài làm và đưa ra nhận xét luôn. |
-| **Ann:** Fantastic! I can't wait. | **Ann:** Hay quá, mình không thể đợi được nữa. |
+**Minh:** Ann, do you like yesterday's lesson? I really enjoy learning online.
+**Ann:** I prefer having face-to-face classes. I like to interact with my classmates during the lessons.
+**Minh:** I think online classes are convenient during bad weather or epidemics. Also, students can still interact when they are in breakout rooms.
+**Ann:** But the Internet connection doesn't always work well enough for us to learn online. And my eyes get tired when I work in front of the computer screen for a long time.
+**Minh:** I know what you mean. But there's some great news for us. 3D contact lenses will soon be available. With them, our eyes won't get tired when looking at a computer screen all day long.
+**Ann:** Wow, that's brilliant!
+**Minh:** Another helpful invention is robot teachers. They will teach us when our human teachers are not available or get ill. My uncle said the robots would be able to mark our work and give us feedback too.
+**Ann:** Fantastic! I can't wait.
 </dialogue>
+
+<translation>
+**Minh:** Ann, cậu có thích buổi học hôm qua không? Mình rất thích học trực tuyến.
+**Ann:** Mình thích học trực tiếp ở lớp hơn. Mình muốn được tương tác với bạn cùng lớp trong buổi học.
+**Minh:** Mình nghĩ là lớp học trực tuyến tiện ích trong những lúc thời tiết xấu hay dịch bệnh. Hơn nữa, học sinh vẫn có thể tương tác khi họ ở trong các nhóm nhỏ.
+**Ann:** Nhưng kết nối mạng không phải lúc nào cũng đủ ổn định để có thể học tập trực tuyến. Và mắt mình mệt mỏi khi mình làm việc trước màn hình máy tính trong một thời gian dài.
+**Minh:** Mình hiểu ý cậu. Nhưng có tin tốt cho chúng ta đây. Sẽ sớm có kính áp tròng 3D thôi. Với chúng thì mắt cậu không bị mỏi khi nhìn màn hình máy tính cả ngày.
+**Ann:** Quá tuyệt vời!
+**Minh:** Một sáng chế hữu ích khác là giáo viên robot. Chúng sẽ dạy chúng ta khi giáo viên thật của chúng ta không thể đến lớp hay bị ốm. Bác mình nói rằng những con robot đó có thể chấm điểm bài làm và đưa ra nhận xét luôn.
+**Ann:** Hay quá, mình không thể đợi được nữa.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại này vô vở nha. Chú ý mấy từ vựng đã học — <eng>interact, convenient, epidemic, 3D contact lenses, feedback</eng>. 3 phút đó, bắt đầu!

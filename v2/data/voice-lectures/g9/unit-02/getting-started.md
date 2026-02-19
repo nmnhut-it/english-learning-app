@@ -35,23 +35,38 @@ Bài 1 <eng>Listen and read.</eng> Đây là hội thoại giữa Trang và Ben.
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Trang:** Hi, Ben. Sorry I couldn't get online earlier. I got stuck in a traffic jam and came home late. | **Trang:** Chào Ben. Xin lỗi mình không thể online sớm hơn. Mình bị kẹt xe và về nhà muộn. |
-| **Ben:** No problem, Trang. Did you go by bus? | **Ben:** Không sao, Trang. Bạn đi xe buýt à? |
-| **Trang:** No. My dad picked me up. I rarely use the bus. It's slow and packed with people. | **Trang:** Không. Bố mình đón mình. Mình hiếm khi đi xe buýt. Xe buýt chậm lại chật cứng người. |
-| **Ben:** I mostly get around by underground. It's more reliable than the bus. | **Ben:** Mình chủ yếu đi bằng tàu điện ngầm. Nó đáng tin cậy hơn xe buýt. |
-| **Trang:** That's great. | **Trang:** Hay đó. |
-| **Ben:** But traffic congestion is terrible in London. You know, the more crowded the city gets, the more congested the streets are. | **Ben:** Nhưng tắc nghẽn giao thông ở London thật kinh khủng. Bạn biết đó, thành phố càng đông đúc thì đường phố càng tắc nghẽn hơn. |
-| **Trang:** Yeah... and the more polluted they may become. There's a construction site in my neighbourhood. It's dusty, so people easily get itchy eyes. | **Trang:** Ừ... và càng ô nhiễm hơn. Có một công trường xây dựng ở khu phố mình. Bụi lắm, mọi người dễ bị ngứa mắt. |
-| **Ben:** It must be noisy, too. The noise probably makes people feel stressed sometimes. | **Ben:** Chắc cũng ồn ào lắm. Tiếng ồn có lẽ đôi khi khiến người ta căng thẳng. |
-| **Trang:** That's right. But new buildings make the city look modern and attractive. Do you remember the grand building downtown? | **Trang:** Đúng vậy. Nhưng những tòa nhà mới làm thành phố trông hiện đại và hấp dẫn hơn. Bạn có nhớ tòa nhà hoành tráng ở trung tâm không? |
-| **Ben:** Of course. How's it now? When I left Viet Nam, they nearly finished it. | **Ben:** Tất nhiên rồi. Bây giờ thế nào? Khi mình rời Việt Nam, họ gần xong rồi. |
-| **Trang:** Well, it's now a shopping mall. Teens like it because it's modern and fun. | **Trang:** À, bây giờ nó là trung tâm mua sắm rồi. Thanh thiếu niên thích lắm vì hiện đại và vui. |
-| **Ben:** Do you often go there? | **Ben:** Bạn có thường đến đó không? |
-| **Trang:** Sometimes. I watch movies there with my sister. I want to go there more often, but it's a bit pricey. | **Trang:** Thỉnh thoảng thôi. Mình xem phim ở đó với chị. Muốn đến thường hơn nhưng hơi đắt. |
-| **Ben:** It's expensive here in London, too... | **Ben:** Ở London này cũng đắt lắm... |
+**Trang:** Hi, Ben. Sorry I couldn't get online earlier. I got stuck in a traffic jam and came home late.
+**Ben:** No problem, Trang. Did you go by bus?
+**Trang:** No. My dad picked me up. I rarely use the bus. It's slow and packed with people.
+**Ben:** I mostly get around by underground. It's more reliable than the bus.
+**Trang:** That's great.
+**Ben:** But traffic congestion is terrible in London. You know, the more crowded the city gets, the more congested the streets are.
+**Trang:** Yeah... and the more polluted they may become. There's a construction site in my neighbourhood. It's dusty, so people easily get itchy eyes.
+**Ben:** It must be noisy, too. The noise probably makes people feel stressed sometimes.
+**Trang:** That's right. But new buildings make the city look modern and attractive. Do you remember the grand building downtown?
+**Ben:** Of course. How's it now? When I left Viet Nam, they nearly finished it.
+**Trang:** Well, it's now a shopping mall. Teens like it because it's modern and fun.
+**Ben:** Do you often go there?
+**Trang:** Sometimes. I watch movies there with my sister. I want to go there more often, but it's a bit pricey.
+**Ben:** It's expensive here in London, too...
 </dialogue>
+
+<translation>
+**Trang:** Chào Ben. Xin lỗi mình không thể online sớm hơn. Mình bị kẹt xe và về nhà muộn.
+**Ben:** Không sao, Trang. Bạn đi xe buýt à?
+**Trang:** Không. Bố mình đón mình. Mình hiếm khi đi xe buýt. Xe buýt chậm lại chật cứng người.
+**Ben:** Mình chủ yếu đi bằng tàu điện ngầm. Nó đáng tin cậy hơn xe buýt.
+**Trang:** Hay đó.
+**Ben:** Nhưng tắc nghẽn giao thông ở London thật kinh khủng. Bạn biết đó, thành phố càng đông đúc thì đường phố càng tắc nghẽn hơn.
+**Trang:** Ừ... và càng ô nhiễm hơn. Có một công trường xây dựng ở khu phố mình. Bụi lắm, mọi người dễ bị ngứa mắt.
+**Ben:** Chắc cũng ồn ào lắm. Tiếng ồn có lẽ đôi khi khiến người ta căng thẳng.
+**Trang:** Đúng vậy. Nhưng những tòa nhà mới làm thành phố trông hiện đại và hấp dẫn hơn. Bạn có nhớ tòa nhà hoành tráng ở trung tâm không?
+**Ben:** Tất nhiên rồi. Bây giờ thế nào? Khi mình rời Việt Nam, họ gần xong rồi.
+**Trang:** À, bây giờ nó là trung tâm mua sắm rồi. Thanh thiếu niên thích lắm vì hiện đại và vui.
+**Ben:** Bạn có thường đến đó không?
+**Trang:** Thỉnh thoảng thôi. Mình xem phim ở đó với chị. Muốn đến thường hơn nhưng hơi đắt.
+**Ben:** Ở London này cũng đắt lắm...
+</translation>
 
 <teacher_script pause="180">
 Các em đọc và dịch hội thoại vô vở nha. 3 phút.

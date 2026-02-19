@@ -41,14 +41,20 @@ Bài 1. Nghe và đọc hội thoại. Chú ý các câu thể hiện sự thấ
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** How was the music festival last Sunday? | Mi: Lễ hội âm nhạc diễn ra vào Chủ nhật tuần trước thế nào? |
-| **Mark:** **It was disappointing!** | Mark: **Thật đáng thất vọng!** |
-| **Mi:** Why? | Mi: Tại sao vậy? |
-| **Mark:** The band was late. | Mark: Ban nhạc đã đến muộn. |
-| **Trang:** And the singers weren't very good either. **It was a big disappointment.** | Trang: Và các ca sĩ hát cũng không tốt lắm. **Đó là một sự thất vọng lớn.** |
+**Mi:** How was the music festival last Sunday?
+**Mark:** **It was disappointing!**
+**Mi:** Why?
+**Mark:** The band was late.
+**Trang:** And the singers weren't very good either. **It was a big disappointment.**
 </dialogue>
+
+<translation>
+Mi: Lễ hội âm nhạc diễn ra vào Chủ nhật tuần trước thế nào?
+Mark: **Thật đáng thất vọng!**
+Mi: Tại sao vậy?
+Mark: Ban nhạc đã đến muộn.
+Trang: Và các ca sĩ hát cũng không tốt lắm. **Đó là một sự thất vọng lớn.**
+</translation>
 
 <teacher_script pause="0">
 Hai cách diễn đạt thất vọng nè:
@@ -221,12 +227,14 @@ Bài 5. Chọn một lễ hội và nói về biểu tượng và ý nghĩa củ
 </task>
 
 <dialogue>
-**Ví dụ mẫu:**
-| English | Vietnamese |
-|---------|------------|
-| When we talk about Christmas, we think of the Christmas tree. | Khi nói về Giáng sinh, ta nghĩ đến cây thông Noel. |
-| It is the symbol of a long life. | Nó là biểu tượng của cuộc sống lâu dài. |
+When we talk about Christmas, we think of the Christmas tree.
+It is the symbol of a long life.
 </dialogue>
+
+<translation>
+Khi nói về Giáng sinh, ta nghĩ đến cây thông Noel.
+Nó là biểu tượng của cuộc sống lâu dài.
+</translation>
 
 <answer>
 **Bài mẫu 1 - Tết:**

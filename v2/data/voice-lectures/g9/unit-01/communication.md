@@ -19,13 +19,18 @@ Bài 1 <eng>Listen and read the conversations. Pay attention to the questions an
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mai:** Do you mind carrying this suitcase for me? | **Mai:** Bạn có phiền xách hộ tôi chiếc vali này không? |
-| **Tom:** Not at all. | **Tom:** Không hề. |
-| **Ann:** Could you show me how to open this gate, please? | **Ann:** Bạn có thể chỉ cho tôi cách mở cánh cổng này được không? |
-| **Mr Nam:** Sure. | **Ông Nam:** Chắc chắn rồi. |
+**Mai:** Do you mind carrying this suitcase for me?
+**Tom:** Not at all.
+**Ann:** Could you show me how to open this gate, please?
+**Mr Nam:** Sure.
 </dialogue>
+
+<translation>
+**Mai:** Bạn có phiền xách hộ tôi chiếc vali này không?
+**Tom:** Không hề.
+**Ann:** Bạn có thể chỉ cho tôi cách mở cánh cổng này được không?
+**Ông Nam:** Chắc chắn rồi.
+</translation>
 
 <teacher_script pause="0">
 Hai cách xin giúp đỡ phổ biến nè:

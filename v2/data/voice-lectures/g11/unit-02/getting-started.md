@@ -32,20 +32,32 @@ Nghe hội thoại giữa cô Hoa, Mark và Mai nha.
 <audio>https://img.loigiaihay.com/picture/2023/0804/track-9_1.mp3</audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Ms Hoa:** Good morning, class. Today, we'll talk about the generation gap. So, what is the generation gap? | **Cô Hoa:** Chào cả lớp. Hôm nay, chúng ta sẽ nói về khoảng cách thế hệ. Vậy, khoảng cách thế hệ là gì? |
-| **Mark:** Well, I think it's the difference in beliefs and behaviours between young and older people. | **Mark:** Em nghĩ đó là sự khác biệt trong niềm tin và hành vi giữa người trẻ và người lớn tuổi. |
-| **Ms Hoa:** You're right, Mark. So, is there a generation gap in your family? | **Cô Hoa:** Em nói đúng, Mark. Vậy, có khoảng cách thế hệ trong gia đình em không? |
-| **Mark:** Not really, Ms Hoa. I live in a nuclear family with my parents and brother. We understand each other quite well though we still argue over small things. | **Mark:** Không hẳn, cô Hoa. Em sống trong gia đình hạt nhân với bố mẹ và anh trai. Chúng em khá hiểu nhau dù vẫn tranh cãi vì chuyện nhỏ. |
-| **Ms Hoa:** Right. We can't avoid daily arguments. What about you, Mai? | **Cô Hoa:** Đúng. Chúng ta không tránh khỏi tranh cãi hàng ngày. Còn em, Mai? |
-| **Mai:** Well, I live with my extended family, and I have to learn to accept the differences between the generations. | **Mai:** Em sống với đại gia đình, và em phải học cách chấp nhận sự khác biệt giữa các thế hệ. |
-| **Ms Hoa:** That's a good point. Can you give us an example? | **Cô Hoa:** Hay lắm. Em cho ví dụ được không? |
-| **Mai:** Well, my grandparents hold traditional views about male jobs and gender roles. For example, my grandfather wants my brother to be an engineer, but my brother hopes to become a musician. And my grandmother thinks women have to do all the housework. | **Mai:** Ông bà em có quan điểm truyền thống về công việc nam giới và vai trò giới. Ví dụ, ông muốn anh trai em thành kỹ sư, nhưng anh ấy muốn thành nhạc sĩ. Còn bà thì nghĩ phụ nữ phải làm hết việc nhà. |
-| **Ms Hoa:** How about your parents? Do they share your grandparents' views? | **Cô Hoa:** Còn bố mẹ em? Họ có cùng quan điểm với ông bà không? |
-| **Mai:** No, they don't. They think that we should follow our dreams. They give us advice, but never force us to follow in their footsteps. | **Mai:** Không ạ. Họ nghĩ chúng em nên theo đuổi ước mơ. Họ cho lời khuyên, nhưng không ép chúng em tiếp bước họ. |
-| **Ms Hoa:** Thank you, Mai. You must respect your parents and grandparents, but you should also express your opinion. | **Cô Hoa:** Cảm ơn Mai. Em phải tôn trọng bố mẹ và ông bà, nhưng cũng nên bày tỏ ý kiến của mình. |
+**Ms Hoa:** Good morning, class. Today, we'll talk about the generation gap. So, what is the generation gap?
+**Mark:** Well, I think it's the difference in beliefs and behaviours between young and older people.
+**Ms Hoa:** You're right, Mark. So, is there a generation gap in your family?
+**Mark:** Not really, Ms Hoa. I live in a nuclear family with my parents and brother. We understand each other quite well though we still argue over small things.
+**Ms Hoa:** Right. We can't avoid daily arguments. What about you, Mai?
+**Mai:** Well, I live with my extended family, and I have to learn to accept the differences between the generations.
+**Ms Hoa:** That's a good point. Can you give us an example?
+**Mai:** Well, my grandparents hold traditional views about male jobs and gender roles. For example, my grandfather wants my brother to be an engineer, but my brother hopes to become a musician. And my grandmother thinks women have to do all the housework.
+**Ms Hoa:** How about your parents? Do they share your grandparents' views?
+**Mai:** No, they don't. They think that we should follow our dreams. They give us advice, but never force us to follow in their footsteps.
+**Ms Hoa:** Thank you, Mai. You must respect your parents and grandparents, but you should also express your opinion.
 </dialogue>
+
+<translation>
+**Cô Hoa:** Chào cả lớp. Hôm nay, chúng ta sẽ nói về khoảng cách thế hệ. Vậy, khoảng cách thế hệ là gì?
+**Mark:** Em nghĩ đó là sự khác biệt trong niềm tin và hành vi giữa người trẻ và người lớn tuổi.
+**Cô Hoa:** Em nói đúng, Mark. Vậy, có khoảng cách thế hệ trong gia đình em không?
+**Mark:** Không hẳn, cô Hoa. Em sống trong gia đình hạt nhân với bố mẹ và anh trai. Chúng em khá hiểu nhau dù vẫn tranh cãi vì chuyện nhỏ.
+**Cô Hoa:** Đúng. Chúng ta không tránh khỏi tranh cãi hàng ngày. Còn em, Mai?
+**Mai:** Em sống với đại gia đình, và em phải học cách chấp nhận sự khác biệt giữa các thế hệ.
+**Cô Hoa:** Hay lắm. Em cho ví dụ được không?
+**Mai:** Ông bà em có quan điểm truyền thống về công việc nam giới và vai trò giới. Ví dụ, ông muốn anh trai em thành kỹ sư, nhưng anh ấy muốn thành nhạc sĩ. Còn bà thì nghĩ phụ nữ phải làm hết việc nhà.
+**Cô Hoa:** Còn bố mẹ em? Họ có cùng quan điểm với ông bà không?
+**Mai:** Không ạ. Họ nghĩ chúng em nên theo đuổi ước mơ. Họ cho lời khuyên, nhưng không ép chúng em tiếp bước họ.
+**Cô Hoa:** Cảm ơn Mai. Em phải tôn trọng bố mẹ và ông bà, nhưng cũng nên bày tỏ ý kiến của mình.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

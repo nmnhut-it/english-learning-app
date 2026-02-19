@@ -36,14 +36,20 @@ Phần <eng>Everyday English</eng>. Hôm nay mình học cách hỏi thông tin 
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mi:** Are you doing anything this Sunday? | **Mi:** Chủ nhật này bạn có làm gì không? |
-| **Phong:** Not really. | **Phong:** Không hẳn. |
-| **Mi:** Would you like to go with us to Binh Minh Lower Secondary School? | **Mi:** Bạn có muốn đi cùng chúng tôi đến trường THCS Bình Minh không? |
-| **Phong:** Sounds great! **Can you tell me more?** | **Phong:** Nghe hay đó! **Bạn có thể nói cho tôi biết thêm được không?** |
-| **Mi:** We'll leave at 7 a.m. My friends David and Nick are coming too. | **Mi:** Chúng ta sẽ rời đi lúc 7 giờ sáng. Bạn David và Nick cũng sẽ đến. |
+**Mi:** Are you doing anything this Sunday?
+**Phong:** Not really.
+**Mi:** Would you like to go with us to Binh Minh Lower Secondary School?
+**Phong:** Sounds great! **Can you tell me more?**
+**Mi:** We'll leave at 7 a.m. My friends David and Nick are coming too.
 </dialogue>
+
+<translation>
+**Mi:** Chủ nhật này bạn có làm gì không?
+**Phong:** Không hẳn.
+**Mi:** Bạn có muốn đi cùng chúng tôi đến trường THCS Bình Minh không?
+**Phong:** Nghe hay đó! **Bạn có thể nói cho tôi biết thêm được không?**
+**Mi:** Chúng ta sẽ rời đi lúc 7 giờ sáng. Bạn David và Nick cũng sẽ đến.
+</translation>
 
 <teacher_script pause="0">
 Chú ý câu hỏi quan trọng nè: <eng>"Can you tell me more?"</eng> nghĩa là "Bạn có thể cho tôi biết thêm được không?" Ngoài ra còn có <eng>"Can you tell me why?"</eng> là hỏi lý do, và <eng>"Can you tell me how?"</eng> là hỏi cách thức nha.

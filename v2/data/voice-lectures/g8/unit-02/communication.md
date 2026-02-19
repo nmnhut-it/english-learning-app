@@ -75,13 +75,18 @@ Bài 2. Luyện hội thoại khen ngợi với bạn nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** Wow! What a beautiful village you live in! | **A:** Ồ! Bạn sống trong một ngôi làng đẹp thật! |
-| **B:** Thanks. I'm glad you like it. | **B:** Cảm ơn. Tôi vui vì bạn thích. |
-| **A:** What a vast paddy field! Does your family farm here? | **A:** Cánh đồng lúa rộng lớn thật! Gia đình bạn canh tác ở đây không? |
-| **B:** Yes, we do. The rice harvest is really enjoyable. | **B:** Vâng, chúng tôi có. Mùa gặt thật thú vị. |
+**A:** Wow! What a beautiful village you live in!
+**B:** Thanks. I'm glad you like it.
+**A:** What a vast paddy field! Does your family farm here?
+**B:** Yes, we do. The rice harvest is really enjoyable.
 </dialogue>
+
+<translation>
+**A:** Ồ! Bạn sống trong một ngôi làng đẹp thật!
+**B:** Cảm ơn. Tôi vui vì bạn thích.
+**A:** Cánh đồng lúa rộng lớn thật! Gia đình bạn canh tác ở đây không?
+**B:** Vâng, chúng tôi có. Mùa gặt thật thú vị.
+</translation>
 
 <teacher_script action="record">
 Luyện hội thoại khen ngợi theo cặp nha. Bấm nút ghi âm khi sẵn sàng.

@@ -42,12 +42,16 @@ Bài 1 <eng>Listen and read the dialogue. Pay attention to the highlighted sente
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Vy:** Phong, this is Duy, my new friend. | **Vy:** Phong, đây là Duy, bạn mới của mình. |
-| **Phong:** Hi, Duy. Nice to meet you. | **Phong:** Chào Duy. Rất vui được gặp bạn. |
-| **Duy:** Hi, Phong. Nice to meet you, too. | **Duy:** Chào Phong. Cũng hân hạnh được gặp bạn. |
+**Vy:** Phong, this is Duy, my new friend.
+**Phong:** Hi, Duy. Nice to meet you.
+**Duy:** Hi, Phong. Nice to meet you, too.
 </dialogue>
+
+<translation>
+**Vy:** Phong, đây là Duy, bạn mới của mình.
+**Phong:** Chào Duy. Rất vui được gặp bạn.
+**Duy:** Chào Phong. Cũng hân hạnh được gặp bạn.
+</translation>
 
 <teacher_script pause="0">
 Mấu chốt nè: Khi giới thiệu ai đó, mình nói <eng>This is + tên, my new friend</eng>. Người được giới thiệu sẽ nói <eng>Nice to meet you</eng>, và đáp lại là <eng>Nice to meet you, too</eng>. Đơn giản vậy thôi á.

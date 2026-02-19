@@ -34,20 +34,32 @@ Bài 1, nghe và đọc hội thoại giữa Long và Nick nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Long:** Hi, Nick. What are you doing? | **Long:** Xin chào, Nick. Bạn đang làm gì đấy? |
-| **Nick:** I'm watching the video that my geography teacher uploaded on Eclass. | **Nick:** Tôi đang xem video mà giáo viên địa lý tải lên Eclass. |
-| **Long:** Really? What is it about? | **Long:** Thật không? Nó về cái gì? |
-| **Nick:** It's about global warming. My teacher asked us to watch the video and find more information about this topic. | **Nick:** Về sự nóng lên toàn cầu. Cô yêu cầu chúng tôi xem video và tìm thêm thông tin. |
-| **Long:** So, is watching the video part of your homework? | **Long:** Vậy xem video là một phần bài tập nhà? |
-| **Nick:** Yes, then next week, we'll work in groups and discuss the topic in class. | **Nick:** Đúng, tuần sau chúng tôi sẽ làm nhóm và thảo luận trong lớp. |
-| **Long:** Sounds interesting. You can watch the video many times and also search for more information at home. | **Long:** Nghe thú vị. Bạn có thể xem video nhiều lần và tìm thêm thông tin ở nhà. |
-| **Nick:** You're right. I'm not good at taking notes in class, you know. So I prefer this way of learning. It gives me a chance to discuss with my classmates, who may have original ideas on the topic. | **Nick:** Đúng vậy. Tôi không giỏi ghi chép trên lớp, bạn biết đấy. Nên tôi thích cách học này hơn. Nó cho tôi cơ hội thảo luận với bạn cùng lớp, những người có thể có ý tưởng sáng tạo. |
-| **Long:** Does your teacher often ask you to prepare materials at home and discuss in class, Nick? | **Long:** Giáo viên của bạn có thường yêu cầu bạn chuẩn bị tài liệu ở nhà và thảo luận trên lớp không, Nick? |
-| **Nick:** Yes, she does. We're doing a lot of projects that help us understand the lessons better. This way of studying, which gives us more control over our own learning, is quite useful. | **Nick:** Có. Chúng tôi đang làm nhiều dự án giúp hiểu bài hơn. Cách học này, giúp chúng tôi kiểm soát việc học của mình, khá hữu ích. |
-| **Long:** You're lucky. My teachers use very traditional methods of teaching at my school. I wish I could try these new learning activities. | **Long:** Bạn may mắn đó. Giáo viên tôi dùng phương pháp giảng dạy rất truyền thống ở trường tôi. Ước gì tôi được thử các hoạt động học tập mới này. |
+**Long:** Hi, Nick. What are you doing?
+**Nick:** I'm watching the video that my geography teacher uploaded on Eclass.
+**Long:** Really? What is it about?
+**Nick:** It's about global warming. My teacher asked us to watch the video and find more information about this topic.
+**Long:** So, is watching the video part of your homework?
+**Nick:** Yes, then next week, we'll work in groups and discuss the topic in class.
+**Long:** Sounds interesting. You can watch the video many times and also search for more information at home.
+**Nick:** You're right. I'm not good at taking notes in class, you know. So I prefer this way of learning. It gives me a chance to discuss with my classmates, who may have original ideas on the topic.
+**Long:** Does your teacher often ask you to prepare materials at home and discuss in class, Nick?
+**Nick:** Yes, she does. We're doing a lot of projects that help us understand the lessons better. This way of studying, which gives us more control over our own learning, is quite useful.
+**Long:** You're lucky. My teachers use very traditional methods of teaching at my school. I wish I could try these new learning activities.
 </dialogue>
+
+<translation>
+**Long:** Xin chào, Nick. Bạn đang làm gì đấy?
+**Nick:** Tôi đang xem video mà giáo viên địa lý tải lên Eclass.
+**Long:** Thật không? Nó về cái gì?
+**Nick:** Về sự nóng lên toàn cầu. Cô yêu cầu chúng tôi xem video và tìm thêm thông tin.
+**Long:** Vậy xem video là một phần bài tập nhà?
+**Nick:** Đúng, tuần sau chúng tôi sẽ làm nhóm và thảo luận trong lớp.
+**Long:** Nghe thú vị. Bạn có thể xem video nhiều lần và tìm thêm thông tin ở nhà.
+**Nick:** Đúng vậy. Tôi không giỏi ghi chép trên lớp, bạn biết đấy. Nên tôi thích cách học này hơn. Nó cho tôi cơ hội thảo luận với bạn cùng lớp, những người có thể có ý tưởng sáng tạo.
+**Long:** Giáo viên của bạn có thường yêu cầu bạn chuẩn bị tài liệu ở nhà và thảo luận trên lớp không, Nick?
+**Nick:** Có. Chúng tôi đang làm nhiều dự án giúp hiểu bài hơn. Cách học này, giúp chúng tôi kiểm soát việc học của mình, khá hữu ích.
+**Long:** Bạn may mắn đó. Giáo viên tôi dùng phương pháp giảng dạy rất truyền thống ở trường tôi. Ước gì tôi được thử các hoạt động học tập mới này.
+</translation>
 
 <teacher_script pause="120">
 Đọc và dịch hội thoại vô vở nha. 2 phút.

@@ -35,18 +35,28 @@ Giờ mình vô bài đọc chính nha. Đây là hội thoại giữa bà Grand
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Linh:** Grandma, what did you do for fun when you were young? | **Linh:** Bà ơi, hồi nhỏ bà làm gì cho vui vậy? |
-| **Grandma:** In my day, we made our own toys from natural materials — bamboo, clay, and cloth. | **Bà:** Thời bà còn trẻ, tụi bà tự làm đồ chơi từ vật liệu tự nhiên — tre, đất sét và vải. |
-| **Linh:** Really? We just buy everything now. | **Linh:** Thật không ạ? Bây giờ mình mua hết rồi bà. |
-| **Grandma:** And clothes cost little — we often dyed them purple or red at home using plant extracts. | **Bà:** Và quần áo thì tốn ít tiền lắm — tụi bà hay nhuộm màu tím hoặc đỏ bằng chiết xuất từ cây cỏ tại nhà. |
-| **Linh:** That sounds fun! Now we just scroll online for hours. Do you mind if I show you TikTok? | **Linh:** Nghe hay ghê! Bây giờ tụi con lướt mạng cả tiếng đồng hồ. Bà có phiền không nếu con cho bà xem TikTok? |
-| **Grandma:** Ha! When I was your age, our only electronic device was a radio. | **Bà:** Ha! Hồi bằng tuổi cháu, thiết bị điện tử duy nhất của tụi bà là cái đài radio. |
-| **Linh:** And leisure? What did you do? | **Linh:** Còn thời gian rảnh thì sao ạ? Bà làm gì vậy? |
-| **Grandma:** We mostly played outside — catching fish in streams, flying kites. We depended on nature. Your generation has more freedom of choice, but I think you also have more stress. | **Bà:** Tụi bà chủ yếu chơi ngoài trời — bắt cá dưới suối, thả diều. Tụi bà phụ thuộc vào thiên nhiên. Thế hệ của cháu có nhiều sự tự do lựa chọn hơn, nhưng bà nghĩ cháu cũng căng thẳng hơn đó. |
-| **Linh:** You're right, Grandma. I think living conditions are better now, but we've lost some simple joys. | **Linh:** Bà nói đúng đó. Con nghĩ điều kiện sống bây giờ tốt hơn, nhưng mình đã mất đi một số niềm vui đơn giản rồi. |
+**Linh:** Grandma, what did you do for fun when you were young?
+**Grandma:** In my day, we made our own toys from natural materials — bamboo, clay, and cloth.
+**Linh:** Really? We just buy everything now.
+**Grandma:** And clothes cost little — we often dyed them purple or red at home using plant extracts.
+**Linh:** That sounds fun! Now we just scroll online for hours. Do you mind if I show you TikTok?
+**Grandma:** Ha! When I was your age, our only electronic device was a radio.
+**Linh:** And leisure? What did you do?
+**Grandma:** We mostly played outside — catching fish in streams, flying kites. We depended on nature. Your generation has more freedom of choice, but I think you also have more stress.
+**Linh:** You're right, Grandma. I think living conditions are better now, but we've lost some simple joys.
 </dialogue>
+
+<translation>
+**Linh:** Bà ơi, hồi nhỏ bà làm gì cho vui vậy?
+**Bà:** Thời bà còn trẻ, tụi bà tự làm đồ chơi từ vật liệu tự nhiên — tre, đất sét và vải.
+**Linh:** Thật không ạ? Bây giờ mình mua hết rồi bà.
+**Bà:** Và quần áo thì tốn ít tiền lắm — tụi bà hay nhuộm màu tím hoặc đỏ bằng chiết xuất từ cây cỏ tại nhà.
+**Linh:** Nghe hay ghê! Bây giờ tụi con lướt mạng cả tiếng đồng hồ. Bà có phiền không nếu con cho bà xem TikTok?
+**Bà:** Ha! Hồi bằng tuổi cháu, thiết bị điện tử duy nhất của tụi bà là cái đài radio.
+**Linh:** Còn thời gian rảnh thì sao ạ? Bà làm gì vậy?
+**Bà:** Tụi bà chủ yếu chơi ngoài trời — bắt cá dưới suối, thả diều. Tụi bà phụ thuộc vào thiên nhiên. Thế hệ của cháu có nhiều sự tự do lựa chọn hơn, nhưng bà nghĩ cháu cũng căng thẳng hơn đó.
+**Linh:** Bà nói đúng đó. Con nghĩ điều kiện sống bây giờ tốt hơn, nhưng mình đã mất đi một số niềm vui đơn giản rồi.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Có 3 phút — ghi đủ cả hai cột tiếng Anh và tiếng Việt luôn.

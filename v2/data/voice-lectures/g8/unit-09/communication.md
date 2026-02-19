@@ -52,14 +52,20 @@ Bài 1. <eng>Listen and read the dialogue below. Pay attention to the highlighte
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mark:** Phong, why are you so sad? | **Mark:** Phong, sao cậu buồn thế? |
-| **Phong:** My grandparents called this morning. A flood destroyed their house. | **Phong:** Ông bà mình mới gọi sáng nay. Một cơn lũ đã phá hủy ngôi nhà của họ. |
-| **Mark:** I'm sorry to hear that. | **Mark:** Mình rất lấy làm tiếc khi nghe điều đó. |
-| **Phong:** It also damaged all of their crops. | **Phong:** Nó cũng phá hủy hết nông sản của ông bà rồi. |
-| **Mark:** That's awful. I hope your grandparents are safe. | **Mark:** Thật tệ. Mong ông bà cậu vẫn ổn. |
+**Mark:** Phong, why are you so sad?
+**Phong:** My grandparents called this morning. A flood destroyed their house.
+**Mark:** I'm sorry to hear that.
+**Phong:** It also damaged all of their crops.
+**Mark:** That's awful. I hope your grandparents are safe.
 </dialogue>
+
+<translation>
+**Mark:** Phong, sao cậu buồn thế?
+**Phong:** Ông bà mình mới gọi sáng nay. Một cơn lũ đã phá hủy ngôi nhà của họ.
+**Mark:** Mình rất lấy làm tiếc khi nghe điều đó.
+**Phong:** Nó cũng phá hủy hết nông sản của ông bà rồi.
+**Mark:** Thật tệ. Mong ông bà cậu vẫn ổn.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt. Thầy/cô cho 3 phút á. Chú ý 2 câu quan trọng: "<eng>I'm sorry to hear that</eng>" và "<eng>That's awful. I hope your grandparents are safe.</eng>" — đây là cách bày tỏ đồng cảm khi nghe tin buồn nha.

@@ -33,24 +33,40 @@ Ok giờ mình nghe và đọc hội thoại giữa Nam và Minh nha. Bài 1 tra
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Nam:** Hello, Minh. | **Nam:** Chào, Minh. |
-| **Minh:** Hi, Nam. How are you? I'm going to play football at our school stadium with a few friends this evening. Are you free to join us? | **Minh:** Chào Nam. Bạn khỏe không? Tôi sẽ chơi bóng tại sân vận động của trường với vài người bạn tối nay. Bạn có rảnh tham gia không? |
-| **Nam:** I'd love to, but I'm afraid I can't. I'm preparing dinner. | **Nam:** Tôi thích lắm, nhưng tôi e là không thể. Tôi đang chuẩn bị bữa tối. |
-| **Minh:** Really? Doesn't your mum cook? | **Minh:** Thật không? Mẹ bạn không nấu ăn à? |
-| **Nam:** Oh, yes. My mum usually does the cooking, but she's working late today. | **Nam:** Ồ, có. Mẹ tôi thường nấu ăn, nhưng hôm nay mẹ đi làm về muộn. |
-| **Minh:** How about your sister, Lan? Does she help with the housework? | **Minh:** Còn em gái Lan thì sao? Em ấy có giúp việc nhà không? |
-| **Nam:** Yes. She often helps with the cooking. But she can't help today. She's studying for her exams. | **Nam:** Có. Em ấy thường giúp nấu ăn. Nhưng hôm nay em ấy không thể. Em ấy đang học cho kỳ thi. |
-| **Minh:** I see. I never do the cooking. It's my mother's job. | **Minh:** Ra vậy. Tôi không bao giờ nấu ăn. Đó là việc của mẹ tôi. |
-| **Nam:** Really? So how do you divide the household chores in your family? | **Nam:** Thật không? Vậy bạn phân chia công việc nhà trong gia đình thế nào? |
-| **Minh:** Mum is the homemaker, so she does the chores. My dad is the breadwinner, he earns money. And we, the kids, study. | **Minh:** Mẹ là nội trợ nên mẹ làm việc nhà. Bố là trụ cột gia đình, bố kiếm tiền. Còn tụi mình, con nít, lo học. |
-| **Nam:** Well, in my family, we divide the housework equally - Mum usually cooks and shops for groceries; Dad cleans the house and does the heavy lifting. | **Nam:** À, trong gia đình tôi chia đều việc nhà - Mẹ thường nấu ăn và mua thực phẩm; bố dọn dẹp nhà cửa và làm việc nặng. |
-| **Minh:** What about you and your sister? | **Minh:** Còn bạn và em gái thì sao? |
-| **Nam:** My sister does the laundry. I do the washing-up and put out the rubbish. We also help with the cooking when our mum is busy. | **Nam:** Em gái tôi giặt quần áo. Tôi rửa bát và đổ rác. Tụi tôi cũng giúp nấu ăn khi mẹ bận. |
-| **Minh:** That sounds fair! Anyway, I have to go now. See you later. | **Minh:** Nghe có vẻ công bằng! Dù sao tôi phải đi. Hẹn gặp lại. |
-| **Nam:** Bye. Have fun. | **Nam:** Tạm biệt. Chơi vui nha. |
+**Nam:** Hello, Minh.
+**Minh:** Hi, Nam. How are you? I'm going to play football at our school stadium with a few friends this evening. Are you free to join us?
+**Nam:** I'd love to, but I'm afraid I can't. I'm preparing dinner.
+**Minh:** Really? Doesn't your mum cook?
+**Nam:** Oh, yes. My mum usually does the cooking, but she's working late today.
+**Minh:** How about your sister, Lan? Does she help with the housework?
+**Nam:** Yes. She often helps with the cooking. But she can't help today. She's studying for her exams.
+**Minh:** I see. I never do the cooking. It's my mother's job.
+**Nam:** Really? So how do you divide the household chores in your family?
+**Minh:** Mum is the homemaker, so she does the chores. My dad is the breadwinner, he earns money. And we, the kids, study.
+**Nam:** Well, in my family, we divide the housework equally - Mum usually cooks and shops for groceries; Dad cleans the house and does the heavy lifting.
+**Minh:** What about you and your sister?
+**Nam:** My sister does the laundry. I do the washing-up and put out the rubbish. We also help with the cooking when our mum is busy.
+**Minh:** That sounds fair! Anyway, I have to go now. See you later.
+**Nam:** Bye. Have fun.
 </dialogue>
+
+<translation>
+**Nam:** Chào, Minh.
+**Minh:** Chào Nam. Bạn khỏe không? Tôi sẽ chơi bóng tại sân vận động của trường với vài người bạn tối nay. Bạn có rảnh tham gia không?
+**Nam:** Tôi thích lắm, nhưng tôi e là không thể. Tôi đang chuẩn bị bữa tối.
+**Minh:** Thật không? Mẹ bạn không nấu ăn à?
+**Nam:** Ồ, có. Mẹ tôi thường nấu ăn, nhưng hôm nay mẹ đi làm về muộn.
+**Minh:** Còn em gái Lan thì sao? Em ấy có giúp việc nhà không?
+**Nam:** Có. Em ấy thường giúp nấu ăn. Nhưng hôm nay em ấy không thể. Em ấy đang học cho kỳ thi.
+**Minh:** Ra vậy. Tôi không bao giờ nấu ăn. Đó là việc của mẹ tôi.
+**Nam:** Thật không? Vậy bạn phân chia công việc nhà trong gia đình thế nào?
+**Minh:** Mẹ là nội trợ nên mẹ làm việc nhà. Bố là trụ cột gia đình, bố kiếm tiền. Còn tụi mình, con nít, lo học.
+**Nam:** À, trong gia đình tôi chia đều việc nhà - Mẹ thường nấu ăn và mua thực phẩm; bố dọn dẹp nhà cửa và làm việc nặng.
+**Minh:** Còn bạn và em gái thì sao?
+**Nam:** Em gái tôi giặt quần áo. Tôi rửa bát và đổ rác. Tụi tôi cũng giúp nấu ăn khi mẹ bận.
+**Minh:** Nghe có vẻ công bằng! Dù sao tôi phải đi. Hẹn gặp lại.
+**Nam:** Tạm biệt. Chơi vui nha.
+</translation>
 
 <teacher_script pause="180">
 Các em đọc hội thoại và dịch vô vở nha. 3 phút.

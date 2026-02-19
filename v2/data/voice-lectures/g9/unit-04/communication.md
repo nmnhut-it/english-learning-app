@@ -64,15 +64,22 @@ Giờ đọc hội thoại giữa Mi và Tom về phong tục nha. Mi nói chuy�
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** Tom, in Vietnam we always celebrate the death anniversary of our ancestors. We cook special food, burn incense, and pray to show our gratitude. | **Mi:** Tom ơi, ở Việt Nam mình luôn tổ chức ngày giỗ của tổ tiên. Chúng mình nấu đồ ăn đặc biệt, đốt nhang và cầu nguyện để thể hiện lòng biết ơn. |
-| **Tom:** That's really moving. In the US, we don't have that custom. We usually remember people at funerals, but not with annual ceremonies. | **Tom:** Cảm động thật. Ở Mỹ, bọn mình không có phong tục đó. Chúng mình thường tưởng nhớ người đã khuất ở tang lễ, chứ không có buổi lễ hàng năm. |
-| **Mi:** We also observe the Hungry Ghost Festival — we believe the spirits of ancestors visit the living world during that time. | **Mi:** Chúng mình cũng tuân thủ Lễ Vu Lan — chúng mình tin rằng linh hồn tổ tiên ghé thăm thế giới người sống trong thời gian đó. |
-| **Tom:** That's fascinating! We have something a bit similar — Halloween. It's mostly for fun now, but originally it was connected to the idea of spirits visiting the world of the living too. | **Tom:** Thú vị thật! Bọn mình cũng có thứ hơi tương tự — lễ Halloween. Bây giờ chủ yếu để vui, nhưng ban đầu nó cũng liên quan đến ý tưởng linh hồn về thăm thế giới người sống. |
-| **Mi:** Really? I didn't know that! It's interesting how different cultures have similar ideas about honouring the dead. | **Mi:** Thật không? Mình không biết điều đó! Thú vị khi các nền văn hóa khác nhau lại có những ý tưởng tương tự về việc tôn vinh người đã khuất. |
-| **Tom:** Absolutely. I think it shows that all cultures value family and memory. | **Tom:** Đúng vậy. Mình nghĩ điều đó cho thấy tất cả các nền văn hóa đều coi trọng gia đình và ký ức. |
+**Mi:** Tom, in Vietnam we always celebrate the death anniversary of our ancestors. We cook special food, burn incense, and pray to show our gratitude.
+**Tom:** That's really moving. In the US, we don't have that custom. We usually remember people at funerals, but not with annual ceremonies.
+**Mi:** We also observe the Hungry Ghost Festival — we believe the spirits of ancestors visit the living world during that time.
+**Tom:** That's fascinating! We have something a bit similar — Halloween. It's mostly for fun now, but originally it was connected to the idea of spirits visiting the world of the living too.
+**Mi:** Really? I didn't know that! It's interesting how different cultures have similar ideas about honouring the dead.
+**Tom:** Absolutely. I think it shows that all cultures value family and memory.
 </dialogue>
+
+<translation>
+**Mi:** Tom ơi, ở Việt Nam mình luôn tổ chức ngày giỗ của tổ tiên. Chúng mình nấu đồ ăn đặc biệt, đốt nhang và cầu nguyện để thể hiện lòng biết ơn.
+**Tom:** Cảm động thật. Ở Mỹ, bọn mình không có phong tục đó. Chúng mình thường tưởng nhớ người đã khuất ở tang lễ, chứ không có buổi lễ hàng năm.
+**Mi:** Chúng mình cũng tuân thủ Lễ Vu Lan — chúng mình tin rằng linh hồn tổ tiên ghé thăm thế giới người sống trong thời gian đó.
+**Tom:** Thú vị thật! Bọn mình cũng có thứ hơi tương tự — lễ Halloween. Bây giờ chủ yếu để vui, nhưng ban đầu nó cũng liên quan đến ý tưởng linh hồn về thăm thế giới người sống.
+**Mi:** Thật không? Mình không biết điều đó! Thú vị khi các nền văn hóa khác nhau lại có những ý tưởng tương tự về việc tôn vinh người đã khuất.
+**Tom:** Đúng vậy. Mình nghĩ điều đó cho thấy tất cả các nền văn hóa đều coi trọng gia đình và ký ức.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

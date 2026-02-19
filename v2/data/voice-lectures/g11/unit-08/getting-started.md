@@ -30,20 +30,32 @@ Bài 1, nghe và đọc hội thoại giữa Nam, Mai và Mark nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Nam:** Mai, why don't you answer your phone? It keeps ringing. | **Nam:** Mai, tại sao bạn không trả lời điện thoại? Nó cứ đổ chuông hoài. |
-| **Mai:** It's my mum who's calling me again. She wants me to contact her from time to time while I'm out. | **Mai:** Mẹ tôi lại gọi cho tôi đó. Bà ấy muốn tôi thỉnh thoảng liên lạc khi tôi ra ngoài. |
-| **Nam:** My parents used to be like that. They thought I didn't have the confidence to deal with difficult situations. | **Nam:** Bố mẹ tôi trước cũng vậy. Họ nghĩ tôi không đủ tự tin để đối phó với tình huống khó khăn. |
-| **Mark:** I had the same experience. It was earning my parents' trust that took a long time. But I managed to convince them that I'm responsible when I'm out and about. | **Mark:** Tôi cũng trải nghiệm tương tự. Giành được sự tin tưởng của bố mẹ mất rất lâu. Nhưng tôi đã thuyết phục được họ rằng tôi có trách nhiệm khi ra ngoài. |
-| **Mai:** It's my parents who still think I don't have the skills to be independent. I'm not good at managing my time or money, but I'm independent at home - I can cook, clean the house, and do my laundry! | **Mai:** Chính bố mẹ tôi vẫn nghĩ tôi không có kỹ năng tự lập. Tôi không giỏi quản lý thời gian hay tiền bạc, nhưng tôi tự lập ở nhà - tôi biết nấu ăn, dọn nhà, và giặt giũ! |
-| **Nam:** That's a good start! I use a time-management app to plan my weekly schedule including all my activities and responsibilities. Would you like me to help you install it? | **Nam:** Đó là khởi đầu tốt! Tôi dùng ứng dụng quản lý thời gian để lên lịch hàng tuần gồm tất cả hoạt động và trách nhiệm. Bạn có muốn tôi giúp cài đặt không? |
-| **Mai:** That'd be great. Thanks, Nam. | **Mai:** Tuyệt vời. Cảm ơn Nam. |
-| **Mark:** I use a money-management app. It's the app that taught me how to be responsible with money. | **Mark:** Tôi dùng ứng dụng quản lý tiền. Chính ứng dụng đó dạy tôi cách chịu trách nhiệm với tiền bạc. |
-| **Mai:** Mark, can you show it to me? | **Mai:** Mark, bạn cho tôi xem được không? |
-| **Mark:** No problem. My parents also encourage me to take part-time jobs and pay me for doing certain chores around the house. | **Mark:** Không vấn đề. Bố mẹ tôi cũng khuyến khích tôi làm việc bán thời gian và trả tiền khi làm việc nhà. |
-| **Mai:** Lucky you! | **Mai:** May quá! |
+**Nam:** Mai, why don't you answer your phone? It keeps ringing.
+**Mai:** It's my mum who's calling me again. She wants me to contact her from time to time while I'm out.
+**Nam:** My parents used to be like that. They thought I didn't have the confidence to deal with difficult situations.
+**Mark:** I had the same experience. It was earning my parents' trust that took a long time. But I managed to convince them that I'm responsible when I'm out and about.
+**Mai:** It's my parents who still think I don't have the skills to be independent. I'm not good at managing my time or money, but I'm independent at home - I can cook, clean the house, and do my laundry!
+**Nam:** That's a good start! I use a time-management app to plan my weekly schedule including all my activities and responsibilities. Would you like me to help you install it?
+**Mai:** That'd be great. Thanks, Nam.
+**Mark:** I use a money-management app. It's the app that taught me how to be responsible with money.
+**Mai:** Mark, can you show it to me?
+**Mark:** No problem. My parents also encourage me to take part-time jobs and pay me for doing certain chores around the house.
+**Mai:** Lucky you!
 </dialogue>
+
+<translation>
+**Nam:** Mai, tại sao bạn không trả lời điện thoại? Nó cứ đổ chuông hoài.
+**Mai:** Mẹ tôi lại gọi cho tôi đó. Bà ấy muốn tôi thỉnh thoảng liên lạc khi tôi ra ngoài.
+**Nam:** Bố mẹ tôi trước cũng vậy. Họ nghĩ tôi không đủ tự tin để đối phó với tình huống khó khăn.
+**Mark:** Tôi cũng trải nghiệm tương tự. Giành được sự tin tưởng của bố mẹ mất rất lâu. Nhưng tôi đã thuyết phục được họ rằng tôi có trách nhiệm khi ra ngoài.
+**Mai:** Chính bố mẹ tôi vẫn nghĩ tôi không có kỹ năng tự lập. Tôi không giỏi quản lý thời gian hay tiền bạc, nhưng tôi tự lập ở nhà - tôi biết nấu ăn, dọn nhà, và giặt giũ!
+**Nam:** Đó là khởi đầu tốt! Tôi dùng ứng dụng quản lý thời gian để lên lịch hàng tuần gồm tất cả hoạt động và trách nhiệm. Bạn có muốn tôi giúp cài đặt không?
+**Mai:** Tuyệt vời. Cảm ơn Nam.
+**Mark:** Tôi dùng ứng dụng quản lý tiền. Chính ứng dụng đó dạy tôi cách chịu trách nhiệm với tiền bạc.
+**Mai:** Mark, bạn cho tôi xem được không?
+**Mark:** Không vấn đề. Bố mẹ tôi cũng khuyến khích tôi làm việc bán thời gian và trả tiền khi làm việc nhà.
+**Mai:** May quá!
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở. 3 phút nha.

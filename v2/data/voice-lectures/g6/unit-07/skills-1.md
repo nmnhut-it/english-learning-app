@@ -375,55 +375,70 @@ Cấu trúc thảo luận. Nói ý kiến: <eng>I think the best programme for..
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: I think the best programme for Phong is Children are Always Right. | A: Tôi nghĩ chương trình tốt nhất cho Phong là Trẻ em luôn đúng. |
-| B: I agree. He wants to know more about pets. | B: Tôi đồng ý. Bạn ấy muốn biết nhiều hơn về thú cưng. |
+A: I think the best programme for Phong is Children are Always Right.
+B: I agree. He wants to know more about pets.
 </dialogue>
+
+<translation>
+A: Tôi nghĩ chương trình tốt nhất cho Phong là Trẻ em luôn đúng.
+B: Tôi đồng ý. Bạn ấy muốn biết nhiều hơn về thú cưng.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_f1d12ad9.mp3">
 A nói: <eng>I think the best programme for Phong is Children are Always Right</eng>. B đồng ý: <eng>I agree. He wants to know more about pets</eng>.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: I think the best programme for Bob is The Fox Teacher. | A: Tôi nghĩ chương trình tốt nhất cho Bob là Thầy giáo Cáo. |
-| B: I agree. He likes programmes that make him laugh. | B: Tôi đồng ý. Anh ấy thích những chương trình làm cho anh ấy cười. |
+A: I think the best programme for Bob is The Fox Teacher.
+B: I agree. He likes programmes that make him laugh.
 </dialogue>
+
+<translation>
+A: Tôi nghĩ chương trình tốt nhất cho Bob là Thầy giáo Cáo.
+B: Tôi đồng ý. Anh ấy thích những chương trình làm cho anh ấy cười.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_21899fe0.mp3">
 Với Bob: <eng>The Fox Teacher</eng> vì anh ấy thích <eng>programmes that make him laugh</eng>.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: I think the best programme for Nga is Cuc Phuong Forest. | A: Tôi nghĩ chương trình phù hợp nhất với Nga là Rừng Cúc Phương. |
-| B: I agree. She loves learning about plants and animals. | B: Tôi đồng ý. Cô ấy thích tìm hiểu về thực vật và động vật. |
+A: I think the best programme for Nga is Cuc Phuong Forest.
+B: I agree. She loves learning about plants and animals.
 </dialogue>
+
+<translation>
+A: Tôi nghĩ chương trình phù hợp nhất với Nga là Rừng Cúc Phương.
+B: Tôi đồng ý. Cô ấy thích tìm hiểu về thực vật và động vật.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_d80a920c.mp3">
 Với Nga: <eng>Cuc Phuong Forest</eng> vì cô ấy <eng>loves learning about plants and animals</eng>.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: I think the best programme for Minh is The Pig Race. | A: Tôi nghĩ chương trình tốt nhất cho Minh là Đua Heo. |
-| B: I agree. He likes watching races. | B: Tôi đồng ý. Anh ấy thích xem các cuộc đua. |
+A: I think the best programme for Minh is The Pig Race.
+B: I agree. He likes watching races.
 </dialogue>
+
+<translation>
+A: Tôi nghĩ chương trình tốt nhất cho Minh là Đua Heo.
+B: Tôi đồng ý. Anh ấy thích xem các cuộc đua.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_5acb32a4.mp3">
 Với Minh: <eng>The Pig Race</eng> vì anh ấy <eng>likes watching races</eng>.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| A: I think the best programme for Linh is The Dolphins. | A: Tôi nghĩ chương trình phù hợp nhất với Linh là Cá heo. |
-| B: I agree. She is interested in sea animals. | B: Tôi đồng ý. Cô ấy quan tâm đến động vật biển. |
+A: I think the best programme for Linh is The Dolphins.
+B: I agree. She is interested in sea animals.
 </dialogue>
+
+<translation>
+A: Tôi nghĩ chương trình phù hợp nhất với Linh là Cá heo.
+B: Tôi đồng ý. Cô ấy quan tâm đến động vật biển.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_c8b2cbe6.mp3">
 Với Linh: <eng>The Dolphins</eng> vì cô ấy <eng>interested in sea animals</eng>.
@@ -514,14 +529,20 @@ Thông tin 4: Lý do. <eng>I like it because...</eng>
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| My favourite TV programme is **The World of Animals**. | Chương trình TV yêu thích của tôi là **Thế giới Động vật**. |
-| It's on **VTV2**. | Nó chiếu trên **VTV2**. |
-| It is broadcasted every Friday evening. | Nó được phát sóng vào tối thứ Sáu hàng tuần. |
-| This programme provides me many interesting knowledge about animals - their names, their life... | Chương trình này cung cấp cho tôi nhiều kiến thức thú vị về động vật - tên của chúng, cuộc sống của chúng... |
-| I like watching it because **I love animals and want to know more about their life**. | Tôi thích xem nó vì **tôi yêu động vật và muốn biết thêm về cuộc sống của chúng**. |
+My favourite TV programme is **The World of Animals**.
+It's on **VTV2**.
+It is broadcasted every Friday evening.
+This programme provides me many interesting knowledge about animals - their names, their life...
+I like watching it because **I love animals and want to know more about their life**.
 </dialogue>
+
+<translation>
+Chương trình TV yêu thích của tôi là **Thế giới Động vật**.
+Nó chiếu trên **VTV2**.
+Nó được phát sóng vào tối thứ Sáu hàng tuần.
+Chương trình này cung cấp cho tôi nhiều kiến thức thú vị về động vật - tên của chúng, cuộc sống của chúng...
+Tôi thích xem nó vì **tôi yêu động vật và muốn biết thêm về cuộc sống của chúng**.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_94948c4b.mp3">
 Bài mẫu 1: <eng>The World of Animals</eng>. Tên: <eng>My favourite TV programme is The World of Animals</eng>.
@@ -543,13 +564,18 @@ Lý do: <eng>I love animals and want to know more about their life</eng>.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| My favourite programme is **Tom and Jerry**. | Chương trình yêu thích của tôi là **Tom và Jerry**. |
-| It's on **Cartoon Network**. | Nó chiếu trên **Cartoon Network**. |
-| The cartoon series is about funny tricks between a mouse Jerry and a cat Tom. | Bộ phim hoạt hình nói về những trò trêu chọc hài hước giữa chú chuột Jerry và chú mèo Tom. |
-| I like it because **it makes me laugh a lot and the characters are really cute**. | Tôi thích nó vì **nó làm cho tôi cười rất nhiều và các nhân vật thực sự rất dễ thương**. |
+My favourite programme is **Tom and Jerry**.
+It's on **Cartoon Network**.
+The cartoon series is about funny tricks between a mouse Jerry and a cat Tom.
+I like it because **it makes me laugh a lot and the characters are really cute**.
 </dialogue>
+
+<translation>
+Chương trình yêu thích của tôi là **Tom và Jerry**.
+Nó chiếu trên **Cartoon Network**.
+Bộ phim hoạt hình nói về những trò trêu chọc hài hước giữa chú chuột Jerry và chú mèo Tom.
+Tôi thích nó vì **nó làm cho tôi cười rất nhiều và các nhân vật thực sự rất dễ thương**.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_ba04e204.mp3">
 Bài mẫu 2: <eng>Tom and Jerry</eng>. Tên: <eng>My favourite programme is Tom and Jerry</eng>.

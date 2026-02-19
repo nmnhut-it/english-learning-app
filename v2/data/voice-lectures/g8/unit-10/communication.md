@@ -37,22 +37,28 @@ Bài 1. <eng>Listen and read the conversations below. Pay attention to the highl
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mark:** Now, about the video conference ... Everyone must be here at 9:30 a.m., and ... | **Mark:** Nào, về cuộc họp trực tuyến ... Mọi người phải có mặt lúc 9:30 sáng, và ... |
-| **Trang:** Sorry for interrupting, but I think we should meet at 9:00 a.m. We need to test the devices. | **Trang:** Xin lỗi vì ngắt lời, nhưng em nghĩ mình nên gặp lúc 9:00 sáng. Mình cần kiểm tra thiết bị. |
+**Mark:** Now, about the video conference ... Everyone must be here at 9:30 a.m., and ...
+**Trang:** Sorry for interrupting, but I think we should meet at 9:00 a.m. We need to test the devices.
 </dialogue>
+
+<translation>
+**Mark:** Nào, về cuộc họp trực tuyến ... Mọi người phải có mặt lúc 9:30 sáng, và ...
+**Trang:** Xin lỗi vì ngắt lời, nhưng em nghĩ mình nên gặp lúc 9:00 sáng. Mình cần kiểm tra thiết bị.
+</translation>
 
 <teacher_script pause="0">
 Trang dùng câu "<eng>Sorry for interrupting, but...</eng>" — xin lỗi vì ngắt lời, nhưng... Đây là cách ngắt lời lịch sự nhất đó nha. Giờ đọc hội thoại 2.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nick:** This webcam is easy to handle. You click these buttons to move it up or down and these to ... | **Nick:** Cái webcam này dễ dùng lắm. Bạn bấm mấy nút này để di chuyển lên xuống và mấy nút này để ... |
-| **Lan:** Hold on. Can you repeat that, please? | **Lan:** Chờ chút. Bạn nhắc lại được không? |
+**Nick:** This webcam is easy to handle. You click these buttons to move it up or down and these to ...
+**Lan:** Hold on. Can you repeat that, please?
 </dialogue>
+
+<translation>
+**Nick:** Cái webcam này dễ dùng lắm. Bạn bấm mấy nút này để di chuyển lên xuống và mấy nút này để ...
+**Lan:** Chờ chút. Bạn nhắc lại được không?
+</translation>
 
 <teacher_script pause="30">
 Lan dùng "<eng>Hold on. Can you repeat that, please?</eng>" — chờ chút, nhắc lại được không? Đây là cách ngắt lời khi mình không nghe kịp hoặc không hiểu. Hai câu quan trọng nha: "<eng>Sorry for interrupting, but...</eng>" và "<eng>Hold on. Can you repeat that, please?</eng>". 30 giây đọc lại 2 hội thoại đi.

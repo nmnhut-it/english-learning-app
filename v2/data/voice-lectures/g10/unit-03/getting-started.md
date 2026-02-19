@@ -32,18 +32,28 @@ Giờ nghe và đọc hội thoại giữa Mai và Ann nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mai:** That pop singer looks great, Ann! | **Mai:** Ca sĩ nhạc pop đó trông tuyệt, Ann! |
-| **Ann:** Yeah. He's a popular teen idol around the world now. | **Ann:** Ừ. Anh ấy là thần tượng tuổi teen nổi tiếng khắp thế giới. |
-| **Mai:** Really? You must be a fan of his! | **Mai:** Thật không? Bạn hẳn là fan hâm mộ! |
-| **Ann:** Yep, I really love his music. He's a talented artist who can write music and play many musical instruments. He has received several awards such as Grammy, Billboard Music and Teen Choice Awards. | **Ann:** Đúng vậy, tôi rất yêu nhạc anh ấy. Anh ấy là nghệ sĩ tài năng có thể viết nhạc và chơi nhiều nhạc cụ. Anh ấy đã nhận nhiều giải thưởng như Grammy, Billboard Music và Teen Choice Awards. |
-| **Mai:** Wow! Did he go to a music school? | **Mai:** Chà! Anh ấy có học trường nhạc không? |
-| **Ann:** No, he didn't, but he learnt to play the piano, drums, guitar, and trumpet by himself. When he was a teenager, he performed at the local theatre in his home town during the tourist season. | **Ann:** Không, nhưng anh ấy tự học chơi piano, trống, guitar và kèn. Khi còn thiếu niên, anh biểu diễn ở nhà hát địa phương vào mùa du lịch. |
-| **Mai:** How did he become famous? | **Mai:** Anh ấy nổi tiếng bằng cách nào? |
-| **Ann:** Well, when he was 12, his mother started to upload his cover song videos on social media, and the videos made him an online star within a couple of months. | **Ann:** Khi anh ấy 12 tuổi, mẹ bắt đầu đăng video cover lên mạng xã hội, và video đã đưa anh thành ngôi sao trực tuyến trong vài tháng. |
-| **Ann:** And his videos have reached more than two billion total views. Many fans say that his beautiful songs have helped bring more love into their lives. | **Ann:** Và video đã đạt hơn hai tỷ lượt xem. Nhiều fan nói rằng những bài hát hay đã mang thêm tình yêu vào cuộc sống họ. |
+**Mai:** That pop singer looks great, Ann!
+**Ann:** Yeah. He's a popular teen idol around the world now.
+**Mai:** Really? You must be a fan of his!
+**Ann:** Yep, I really love his music. He's a talented artist who can write music and play many musical instruments. He has received several awards such as Grammy, Billboard Music and Teen Choice Awards.
+**Mai:** Wow! Did he go to a music school?
+**Ann:** No, he didn't, but he learnt to play the piano, drums, guitar, and trumpet by himself. When he was a teenager, he performed at the local theatre in his home town during the tourist season.
+**Mai:** How did he become famous?
+**Ann:** Well, when he was 12, his mother started to upload his cover song videos on social media, and the videos made him an online star within a couple of months.
+**Ann:** And his videos have reached more than two billion total views. Many fans say that his beautiful songs have helped bring more love into their lives.
 </dialogue>
+
+<translation>
+**Mai:** Ca sĩ nhạc pop đó trông tuyệt, Ann!
+**Ann:** Ừ. Anh ấy là thần tượng tuổi teen nổi tiếng khắp thế giới.
+**Mai:** Thật không? Bạn hẳn là fan hâm mộ!
+**Ann:** Đúng vậy, tôi rất yêu nhạc anh ấy. Anh ấy là nghệ sĩ tài năng có thể viết nhạc và chơi nhiều nhạc cụ. Anh ấy đã nhận nhiều giải thưởng như Grammy, Billboard Music và Teen Choice Awards.
+**Mai:** Chà! Anh ấy có học trường nhạc không?
+**Ann:** Không, nhưng anh ấy tự học chơi piano, trống, guitar và kèn. Khi còn thiếu niên, anh biểu diễn ở nhà hát địa phương vào mùa du lịch.
+**Mai:** Anh ấy nổi tiếng bằng cách nào?
+**Ann:** Khi anh ấy 12 tuổi, mẹ bắt đầu đăng video cover lên mạng xã hội, và video đã đưa anh thành ngôi sao trực tuyến trong vài tháng.
+**Ann:** Và video đã đạt hơn hai tỷ lượt xem. Nhiều fan nói rằng những bài hát hay đã mang thêm tình yêu vào cuộc sống họ.
+</translation>
 
 <teacher_script pause="180">
 Đọc hội thoại và dịch vô vở nha. 3 phút.

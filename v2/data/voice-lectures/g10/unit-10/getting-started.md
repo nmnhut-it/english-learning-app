@@ -32,21 +32,34 @@ Bài 1, nghe và đọc hội thoại giữa cô Hoa và học sinh về chuyế
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Ms Hoa:** Listen, everyone! This year, we're going on a fieldtrip to Phong Nha Cave, a tourist attraction in Quang Binh Province. | **Cô Hoa:** Mọi người nghe này! Năm nay, chúng ta sẽ đi thực tế ở Động Phong Nha, một điểm du lịch ở tỉnh Quảng Bình. |
-| **Class:** Hooray! | **Cả lớp:** Hoan hô! |
-| **Nam:** I hope I can find some small pieces of stalactites. If I add some to my rock collection, it will be the best at school. | **Nam:** Em hy vọng tìm được vài mảnh thạch nhũ. Nếu em thêm vào bộ sưu tập đá, nó sẽ là bộ sưu tập tuyệt nhất trường. |
-| **Mai:** I'll buy a lot of snacks to share. We'll have fun! | **Mai:** Em sẽ mua nhiều đồ ăn vặt để chia sẻ. Chúng ta sẽ vui lắm! |
-| **Ms Hoa:** We will have fun, but in a different way. This time, the fieldtrip is going to be eco-friendly. | **Cô Hoa:** Chúng ta sẽ vui, nhưng theo cách khác. Lần này, chuyến đi sẽ thân thiện với môi trường. |
-| **Nam:** Ms Hoa, what's an eco-friendly fieldtrip? | **Nam:** Cô Hoa ơi, chuyến dã ngoại thân thiện với môi trường là gì ạ? |
-| **Ms Hoa:** Going on an eco-friendly fieldtrip means we'll enjoy, explore and learn about the place, but in a way that will not damage it. So, Nam, I'm afraid you can't take any stalactites because it takes hundreds or sometimes thousands of years for them to form. | **Cô Hoa:** Đi dã ngoại thân thiện với môi trường nghĩa là chúng ta sẽ tận hưởng, khám phá và tìm hiểu, nhưng theo cách không làm hư hại nó. Vậy Nam, em không thể lấy thạch nhũ vì chúng mất hàng trăm hoặc hàng ngàn năm để hình thành. |
-| **Nam:** Wow! I didn't know that. I won't even touch them, I promise. | **Nam:** Chà! Em không biết điều đó. Em sẽ không chạm vào chúng, em hứa. |
-| **Mai:** But can we bring snacks? | **Mai:** Nhưng chúng ta có thể mang đồ ăn vặt không ạ? |
-| **Ms Hoa:** Yes, but if I were you, I wouldn't bring too many snacks. We don't want to leave litter behind and damage the environment. | **Cô Hoa:** Được, nhưng nếu cô là em, cô sẽ không mang quá nhiều đồ ăn vặt. Chúng ta không muốn xả rác và hủy hoại môi trường. |
-| **Mai:** I agree. I'll also try to bring snacks with less packaging. | **Mai:** Em đồng ý. Em cũng sẽ cố gắng mang đồ ăn vặt với ít bao bì hơn. |
-| **Ms Hoa:** That's a good idea. Let's hope our fieldtrip will be a fun educational experience for everyone. | **Cô Hoa:** Ý hay đấy. Hy vọng chuyến đi sẽ là trải nghiệm giáo dục thú vị cho mọi người. |
+**Ms Hoa:** Listen, everyone! This year, we're going on a fieldtrip to Phong Nha Cave, a tourist attraction in Quang Binh Province.
+**Class:** Hooray!
+**Nam:** I hope I can find some small pieces of stalactites. If I add some to my rock collection, it will be the best at school.
+**Mai:** I'll buy a lot of snacks to share. We'll have fun!
+**Ms Hoa:** We will have fun, but in a different way. This time, the fieldtrip is going to be eco-friendly.
+**Nam:** Ms Hoa, what's an eco-friendly fieldtrip?
+**Ms Hoa:** Going on an eco-friendly fieldtrip means we'll enjoy, explore and learn about the place, but in a way that will not damage it. So, Nam, I'm afraid you can't take any stalactites because it takes hundreds or sometimes thousands of years for them to form.
+**Nam:** Wow! I didn't know that. I won't even touch them, I promise.
+**Mai:** But can we bring snacks?
+**Ms Hoa:** Yes, but if I were you, I wouldn't bring too many snacks. We don't want to leave litter behind and damage the environment.
+**Mai:** I agree. I'll also try to bring snacks with less packaging.
+**Ms Hoa:** That's a good idea. Let's hope our fieldtrip will be a fun educational experience for everyone.
 </dialogue>
+
+<translation>
+**Cô Hoa:** Mọi người nghe này! Năm nay, chúng ta sẽ đi thực tế ở Động Phong Nha, một điểm du lịch ở tỉnh Quảng Bình.
+**Cả lớp:** Hoan hô!
+**Nam:** Em hy vọng tìm được vài mảnh thạch nhũ. Nếu em thêm vào bộ sưu tập đá, nó sẽ là bộ sưu tập tuyệt nhất trường.
+**Mai:** Em sẽ mua nhiều đồ ăn vặt để chia sẻ. Chúng ta sẽ vui lắm!
+**Cô Hoa:** Chúng ta sẽ vui, nhưng theo cách khác. Lần này, chuyến đi sẽ thân thiện với môi trường.
+**Nam:** Cô Hoa ơi, chuyến dã ngoại thân thiện với môi trường là gì ạ?
+**Cô Hoa:** Đi dã ngoại thân thiện với môi trường nghĩa là chúng ta sẽ tận hưởng, khám phá và tìm hiểu, nhưng theo cách không làm hư hại nó. Vậy Nam, em không thể lấy thạch nhũ vì chúng mất hàng trăm hoặc hàng ngàn năm để hình thành.
+**Nam:** Chà! Em không biết điều đó. Em sẽ không chạm vào chúng, em hứa.
+**Mai:** Nhưng chúng ta có thể mang đồ ăn vặt không ạ?
+**Cô Hoa:** Được, nhưng nếu cô là em, cô sẽ không mang quá nhiều đồ ăn vặt. Chúng ta không muốn xả rác và hủy hoại môi trường.
+**Mai:** Em đồng ý. Em cũng sẽ cố gắng mang đồ ăn vặt với ít bao bì hơn.
+**Cô Hoa:** Ý hay đấy. Hy vọng chuyến đi sẽ là trải nghiệm giáo dục thú vị cho mọi người.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở. 3 phút.

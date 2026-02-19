@@ -52,18 +52,28 @@ Ba cách đó tự nhiên và lịch sự lắm nha. "I can... if you like" nghe
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Lan:** Excuse me, could you help me? I'm looking for the post office. | **Lan:** Xin lỗi, bạn có thể giúp mình không? Mình đang tìm bưu điện. |
-| **Tom:** Of course! I can take you there if you like — it's just two blocks away. | **Tom:** Tất nhiên rồi! Mình có thể đưa bạn đến đó nếu bạn muốn — chỉ cách hai dãy nhà thôi. |
-| **Lan:** That's very kind! But first, do you know the bus schedule from here? | **Lan:** Bạn thật tốt bụng! Nhưng trước tiên, bạn có biết lịch xe buýt từ đây không? |
-| **Tom:** Would you like me to check Google Maps for you? | **Tom:** Bạn có muốn mình kiểm tra trên Google Maps không? |
-| **Lan:** Yes, please! | **Lan:** Vâng, cảm ơn bạn! |
-| **Tom:** The Number 36 bus arrives at 3pm. It runs every 15 minutes on average. | **Tom:** Xe buýt số 36 đến lúc 3 giờ chiều. Trung bình cứ 15 phút có một chuyến. |
-| **Lan:** Great! We still have 20 minutes. Could we hang out at the café while we wait? | **Lan:** Tuyệt! Mình còn 20 phút. Mình có thể ra quán cà phê chờ không? |
-| **Tom:** Sure! Shall I show you a nice one nearby? | **Tom:** Được chứ! Để mình chỉ cho bạn một quán gần đây nhé? |
-| **Lan:** That would be great! Thank you so much, Tom! | **Lan:** Vậy thì tuyệt lắm! Cảm ơn bạn nhiều lắm, Tom! |
+**Lan:** Excuse me, could you help me? I'm looking for the post office.
+**Tom:** Of course! I can take you there if you like — it's just two blocks away.
+**Lan:** That's very kind! But first, do you know the bus schedule from here?
+**Tom:** Would you like me to check Google Maps for you?
+**Lan:** Yes, please!
+**Tom:** The Number 36 bus arrives at 3pm. It runs every 15 minutes on average.
+**Lan:** Great! We still have 20 minutes. Could we hang out at the café while we wait?
+**Tom:** Sure! Shall I show you a nice one nearby?
+**Lan:** That would be great! Thank you so much, Tom!
 </dialogue>
+
+<translation>
+**Lan:** Xin lỗi, bạn có thể giúp mình không? Mình đang tìm bưu điện.
+**Tom:** Tất nhiên rồi! Mình có thể đưa bạn đến đó nếu bạn muốn — chỉ cách hai dãy nhà thôi.
+**Lan:** Bạn thật tốt bụng! Nhưng trước tiên, bạn có biết lịch xe buýt từ đây không?
+**Tom:** Bạn có muốn mình kiểm tra trên Google Maps không?
+**Lan:** Vâng, cảm ơn bạn!
+**Tom:** Xe buýt số 36 đến lúc 3 giờ chiều. Trung bình cứ 15 phút có một chuyến.
+**Lan:** Tuyệt! Mình còn 20 phút. Mình có thể ra quán cà phê chờ không?
+**Tom:** Được chứ! Để mình chỉ cho bạn một quán gần đây nhé?
+**Lan:** Vậy thì tuyệt lắm! Cảm ơn bạn nhiều lắm, Tom!
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Chú ý các câu <eng>Offering help</eng> trong đó: "I can take you there if you like", "Would you like me to check", "Shall I show you". Ba phút.

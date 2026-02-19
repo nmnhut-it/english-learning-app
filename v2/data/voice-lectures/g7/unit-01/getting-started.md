@@ -29,19 +29,30 @@ Ok từ vựng xong rồi. Giờ mình qua hội thoại nha. Bài 1 trang 6 —
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Ann:** Wow, this is amazing! Did you make it yourself? | **Ann:** Ồ, cái này hay quá! Bạn tự làm à? |
-| **Trang:** Yes, I did. It's my hobby — building dollhouses. | **Trang:** Ừ, mình tự làm. Đó là sở thích của mình — làm nhà búp bê. |
-| **Ann:** That's so cool! How do you make them? | **Ann:** Hay ghê! Bạn làm bằng gì vậy? |
-| **Trang:** I use cardboard, glue, and a bit of creativity. | **Trang:** Mình dùng bìa cứng, keo, và một chút sáng tạo. |
-| **Ann:** How long does it take? | **Ann:** Mất bao lâu vậy? |
-| **Trang:** About a week for each one. What about you, Ann? Do you have a hobby? | **Trang:** Khoảng một tuần cho mỗi cái. Còn bạn Ann? Bạn có sở thích gì không? |
-| **Ann:** Yes! I love horse riding. I go every Sunday. | **Ann:** Có chứ! Mình thích cưỡi ngựa lắm. Tuần nào mình cũng đi. |
-| **Trang:** Really? When is your lesson? | **Trang:** Thật không? Bạn học lúc mấy giờ? |
-| **Ann:** At eight in the morning. It's a bit early but I really enjoy it! | **Ann:** Tám giờ sáng. Hơi sớm nhưng mình rất thích! |
-| **Trang:** That sounds great! Maybe I can come and watch one day. | **Trang:** Nghe hay đó! Có ngày mình tới xem nha. |
+**Ann:** Wow, this is amazing! Did you make it yourself?
+**Trang:** Yes, I did. It's my hobby — building dollhouses.
+**Ann:** That's so cool! How do you make them?
+**Trang:** I use cardboard, glue, and a bit of creativity.
+**Ann:** How long does it take?
+**Trang:** About a week for each one. What about you, Ann? Do you have a hobby?
+**Ann:** Yes! I love horse riding. I go every Sunday.
+**Trang:** Really? When is your lesson?
+**Ann:** At eight in the morning. It's a bit early but I really enjoy it!
+**Trang:** That sounds great! Maybe I can come and watch one day.
 </dialogue>
+
+<translation>
+**Ann:** Ồ, cái này hay quá! Bạn tự làm à?
+**Trang:** Ừ, mình tự làm. Đó là sở thích của mình — làm nhà búp bê.
+**Ann:** Hay ghê! Bạn làm bằng gì vậy?
+**Trang:** Mình dùng bìa cứng, keo, và một chút sáng tạo.
+**Ann:** Mất bao lâu vậy?
+**Trang:** Khoảng một tuần cho mỗi cái. Còn bạn Ann? Bạn có sở thích gì không?
+**Ann:** Có chứ! Mình thích cưỡi ngựa lắm. Tuần nào mình cũng đi.
+**Trang:** Thật không? Bạn học lúc mấy giờ?
+**Ann:** Tám giờ sáng. Hơi sớm nhưng mình rất thích!
+**Trang:** Nghe hay đó! Có ngày mình tới xem nha.
+</translation>
 
 <teacher_script pause="180">
 Ok, dịch hội thoại vô tập nha. Mình cho 3 phút. Dịch xong thì bấm tiếp.

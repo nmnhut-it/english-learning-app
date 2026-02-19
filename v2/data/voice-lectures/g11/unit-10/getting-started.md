@@ -30,18 +30,28 @@ Bài 1, nghe và đọc hội thoại giữa cô Hoa, Nam và Mai nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Ms Hoa:** Nam, you went to Cuc Phuong National Park last weekend, didn't you? | **Cô Hoa:** Nam, cuối tuần trước em đã đến Vườn quốc gia Cúc Phương phải không? |
-| **Nam:** Yes, that's right. It was an amazing trip. This old forest is home to thousands of different kinds of plants, insects, and animals. I really liked the colourful butterflies and the thousand-year-old tree. | **Nam:** Vâng, đúng ạ. Chuyến đi tuyệt vời. Khu rừng già này là nơi sinh sống của hàng nghìn loại thực vật, côn trùng và động vật. Em thực sự thích những con bướm đầy màu sắc và cây cổ thụ hàng nghìn năm tuổi. |
-| **Ms Hoa:** Yes, Cuc Phuong National Park has a very rich ecosystem. | **Cô Hoa:** Đúng vậy, Cúc Phương có hệ sinh thái rất phong phú. |
-| **Mai:** What's an ecosystem, Ms Hoa? | **Mai:** Hệ sinh thái là gì ạ, cô Hoa? |
-| **Ms Hoa:** It's a community that has living things, like flora and fauna. Flora refers to plants and fauna refers to animals, including tiny organisms, like bacteria. Ecosystems also include non-living things, like sunlight, air, soil, and water. | **Cô Hoa:** Đó là cộng đồng gồm sinh vật sống, như hệ thực vật và động vật. Flora là thực vật, fauna là động vật, gồm cả sinh vật nhỏ như vi khuẩn. Hệ sinh thái còn gồm vật không sống: ánh sáng, không khí, đất, nước. |
-| **Nam:** How important are ecosystems to life on our planet, Ms Hoa? | **Nam:** Hệ sinh thái quan trọng thế nào thưa cô? |
-| **Ms Hoa:** Healthy ecosystems are essential for human health and survival because they provide us with goods such as food, energy, raw materials, clean water, and air. | **Cô Hoa:** Hệ sinh thái lành mạnh rất cần thiết cho sức khỏe và sự sống con người vì cung cấp thực phẩm, năng lượng, nguyên liệu thô, nước sạch và không khí. |
-| **Mai:** So we should protect our ecosystems, shouldn't we? | **Mai:** Vậy chúng ta nên bảo vệ hệ sinh thái phải không ạ? |
-| **Ms Hoa:** That's right. Unfortunately, many ecosystems around the world are being lost, damaged, or destroyed because of climate change, pollution, and overuse of natural resources. It's very important to protect and restore them for future generations. We don't want our planet to lose even more biodiversity, do we? | **Cô Hoa:** Đúng vậy. Đáng tiếc, nhiều hệ sinh thái trên khắp thế giới đang bị mất, hư hại hoặc phá hủy do biến đổi khí hậu, ô nhiễm và khai thác quá mức tài nguyên. Điều rất quan trọng là bảo vệ và khôi phục chúng cho các thế hệ tương lai. Chúng ta không muốn hành tinh mất đi sự đa dạng sinh học nhiều hơn, phải không? |
+**Ms Hoa:** Nam, you went to Cuc Phuong National Park last weekend, didn't you?
+**Nam:** Yes, that's right. It was an amazing trip. This old forest is home to thousands of different kinds of plants, insects, and animals. I really liked the colourful butterflies and the thousand-year-old tree.
+**Ms Hoa:** Yes, Cuc Phuong National Park has a very rich ecosystem.
+**Mai:** What's an ecosystem, Ms Hoa?
+**Ms Hoa:** It's a community that has living things, like flora and fauna. Flora refers to plants and fauna refers to animals, including tiny organisms, like bacteria. Ecosystems also include non-living things, like sunlight, air, soil, and water.
+**Nam:** How important are ecosystems to life on our planet, Ms Hoa?
+**Ms Hoa:** Healthy ecosystems are essential for human health and survival because they provide us with goods such as food, energy, raw materials, clean water, and air.
+**Mai:** So we should protect our ecosystems, shouldn't we?
+**Ms Hoa:** That's right. Unfortunately, many ecosystems around the world are being lost, damaged, or destroyed because of climate change, pollution, and overuse of natural resources. It's very important to protect and restore them for future generations. We don't want our planet to lose even more biodiversity, do we?
 </dialogue>
+
+<translation>
+**Cô Hoa:** Nam, cuối tuần trước em đã đến Vườn quốc gia Cúc Phương phải không?
+**Nam:** Vâng, đúng ạ. Chuyến đi tuyệt vời. Khu rừng già này là nơi sinh sống của hàng nghìn loại thực vật, côn trùng và động vật. Em thực sự thích những con bướm đầy màu sắc và cây cổ thụ hàng nghìn năm tuổi.
+**Cô Hoa:** Đúng vậy, Cúc Phương có hệ sinh thái rất phong phú.
+**Mai:** Hệ sinh thái là gì ạ, cô Hoa?
+**Cô Hoa:** Đó là cộng đồng gồm sinh vật sống, như hệ thực vật và động vật. Flora là thực vật, fauna là động vật, gồm cả sinh vật nhỏ như vi khuẩn. Hệ sinh thái còn gồm vật không sống: ánh sáng, không khí, đất, nước.
+**Nam:** Hệ sinh thái quan trọng thế nào thưa cô?
+**Cô Hoa:** Hệ sinh thái lành mạnh rất cần thiết cho sức khỏe và sự sống con người vì cung cấp thực phẩm, năng lượng, nguyên liệu thô, nước sạch và không khí.
+**Mai:** Vậy chúng ta nên bảo vệ hệ sinh thái phải không ạ?
+**Cô Hoa:** Đúng vậy. Đáng tiếc, nhiều hệ sinh thái trên khắp thế giới đang bị mất, hư hại hoặc phá hủy do biến đổi khí hậu, ô nhiễm và khai thác quá mức tài nguyên. Điều rất quan trọng là bảo vệ và khôi phục chúng cho các thế hệ tương lai. Chúng ta không muốn hành tinh mất đi sự đa dạng sinh học nhiều hơn, phải không?
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở. 3 phút nha.

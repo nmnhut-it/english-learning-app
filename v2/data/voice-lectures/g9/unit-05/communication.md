@@ -66,13 +66,18 @@ Hội thoại 1 — An đến muộn cho dự án nhóm và xin lỗi Tom nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **An:** Tom, I'm really sorry for being late. I missed the bus and couldn't find a taxi. | **An:** Tom ơi, mình thực sự xin lỗi vì đến muộn. Mình lỡ xe buýt và không tìm được taxi. |
-| **Tom:** It's fine — these things happen. But next time, please let me know in advance. | **Tom:** Không sao — chuyện đó vẫn xảy ra. Nhưng lần sau, báo cho mình biết trước nha. |
-| **An:** Of course. I promise I will. I'll also make it up to you by finishing the summary for our project. | **An:** Tất nhiên rồi. Mình hứa sẽ vậy. Mình cũng sẽ bù đắp bằng cách hoàn thành phần tóm tắt cho dự án của chúng mình. |
-| **Tom:** That's great! Thanks, An. | **Tom:** Hay đó! Cảm ơn An nha. |
+**An:** Tom, I'm really sorry for being late. I missed the bus and couldn't find a taxi.
+**Tom:** It's fine — these things happen. But next time, please let me know in advance.
+**An:** Of course. I promise I will. I'll also make it up to you by finishing the summary for our project.
+**Tom:** That's great! Thanks, An.
 </dialogue>
+
+<translation>
+**An:** Tom ơi, mình thực sự xin lỗi vì đến muộn. Mình lỡ xe buýt và không tìm được taxi.
+**Tom:** Không sao — chuyện đó vẫn xảy ra. Nhưng lần sau, báo cho mình biết trước nha.
+**An:** Tất nhiên rồi. Mình hứa sẽ vậy. Mình cũng sẽ bù đắp bằng cách hoàn thành phần tóm tắt cho dự án của chúng mình.
+**Tom:** Hay đó! Cảm ơn An nha.
+</translation>
 
 <teacher_script pause="0">
 Xong hội thoại 1. Giờ xem hội thoại 2 nha — Mi xin lỗi vì về nhà muộn.
@@ -80,14 +85,20 @@ Xong hội thoại 1. Giờ xem hội thoại 2 nha — Mi xin lỗi vì về nh
 
 <!-- chunk: dialogue-2 -->
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mi:** Phong, I apologise for staying out past 9pm last night. I should have called you earlier. | **Mi:** Phong ơi, mình xin lỗi vì ở ngoài sau 9 giờ tối hôm qua. Mình đáng lẽ phải gọi cho bạn sớm hơn. |
-| **Phong:** Don't worry — I'm not angry. But our parents were really worried. It wasn't fair on them. | **Phong:** Đừng lo — mình không tức đâu. Nhưng ba mẹ bọn mình lo lắm đó. Như vậy không công bằng với họ. |
-| **Mi:** You're right, I'm really sorry. I promise I'll always be home on time from now on. | **Mi:** Bạn nói đúng, mình thực sự xin lỗi. Mình hứa từ nay trở đi sẽ luôn về nhà đúng giờ. |
-| **Phong:** That's all I needed to hear. Just don't let it happen again, okay? | **Phong:** Đó là tất cả những gì mình cần nghe. Chỉ cần đừng để điều đó xảy ra lần nữa, được không? |
-| **Mi:** I won't. I promise! | **Mi:** Mình sẽ không. Mình hứa! |
+**Mi:** Phong, I apologise for staying out past 9pm last night. I should have called you earlier.
+**Phong:** Don't worry — I'm not angry. But our parents were really worried. It wasn't fair on them.
+**Mi:** You're right, I'm really sorry. I promise I'll always be home on time from now on.
+**Phong:** That's all I needed to hear. Just don't let it happen again, okay?
+**Mi:** I won't. I promise!
 </dialogue>
+
+<translation>
+**Mi:** Phong ơi, mình xin lỗi vì ở ngoài sau 9 giờ tối hôm qua. Mình đáng lẽ phải gọi cho bạn sớm hơn.
+**Phong:** Đừng lo — mình không tức đâu. Nhưng ba mẹ bọn mình lo lắm đó. Như vậy không công bằng với họ.
+**Mi:** Bạn nói đúng, mình thực sự xin lỗi. Mình hứa từ nay trở đi sẽ luôn về nhà đúng giờ.
+**Phong:** Đó là tất cả những gì mình cần nghe. Chỉ cần đừng để điều đó xảy ra lần nữa, được không?
+**Mi:** Mình sẽ không. Mình hứa!
+</translation>
 
 <teacher_script pause="180">
 Dịch cả hai hội thoại vô vở nha. 3 phút.

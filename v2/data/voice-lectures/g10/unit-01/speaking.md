@@ -87,17 +87,26 @@ Bài 2 <eng>Work in pairs. Complete the conversation between Anna, Nam, and Minh
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Anna:** Nam, why do you think children should do housework? | **Anna:** Nam, tại sao bạn nghĩ trẻ em nên làm việc nhà? |
-| **Nam:** Because doing housework helps them develop life skills. | **Nam:** Vì làm việc nhà giúp các em phát triển kỹ năng sống. |
-| **Anna:** It's true. Life skills such as cooking, cleaning or taking care of others are really necessary for kids when they grow up. | **Anna:** Đúng vậy. Kỹ năng sống như nấu ăn, dọn dẹp hay chăm sóc người khác thực sự cần thiết khi lớn lên. |
-| **Nam:** Yes, we should all have these basic life skills to be adults. | **Nam:** Đúng, tất cả chúng ta nên có kỹ năng sống cơ bản này để trưởng thành. |
-| **Anna:** Now Minh, why do you think children shouldn't do housework? | **Anna:** Giờ Minh, tại sao bạn nghĩ trẻ em không nên làm việc nhà? |
-| **Minh:** I think kids are kids. They should be given plenty of playtime when they are young. | **Minh:** Mình nghĩ trẻ em là trẻ em. Các em nên được dành nhiều thời gian chơi khi còn nhỏ. |
-| **Nam:** I don't agree with you. I'm afraid too much playtime isn't good for children. | **Nam:** Mình không đồng ý. Mình e rằng chơi quá nhiều không tốt cho trẻ. |
-| **Anna:** Well, thank you both for sharing your ideas. They are very useful for my project. | **Anna:** Cảm ơn cả hai đã chia sẻ ý kiến. Rất hữu ích cho dự án của mình. |
+**Anna:** Nam, why do you think children should do housework?
+**Nam:** Because doing housework helps them develop life skills.
+**Anna:** It's true. Life skills such as cooking, cleaning or taking care of others are really necessary for kids when they grow up.
+**Nam:** Yes, we should all have these basic life skills to be adults.
+**Anna:** Now Minh, why do you think children shouldn't do housework?
+**Minh:** I think kids are kids. They should be given plenty of playtime when they are young.
+**Nam:** I don't agree with you. I'm afraid too much playtime isn't good for children.
+**Anna:** Well, thank you both for sharing your ideas. They are very useful for my project.
 </dialogue>
+
+<translation>
+**Anna:** Nam, tại sao bạn nghĩ trẻ em nên làm việc nhà?
+**Nam:** Vì làm việc nhà giúp các em phát triển kỹ năng sống.
+**Anna:** Đúng vậy. Kỹ năng sống như nấu ăn, dọn dẹp hay chăm sóc người khác thực sự cần thiết khi lớn lên.
+**Nam:** Đúng, tất cả chúng ta nên có kỹ năng sống cơ bản này để trưởng thành.
+**Anna:** Giờ Minh, tại sao bạn nghĩ trẻ em không nên làm việc nhà?
+**Minh:** Mình nghĩ trẻ em là trẻ em. Các em nên được dành nhiều thời gian chơi khi còn nhỏ.
+**Nam:** Mình không đồng ý. Mình e rằng chơi quá nhiều không tốt cho trẻ.
+**Anna:** Cảm ơn cả hai đã chia sẻ ý kiến. Rất hữu ích cho dự án của mình.
+</translation>
 
 <answer>
 **Đáp án:**

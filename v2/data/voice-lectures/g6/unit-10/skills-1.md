@@ -272,11 +272,14 @@ Ví dụ nè:
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** What type of future house do you think it will be? | **A:** Bạn nghĩ kiểu nhà tương lai của bạn sẽ là gì? |
-| **B:** It'll be a palace. | **B:** Nó sẽ là một cung điện. |
+**A:** What type of future house do you think it will be?
+**B:** It'll be a palace.
 </dialogue>
+
+<translation>
+**A:** Bạn nghĩ kiểu nhà tương lai của bạn sẽ là gì?
+**B:** Nó sẽ là một cung điện.
+</translation>
 
 <teacher_script pause="0" action="record">
 Giờ các em hỏi đáp với bạn theo 5 câu hỏi gợi ý nha. Bấm nút ghi âm và nói câu trả lời của mình.
@@ -348,13 +351,18 @@ Ví dụ trong sách:
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| My future house will be a palace. | Ngôi nhà tương lai của tôi sẽ là một cung điện. |
-| It'll be on the Moon. | Nó sẽ ở trên Mặt trăng. |
-| There'll be a super smart TV in the house. | Sẽ có một chiếc TV siêu thông minh trong nhà. |
-| It'll help me to talk to my friends on other planets. | Nó sẽ giúp tôi nói chuyện với bạn bè của tôi trên các hành tinh khác. |
+My future house will be a palace.
+It'll be on the Moon.
+There'll be a super smart TV in the house.
+It'll help me to talk to my friends on other planets.
 </dialogue>
+
+<translation>
+Ngôi nhà tương lai của tôi sẽ là một cung điện.
+Nó sẽ ở trên Mặt trăng.
+Sẽ có một chiếc TV siêu thông minh trong nhà.
+Nó sẽ giúp tôi nói chuyện với bạn bè của tôi trên các hành tinh khác.
+</translation>
 
 <teacher_script pause="0" action="record">
 Giờ các em nói về ngôi nhà tương lai của mình nha. Bấm nút ghi âm và nói.

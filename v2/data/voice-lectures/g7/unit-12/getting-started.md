@@ -39,25 +39,42 @@ Bài 1 <eng>Listen and read</eng> nha. Phong và Mark đang nói chuyện về k
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mark:** How was your holiday in Australia, Phong? | **Mark:** Kỳ nghỉ ở Úc của bạn thế nào, Phong? |
-| **Phong:** It was fantastic! I got to use my English in real life: asking for directions, reading maps, talking to local people.. | **Phong:** Thật tuyệt vời! Tôi phải sử dụng tiếng Anh của mình trong ngoài đời: hỏi đường, đọc bản đồ, nói chuyện với người dân địa phương.. |
-| **Mark:** Oh...Your English is much better. | **Mark:** Ồ... Tiếng Anh của bạn tốt hơn nhiều. |
-| **Phong:** Thanks. | **Phong:** Cảm ơn. |
-| **Mark:** Did you travel a lot? | **Mark:** Bạn có đi du lịch nhiều không? |
-| **Phong:** Just around Melbourne, the city with four seasons in a day. | **Phong:** Chỉ quanh Melbourne, thành phố có bốn mùa trong ngày. |
-| **Mark:** Wow ... I didn't know that. How was it? | **Mark:** Wow... Tôi không biết điều đó. Nó thế nào? |
-| **Phong:** It was great! We took a tour to Phillip Island. | **Phong:** Thật tuyệt vời! Chúng tôi đã có một chuyến tham quan đến Đảo Phillip. |
-| **Mark:** What did you see? | **Mark:** Bạn đã thấy gì? |
-| **Phong:** We went penguin watching. | **Phong:** Chúng tôi đi xem chim cánh cụt. |
-| **Mark:** It sounds pretty exciting. | **Mark:** Nghe có vẻ khá thú vị. |
-| **Phong:** It was. Australia has amazing landscapes. | **Phong:** Đúng vậy. Úc có những cảnh quan tuyệt vời. |
-| **Mark:** Yes, and Australians love outdoor activities. | **Mark:** Đúng vậy, và người Úc thích các hoạt động ngoài trời. |
-| **Phong:** Right. There were plenty of people enjoying the parks and beaches. | **Phong:** Chính xác. Có rất nhiều người vui chơi ở các công viên và bãi biển. |
-| **Mark:** I'm glad that you had a wonderful time there. | **Mark:** Tôi rất vui vì bạn đã có một khoảng thời gian tuyệt vời ở đó. |
-| **Phong:** Thanks, Mark. | **Phong:** Cảm ơn Mark. |
+**Mark:** How was your holiday in Australia, Phong?
+**Phong:** It was fantastic! I got to use my English in real life: asking for directions, reading maps, talking to local people..
+**Mark:** Oh...Your English is much better.
+**Phong:** Thanks.
+**Mark:** Did you travel a lot?
+**Phong:** Just around Melbourne, the city with four seasons in a day.
+**Mark:** Wow ... I didn't know that. How was it?
+**Phong:** It was great! We took a tour to Phillip Island.
+**Mark:** What did you see?
+**Phong:** We went penguin watching.
+**Mark:** It sounds pretty exciting.
+**Phong:** It was. Australia has amazing landscapes.
+**Mark:** Yes, and Australians love outdoor activities.
+**Phong:** Right. There were plenty of people enjoying the parks and beaches.
+**Mark:** I'm glad that you had a wonderful time there.
+**Phong:** Thanks, Mark.
 </dialogue>
+
+<translation>
+**Mark:** Kỳ nghỉ ở Úc của bạn thế nào, Phong?
+**Phong:** Thật tuyệt vời! Tôi phải sử dụng tiếng Anh của mình trong ngoài đời: hỏi đường, đọc bản đồ, nói chuyện với người dân địa phương..
+**Mark:** Ồ... Tiếng Anh của bạn tốt hơn nhiều.
+**Phong:** Cảm ơn.
+**Mark:** Bạn có đi du lịch nhiều không?
+**Phong:** Chỉ quanh Melbourne, thành phố có bốn mùa trong ngày.
+**Mark:** Wow... Tôi không biết điều đó. Nó thế nào?
+**Phong:** Thật tuyệt vời! Chúng tôi đã có một chuyến tham quan đến Đảo Phillip.
+**Mark:** Bạn đã thấy gì?
+**Phong:** Chúng tôi đi xem chim cánh cụt.
+**Mark:** Nghe có vẻ khá thú vị.
+**Phong:** Đúng vậy. Úc có những cảnh quan tuyệt vời.
+**Mark:** Đúng vậy, và người Úc thích các hoạt động ngoài trời.
+**Phong:** Chính xác. Có rất nhiều người vui chơi ở các công viên và bãi biển.
+**Mark:** Tôi rất vui vì bạn đã có một khoảng thời gian tuyệt vời ở đó.
+**Phong:** Cảm ơn Mark.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

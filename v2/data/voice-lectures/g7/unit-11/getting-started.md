@@ -40,23 +40,38 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc hội thoại giữa Minh
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Minh:** Oh, another traffic jam. | **Minh:** Ôi, lại kẹt xe nữa. |
-| **Ann:** How will we get to the campsite on time now? | **Ann:** Làm thế nào chúng ta sẽ đến khu cắm trại đúng giờ? |
-| **Minh:** I don't know. It's a pity that we don't have a hyperloop now! | **Minh:** Tôi không biết. Thật tiếc khi chúng ta không có tàu siêu tốc bây giờ! |
-| **Ann:** What's a hyperloop? | **Ann:** Tàu siêu tốc là gì? |
-| **Minh:** It's a system of tubes. You can go from one place to another in just minutes. | **Minh:** Đó là một hệ thống ống. Bạn có thể đi từ nơi này đến nơi khác chỉ trong vài phút. |
-| **Ann:** Amazing! Even faster than a flying car! | **Ann:** Thật tuyệt vời! Thậm chí còn nhanh hơn một chiếc ô tô bay! |
-| **Minh:** Yes, and there are no traffic jams. | **Minh:** Đúng vậy, và không có tắc đường. |
-| **Ann:** Will it pollute the environment? | **Ann:** Nó sẽ gây ô nhiễm môi trường phải không? |
-| **Minh:** No. There will be no fumes, and it's totally safe. | **Minh:** Không. Sẽ không có khói, và nó hoàn toàn an toàn. |
-| **Ann:** Like a teleporter? | **Ann:** Giống như một máy dịch chuyển tức thời nhỉ? |
-| **Minh:** A teleporter is also fast, safe and eco-friendly. But it's a different mode of travel. | **Minh:** Máy dịch chuyển tức thời cũng nhanh, an toàn và thân thiện với môi trường. Nhưng đó là một phương thức di chuyển khác. |
-| **Ann:** So when we travel in hyperloops, we won't have to worry about bad weather, right? | **Ann:** Vì vậy, khi chúng ta đi tàu siêu tốc, chúng ta sẽ không phải lo lắng về thời tiết xấu, phải không? |
-| **Minh:** Right. | **Minh:** Đúng. |
-| **Ann:** Sounds great! I hope we'll have them soon. | **Ann:** Nghe hay đấy! Tôi hy vọng chúng ta sẽ có chúng sớm. |
+**Minh:** Oh, another traffic jam.
+**Ann:** How will we get to the campsite on time now?
+**Minh:** I don't know. It's a pity that we don't have a hyperloop now!
+**Ann:** What's a hyperloop?
+**Minh:** It's a system of tubes. You can go from one place to another in just minutes.
+**Ann:** Amazing! Even faster than a flying car!
+**Minh:** Yes, and there are no traffic jams.
+**Ann:** Will it pollute the environment?
+**Minh:** No. There will be no fumes, and it's totally safe.
+**Ann:** Like a teleporter?
+**Minh:** A teleporter is also fast, safe and eco-friendly. But it's a different mode of travel.
+**Ann:** So when we travel in hyperloops, we won't have to worry about bad weather, right?
+**Minh:** Right.
+**Ann:** Sounds great! I hope we'll have them soon.
 </dialogue>
+
+<translation>
+**Minh:** Ôi, lại kẹt xe nữa.
+**Ann:** Làm thế nào chúng ta sẽ đến khu cắm trại đúng giờ?
+**Minh:** Tôi không biết. Thật tiếc khi chúng ta không có tàu siêu tốc bây giờ!
+**Ann:** Tàu siêu tốc là gì?
+**Minh:** Đó là một hệ thống ống. Bạn có thể đi từ nơi này đến nơi khác chỉ trong vài phút.
+**Ann:** Thật tuyệt vời! Thậm chí còn nhanh hơn một chiếc ô tô bay!
+**Minh:** Đúng vậy, và không có tắc đường.
+**Ann:** Nó sẽ gây ô nhiễm môi trường phải không?
+**Minh:** Không. Sẽ không có khói, và nó hoàn toàn an toàn.
+**Ann:** Giống như một máy dịch chuyển tức thời nhỉ?
+**Minh:** Máy dịch chuyển tức thời cũng nhanh, an toàn và thân thiện với môi trường. Nhưng đó là một phương thức di chuyển khác.
+**Ann:** Vì vậy, khi chúng ta đi tàu siêu tốc, chúng ta sẽ không phải lo lắng về thời tiết xấu, phải không?
+**Minh:** Đúng.
+**Ann:** Nghe hay đấy! Tôi hy vọng chúng ta sẽ có chúng sớm.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

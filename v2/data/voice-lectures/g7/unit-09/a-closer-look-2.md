@@ -294,19 +294,26 @@ Bài 5. Trò chơi đoán lễ hội. Một người nghĩ về một lễ hội
 </task>
 
 <dialogue>
-**Ví dụ mẫu 1 - Đoán Easter:**
-
-| English | Vietnamese |
-|---------|------------|
-| **A:** Do many countries celebrate the festival? | A: Có nhiều quốc gia tổ chức lễ hội không? |
-| **B:** Yes, they do. | B: Có. |
-| **A:** Do children like the festival? | A: Trẻ em có thích lễ hội đó không? |
-| **B:** Yes, they do. | B: Có. |
-| **A:** Do they paint eggs? | A: Họ có vẽ trứng không? |
-| **B:** Yes, they do. | B: Có. |
-| **C:** Is it Easter? | C: Đó là Lễ Phục Sinh phải không? |
-| **B:** Yes, it is! | B: Đúng rồi! |
+**A:** Do many countries celebrate the festival?
+**B:** Yes, they do.
+**A:** Do children like the festival?
+**B:** Yes, they do.
+**A:** Do they paint eggs?
+**B:** Yes, they do.
+**C:** Is it Easter?
+**B:** Yes, it is!
 </dialogue>
+
+<translation>
+A: Có nhiều quốc gia tổ chức lễ hội không?
+B: Có.
+A: Trẻ em có thích lễ hội đó không?
+B: Có.
+A: Họ có vẽ trứng không?
+B: Có.
+C: Đó là Lễ Phục Sinh phải không?
+B: Đúng rồi!
+</translation>
 
 <answer>
 **Ví dụ mẫu 2 - Đoán Tết:**

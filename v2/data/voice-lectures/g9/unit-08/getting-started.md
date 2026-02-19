@@ -45,25 +45,42 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe Tom và An nói về kỳ nghỉ c�
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Tom:** Hi, An. | **Tom:** Chào An. |
-| **An:** Hi, Tom. You've got a nice tan. | **An:** Chào Tom. Bạn có làn da rám nắng đẹp đấy. |
-| **Tom:** Well, I've just got back from Bali. | **Tom:** À, tôi vừa trở về từ Bali. |
-| **An:** Bali? Where is it? | **An:** Bali? Nó ở đâu vậy? |
-| **Tom:** It's in Indonesia. My family flew there for a holiday, and we spent most of the time on the beach. That's how I got this tan. | **Tom:** Nó ở Indonesia. Gia đình tôi bay đến đó để nghỉ lễ và chúng tôi dành phần lớn thời gian trên bãi biển. Đó là lý do tôi có được làn da rám nắng này. |
-| **An:** Awesome. Tell me more about Bali. | **An:** Tuyệt vời. Hãy kể cho tôi thêm về Bali. |
-| **Tom:** Sure. It's an **ideal destination** for holidaymakers, especially those who love the sea. | **Tom:** Chắc chắn rồi. Đó là một **điểm đến lý tưởng** cho du khách, đặc biệt là những người yêu thích biển. |
-| **An:** It must be beautiful! | **An:** Nó chắc hẳn đẹp! |
-| **Tom:** Very. It's well-known for its **natural beauty**, sunny beaches, and terraced fields. | **Tom:** Rất đẹp. Nó nổi tiếng với **vẻ đẹp tự nhiên**, những bãi biển đầy nắng và những thửa ruộng bậc thang. |
-| **An:** Is it expensive to travel there? | **An:** Đi du lịch ở đó có đắt không? |
-| **Tom:** Not really. My father was able to buy cheap air tickets and rent cheap accommodation. He usually uses travel apps for our **domestic** and **international** holidays. | **Tom:** Không hẳn. Cha tôi đã có thể mua được vé máy bay giá rẻ và thuê chỗ ở giá rẻ. Ông ấy thường sử dụng các ứng dụng du lịch cho các kỳ nghỉ **trong nước** và **quốc tế** của chúng tôi. |
-| **An:** Where did you stay? | **An:** Bạn đã ở đâu? |
-| **Tom:** We stayed in a three-star hotel which is just a ten-minute walk from the sea. Have you been somewhere for holiday? | **Tom:** Chúng tôi ở trong một khách sạn ba sao cách biển chỉ mười phút đi bộ. Bạn đã đi đâu đó vào kỳ nghỉ chưa? |
-| **An:** Yeah. Last year my family travelled to Da Nang. We ate different types of **local food**, and they all were so delicious. My brother said it was a perfect destination for **food tourists**. | **An:** Vâng. Năm ngoái gia đình tôi có đi du lịch Đà Nẵng. Chúng tôi đã ăn nhiều loại **món ăn địa phương** khác nhau và tất cả đều rất ngon. Anh tôi nói đây là một điểm đến hoàn hảo cho **khách du lịch ẩm thực**. |
-| **Tom:** Yes, I love **food tourism**, too. There are also other types of tourism like **shopping tourism** or **sports tourism**. | **Tom:** Vâng, tôi cũng thích **du lịch ẩm thực**. Ngoài ra còn có các loại hình du lịch khác như **du lịch mua sắm** hay **du lịch thể thao**. |
-| **An:** I didn't know that. Well, I'll try one of those someday. | **An:** Tôi không biết điều đó. Chà, một ngày nào đó tôi sẽ thử một trong những thứ đó. |
+**Tom:** Hi, An.
+**An:** Hi, Tom. You've got a nice tan.
+**Tom:** Well, I've just got back from Bali.
+**An:** Bali? Where is it?
+**Tom:** It's in Indonesia. My family flew there for a holiday, and we spent most of the time on the beach. That's how I got this tan.
+**An:** Awesome. Tell me more about Bali.
+**Tom:** Sure. It's an **ideal destination** for holidaymakers, especially those who love the sea.
+**An:** It must be beautiful!
+**Tom:** Very. It's well-known for its **natural beauty**, sunny beaches, and terraced fields.
+**An:** Is it expensive to travel there?
+**Tom:** Not really. My father was able to buy cheap air tickets and rent cheap accommodation. He usually uses travel apps for our **domestic** and **international** holidays.
+**An:** Where did you stay?
+**Tom:** We stayed in a three-star hotel which is just a ten-minute walk from the sea. Have you been somewhere for holiday?
+**An:** Yeah. Last year my family travelled to Da Nang. We ate different types of **local food**, and they all were so delicious. My brother said it was a perfect destination for **food tourists**.
+**Tom:** Yes, I love **food tourism**, too. There are also other types of tourism like **shopping tourism** or **sports tourism**.
+**An:** I didn't know that. Well, I'll try one of those someday.
 </dialogue>
+
+<translation>
+**Tom:** Chào An.
+**An:** Chào Tom. Bạn có làn da rám nắng đẹp đấy.
+**Tom:** À, tôi vừa trở về từ Bali.
+**An:** Bali? Nó ở đâu vậy?
+**Tom:** Nó ở Indonesia. Gia đình tôi bay đến đó để nghỉ lễ và chúng tôi dành phần lớn thời gian trên bãi biển. Đó là lý do tôi có được làn da rám nắng này.
+**An:** Tuyệt vời. Hãy kể cho tôi thêm về Bali.
+**Tom:** Chắc chắn rồi. Đó là một **điểm đến lý tưởng** cho du khách, đặc biệt là những người yêu thích biển.
+**An:** Nó chắc hẳn đẹp!
+**Tom:** Rất đẹp. Nó nổi tiếng với **vẻ đẹp tự nhiên**, những bãi biển đầy nắng và những thửa ruộng bậc thang.
+**An:** Đi du lịch ở đó có đắt không?
+**Tom:** Không hẳn. Cha tôi đã có thể mua được vé máy bay giá rẻ và thuê chỗ ở giá rẻ. Ông ấy thường sử dụng các ứng dụng du lịch cho các kỳ nghỉ **trong nước** và **quốc tế** của chúng tôi.
+**An:** Bạn đã ở đâu?
+**Tom:** Chúng tôi ở trong một khách sạn ba sao cách biển chỉ mười phút đi bộ. Bạn đã đi đâu đó vào kỳ nghỉ chưa?
+**An:** Vâng. Năm ngoái gia đình tôi có đi du lịch Đà Nẵng. Chúng tôi đã ăn nhiều loại **món ăn địa phương** khác nhau và tất cả đều rất ngon. Anh tôi nói đây là một điểm đến hoàn hảo cho **khách du lịch ẩm thực**.
+**Tom:** Vâng, tôi cũng thích **du lịch ẩm thực**. Ngoài ra còn có các loại hình du lịch khác như **du lịch mua sắm** hay **du lịch thể thao**.
+**An:** Tôi không biết điều đó. Chà, một ngày nào đó tôi sẽ thử một trong những thứ đó.
+</translation>
 
 <teacher_script pause="0" href="audio/tts_976b170d.webm">
 Hội thoại nói về 2 chuyến đi: Tom đi Bali (Indonesia) - điểm đến lý tưởng cho người yêu biển, nổi tiếng với vẻ đẹp tự nhiên. An đi Đà Nẵng - điểm đến cho du lịch ẩm thực.

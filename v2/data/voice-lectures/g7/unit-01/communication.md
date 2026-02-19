@@ -19,22 +19,32 @@ Bài 1 trang 12 — nghe các hội thoại mẫu. Chú ý cách hỏi và trả
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** Do you like watching TV? | **A:** Bạn có thích xem TV không? |
-| **B:** Yes, I do. I like watching TV very much. | **B:** Có, mình thích. Mình rất thích xem TV. |
-| **A:** What kind of programmes do you like? | **A:** Bạn thích xem chương trình gì? |
-| **B:** I like watching game shows and cartoons. | **B:** Mình thích xem trò chơi truyền hình và hoạt hình. |
+**A:** Do you like watching TV?
+**B:** Yes, I do. I like watching TV very much.
+**A:** What kind of programmes do you like?
+**B:** I like watching game shows and cartoons.
 </dialogue>
 
+<translation>
+**A:** Bạn có thích xem TV không?
+**B:** Có, mình thích. Mình rất thích xem TV.
+**A:** Bạn thích xem chương trình gì?
+**B:** Mình thích xem trò chơi truyền hình và hoạt hình.
+</translation>
+
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** Do you like cooking? | **A:** Bạn có thích nấu ăn không? |
-| **B:** No, I don't. I don't like cooking at all. | **B:** Không, mình không thích. Mình không thích nấu ăn chút nào. |
-| **A:** What do you like doing in your free time then? | **A:** Vậy bạn thích làm gì vào thời gian rảnh? |
-| **B:** I enjoy going jogging and listening to music. | **B:** Mình thích chạy bộ và nghe nhạc. |
+**A:** Do you like cooking?
+**B:** No, I don't. I don't like cooking at all.
+**A:** What do you like doing in your free time then?
+**B:** I enjoy going jogging and listening to music.
 </dialogue>
+
+<translation>
+**A:** Bạn có thích nấu ăn không?
+**B:** Không, mình không thích. Mình không thích nấu ăn chút nào.
+**A:** Vậy bạn thích làm gì vào thời gian rảnh?
+**B:** Mình thích chạy bộ và nghe nhạc.
+</translation>
 
 <teacher_script pause="0">
 Nghe xong rồi nha. Để ý câu hỏi: "<eng>Do you like + V-ing?</eng>" và câu trả lời: "<eng>Yes, I do</eng>" hoặc "<eng>No, I don't</eng>". Đơn giản vậy thôi. Giờ mình tự hỏi nhau nha.

@@ -41,14 +41,20 @@ Phần <eng>Everyday English</eng>. Hôm nay mình học cách bày tỏ sự ng
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mark:** Scottish men wear kilts, short skirts at their traditional festivals. | **Mark:** Đàn ông Scotland mặc váy tại các lễ hội truyền thống của họ. |
-| **Lan:** Wow... I didn't know that! | **Lan:** Wow... Tôi không biết điều đó! |
-| *** | *** |
-| **Lan:** In 2019, Walt Disney World in California attracted nearly 21 million visitors. | **Lan:** Năm 2019, Walt Disney World ở California đã thu hút gần 21 triệu lượt khách. |
-| **Tom:** Amazing! | **Tom:** Thật tuyệt vời! |
+**Mark:** Scottish men wear kilts, short skirts at their traditional festivals.
+**Lan:** Wow... I didn't know that!
+
+**Lan:** In 2019, Walt Disney World in California attracted nearly 21 million visitors.
+**Tom:** Amazing!
 </dialogue>
+
+<translation>
+**Mark:** Đàn ông Scotland mặc váy tại các lễ hội truyền thống của họ.
+**Lan:** Wow... Tôi không biết điều đó!
+
+**Lan:** Năm 2019, Walt Disney World ở California đã thu hút gần 21 triệu lượt khách.
+**Tom:** Thật tuyệt vời!
+</translation>
 
 <teacher_script pause="0">
 Vậy khi nghe điều gì ngạc nhiên, các em có thể nói: <eng>"Wow... I didn't know that!"</eng>, <eng>"Amazing!"</eng>, hoặc <eng>"Really?"</eng> nha.

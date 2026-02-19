@@ -54,17 +54,26 @@ Bài 2 nha — nghe hội thoại mẫu và chú ý cách dùng các từ đồn
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **A:** Can I come over to your house? I need help with my homework. | **A:** Tớ có thể qua nhà bạn được không? Tớ cần giúp đỡ với bài tập về nhà. |
-| **B:** Sure. My pleasure. | **B:** Chắc chắn rồi. Tớ rất vui lòng. |
-| **A:** Vietnamese people love seafood, don't they? | **A:** Người Việt Nam thích hải sản phải không? |
-| **B:** Yes, certainly. Seafood is a big part of Vietnamese cuisine. | **B:** Vâng, đương nhiên rồi. Hải sản là một phần lớn trong ẩm thực Việt Nam. |
-| **A:** Italian food is well-known all over the world, isn't it? | **A:** Ẩm thực Ý nổi tiếng khắp thế giới phải không? |
-| **B:** That's right. Pizza and pasta are popular everywhere. | **B:** Đúng vậy. Pizza và mì ống thì phổ biến khắp nơi. |
-| **A:** Curry is a common dish in India. | **A:** Cà ri là món ăn phổ biến ở Ấn Độ. |
-| **B:** Exactly! And there are so many unique types of curry. | **B:** Chính xác! Và có rất nhiều loại cà ri độc đáo. |
+**A:** Can I come over to your house? I need help with my homework.
+**B:** Sure. My pleasure.
+**A:** Vietnamese people love seafood, don't they?
+**B:** Yes, certainly. Seafood is a big part of Vietnamese cuisine.
+**A:** Italian food is well-known all over the world, isn't it?
+**B:** That's right. Pizza and pasta are popular everywhere.
+**A:** Curry is a common dish in India.
+**B:** Exactly! And there are so many unique types of curry.
 </dialogue>
+
+<translation>
+**A:** Tớ có thể qua nhà bạn được không? Tớ cần giúp đỡ với bài tập về nhà.
+**B:** Chắc chắn rồi. Tớ rất vui lòng.
+**A:** Người Việt Nam thích hải sản phải không?
+**B:** Vâng, đương nhiên rồi. Hải sản là một phần lớn trong ẩm thực Việt Nam.
+**A:** Ẩm thực Ý nổi tiếng khắp thế giới phải không?
+**B:** Đúng vậy. Pizza và mì ống thì phổ biến khắp nơi.
+**A:** Cà ri là món ăn phổ biến ở Ấn Độ.
+**B:** Chính xác! Và có rất nhiều loại cà ri độc đáo.
+</translation>
 
 <teacher_script pause="60">
 Các em luyện hội thoại theo cặp nha. Dùng các cụm đồng ý: <eng>Sure / Certainly / Of course / That's right / Exactly</eng>. 1 phút thôi.

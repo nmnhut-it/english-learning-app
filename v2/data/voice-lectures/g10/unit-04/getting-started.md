@@ -30,21 +30,34 @@ Giờ nghe và đọc hội thoại nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Kim:** Hi, Tam. I went to your house at 9 am, but you weren't there. | **Kim:** Chào Tâm. Mình đến nhà bạn lúc 9 giờ sáng, nhưng bạn không có ở đó. |
-| **Tam:** Oh, when you came, I was working as a volunteer at our local centre for community development. | **Tâm:** Ồ, khi bạn đến, mình đang làm tình nguyện viên tại trung tâm phát triển cộng đồng địa phương. |
-| **Kim:** Ah, I see. How did you become a volunteer there? | **Kim:** À, ra vậy. Làm sao bạn trở thành tình nguyện viên ở đó? |
-| **Tam:** Just by chance. Last summer, while I was visiting the centre, I saw an advertisement for volunteers. I applied and my application was successful. | **Tâm:** Tình cờ thôi. Mùa hè năm ngoái, khi mình đến thăm trung tâm, mình thấy quảng cáo tuyển tình nguyện viên. Mình nộp đơn và được chấp nhận. |
-| **Kim:** I also want to be a volunteer. I find community work very interesting. | **Kim:** Mình cũng muốn làm tình nguyện viên. Mình thấy công việc cộng đồng rất thú vị. |
-| **Tam:** I agree. Community service not only benefits the local area, but can also boost our confidence and help us learn many useful skills. | **Tâm:** Mình đồng ý. Dịch vụ cộng đồng không chỉ có lợi cho địa phương mà còn tăng sự tự tin và giúp học nhiều kỹ năng hữu ích. |
-| **Kim:** What are the regular activities organised by the centre? | **Kim:** Các hoạt động thường xuyên được tổ chức bởi trung tâm là gì? |
-| **Tam:** Oh, there are endless opportunities for getting involved. For example, you can join a local environmental group to clean up the park once a week or volunteer at an orphanage. | **Tâm:** Ồ, có vô số cơ hội để tham gia. Ví dụ, bạn có thể tham gia nhóm môi trường dọn công viên mỗi tuần một lần hoặc tình nguyện ở trại trẻ mồ côi. |
-| **Kim:** Sounds good. How can I apply? | **Kim:** Nghe hay đấy. Làm sao mình nộp đơn? |
-| **Tam:** I'll email you the form. You just fill it in and send it in. | **Tâm:** Mình sẽ gửi email biểu mẫu cho bạn. Bạn chỉ cần điền vào rồi gửi đi. |
-| **Kim:** Thanks so much. I'm so excited about volunteering at the centre. | **Kim:** Cảm ơn nhiều. Mình rất hào hứng với việc tình nguyện tại trung tâm. |
-| **Tam:** No problem. Good luck. Hope your application is successful and you enjoy the work. | **Tâm:** Không có gì. Chúc may mắn. Hy vọng đơn của bạn được chấp nhận và bạn thích công việc này. |
+**Kim:** Hi, Tam. I went to your house at 9 am, but you weren't there.
+**Tam:** Oh, when you came, I was working as a volunteer at our local centre for community development.
+**Kim:** Ah, I see. How did you become a volunteer there?
+**Tam:** Just by chance. Last summer, while I was visiting the centre, I saw an advertisement for volunteers. I applied and my application was successful.
+**Kim:** I also want to be a volunteer. I find community work very interesting.
+**Tam:** I agree. Community service not only benefits the local area, but can also boost our confidence and help us learn many useful skills.
+**Kim:** What are the regular activities organised by the centre?
+**Tam:** Oh, there are endless opportunities for getting involved. For example, you can join a local environmental group to clean up the park once a week or volunteer at an orphanage.
+**Kim:** Sounds good. How can I apply?
+**Tam:** I'll email you the form. You just fill it in and send it in.
+**Kim:** Thanks so much. I'm so excited about volunteering at the centre.
+**Tam:** No problem. Good luck. Hope your application is successful and you enjoy the work.
 </dialogue>
+
+<translation>
+**Kim:** Chào Tâm. Mình đến nhà bạn lúc 9 giờ sáng, nhưng bạn không có ở đó.
+**Tâm:** Ồ, khi bạn đến, mình đang làm tình nguyện viên tại trung tâm phát triển cộng đồng địa phương.
+**Kim:** À, ra vậy. Làm sao bạn trở thành tình nguyện viên ở đó?
+**Tâm:** Tình cờ thôi. Mùa hè năm ngoái, khi mình đến thăm trung tâm, mình thấy quảng cáo tuyển tình nguyện viên. Mình nộp đơn và được chấp nhận.
+**Kim:** Mình cũng muốn làm tình nguyện viên. Mình thấy công việc cộng đồng rất thú vị.
+**Tâm:** Mình đồng ý. Dịch vụ cộng đồng không chỉ có lợi cho địa phương mà còn tăng sự tự tin và giúp học nhiều kỹ năng hữu ích.
+**Kim:** Các hoạt động thường xuyên được tổ chức bởi trung tâm là gì?
+**Tâm:** Ồ, có vô số cơ hội để tham gia. Ví dụ, bạn có thể tham gia nhóm môi trường dọn công viên mỗi tuần một lần hoặc tình nguyện ở trại trẻ mồ côi.
+**Kim:** Nghe hay đấy. Làm sao mình nộp đơn?
+**Tâm:** Mình sẽ gửi email biểu mẫu cho bạn. Bạn chỉ cần điền vào rồi gửi đi.
+**Kim:** Cảm ơn nhiều. Mình rất hào hứng với việc tình nguyện tại trung tâm.
+**Tâm:** Không có gì. Chúc may mắn. Hy vọng đơn của bạn được chấp nhận và bạn thích công việc này.
+</translation>
 
 <teacher_script pause="180">
 Đọc hội thoại và dịch vô vở nha. 3 phút.

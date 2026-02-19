@@ -65,20 +65,32 @@ Hội thoại giữa An và Phong — hai bạn đang nói chuyện về stress 
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **An:** I've been really stressed this week. I don't know what to do. | **An:** Tuần này tao căng thẳng lắm. Tao không biết phải làm gì nữa. |
-| **Phong:** Sorry? Did you say stressed? | **Phong:** Sao? Mày nói căng thẳng hả? |
-| **An:** Yes. I have three assignments due on Friday and I can't manage. | **An:** Ừ. Tao có ba bài tập nộp thứ Sáu mà xoay không nổi. |
-| **Phong:** I see. Would you mind telling me more? | **Phong:** Tao hiểu rồi. Mày có phiền kể thêm cho tao nghe không? |
-| **An:** I just feel like there's too much to do at once. I can't concentrate on anything. | **An:** Tao cứ cảm giác có quá nhiều thứ cần làm cùng lúc. Tao không tập trung được vào cái gì hết. |
-| **Phong:** Have you tried the Pomodoro technique? | **Phong:** Mày đã thử kỹ thuật Pomodoro chưa? |
-| **An:** Could you repeat that? Po-mo-do-ro? | **An:** Mày có thể nhắc lại không? Po-mo-do-ro? |
-| **Phong:** Yes! You study for 25 minutes, then take a 5-minute break. It reduces distractions and helps you focus. | **Phong:** Ừ! Mày học 25 phút rồi nghỉ 5 phút. Cách này giảm sự xao lãng và giúp mày tập trung hơn. |
-| **An:** Do you mean I should repeat this all day? | **An:** Ý mày là tao nên làm như vậy cả ngày hả? |
-| **Phong:** Exactly! Until all your assignments are done. | **Phong:** Đúng rồi! Cho đến khi làm xong hết tất cả bài tập. |
-| **An:** Got it! I'll try that tonight. Thank you, Phong! | **An:** Hiểu rồi! Tối nay tao sẽ thử. Cảm ơn mày nha, Phong! |
+**An:** I've been really stressed this week. I don't know what to do.
+**Phong:** Sorry? Did you say stressed?
+**An:** Yes. I have three assignments due on Friday and I can't manage.
+**Phong:** I see. Would you mind telling me more?
+**An:** I just feel like there's too much to do at once. I can't concentrate on anything.
+**Phong:** Have you tried the Pomodoro technique?
+**An:** Could you repeat that? Po-mo-do-ro?
+**Phong:** Yes! You study for 25 minutes, then take a 5-minute break. It reduces distractions and helps you focus.
+**An:** Do you mean I should repeat this all day?
+**Phong:** Exactly! Until all your assignments are done.
+**An:** Got it! I'll try that tonight. Thank you, Phong!
 </dialogue>
+
+<translation>
+**An:** Tuần này tao căng thẳng lắm. Tao không biết phải làm gì nữa.
+**Phong:** Sao? Mày nói căng thẳng hả?
+**An:** Ừ. Tao có ba bài tập nộp thứ Sáu mà xoay không nổi.
+**Phong:** Tao hiểu rồi. Mày có phiền kể thêm cho tao nghe không?
+**An:** Tao cứ cảm giác có quá nhiều thứ cần làm cùng lúc. Tao không tập trung được vào cái gì hết.
+**Phong:** Mày đã thử kỹ thuật Pomodoro chưa?
+**An:** Mày có thể nhắc lại không? Po-mo-do-ro?
+**Phong:** Ừ! Mày học 25 phút rồi nghỉ 5 phút. Cách này giảm sự xao lãng và giúp mày tập trung hơn.
+**An:** Ý mày là tao nên làm như vậy cả ngày hả?
+**Phong:** Đúng rồi! Cho đến khi làm xong hết tất cả bài tập.
+**An:** Hiểu rồi! Tối nay tao sẽ thử. Cảm ơn mày nha, Phong!
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. Gạch chân các câu hỏi lại và xác nhận: "Sorry?", "Could you repeat that?", "Do you mean...?", "Got it!". Ba phút.

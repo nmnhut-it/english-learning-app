@@ -29,18 +29,28 @@ Bài 1, nghe và đọc hội thoại giữa Mark, Mai và Nam nha.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mark:** Hi, everyone. Last time our club met, we decided to start an awareness campaign to draw attention to a pressing social issue. So have you thought about any issues that we could focus on? | **Mark:** Chào mọi người. Lần trước câu lạc bộ gặp nhau, chúng ta quyết định bắt đầu chiến dịch nâng cao nhận thức để thu hút sự chú ý đến vấn đề xã hội cấp bách. Các bạn đã nghĩ đến vấn đề nào chưa? |
-| **Mai:** Yes, I think we should promote issues that affect a lot of people in our city, such as crime and overpopulation. | **Mai:** Vâng, tôi nghĩ nên thúc đẩy các vấn đề ảnh hưởng nhiều người trong thành phố, như tội phạm và dân số quá đông. |
-| **Nam:** I like your ideas, Mai, but I think we should plan our campaign around social issues that directly affect teenagers like us. | **Nam:** Tôi thích ý tưởng của bạn, Mai, nhưng tôi nghĩ nên lên kế hoạch chiến dịch xung quanh các vấn đề xã hội ảnh hưởng trực tiếp đến thanh thiếu niên như chúng ta. |
-| **Mark:** Can you give us some examples? | **Mark:** Bạn có thể cho chúng tôi một số ví dụ không? |
-| **Nam:** Well, bullying, peer pressure, and body shaming, for instance, are major problems among teenagers today although many people don't feel comfortable talking about them. | **Nam:** Ví dụ, bắt nạt, áp lực đồng trang lứa và miệt thị ngoại hình là vấn đề lớn của thanh thiếu niên ngày nay dù nhiều người không thoải mái khi nói về chúng. |
-| **Mai:** I agree with you. Hmm... so Mark, what do you think? Should we focus our campaign on a general social issue or one affecting mainly teens? | **Mai:** Tôi đồng ý với bạn. Hmm... vậy Mark, bạn nghĩ sao? Chúng ta nên tập trung chiến dịch vào một vấn đề xã hội chung hay một vấn đề ảnh hưởng chủ yếu đến thanh thiếu niên? |
-| **Mark:** Hmm. I think this time we should focus on a problem teens struggle with every day because this won't be a big campaign. However, we'll try to use your ideas for another project, Mai. | **Mark:** Hmm. Tôi nghĩ lần này chúng ta nên tập trung vào một vấn đề mà thanh thiếu niên phải vật lộn hàng ngày vì đây sẽ không phải là một chiến dịch lớn. Tuy nhiên, chúng tôi sẽ cố gắng sử dụng ý tưởng của bạn cho một dự án khác, Mai. |
-| **Mai:** Sounds good! Now let's decide on a social issue. Is the top problem facing teens today peer pressure, body shaming, or bullying? | **Mai:** Nghe hay đấy! Bây giờ chúng ta hãy quyết định về một vấn đề xã hội. Có phải vấn đề hàng đầu mà thanh thiếu niên ngày nay phải đối mặt là áp lực đồng trang lứa, miệt thị ngoại hình hay bắt nạt? |
-| **Nam:** I think it's bullying because it's very common today, and ... | **Nam:** Tôi nghĩ đó là bắt nạt bởi vì nó rất phổ biến ngày nay, và ... |
+**Mark:** Hi, everyone. Last time our club met, we decided to start an awareness campaign to draw attention to a pressing social issue. So have you thought about any issues that we could focus on?
+**Mai:** Yes, I think we should promote issues that affect a lot of people in our city, such as crime and overpopulation.
+**Nam:** I like your ideas, Mai, but I think we should plan our campaign around social issues that directly affect teenagers like us.
+**Mark:** Can you give us some examples?
+**Nam:** Well, bullying, peer pressure, and body shaming, for instance, are major problems among teenagers today although many people don't feel comfortable talking about them.
+**Mai:** I agree with you. Hmm... so Mark, what do you think? Should we focus our campaign on a general social issue or one affecting mainly teens?
+**Mark:** Hmm. I think this time we should focus on a problem teens struggle with every day because this won't be a big campaign. However, we'll try to use your ideas for another project, Mai.
+**Mai:** Sounds good! Now let's decide on a social issue. Is the top problem facing teens today peer pressure, body shaming, or bullying?
+**Nam:** I think it's bullying because it's very common today, and ...
 </dialogue>
+
+<translation>
+**Mark:** Chào mọi người. Lần trước câu lạc bộ gặp nhau, chúng ta quyết định bắt đầu chiến dịch nâng cao nhận thức để thu hút sự chú ý đến vấn đề xã hội cấp bách. Các bạn đã nghĩ đến vấn đề nào chưa?
+**Mai:** Vâng, tôi nghĩ nên thúc đẩy các vấn đề ảnh hưởng nhiều người trong thành phố, như tội phạm và dân số quá đông.
+**Nam:** Tôi thích ý tưởng của bạn, Mai, nhưng tôi nghĩ nên lên kế hoạch chiến dịch xung quanh các vấn đề xã hội ảnh hưởng trực tiếp đến thanh thiếu niên như chúng ta.
+**Mark:** Bạn có thể cho chúng tôi một số ví dụ không?
+**Nam:** Ví dụ, bắt nạt, áp lực đồng trang lứa và miệt thị ngoại hình là vấn đề lớn của thanh thiếu niên ngày nay dù nhiều người không thoải mái khi nói về chúng.
+**Mai:** Tôi đồng ý với bạn. Hmm... vậy Mark, bạn nghĩ sao? Chúng ta nên tập trung chiến dịch vào một vấn đề xã hội chung hay một vấn đề ảnh hưởng chủ yếu đến thanh thiếu niên?
+**Mark:** Hmm. Tôi nghĩ lần này chúng ta nên tập trung vào một vấn đề mà thanh thiếu niên phải vật lộn hàng ngày vì đây sẽ không phải là một chiến dịch lớn. Tuy nhiên, chúng tôi sẽ cố gắng sử dụng ý tưởng của bạn cho một dự án khác, Mai.
+**Mai:** Nghe hay đấy! Bây giờ chúng ta hãy quyết định về một vấn đề xã hội. Có phải vấn đề hàng đầu mà thanh thiếu niên ngày nay phải đối mặt là áp lực đồng trang lứa, miệt thị ngoại hình hay bắt nạt?
+**Nam:** Tôi nghĩ đó là bắt nạt bởi vì nó rất phổ biến ngày nay, và ...
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở. 3 phút nha.

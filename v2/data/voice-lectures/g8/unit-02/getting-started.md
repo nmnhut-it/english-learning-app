@@ -42,21 +42,34 @@ Bài 1 <eng>Listen and read</eng> nha. Mai vừa về từ kỳ nghỉ hè ở q
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nick:** You look great with a tan, Mai! | **Nick:** Cậu trông thật tuyệt với làn da rám nắng đó Mai! |
-| **Mai:** Thank you. I've just come back from a very enjoyable summer holiday. | **Mai:** Cám ơn cậu. Mình vừa trở về từ một kì nghỉ hè rất thú vị. |
-| **Nick:** Really? Where did you stay? | **Nick:** Thật ư? Cậu đã ở đâu? |
-| **Mai:** I stayed at my uncle's house in a small village in Bac Giang Province. | **Mai:** Mình đã ở nhà bác của mình tại một ngôi làng nhỏ ở tỉnh Bắc Giang. |
-| **Nick:** What did you do there? | **Nick:** Cậu đã làm gì ở đấy thế? |
-| **Mai:** A lot of things. It was harvest time. The villagers were harvesting rice with a combine harvester. I helped them load the rice onto a truck. Then we unloaded the rice and dried it. | **Mai:** Nhiều thứ lắm. Lúc đó đang là mùa thu hoạch. Người trong làng thu hoạch lúa với máy gặt đập liên hợp. Mình giúp họ chất lúa lên xe tải. Sau đó mọi người dỡ lúa ra và phơi chúng. |
-| **Nick:** Sounds great! | **Nick:** Nghe tuyệt thật đấy! |
-| **Mai:** And sometimes I went with the village children to herd the buffaloes and cows. I made friends with them on my first day. | **Mai:** Và thi thoảng mình cũng đi chăn trâu và bò với lũ trẻ trong làng nữa. Mình đã kết bạn với chúng ngay từ ngày đầu tiên. |
-| **Nick:** Were they friendly? | **Nick:** Chúng dễ thương không? |
-| **Mai:** Yes, they were. They took me to the paddy fields to fly kites. And in the evening, we played traditional games like bamboo dancing and dragon-snake. | **Mai:** Có chứ. Tụi nhỏ dẫn mình đến cánh đồng lúa để thả diều. Đến tối, tụi mình đã chơi các trò chơi truyền thống như múa sạp và rồng rắn lên mây. |
-| **Nick:** Oh, I envy you! | **Nick:** Ồ, tớ ghen tị với cậu đấy! |
-| **Mai:** Things move more slowly there than in our city, but people seem to have a healthier life. | **Mai:** Tuy mọi thứ ở dưới đó diễn ra chậm hơn ở thành phố của chúng ta, nhưng mọi người dường như có một cuộc sống khỏe mạnh hơn. |
+**Nick:** You look great with a tan, Mai!
+**Mai:** Thank you. I've just come back from a very enjoyable summer holiday.
+**Nick:** Really? Where did you stay?
+**Mai:** I stayed at my uncle's house in a small village in Bac Giang Province.
+**Nick:** What did you do there?
+**Mai:** A lot of things. It was harvest time. The villagers were harvesting rice with a combine harvester. I helped them load the rice onto a truck. Then we unloaded the rice and dried it.
+**Nick:** Sounds great!
+**Mai:** And sometimes I went with the village children to herd the buffaloes and cows. I made friends with them on my first day.
+**Nick:** Were they friendly?
+**Mai:** Yes, they were. They took me to the paddy fields to fly kites. And in the evening, we played traditional games like bamboo dancing and dragon-snake.
+**Nick:** Oh, I envy you!
+**Mai:** Things move more slowly there than in our city, but people seem to have a healthier life.
 </dialogue>
+
+<translation>
+**Nick:** Cậu trông thật tuyệt với làn da rám nắng đó Mai!
+**Mai:** Cám ơn cậu. Mình vừa trở về từ một kì nghỉ hè rất thú vị.
+**Nick:** Thật ư? Cậu đã ở đâu?
+**Mai:** Mình đã ở nhà bác của mình tại một ngôi làng nhỏ ở tỉnh Bắc Giang.
+**Nick:** Cậu đã làm gì ở đấy thế?
+**Mai:** Nhiều thứ lắm. Lúc đó đang là mùa thu hoạch. Người trong làng thu hoạch lúa với máy gặt đập liên hợp. Mình giúp họ chất lúa lên xe tải. Sau đó mọi người dỡ lúa ra và phơi chúng.
+**Nick:** Nghe tuyệt thật đấy!
+**Mai:** Và thi thoảng mình cũng đi chăn trâu và bò với lũ trẻ trong làng nữa. Mình đã kết bạn với chúng ngay từ ngày đầu tiên.
+**Nick:** Chúng dễ thương không?
+**Mai:** Có chứ. Tụi nhỏ dẫn mình đến cánh đồng lúa để thả diều. Đến tối, tụi mình đã chơi các trò chơi truyền thống như múa sạp và rồng rắn lên mây.
+**Nick:** Ồ, tớ ghen tị với cậu đấy!
+**Mai:** Tuy mọi thứ ở dưới đó diễn ra chậm hơn ở thành phố của chúng ta, nhưng mọi người dường như có một cuộc sống khỏe mạnh hơn.
+</translation>
 
 <teacher_script pause="180">
 Dịch hội thoại vô vở nha. 3 phút.

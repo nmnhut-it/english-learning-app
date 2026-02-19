@@ -33,21 +33,34 @@ Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Ann và Mi
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Ann:** Hi, Mi. Long time no see. How're you doing? | **Ann:** Chào Mi. Lâu rồi không gặp. Bạn thế nào rồi? |
-| **Mi:** I'm fine, thanks. By the way, we moved to a new house in a suburb last month. | **Mi:** Tôi ổn, cảm ơn. Nhân tiện, tháng trước chúng tôi đã chuyển đến một ngôi nhà mới ở ngoại ô. |
-| **Ann:** Oh, that's why I haven't seen you in the Reading Club very often. | **Ann:** Ồ, đó là lý do tại sao tôi không thường xuyên gặp bạn ở Câu lạc bộ Đọc sách. |
-| **Mi:** Yes. We're still busy moving in, you know. | **Mi:** Vâng. Chúng tôi vẫn đang bận chuyển đi, bạn biết đấy. |
-| **Ann:** How's your new neighbourhood? | **Ann:** Khu phố mới của bạn thế nào? |
-| **Mi:** It's much bigger than our old one. The streets are wider, and there are fewer people. | **Mi:** Nó lớn hơn cái cũ nhiều. Đường phố rộng hơn và có ít người hơn. |
-| **Ann:** What about the facilities? | **Ann:** Thế còn cơ sở vật chất thì sao? |
-| **Mi:** It has all the things we need: shopping malls, parks, and hospitals. And there's a craft village near our house. | **Mi:** Nó có tất cả những thứ chúng tôi cần: trung tâm mua sắm, công viên và bệnh viện. Và có một làng nghề gần nhà chúng tôi. |
-| **Ann:** Great! How're your new neighbours? | **Ann:** Tuyệt vời! Hàng xóm mới của bạn thế nào? |
-| **Mi:** They're nice. Last Sunday when I was looking for the way to the bus station, a lady came and showed me the way. I think we will get on with them. | **Mi:** Họ thật tuyệt. Chủ nhật tuần trước khi tôi đang tìm đường ra bến xe thì có một cô gái đến chỉ đường cho tôi. Tôi nghĩ chúng tôi sẽ hòa nhập với họ. |
-| **Ann:** That reminds me of the time our family moved to Viet Nam. We didn't know where to buy stuff for our house, and the new neighbours in the community gave us useful advice. I guess you like your new place. | **Ann:** Điều đó làm tôi nhớ đến thời gian gia đình chúng tôi chuyển đến Việt Nam. Chúng tôi không biết mua đồ đạc cho ngôi nhà ở đâu và hàng xóm mới trong cộng đồng đã cho chúng tôi những lời khuyên hữu ích. Tôi đoán bạn thích nơi ở mới. |
-| **Mi:** Sure. I really love where I live now. | **Mi:** Chắc chắn rồi. Tôi thực sự yêu nơi tôi đang sống hiện tại. |
+**Ann:** Hi, Mi. Long time no see. How're you doing?
+**Mi:** I'm fine, thanks. By the way, we moved to a new house in a suburb last month.
+**Ann:** Oh, that's why I haven't seen you in the Reading Club very often.
+**Mi:** Yes. We're still busy moving in, you know.
+**Ann:** How's your new neighbourhood?
+**Mi:** It's much bigger than our old one. The streets are wider, and there are fewer people.
+**Ann:** What about the facilities?
+**Mi:** It has all the things we need: shopping malls, parks, and hospitals. And there's a craft village near our house.
+**Ann:** Great! How're your new neighbours?
+**Mi:** They're nice. Last Sunday when I was looking for the way to the bus station, a lady came and showed me the way. I think we will get on with them.
+**Ann:** That reminds me of the time our family moved to Viet Nam. We didn't know where to buy stuff for our house, and the new neighbours in the community gave us useful advice. I guess you like your new place.
+**Mi:** Sure. I really love where I live now.
 </dialogue>
+
+<translation>
+**Ann:** Chào Mi. Lâu rồi không gặp. Bạn thế nào rồi?
+**Mi:** Tôi ổn, cảm ơn. Nhân tiện, tháng trước chúng tôi đã chuyển đến một ngôi nhà mới ở ngoại ô.
+**Ann:** Ồ, đó là lý do tại sao tôi không thường xuyên gặp bạn ở Câu lạc bộ Đọc sách.
+**Mi:** Vâng. Chúng tôi vẫn đang bận chuyển đi, bạn biết đấy.
+**Ann:** Khu phố mới của bạn thế nào?
+**Mi:** Nó lớn hơn cái cũ nhiều. Đường phố rộng hơn và có ít người hơn.
+**Ann:** Thế còn cơ sở vật chất thì sao?
+**Mi:** Nó có tất cả những thứ chúng tôi cần: trung tâm mua sắm, công viên và bệnh viện. Và có một làng nghề gần nhà chúng tôi.
+**Ann:** Tuyệt vời! Hàng xóm mới của bạn thế nào?
+**Mi:** Họ thật tuyệt. Chủ nhật tuần trước khi tôi đang tìm đường ra bến xe thì có một cô gái đến chỉ đường cho tôi. Tôi nghĩ chúng tôi sẽ hòa nhập với họ.
+**Ann:** Điều đó làm tôi nhớ đến thời gian gia đình chúng tôi chuyển đến Việt Nam. Chúng tôi không biết mua đồ đạc cho ngôi nhà ở đâu và hàng xóm mới trong cộng đồng đã cho chúng tôi những lời khuyên hữu ích. Tôi đoán bạn thích nơi ở mới.
+**Mi:** Chắc chắn rồi. Tôi thực sự yêu nơi tôi đang sống hiện tại.
+</translation>
 
 <!-- chunk: exercise_2 -->
 <teacher_script pause="60">

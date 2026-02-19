@@ -32,24 +32,40 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe và đọc hội thoại giữa Nick
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Nick:** What are you doing, Phong? | **Nick:** Cậu đang làm gì vậy Phong? |
-| **Phong:** I'm painting a picture of my house. | **Phong:** Tớ đang vẽ một bức tranh về ngôi nhà của tớ. |
-| **Nick:** Your house! That's a UFO. | **Nick:** Ngôi nhà của cậu! Đó là một UFO. |
-| **Phong:** It looks like a UFO but it's my house in the future. | **Phong:** Nó trông giống như UFO nhưng đó là ngôi nhà của tớ trong tương lai. |
-| **Nick:** Where will it be? | **Nick:** Nó sẽ ở đâu? |
-| **Phong:** It'll be in the mountains. | **Phong:** Nó sẽ ở trên núi. |
-| **Nick:** What will it be like? | **Nick:** Nó sẽ như thế nào? |
-| **Phong:** It'll be a large house. It'll have twenty rooms. | **Phong:** Nó sẽ là một ngôi nhà lớn. Nó sẽ có hai mươi phòng. |
-| **Nick:** Twenty rooms! | **Nick:** 20 phòng! |
-| **Phong:** Yes, and it'll have solar energy. | **Phong:** Đúng vậy, và nó sẽ có năng lượng mặt trời. |
-| **Nick:** Fantastic! Which room will you like best? | **Nick:** Tuyệt vời! Cậu sẽ thích phòng nào nhất? |
-| **Phong:** My bedroom, of course. | **Phong:** Tất nhiên là phòng ngủ của tớ. |
-| **Nick:** What appliances might the house have? | **Nick:** Ngôi nhà có thể có những thiết bị nào? |
-| **Phong:** My house might have some smart TVs and ten robots. | **Phong:** Nhà tớ có thể có một số TV thông minh và mười rô bốt. |
-| **Nick:** Sounds great! And how much will... | **Nick:** Nghe có vẻ thật tuyệt! Và sẽ tốn bao nhiêu... |
+**Nick:** What are you doing, Phong?
+**Phong:** I'm painting a picture of my house.
+**Nick:** Your house! That's a UFO.
+**Phong:** It looks like a UFO but it's my house in the future.
+**Nick:** Where will it be?
+**Phong:** It'll be in the mountains.
+**Nick:** What will it be like?
+**Phong:** It'll be a large house. It'll have twenty rooms.
+**Nick:** Twenty rooms!
+**Phong:** Yes, and it'll have solar energy.
+**Nick:** Fantastic! Which room will you like best?
+**Phong:** My bedroom, of course.
+**Nick:** What appliances might the house have?
+**Phong:** My house might have some smart TVs and ten robots.
+**Nick:** Sounds great! And how much will...
 </dialogue>
+
+<translation>
+**Nick:** Cậu đang làm gì vậy Phong?
+**Phong:** Tớ đang vẽ một bức tranh về ngôi nhà của tớ.
+**Nick:** Ngôi nhà của cậu! Đó là một UFO.
+**Phong:** Nó trông giống như UFO nhưng đó là ngôi nhà của tớ trong tương lai.
+**Nick:** Nó sẽ ở đâu?
+**Phong:** Nó sẽ ở trên núi.
+**Nick:** Nó sẽ như thế nào?
+**Phong:** Nó sẽ là một ngôi nhà lớn. Nó sẽ có hai mươi phòng.
+**Nick:** 20 phòng!
+**Phong:** Đúng vậy, và nó sẽ có năng lượng mặt trời.
+**Nick:** Tuyệt vời! Cậu sẽ thích phòng nào nhất?
+**Phong:** Tất nhiên là phòng ngủ của tớ.
+**Nick:** Ngôi nhà có thể có những thiết bị nào?
+**Phong:** Nhà tớ có thể có một số TV thông minh và mười rô bốt.
+**Nick:** Nghe có vẻ thật tuyệt! Và sẽ tốn bao nhiêu...
+</translation>
 
 <teacher_script pause="180">
 Đọc hội thoại và dịch vô vở nha. 3 phút.
@@ -219,26 +235,36 @@ Bài 5 <eng>In groups, describe to your classmates what you can see outside the 
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Example:** | **Ví dụ:** |
-| **A:** Outside my window I can see the beach and the water. Where's my house? | **A:** Bên ngoài cửa sổ của tôi, tôi có thể nhìn thấy bãi biển và mặt nước. Nhà tôi ở đâu? |
-| **B:** It's in the sea. | **B:** Nó ở biển. |
-| **A:** Correct. | **A:** Đúng. |
+**Example:**
+**A:** Outside my window I can see the beach and the water. Where's my house?
+**B:** It's in the sea.
+**A:** Correct.
 </dialogue>
+
+<translation>
+**Ví dụ:**
+**A:** Bên ngoài cửa sổ của tôi, tôi có thể nhìn thấy bãi biển và mặt nước. Nhà tôi ở đâu?
+**B:** Nó ở biển.
+**A:** Đúng.
+</translation>
 
 <teacher_script pause="0">
 Đây là mẫu câu trả lời nè.
 </teacher_script>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Sample answer:** | **Câu trả lời mẫu:** |
-| **A:** Outside my window I can see the building office and shopping center. Where's my house? | **A:** Bên ngoài cửa sổ của tôi, tôi có thể nhìn thấy văn phòng tòa nhà và trung tâm mua sắm. Nhà tôi ở đâu? |
-| **B:** It's in the city. | **B:** Nó ở trong thành phố. |
-| **A:** Correct. | **A:** Đúng vậy. |
+**Sample answer:**
+**A:** Outside my window I can see the building office and shopping center. Where's my house?
+**B:** It's in the city.
+**A:** Correct.
 </dialogue>
+
+<translation>
+**Câu trả lời mẫu:**
+**A:** Bên ngoài cửa sổ của tôi, tôi có thể nhìn thấy văn phòng tòa nhà và trung tâm mua sắm. Nhà tôi ở đâu?
+**B:** Nó ở trong thành phố.
+**A:** Đúng vậy.
+</translation>
 
 <teacher_script pause="120" action="record">
 Bây giờ các em tự nghĩ về ngôi nhà tương lai của mình và mô tả những gì có thể nhìn thấy qua cửa sổ nha. Dùng các cụm từ vừa học: in the mountains, by the sea, in the city, on the Moon, in the sky, in the countryside. Nói và ghi âm lại. 2 phút.

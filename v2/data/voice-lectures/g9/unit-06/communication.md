@@ -19,13 +19,18 @@ Bài 1 <eng>Listen and read the conversations. Pay attention to the highlighted 
 </audio>
 
 <dialogue>
-| English | Vietnamese |
-|---------|------------|
-| **Mike:** I will share with you the links about the ancient village of Duong Lam. | **Mike:** Mình sẽ chia sẻ với các bạn đường dẫn về làng cổ Đường Lâm. |
-| **Phong:** Thank you. | **Phong:** Cảm ơn bạn. |
-| **Mi:** I promise not to bring my dog to the picnic. | **Mi:** Tôi hứa sẽ không mang chó đi dã ngoại. |
-| **Ann:** Great! I appreciate it. | **Ann:** Tuyệt vời! Tôi rất cảm kích. |
+**Mike:** I will share with you the links about the ancient village of Duong Lam.
+**Phong:** Thank you.
+**Mi:** I promise not to bring my dog to the picnic.
+**Ann:** Great! I appreciate it.
 </dialogue>
+
+<translation>
+**Mike:** Mình sẽ chia sẻ với các bạn đường dẫn về làng cổ Đường Lâm.
+**Phong:** Cảm ơn bạn.
+**Mi:** Tôi hứa sẽ không mang chó đi dã ngoại.
+**Ann:** Tuyệt vời! Tôi rất cảm kích.
+</translation>
 
 <teacher_script pause="0">
 Hai cách đưa ra lời hứa nè:

@@ -70,14 +70,20 @@ Bài 2, đóng vai thực hiện hội thoại, chú ý ngữ điệu nha. 30 gi
 </task>
 
 <dialogue>
-| English | Vietnamese |
-|---------|-----------|
-| **Mum:** Have you packed for the trip tomorrow? ↗ | **Mẹ:** Con chuẩn bị đồ cho chuyến đi ngày mai chưa? |
-| **Mai:** Yes, I have. ↘ | **Mai:** Dạ rồi ạ. |
-| **Mum:** Why are you taking so little food? ↘ | **Mẹ:** Sao con mang ít đồ ăn vậy? |
-| **Mai:** Because I don't want to leave litter behind. ↘ It's not good for the environment. ↘ | **Mai:** Vì con không muốn xả rác. Nó không tốt cho môi trường ạ. |
-| **Mum:** That's a good idea. ↘ | **Mẹ:** Ý hay đó con. |
+**Mum:** Have you packed for the trip tomorrow? ↗
+**Mai:** Yes, I have. ↘
+**Mum:** Why are you taking so little food? ↘
+**Mai:** Because I don't want to leave litter behind. ↘ It's not good for the environment. ↘
+**Mum:** That's a good idea. ↘
 </dialogue>
+
+<translation>
+**Mẹ:** Con chuẩn bị đồ cho chuyến đi ngày mai chưa?
+**Mai:** Dạ rồi ạ.
+**Mẹ:** Sao con mang ít đồ ăn vậy?
+**Mai:** Vì con không muốn xả rác. Nó không tốt cho môi trường ạ.
+**Mẹ:** Ý hay đó con.
+</translation>
 
 <explanation>
 - "Have you packed...?" → Câu hỏi Yes/No → lên giọng ↗
