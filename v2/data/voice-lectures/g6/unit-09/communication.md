@@ -1,12 +1,12 @@
 # G6 UNIT-09 COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cd8be7bf.webm">
 Ok lớp 6, hôm nay học phần <eng>Communication</eng> nha. Mình sẽ học về câu cảm thán - <eng>Exclamatory Sentences</eng>. Đây là cách nói khi em muốn bày tỏ cảm xúc mạnh như ngạc nhiên, vui, hay thán phục. Mở sách trang 30 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_426c46ae.webm">
 Học từ vựng trước nha. Bài này có nhiều từ về địa danh nổi tiếng thế giới.
 </teacher_script>
 
@@ -28,7 +28,7 @@ Học từ vựng trước nha. Bài này có nhiều từ về địa danh nổ
 </vocabulary>
 
 <!-- chunk: grammar_exclamatory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9b527819.webm">
 Giờ học ngữ pháp về câu cảm thán nha. Câu cảm thán bắt đầu bằng <eng>What</eng> và kết thúc bằng dấu chấm than (!). Mục đích là để thể hiện cảm xúc mạnh - như "Đẹp quá!", "Hay quá!".
 </teacher_script>
 
@@ -38,7 +38,7 @@ Giờ học ngữ pháp về câu cảm thán nha. Câu cảm thán bắt đầu
 
 **Câu cảm thán (Exclamatory Sentences)**
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c592b55.webm">
 Công thức: <eng>What + (a/an) + tính từ + danh từ + !</eng>. Quan trọng là biết khi nào dùng <eng>a/an</eng>, khi nào không.
 </teacher_script>
 
@@ -56,7 +56,7 @@ What + tính từ + danh từ không đếm được! (KHÔNG có a/an)
 Ví dụ: What fresh air! (Không khí trong lành quá!)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_45a97285.webm">
 Mẹo nhớ nè: Chỉ danh từ số ít đếm được mới có <eng>a/an</eng>. Nếu là danh từ số nhiều (có s) hoặc không đếm được (như <eng>air, weather, water</eng>) thì KHÔNG có <eng>a/an</eng>.
 </teacher_script>
 
@@ -65,7 +65,7 @@ Mẹo nhớ nè: Chỉ danh từ số ít đếm được mới có <eng>a/an</e
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 30 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_27163b5c.webm">
 Bài 1. Nhìn bức tranh về thành phố và nghe các câu cảm thán. Em để ý cách dùng <eng>What</eng> để thể hiện cảm xúc nha.
 </teacher_script>
 
@@ -85,7 +85,7 @@ Bài 1. Nhìn bức tranh về thành phố và nghe các câu cảm thán. Em �
 3. What tall buildings! *(Những tòa nhà cao làm sao!)*
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4fab6c96.webm">
 Em thấy không: câu 1 và 2 có <eng>a</eng> vì <eng>city</eng> và <eng>sky</eng> là danh từ số ít đếm được. Câu 3 không có <eng>a</eng> vì <eng>buildings</eng> là số nhiều.
 </teacher_script>
 
@@ -94,7 +94,7 @@ Em thấy không: câu 1 và 2 có <eng>a</eng> vì <eng>city</eng> và <eng>sky
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 30 - Make exclamations
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e529dcfd.webm">
 Bài 2. Nhìn hình và viết câu cảm thán với <eng>What</eng>. Nhớ quy tắc: số ít có <eng>a/an</eng>, số nhiều và không đếm được thì không. 1 phút.
 </teacher_script>
 
@@ -142,7 +142,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 31 - City landmarks
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_16794588.webm">
 Bài 3. Viết tên các địa danh nổi tiếng dưới hình. Đây là những <eng>landmarks</eng> - địa danh nổi tiếng thế giới mà em nên biết. 45 giây.
 </teacher_script>
 
@@ -179,7 +179,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 31 - Match landmarks with descriptions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_58cb1008.webm">
 Bài 4. Đọc các đoạn mô tả và viết tên địa danh tương ứng. Chú ý các từ khóa như <eng>tower, clock, bell, theatre, shells, lion, fish</eng>. 1 phút.
 </teacher_script>
 
@@ -223,7 +223,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 31 - Quiz
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7e8bd92c.webm">
 Bài 5. Trả lời các câu hỏi quiz về các thành phố và địa danh. Đây là kiến thức về địa lý và du lịch nha. 1 phút.
 </teacher_script>
 
@@ -273,6 +273,6 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a2d74f80.webm">
 Ok hết bài <eng>Communication</eng>. Hôm nay em học được câu cảm thán với <eng>What</eng>. Nhớ: số ít có <eng>a/an</eng> (<eng>What a beautiful city!</eng>), số nhiều và không đếm được thì không (<eng>What nice people! What great weather!</eng>). Bài sau học Skills nha. Bye!
 </teacher_script>

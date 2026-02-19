@@ -1,12 +1,12 @@
 # G6 UNIT-09 SKILLS 1
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5894cfcd.webm">
 Ok lớp 6, hôm nay học <eng>Skills 1</eng> - Đọc và Nói nha. Mình sẽ đọc một tấm bưu thiếp (<eng>postcard</eng>) từ Stockholm - thủ đô Thụy Điển, rồi tập nói về một thành phố em biết. Mở sách trang 32 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9e31b37b.webm">
 Học từ vựng trước nha. Bài này có nhiều từ về du lịch và viết bưu thiếp.
 </teacher_script>
 
@@ -19,7 +19,7 @@ Học từ vựng trước nha. Bài này có nhiều từ về du lịch và vi
 5. **amazing** : (adj) tuyệt vời /əˈmeɪzɪŋ/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba68769f.webm">
 Mẹo nhớ nha:
 - <eng>Postcard</eng> = <eng>post</eng> (gửi) + <eng>card</eng> (thiệp) = bưu thiếp gửi qua đường bưu điện
 - <eng>Fika</eng> là văn hóa Thụy Điển - nghỉ giải lao uống cà phê với bánh ngọt, giống như người Việt mình uống trà đá vậy!
@@ -30,7 +30,7 @@ Mẹo nhớ nha:
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 32 - Discussion
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_52a16756.webm">
 Bài 1. Thảo luận về bưu thiếp. Khi nào người ta viết bưu thiếp? Họ viết gì trên đó? 1 phút suy nghĩ nha.
 </teacher_script>
 
@@ -57,7 +57,7 @@ Bài 1. Thảo luận về bưu thiếp. Khi nào người ta viết bưu thiế
 *(Người gửi thường viết về thời gian ở một thành phố - thời tiết, đồ ăn, nơi họ thăm, và cảm nhận.)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_12170f91.webm">
 Ngày xưa người ta hay gửi bưu thiếp khi đi du lịch vì chưa có điện thoại. Bây giờ ít hơn nhưng vẫn là cách thú vị để lưu giữ kỷ niệm. Em có thể viết bưu thiếp gửi ông bà khi đi chơi đó!
 </teacher_script>
 
@@ -66,7 +66,7 @@ Ngày xưa người ta hay gửi bưu thiếp khi đi du lịch vì chưa có đ
 <!-- chunk: reading -->
 ### Bài 2 trang 32 - Reading
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fb2a9f6f.webm">
 Bài 2. Đọc bưu thiếp của Mai gửi ông bà từ Stockholm và trả lời câu hỏi. Đây là bưu thiếp kể về kỳ nghỉ của Mai.
 </teacher_script>
 
@@ -92,7 +92,7 @@ Bài 2. Đọc bưu thiếp của Mai gửi ông bà từ Stockholm và trả l�
 | Love, Mai | Yêu ông bà, Mai |
 </reading>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_f4929ea7.webm">
 Đọc bưu thiếp và trả lời 4 câu hỏi trắc nghiệm. Chú ý các chi tiết: khách sạn có gì, họ đi đâu bằng xe đạp, "fika" là gì. 90 giây nha.
 </teacher_script>
 
@@ -139,7 +139,7 @@ Ok đáp án nè.
 **Đáp án:** 1.B | 2.A | 3.B | 4.C
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6e191e23.webm">
 Giải thích nha:
 - Câu 1: Chọn **B. a holiday** vì bưu thiếp kể về kỳ NGHỈ của Mai ở Stockholm, không chỉ nói về thời tiết hay phong cảnh.
 - Câu 2: Chọn **A. exercise** vì khách sạn có <eng>swimming pool</eng> (hồ bơi) và <eng>gym</eng> (phòng tập) - đây là nơi tập thể dục.
@@ -152,7 +152,7 @@ Giải thích nha:
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 32 - Matching
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_00a78aa7.webm">
 Bài 3. Đọc lại và nối địa điểm với những thứ chúng có. Khách sạn có gì? Phố Cổ có gì? 1 phút.
 </teacher_script>
 
@@ -184,7 +184,7 @@ Bài 3. Đọc lại và nối địa điểm với những thứ chúng có. Kh
 - e. Swedish art *(nghệ thuật Thụy Điển)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_69a2b32b.webm">
 Giải thích nha:
 - **Khách sạn** có: hồ bơi (<eng>swimming pool</eng>), phòng tập (<eng>gym</eng>), bữa sáng ngon (<eng>delicious breakfast</eng>).
 - **Phố Cổ** có: Cung điện Hoàng gia (<eng>Royal Palace</eng>) với nghệ thuật Thụy Điển (<eng>Swedish art</eng>), và quán cà phê truyền thống để uống <eng>fika</eng>.
@@ -195,7 +195,7 @@ Giải thích nha:
 <!-- chunk: speaking -->
 ### Bài 4 trang 32 - Speaking
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_1be24b1d.webm">
 Bài 4. Phần Nói. Chọn một thành phố em biết và trả lời các câu hỏi. Có thể chọn Vũng Tàu, Đà Nẵng, Hội An, Nha Trang... 2 phút suy nghĩ nha.
 </teacher_script>
 
@@ -220,7 +220,7 @@ Bài 4. Phần Nói. Chọn một thành phố em biết và trả lời các c�
 - **How do you feel about it?** → It's really great! It's a liveable place.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d815033f.webm">
 Mẹo nói nha:
 - Bắt đầu: <eng>It's [tên thành phố].</eng>
 - Mô tả: <eng>It has... / The weather is... / The food is...</eng>
@@ -233,7 +233,7 @@ Mẹo nói nha:
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 32 - Presentation
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_ca0b980b.webm">
 Bài 5. Chia sẻ với cả lớp về thành phố em chọn. Bắt đầu bằng câu: <eng>We're going to tell you about...</eng> Ghi âm bài nói gửi thầy nha.
 </teacher_script>
 
@@ -253,7 +253,7 @@ We're going to tell you about Vung Tau city. It has many beautiful beaches. The 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4708a97d.webm">
 Ok hết bài <eng>Skills 1</eng>. Hôm nay em học được:
 - Đọc hiểu bưu thiếp tiếng Anh về du lịch
 - Từ vựng: <eng>postcard, fantastic, rent, helmet, fika</eng>
