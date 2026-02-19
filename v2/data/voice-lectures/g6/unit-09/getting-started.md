@@ -12,12 +12,21 @@ Trước khi nghe hội thoại, mình học từ vựng trước nha. Những t
 
 <vocabulary>
 **Vocabulary**
-1. **landmark** : (n) địa danh /ˈlændmɑːk/
-2. **rainy** : (adj) có mưa /ˈreɪni/
-3. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
-4. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
-5. **interesting** : (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/
-6. **delicious** : (adj) ngon (thức ăn) /dɪˈlɪʃəs/
+1. **holiday** : (n) kỳ nghỉ, ngày lễ /ˈhɒlɪdeɪ/
+2. **landmark** : (n) địa danh /ˈlændmɑːk/
+3. **exciting** : (adj) thú vị, hào hứng /ɪkˈsaɪtɪŋ/
+4. **a lot of** : rất nhiều /ə lɒt əv/
+5. **beach** : (n) bãi biển /biːtʃ/
+6. **wonderful** : (adj) tuyệt vời /ˈwʌndəfʊl/
+7. **rainy** : (adj) có mưa /ˈreɪni/
+8. **rain** : (n) cơn mưa; (v) mưa /reɪn/
+9. **crowded** : (adj) đông đúc /ˈkraʊdɪd/
+10. **interesting** : (adj) thú vị, hấp dẫn /ˈɪntrəstɪŋ/
+11. **delicious** : (adj) ngon (thức ăn) /dɪˈlɪʃəs/
+12. **What's it like?** : Nó như thế nào? /wɒts ɪt laɪk/
+13. **What a beautiful place!** : Thật là một nơi đẹp! /wɒt ə ˈbjuːtɪfʊl pleɪs/
+14. **What bad weather!** : Thời tiết thật tệ! /wɒt bæd ˈweðə/
+15. **the River Thames** : sông Thames /ðə ˈrɪvə temz/
 </vocabulary>
 
 <!-- chunk: audio -->

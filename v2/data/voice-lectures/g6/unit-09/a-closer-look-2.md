@@ -62,11 +62,30 @@ Ok đáp án nè.
 **Đáp án:** 1 - d | 2 - e | 3 - b | 4 - a | 5 - c
 
 **Giải thích:**
-- Câu 1: **her** là "của cô ấy" → Sue không thích váy mới
-- Câu 2: **his** là "của anh ấy" → Billy đang đi xe đạp
-- Câu 3: **its** là "của nó" → con mèo chơi bóng
-- Câu 4: **our** là "của chúng tôi" → yêu trường
-- Câu 5: **their** là "của họ" → sơn phòng
+- **Câu 1:** Sue doesn't like **her** new dress.
+  → Danh từ: **new dress** (chiếc váy mới)
+  → Dịch: Sue không thích chiếc váy mới **của cô ấy**.
+  → Sue là nữ (she) → tính từ sở hữu = **her**
+
+- **Câu 2:** Billy is riding **his** bicycle.
+  → Danh từ: **bicycle** (xe đạp)
+  → Dịch: Billy đang đi xe đạp **của anh ấy**.
+  → Billy là nam (he) → tính từ sở hữu = **his**
+
+- **Câu 3:** The cat is playing with **its** ball.
+  → Danh từ: **ball** (quả bóng)
+  → Dịch: Con mèo đang chơi với quả bóng **của nó**.
+  → The cat là con vật (it) → tính từ sở hữu = **its**
+
+- **Câu 4:** We love **our** school.
+  → Danh từ: **school** (trường học)
+  → Dịch: Chúng tôi yêu trường học **của chúng tôi**.
+  → We (chúng tôi) → tính từ sở hữu = **our**
+
+- **Câu 5:** They are painting **their** room pink.
+  → Danh từ: **room** (phòng)
+  → Dịch: Họ đang sơn phòng **của họ** màu hồng.
+  → They (họ) → tính từ sở hữu = **their**
 </answer>
 
 <!-- chunk: exercise_2 -->
@@ -293,7 +312,7 @@ Từ vựng bổ sung nè:
 - <eng>strange</eng> /streɪndʒ/ = xa lạ, kỳ lạ
 - <eng>cartoon</eng> /kɑːˈtuːn/ = phim hoạt hình
 - <eng>map</eng> /mæp/ = bản đồ
-- <eng>present</eng> /ˈprizent/ = món quà
+- <eng>present</eng> /ˈpreznt/ = món quà
 
 Bye!
 </teacher_script>

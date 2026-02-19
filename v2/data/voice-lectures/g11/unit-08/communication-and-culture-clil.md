@@ -20,6 +20,16 @@ Học từ vựng trước nha.
 6. **teenage** : (adj) tuổi teen /ˈtiːneɪdʒ/
 7. **earn** : (v) kiếm tiền /ɜːrn/
 8. **part-time job** : (n phr) công việc bán thời gian /ˌpɑːrt taɪm dʒɒb/
+9. **encourage** : (v) khuyến khích /ɪnˈkʌrɪdʒ/
+10. **responsibility** : (n) trách nhiệm /rɪˌspɒnsəˈbɪlɪti/
+11. **freedom** : (n) tự do /ˈfriːdəm/
+12. **diploma** : (n) bằng tốt nghiệp /dɪˈpləʊmə/
+13. **extracurricular** : (adj) ngoại khóa /ˌekstrəkəˈrɪkjələr/
+14. **motivated** : (adj) có động lực /ˈməʊtɪveɪtɪd/
+15. **volunteer** : (v) tình nguyện; (n) tình nguyện viên /ˌvɒlənˈtɪər/
+16. **community service** : (n phr) dịch vụ cộng đồng /kəˈmjuːnɪti ˈsɜːvɪs/
+17. **babysitting** : (n) trông trẻ /ˈbeɪbiˌsɪtɪŋ/
+18. **admission** : (n) sự nhận vào (đại học) /ədˈmɪʃən/
 </vocabulary>
 
 <!-- chunk: everyday_english_1 -->

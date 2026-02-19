@@ -29,6 +29,14 @@ Chúng ta cùng học từ vựng mới. Các em hãy nghe và lặp lại theo 
 15. **spring \- sprang/sprung \- sprung** : (n) mùa xuân; (v) nhảy, bật lên /sprɪŋ \- spræŋ/sprʌŋ \- sprʌŋ/
 16. **usually** : (adv) thường thường, thường xuyên /ˈjuːʒuəli/
 17. **watch** : (v) xem, theo dõi; (n) đồng hồ đeo tay /wɒtʃ/
+18. **wish** : (n) điều ước /wɪʃ/
+19. **fun** : (n) niềm vui, sự vui vẻ /fʌn/
+20. **special food** : (n phr) đặc sản, món ăn đặc biệt /ˈspeʃəl fuːd/
+21. **furniture** : (n) đồ nội thất /ˈfɜːnɪtʃə/
+22. **celebrate** : (v) tổ chức, kỷ niệm /ˈselɪbreɪt/
+23. **peach blossom** : (n phr) hoa đào /piːtʃ ˈblɒsəm/
+24. **shopping** : (n) mua sắm /ˈʃɒpɪŋ/
+25. **lucky money** : (n phr) tiền lì xì /ˈlʌki ˈmʌni/
 </vocabulary>
 
 <!-- chunk: audio -->
