@@ -3,7 +3,7 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 9, bài <eng>Skills 1</eng> — <eng>Unit 2: City Life</eng>. Hôm nay mình đọc bài về thành phố xanh trong tương lai, rồi luyện nói về các vấn đề giao thông đô thị. Trước tiên học từ vựng đi nha — bấm "Bắt đầu" rồi đọc theo.
+Ok lớp 9, bài <eng>Skills 1</eng> — <eng>Unit 2: City Life</eng>. Hôm nay mình đọc thông báo về cuộc thi <eng>Teenovator</eng>, rồi luyện nói về các vấn đề và giải pháp cho thành phố. Trước tiên học từ vựng đi nha — bấm "Bắt đầu" rồi đọc theo.
 </teacher_script>
 
 <vocabulary>
@@ -31,21 +31,23 @@ Ghi từ vựng vô tập xong chưa? Chú ý "dessert" — tráng miệng — c
 
 <!-- chunk: reading -->
 <teacher_script pause="0">
-Bài đọc tên là <eng>"A Green City for the Future"</eng> — Thành phố xanh cho tương lai. Đọc qua một lần rồi trả lời câu hỏi nha.
+Bài đọc là thông báo về cuộc thi <eng>Teenovator</eng> — cuộc thi dành cho thanh thiếu niên tìm giải pháp cho các vấn đề của thành phố. Đọc qua một lần rồi làm bài tập nha.
 </teacher_script>
 
 <reading>
-## A Green City for the Future
+Teenovator is an annual competition by the City Teen Council. We ask teens to find problems of the city and suggest solutions. Here are this year's winners
 
-Cities around the world are trying to become greener and more sustainable. In Oslo, Norway, the government has introduced electric trams and buses to cut down on pollution. Cyclists can get around freely using a network of bike lanes that stretch across the city.
+1. \_\_\_\_\_\_\_\_\_: Central School
 
-In Singapore, skyscrapers are covered with plants and gardens to keep the air clean and buildings cool, reducing the need for air conditioning. Cafeterias in public buildings are required to use leftover food to make biogas, which is then used to generate electricity.
+They see that the more developed a city is, the more food people throw away. They suggest carrying out a project which turns food waste into energy. Students would sort their leftovers at school canteens. A nearby farm would come to take the food waste and process it into biogas.
 
-Public amenities like parks, libraries, and sports centres are particularly important in making cities liveable. Citizens are encouraged not to throw away food — they can bring leftovers to community centres where they are processed into compost.
+2. \_\_\_\_\_\_\_\_\_: Bookworm Team
 
-In addition, many schools have drop-off and pick-up zones to reduce the number of vehicles near school gates during rush hour. Urban planners suggest that by 2050, most people will live in smart cities where technology helps manage traffic, waste, and energy automatically.
+This team feels that many public amenities, particularly the city library, are not teen-friendly. They suggest a list of changes so that the library can attract more teens. Some of them include designing lively learning spaces for teens and having teen's favourite desserts in the cafeteria.
 
-These changes are making city life cleaner, greener, and more enjoyable for everyone.
+3. \_\_\_\_\_\_\_\_\_: Helena Wilson
+
+Helena realises that there are too many vehicles around school gates. This is unsafe for children who walk to school. She suggests that the city authorities not allow cars at school gates at drop-off and pick-up times. In addition, they should not let motorbikes park on the pavement near school gates.
 </reading>
 
 <teacher_script pause="180">
@@ -54,114 +56,146 @@ These changes are making city life cleaner, greener, and more enjoyable for ever
 
 <!-- chunk: translation -->
 <translation>
-## Thành phố xanh cho tương lai
+Teenovator là cuộc thi thường niên do Hội đồng Thanh thiếu niên Thành phố tổ chức. Chúng tôi yêu cầu thanh thiếu niên tìm ra các vấn đề của thành phố và đề xuất giải pháp. Đây là những người chiến thắng năm nay
 
-Các thành phố trên thế giới đang cố gắng trở nên xanh hơn và bền vững hơn. Tại Oslo, Na Uy, chính phủ đã đưa vào sử dụng xe điện và xe buýt điện để giảm ô nhiễm. Người đi xe đạp có thể di chuyển thoải mái nhờ hệ thống làn đường xe đạp trải rộng khắp thành phố.
+1. Thành phố thực phẩm thông minh: Trường trung học
 
-Tại Singapore, các tòa nhà chọc trời được phủ cây xanh và vườn cây để giữ không khí trong lành và làm mát tòa nhà, giảm nhu cầu sử dụng điều hòa không khí. Căng tin trong các tòa nhà công cộng được yêu cầu sử dụng thức ăn thừa để sản xuất khí sinh học, sau đó dùng để phát điện.
+Họ thấy rằng thành phố càng phát triển thì người ta càng vứt đi nhiều thức ăn hơn. Họ đề nghị thực hiện một dự án biến chất thải thực phẩm thành năng lượng. Học sinh sẽ phân loại thức ăn thừa tại căng tin của trường. Một trang trại gần đó sẽ đến lấy chất thải thực phẩm và xử lý thành khí sinh học.
 
-Các tiện ích công cộng như công viên, thư viện và trung tâm thể thao đặc biệt quan trọng trong việc làm cho thành phố trở nên đáng sống. Người dân được khuyến khích không vứt bỏ thức ăn — họ có thể mang thức ăn thừa đến các trung tâm cộng đồng, nơi chúng được xử lý thành phân bón.
+2. Thành phố thân thiện với tuổi teen: Đội Mọt sách
 
-Ngoài ra, nhiều trường học có khu vực thả và đón học sinh để giảm số lượng phương tiện gần cổng trường vào giờ cao điểm. Các nhà quy hoạch đô thị đề xuất rằng đến năm 2050, hầu hết mọi người sẽ sống trong các thành phố thông minh, nơi công nghệ giúp quản lý giao thông, rác thải và năng lượng một cách tự động.
+Nhóm này cảm thấy nhiều tiện ích công cộng, đặc biệt là thư viện thành phố, không thân thiện với thanh thiếu niên. Họ đề xuất một danh sách những thay đổi để thư viện có thể thu hút nhiều thanh thiếu niên hơn. Một số trong số đó bao gồm thiết kế không gian học tập sinh động cho thanh thiếu niên và thưởng thức các món tráng miệng yêu thích của thanh thiếu niên tại căng tin.
 
-Những thay đổi này đang làm cho cuộc sống thành phố sạch hơn, xanh hơn và thú vị hơn cho tất cả mọi người.
+3. Thành phố an toàn trên đường phố: Helena Wilson
+
+Helena nhận ra có quá nhiều phương tiện xung quanh cổng trường. Điều này không an toàn cho trẻ em đi bộ đến trường. Cô đề nghị chính quyền thành phố không cho phép ô tô vào cổng trường vào giờ đưa đón. Ngoài ra, không nên để xe máy đỗ trên vỉa hè gần cổng trường.
 </translation>
 
 <teacher_script pause="0">
 Dịch xong rồi, giờ làm bài tập nha!
 </teacher_script>
 
-<!-- chunk: exercise-2-mcq -->
+<!-- chunk: exercise-2-matching -->
 <teacher_script pause="60">
-<eng>Exercise 2</eng> — trắc nghiệm nha. Đọc câu và chọn đáp án đúng nhất theo bài đọc. Có 3 câu, làm 60 giây đi.
+<eng>Bài 2</eng> — nối chủ đề với người chiến thắng nha. Đọc thông báo và nối các chủ đề với đội chiến thắng phù hợp. Có một chủ đề thừa. Làm 60 giây đi.
 </teacher_script>
 
 <task>
-**Đề:** Choose the best answer (A, B, or C) based on the reading.
-**Dịch đề:** Chọn đáp án đúng nhất (A, B, hoặc C) dựa vào bài đọc.
+**Đề:** Read part of an announcement about the Teenovator competition. Match the topics in the competition with their winners. There is one extra topic.
+**Dịch đề:** Đọc một phần thông báo về cuộc thi Teenovator. Hãy nối các chủ đề trong cuộc thi với người chiến thắng. Có một chủ đề thừa.
+</task>
+
+<questions type="matching">
+**Danh sách chủ đề:**
+
+A. The street-safe city *(Thành phố với đường phố an toàn)*
+
+B. The teen-friendly city *(Thành phố thân thiện với thanh thiếu niên)*
+
+C. The food-smart city *(Thành phố thực phẩm thông minh)*
+
+D. The waste-free city *(Thành phố không rác thải)*
+
+**1.** \_\_\_\_\_: Central School
+
+**2.** \_\_\_\_\_: Bookworm Team
+
+**3.** \_\_\_\_\_: Helena Wilson
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Bài 2 - Đáp án:** 1.C | 2.B | 3.A
+</answer>
+
+<explanation>
+**1. C — The food-smart city**: Central School — Nhóm này nói về chất thải thực phẩm và dự án biến food waste thành biogas → chủ đề "thành phố thực phẩm thông minh". D (waste-free) bị loại vì chủ đề không khớp.
+
+**2. B — The teen-friendly city**: Bookworm Team — Nhóm này muốn thư viện và tiện ích công cộng thân thiện hơn với thanh thiếu niên → "thành phố thân thiện với teen".
+
+**3. A — The street-safe city**: Helena Wilson — Helena lo ngại xe cộ quanh cổng trường gây nguy hiểm cho trẻ đi bộ → "thành phố an toàn trên đường phố".
+
+**Chủ đề thừa: D — The waste-free city** — Không có đội nào được giao chủ đề này.
+</explanation>
+
+<!-- chunk: exercise-3-mcq -->
+<teacher_script pause="60">
+<eng>Bài 3</eng> — đọc lại thông báo và chọn câu trả lời đúng nha. Có 5 câu, làm 60 giây đi.
+</teacher_script>
+
+<task>
+**Đề:** Read the announcement again. Choose the correct answer.
+**Dịch đề:** Đọc lại thông báo. Chọn câu trả lời đúng.
 </task>
 
 <questions type="multiple_choice">
-**1.** How does Oslo reduce pollution?
-- A. By building gardens on skyscrapers
-- B. By introducing drop-off zones
-- C. By using electric trams and buses
-*(Oslo giảm ô nhiễm bằng cách nào?)*
+**1.** How often does the City Teen Council organise the Teenovator competition?
 
-**2.** What does Singapore do to keep its buildings cool?
-- A. It uses powerful air conditioning
-- B. It covers buildings with plants and gardens
-- C. It builds parks near every skyscraper
-*(Singapore làm gì để làm mát các tòa nhà?)*
+- A. Once a year.
+- B. Twice a year.
+- C. Every two years.
+- D. Every three years.
 
-**3.** What happens to leftover food in public buildings?
-- A. It is thrown away each evening
-- B. It is sold at a discount
-- C. It is used to make biogas and electricity
-*(Thức ăn thừa trong tòa nhà công cộng được dùng để làm gì?)*
+*(Hội đồng Thanh thiếu niên Thành phố tổ chức cuộc thi Teenovator thường xuyên như thế nào?)*
+
+**2.** Who would partner with Central School in Topic 1?
+
+- A. The city council.
+- B. The university's canteen.
+- C. A biogas factory.
+- D. A nearby farm.
+
+*(Ai sẽ hợp tác với Trường Central trong Chủ đề 1?)*
+
+**3.** What does the word "them" in Topic 2 refer to?
+
+- A. Teen users.
+- B. Changes.
+- C. Learning spaces.
+- D. Libraries.
+
+*(Từ "them" ở Chủ đề 2 dùng để chỉ điều gì?)*
+
+**4.** Which topic has an individual winner?
+
+- A. Topic 1.
+- B. Topic 2.
+- C. Topic 3.
+- D. All topics.
+
+*(Chủ đề nào có cá nhân đạt giải?)*
+
+**5.** Which of the following is INCORRECT about Helena Wilson?
+
+- A. She suggests banning bikes at school gates.
+- B. She wants the city authorities to take action.
+- C. She thinks cars moving near school gates can cause accidents to children.
+- D. Her concern is road safety around school for children.
+
+*(Câu nào sau đây KHÔNG ĐÚNG về Helena Wilson?)*
 </questions>
 
 <teacher_script pause="0">
-Đáp án nè, giải thích luôn nha!
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.C | 2.B | 3.C
+**Bài 3 - Đáp án:** 1.A | 2.D | 3.B | 4.C | 5.A
 </answer>
 
 <explanation>
-**1. C — By using electric trams and buses** — Bài đọc viết rõ: *"the government has introduced electric trams and buses to cut down on pollution"*. Oslo dùng tàu điện và xe buýt điện để giảm ô nhiễm, không phải làm vườn trên nhà cao tầng (đó là Singapore).
+**1. A — Once a year** — Bài viết: *"Teenovator is an annual competition"* — "annual" = hàng năm = một lần một năm.
 
-**2. B — It covers buildings with plants and gardens** — Bài đọc viết: *"skyscrapers are covered with plants and gardens to keep the air clean and buildings cool"*. Singapore phủ cây xanh lên các tòa nhà để làm mát, không phải dùng máy lạnh.
+**2. D — A nearby farm** — Bài viết: *"A nearby farm would come to take the food waste and process it into biogas."* → Trang trại gần đó sẽ hợp tác với Central School, không phải nhà máy biogas.
 
-**3. C — It is used to make biogas and electricity** — Bài đọc viết: *"Cafeterias... are required to use leftover food to make biogas, which is then used to generate electricity"*. Thức ăn thừa → khí sinh học → điện. Không phải bị vứt đi hay bán giảm giá.
-</explanation>
+**3. B — Changes** — Câu đầy đủ: *"They suggest a list of **changes**... Some of **them** include..."* → "them" = those changes = những thay đổi đó.
 
-<!-- chunk: exercise-3-answer-questions -->
-<teacher_script pause="60">
-<eng>Exercise 3</eng> — trả lời câu hỏi bằng câu đầy đủ nha. Dựa vào bài đọc. Có 5 câu, làm 60 giây đi.
-</teacher_script>
+**4. C — Topic 3** — Topic 1: Central School (cả trường), Topic 2: Bookworm Team (cả đội), Topic 3: Helena Wilson (cá nhân). Chỉ Topic 3 có winner là một người.
 
-<task>
-**Đề:** Answer the questions in full sentences based on the reading.
-**Dịch đề:** Trả lời các câu hỏi bằng câu đầy đủ dựa vào bài đọc.
-</task>
-
-<questions type="complete_sentences">
-**1.** How does Oslo help cyclists get around the city?
-
-**2.** How does Singapore keep its buildings cool without air conditioning?
-
-**3.** Why do cafeterias in Singapore collect leftover food?
-
-**4.** What can citizens do with their leftover food instead of throwing it away?
-
-**5.** How will smart cities manage daily life by 2050?
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè!
-</teacher_script>
-
-<answer>
-**Bài 3 - Đáp án:**
-1. Oslo helps cyclists get around by building a network of bike lanes that stretch across the city.
-2. Singapore keeps its buildings cool by covering skyscrapers with plants and gardens.
-3. Cafeterias collect leftover food to make biogas, which is used to generate electricity.
-4. Citizens can bring their leftovers to community centres where they are processed into compost.
-5. Smart cities will use technology to help manage traffic, waste, and energy automatically.
-</answer>
-
-<explanation>
-**1.** Tìm trong đoạn 1: *"Cyclists can get around freely using a network of bike lanes that stretch across the city."* → Trả lời: Oslo xây làn đường xe đạp khắp thành phố.
-
-**2.** Tìm trong đoạn 2: *"skyscrapers are covered with plants and gardens to keep the air clean and buildings cool"* → Phủ cây xanh lên tòa nhà thay vì dùng máy lạnh.
-
-**3.** Tìm trong đoạn 2: *"use leftover food to make biogas, which is then used to generate electricity"* → Thu thức ăn thừa để làm khí sinh học rồi phát điện.
-
-**4.** Tìm trong đoạn 3: *"they can bring leftovers to community centres where they are processed into compost"* → Mang đến trung tâm cộng đồng để xử lý thành phân bón.
-
-**5.** Tìm trong đoạn 4: *"technology helps manage traffic, waste, and energy automatically"* → Công nghệ quản lý giao thông, rác thải và năng lượng tự động.
+**5. A — She suggests banning bikes at school gates** — SAI vì Helena nói cấm ô tô và xe máy đỗ vỉa hè, không đề cập đến xe đạp. Bài viết: *"not allow cars at school gates... not let motorbikes park on the pavement"* — không có bikes.
 </explanation>
 
 <!-- chunk: exercise-4-speaking-city-problems -->
@@ -209,5 +243,5 @@ Dịch xong rồi, giờ làm bài tập nha!
 </questions>
 
 <teacher_script pause="0">
-Xong bài <eng>Skills 1</eng> rồi nha! Hôm nay đọc bài về thành phố xanh, học từ mới, và luyện nói về vấn đề đô thị. Về nhà đọc lại bài và ôn từ vựng nha. Giỏi lắm cả lớp!
+Xong bài <eng>Skills 1</eng> rồi nha! Hôm nay đọc thông báo cuộc thi <eng>Teenovator</eng>, học từ mới, làm bài nối chủ đề và trắc nghiệm, rồi luyện nói về vấn đề đô thị. Về nhà đọc lại bài và ôn từ vựng nha. Giỏi lắm cả lớp!
 </teacher_script>

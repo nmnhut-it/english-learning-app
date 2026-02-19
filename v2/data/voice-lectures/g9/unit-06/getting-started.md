@@ -31,31 +31,41 @@ Xong từ vựng rồi nha. Làm bài trắc nghiệm từ vựng đi, sau đó 
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Giờ mình vô bài đọc chính nha. Đây là hội thoại giữa bà Grandma và cháu gái Linh — hai bà cháu đang nói chuyện về cuộc sống ngày xưa và bây giờ. Nghe và đọc theo nha.
+Giờ mình vô bài đọc chính nha. Đây là hội thoại giữa Phong và ông nội — hai ông cháu đang nói chuyện về cuộc sống ngày xưa và bây giờ. Nghe và đọc theo nha.
 </teacher_script>
 
 <dialogue>
-**Linh:** Grandma, what did you do for fun when you were young?
-**Grandma:** In my day, we made our own toys from natural materials — bamboo, clay, and cloth.
-**Linh:** Really? We just buy everything now.
-**Grandma:** And clothes cost little — we often dyed them purple or red at home using plant extracts.
-**Linh:** That sounds fun! Now we just scroll online for hours. Do you mind if I show you TikTok?
-**Grandma:** Ha! When I was your age, our only electronic device was a radio.
-**Linh:** And leisure? What did you do?
-**Grandma:** We mostly played outside — catching fish in streams, flying kites. We depended on nature. Your generation has more freedom of choice, but I think you also have more stress.
-**Linh:** You're right, Grandma. I think living conditions are better now, but we've lost some simple joys.
+| English | Vietnamese |
+|---------|------------|
+| **Phong:** Grandpa, do you mind telling me how our lives are different from yours in the past? | **Phong:** Ông ơi, ông có phiền cho cháu biết cuộc sống của chúng cháu khác với ông ngày xưa như thế nào không? |
+| **Grandpa:** Well, there are many differences. In my day, we mostly played outdoors. The games were simple and cost little. We made our own toys from natural materials. | **Ông nội:** À, có nhiều điểm khác biệt. Vào thời của ông, chúng tôi chủ yếu chơi ngoài trời. Các trò chơi rất đơn giản và tốn ít chi phí. Chúng tôi tự làm đồ chơi từ vật liệu tự nhiên. |
+| **Phong:** That sounds interesting. Nowadays, most leisure games depend on electronic devices. | **Phong:** Nghe có vẻ thú vị. Ngày nay, hầu hết các trò chơi giải trí đều phụ thuộc vào thiết bị điện tử. |
+| **Grandpa:** Right, but that is mostly true in the city only. Many children in the countryside still play traditional games. | **Ông:** Đúng rồi, nhưng điều đó hầu như chỉ đúng ở thành phố thôi. Nhiều trẻ em ở nông thôn vẫn chơi các trò chơi truyền thống. |
+| **Phong:** I know. | **Phong:** Cháu biết. |
+| **Grandpa:** Another thing is that children nowadays have more freedom of choice. They wear short dresses and jeans with holes. They also dye their hair purple and green. | **Ông:** Một điều nữa là trẻ em ngày nay có nhiều quyền tự do lựa chọn hơn. Họ mặc váy ngắn và quần jean có lỗ. Họ cũng nhuộm tóc màu tím và xanh lá cây. |
+| **Phong:** Ha ha... Not many, Grandpa. | **Phong:** Ha ha... Không nhiều đâu ông nội. |
+| **Grandpa:** Hm... And many children of my generation left school early to support their families. Moreover, there were not many schools then. | **Ông:** Ừm... Và nhiều đứa trẻ thế hệ của ông đã nghỉ học sớm để phụ giúp gia đình. Hơn nữa, hồi đó không có nhiều trường học. |
+| **Phong:** You mean we have more opportunities to learn now? | **Phong:** Ý ông là bây giờ chúng ta có nhiều cơ hội học hỏi hơn? |
+| **Grandpa:** That's right. | **Ông nội:** Đúng rồi. |
+| **Phong:** Do you think these changes are for the better? | **Phong:** Ông có nghĩ những thay đổi này là tốt hơn không? |
+| **Grandpa:** Yes, they mostly are. They have improved our living conditions. | **Ông nội:** Đúng, hầu hết là như vậy. Chúng đã cải thiện điều kiện sống của chúng ta. |
+| **Phong:** Thank you, Grandpa. | **Phong:** Cảm ơn ông nội. |
 </dialogue>
 
 <translation>
-**Linh:** Bà ơi, hồi nhỏ bà làm gì cho vui vậy?
-**Bà:** Thời bà còn trẻ, tụi bà tự làm đồ chơi từ vật liệu tự nhiên — tre, đất sét và vải.
-**Linh:** Thật không ạ? Bây giờ mình mua hết rồi bà.
-**Bà:** Và quần áo thì tốn ít tiền lắm — tụi bà hay nhuộm màu tím hoặc đỏ bằng chiết xuất từ cây cỏ tại nhà.
-**Linh:** Nghe hay ghê! Bây giờ tụi con lướt mạng cả tiếng đồng hồ. Bà có phiền không nếu con cho bà xem TikTok?
-**Bà:** Ha! Hồi bằng tuổi cháu, thiết bị điện tử duy nhất của tụi bà là cái đài radio.
-**Linh:** Còn thời gian rảnh thì sao ạ? Bà làm gì vậy?
-**Bà:** Tụi bà chủ yếu chơi ngoài trời — bắt cá dưới suối, thả diều. Tụi bà phụ thuộc vào thiên nhiên. Thế hệ của cháu có nhiều sự tự do lựa chọn hơn, nhưng bà nghĩ cháu cũng căng thẳng hơn đó.
-**Linh:** Bà nói đúng đó. Con nghĩ điều kiện sống bây giờ tốt hơn, nhưng mình đã mất đi một số niềm vui đơn giản rồi.
+**Phong:** Ông ơi, ông có phiền cho cháu biết cuộc sống của chúng cháu khác với ông ngày xưa như thế nào không?
+**Ông nội:** À, có nhiều điểm khác biệt. Vào thời của ông, chúng tôi chủ yếu chơi ngoài trời. Các trò chơi rất đơn giản và tốn ít chi phí. Chúng tôi tự làm đồ chơi từ vật liệu tự nhiên.
+**Phong:** Nghe có vẻ thú vị. Ngày nay, hầu hết các trò chơi giải trí đều phụ thuộc vào thiết bị điện tử.
+**Ông:** Đúng rồi, nhưng điều đó hầu như chỉ đúng ở thành phố thôi. Nhiều trẻ em ở nông thôn vẫn chơi các trò chơi truyền thống.
+**Phong:** Cháu biết.
+**Ông:** Một điều nữa là trẻ em ngày nay có nhiều quyền tự do lựa chọn hơn. Họ mặc váy ngắn và quần jean có lỗ. Họ cũng nhuộm tóc màu tím và xanh lá cây.
+**Phong:** Ha ha... Không nhiều đâu ông nội.
+**Ông:** Ừm... Và nhiều đứa trẻ thế hệ của ông đã nghỉ học sớm để phụ giúp gia đình. Hơn nữa, hồi đó không có nhiều trường học.
+**Phong:** Ý ông là bây giờ chúng ta có nhiều cơ hội học hỏi hơn?
+**Ông nội:** Đúng rồi.
+**Phong:** Ông có nghĩ những thay đổi này là tốt hơn không?
+**Ông nội:** Đúng, hầu hết là như vậy. Chúng đã cải thiện điều kiện sống của chúng ta.
+**Phong:** Cảm ơn ông nội.
 </translation>
 
 <teacher_script pause="180">
@@ -64,32 +74,35 @@ Dịch hội thoại vô vở nha. Có 3 phút — ghi đủ cả hai cột ti�
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 nha. <eng>Multiple choice</eng> — chọn đáp án đúng. Nhìn lại hội thoại rồi chọn đi, có 1 phút nha.
+Bài 2 nha. <eng>Read the conversation again and circle the correct answers</eng> — đọc lại hội thoại rồi khoanh tròn đáp án đúng. Có 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Choose the best answer A, B, or C.
-**Dịch đề:** Chọn đáp án đúng nhất A, B hoặc C.
+**Đề:** Read the conversation again and circle the correct answers.
+**Dịch đề:** Đọc lại đoạn hội thoại và khoanh tròn những câu trả lời đúng.
 </task>
 
 <questions type="multiple_choice">
-**1.** What did Grandma make for fun when she was young?
-- A. Electronic devices
-- B. Kites and paper toys
-- C. Toys from natural materials
-*Khi còn nhỏ, bà đã làm gì để vui?*
+**1.** Phong and his grandpa are talking about some differences between ________.
+- A. children in the city and the countryside
+- B. the living standards in the past and now
+- C. life in the past and now
+- D. past and present entertainment
+*Phong và ông nội đang nói về sự khác biệt giữa ________.*
 
-**2.** How did Grandma's family colour their clothes?
-- A. They bought dyed clothes from the market
-- B. They dyed them at home using plant extracts
-- C. They used purple ink from the city
-*Gia đình bà đã nhuộm quần áo bằng cách nào?*
+**2.** Phong's grandpa mentions ________ differences.
+- A. two
+- B. three
+- C. four
+- D. five
+*Ông của Phong đề cập đến ________ điểm khác biệt.*
 
-**3.** What was the only electronic device in Grandma's time?
-- A. A radio
-- B. A television
-- C. A telephone
-*Thiết bị điện tử duy nhất thời bà là gì?*
+**3.** Phong's grandpa sees most of the changes as ________.
+- A. positive
+- B. negative
+- C. unnecessary
+- D. necessary
+*Ông của Phong thấy hầu hết những thay đổi là ________.*
 </questions>
 
 <teacher_script pause="0">
@@ -101,32 +114,32 @@ Ok đáp án bài 2 nè.
 </answer>
 
 <explanation>
-**1.C** — Bà nói rõ trong hội thoại: *"we made our own toys from natural materials — bamboo, clay, and cloth"* — đồ chơi tự làm từ tre, đất sét, vải nha.
+**1. C** — *Life in the past and now* (cuộc sống xưa và nay). Phong hỏi: *"how our lives are different from yours in the past"* — rõ ràng là so sánh cuộc sống chung, không phải chỉ tiêu chuẩn sống hay giải trí.
 
-**2.B** — Bà nói *"we often dyed them purple or red at home using plant extracts"* — nhuộm tại nhà bằng chiết xuất cây cỏ, không phải mua ngoài chợ.
+**2. B** — *Three* (ba điểm). Ông kể: (1) trẻ chủ yếu chơi ngoài trời, (2) trẻ ngày nay có nhiều tự do lựa chọn hơn, (3) trẻ thế hệ ông nghỉ học sớm. Đúng ba điểm nha.
 
-**3.A** — Bà nói *"our only electronic device was a radio"* — chỉ có một cái đài radio thôi nha. Không có TV hay điện thoại gì hết.
+**3. A** — *Positive* (tích cực). Ông nói: *"Yes, they mostly are. They have improved our living conditions."* — hầu hết thay đổi là tốt, tích cực.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 nha. Phân loại thông tin — cái nào thuộc về <eng>the past</eng> (ngày xưa), cái nào thuộc về <eng>the present</eng> (bây giờ). Đọc các mục a đến e rồi sắp xếp vô hai cột đi, có 1 phút nha.
+Bài 3 nha. <eng>Write the expressions from the conversation in the correct column</eng> — viết các cụm từ vào đúng cột <eng>The past</eng> hoặc <eng>The present</eng>. Có 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Sort the following into "The Past" or "The Present" based on the dialogue.
-**Dịch đề:** Phân loại các mục sau vào "Ngày xưa" hoặc "Hiện tại" dựa vào hội thoại.
+**Đề:** Write the expressions from the conversation in the correct column.
+**Dịch đề:** Viết các câu diễn đạt trong đoạn hội thoại vào đúng cột.
 
-a. Scroll on phone for hours
-b. Made own toys from natural materials
-c. Buy clothes online
-d. Use electronic devices all day
-e. Played outside mostly
+a. depend on electronic devices
+b. leave school early
+c. dye their hair
+d. have more opportunities to learn
+e. make toys from natural materials
 </task>
 
 <questions type="matching">
-**The Past / Ngày xưa:** ___
-**The Present / Hiện tại:** ___
+**The past / Quá khứ:** ___
+**The present / Hiện tại:** ___
 </questions>
 
 <teacher_script pause="0">
@@ -134,48 +147,49 @@ e. Played outside mostly
 </teacher_script>
 
 <answer>
-**The Past / Ngày xưa:** b, e
-**The Present / Hiện tại:** a, c, d
+**The past / Quá khứ:** b. leave school early | e. make toys from natural materials
+**The present / Hiện tại:** a. depend on electronic devices | c. dye their hair | d. have more opportunities to learn
 </answer>
 
 <explanation>
-**Ngày xưa (b, e):**
-- **(b)** Bà nói *"we made our own toys from natural materials"* — tự làm đồ chơi.
-- **(e)** Bà nói *"We mostly played outside"* — chủ yếu chơi ngoài trời.
+**Quá khứ (b, e):**
+- **(b)** *leave school early* — ông nói: *"many children of my generation left school early to support their families"*.
+- **(e)** *make toys from natural materials* — ông nói: *"We made our own toys from natural materials"*.
 
 **Hiện tại (a, c, d):**
-- **(a)** Linh nói *"we just scroll online for hours"* — lướt mạng cả tiếng.
-- **(c)** Linh nói *"We just buy everything now"* — mua hết trên mạng.
-- **(d)** Ngụ ý qua việc dùng TikTok, thiết bị điện tử cả ngày — thế hệ hiện đại mà nha.
+- **(a)** *depend on electronic devices* — Phong nói: *"most leisure games depend on electronic devices"*.
+- **(c)** *dye their hair* — ông nói trẻ ngày nay *"dye their hair purple and green"*.
+- **(d)** *have more opportunities to learn* — Phong hỏi: *"we have more opportunities to learn now?"* và ông xác nhận.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 nha. Điền từ vô chỗ trống. Chọn từ đúng trong ô rồi điền vô nha. Có 1 phút.
+Bài 4 nha. <eng>Complete the sentences with the words from the box</eng> — điền từ trong ô vào chỗ trống. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words from the box.
-**Dịch đề:** Điền từ đúng vào chỗ trống từ ô từ cho sẵn.
+**Đề:** Complete the sentences with the words from the box.
+**Dịch đề:** Hoàn thành câu với các từ trong khung.
 
-*Word box: dyed / generation / opportunity / materials / freedom*
+| opportunity &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; freedom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dyed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; generation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; materials |
+|---|
 </task>
 
 <questions type="fill_blanks">
-**1.** Grandma's family often ________ their clothes purple using plants at home.
-*Gia đình bà hay ________ quần áo thành màu tím bằng cây cỏ tại nhà.*
+**1.** A few teenagers in my village have ________ their hair brown.
+*Một vài thanh thiếu niên ở làng tôi đã ________ tóc màu nâu.*
 
-**2.** Your ________ has more choices than ours did.
-*________ của cháu có nhiều lựa chọn hơn thế hệ của bà.*
+**2.** Young people's lifestyle today is different from that of the previous ________.
+*Lối sống của giới trẻ ngày nay khác với ________ trước.*
 
-**3.** Today, students have the ________ to study abroad.
-*Ngày nay, học sinh có ________ để học ở nước ngoài.*
+**3.** Nowadays, nearly all young people have a(n) ________ to go to school.
+*Ngày nay hầu như tất cả thanh niên đều có ________ đến trường.*
 
-**4.** They made toys from natural ________ like bamboo and clay.
-*Họ làm đồ chơi từ ________ tự nhiên như tre và đất sét.*
+**4.** He wants to live green, so he uses products made from natural ________.
+*Muốn sống xanh nên sử dụng sản phẩm làm từ ________ tự nhiên.*
 
-**5.** We now have more ________ of choice in what we wear.
-*Bây giờ chúng ta có nhiều ________ lựa chọn hơn về trang phục.*
+**5.** My parents give me ________ to pursue my own interests.
+*Cha mẹ cho tôi ________ theo đuổi sở thích riêng của mình.*
 </questions>
 
 <teacher_script pause="0">
@@ -187,18 +201,18 @@ Bài 4 nha. Điền từ vô chỗ trống. Chọn từ đúng trong ô rồi đ
 </answer>
 
 <explanation>
-**1. dyed** — Động từ *dye* = nhuộm. Câu nói về việc nhuộm quần áo màu tím ở nhà — dùng quá khứ *dyed* nha.
+**1. dyed** — Động từ *dye* = nhuộm, ở đây dùng dạng quá khứ *dyed* vì câu kể việc đã làm. *A few teenagers have dyed their hair brown* — một số thanh thiếu niên đã nhuộm tóc màu nâu.
 
-**2. generation** — *Generation* = thế hệ. Câu so sánh thế hệ ngày xưa và bây giờ.
+**2. generation** — *Generation* = thế hệ. Câu so sánh lối sống ngày nay với *"the previous generation"* = thế hệ trước.
 
-**3. opportunity** — *Opportunity* = cơ hội. Câu nói về cơ hội học ở nước ngoài ngày nay.
+**3. opportunity** — *Opportunity* = cơ hội. *Have an opportunity to go to school* = có cơ hội đến trường. Chú ý: *a(n) opportunity* — dùng *an* vì *opportunity* bắt đầu bằng nguyên âm nha.
 
-**4. materials** — *Natural materials* = vật liệu tự nhiên. Câu nói về làm đồ chơi từ tre và đất sét.
+**4. materials** — *Natural materials* = vật liệu tự nhiên. Câu nói về người muốn sống xanh dùng sản phẩm từ vật liệu tự nhiên.
 
-**5. freedom** — *Freedom of choice* = sự tự do lựa chọn. Đây là cụm từ cố định trong bài luôn — nhớ học thuộc nha.
+**5. freedom** — *Freedom* = sự tự do. *Give me freedom to pursue my own interests* = cho tôi tự do theo đuổi sở thích riêng.
 </explanation>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng> Unit 6 rồi nha! Hôm nay mình học về sự thay đổi giữa ngày xưa và bây giờ — từ đồ chơi, quần áo, đến thiết bị điện tử. Nhớ ôn lại từ vựng và xem lại hội thoại ở nhà nha. Bài sau mình học <eng>A Closer Look 1</eng> luôn — từ vựng về giáo dục và phát âm. Học tốt nha!
+Xong bài <eng>Getting Started</eng> Unit 6 rồi nha! Hôm nay mình học hội thoại giữa Phong và ông nội về sự thay đổi giữa ngày xưa và bây giờ — trò chơi, tự do lựa chọn, và cơ hội học hành. Nhớ ôn lại từ vựng và xem lại hội thoại ở nhà nha. Bài sau mình học <eng>A Closer Look 1</eng> luôn. Học tốt nha!
 </teacher_script>

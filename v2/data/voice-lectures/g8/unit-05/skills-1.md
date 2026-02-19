@@ -39,55 +39,51 @@ Bài 1 - đọc bài văn về lễ hội đua thuyền. Đây là một lễ h�
 </teacher_script>
 
 <reading>
-**A Traditional Boat Race Festival**
+**A village festival day**
 
-Every spring, villagers gather along the riverbank to enjoy one of their most beloved traditions - the annual boat race festival. The festival creates a lively and festive atmosphere that brings the whole community together.
+I live in a small village in northern Viet Nam. Every year, people in my village look forward to the third day of Tet. It is one of our most important festival days.
 
-On the first day, families line up along the riverbank to watch the exciting boat races. Contestants row their boats as fast as they can, competing to reach the finish line first. Spectators cheer loudly to encourage their favourite teams. In another fun activity, live ducks are released into the river, and contestants jump in to catch them - the crowd loves this part!
+In the morning, we gather along the riverside to watch some competitions. First, there is a special boat race. Some team members cook rice on the boat while others row the boat as fast as they can. The fastest team with well-cooked rice wins the race. Then, the referee **releases a duck** into the middle of the river. Contestants jump into the river to catch it. The atmosphere becomes loud with the sound of drums and cheers of festival goers.
 
-Traditional food is an important part of the celebration. Families prepare steamed chicken, sticky rice, and many other special dishes to share during the festival. The smell of delicious food fills the air.
+At noon, there is a village party at the communal house for the elders. Each family also holds a home party. We cook traditional dishes like sticky rice and steamed chicken. Sometimes, we include food that children love, such as bun cha or even pizzas!
 
-By the third day, the festival comes to an end. People return home to their families, carrying with them happy memories and a warm sense of community. The festival helps maintain customs and strengthen the love for traditional food, music, and ways of life that have been passed down for generations.
+The village festival helps us maintain our traditions, connect with other people, and strengthen our family bonds.
 </reading>
 
 <teacher_script pause="180">
-Đọc và hiểu bài đi. Đọc xong dịch sơ qua vô vở nha. 3 phút đó.
+Đọc và dịch bài đi. 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 - trắc nghiệm đọc hiểu. 4 câu hỏi về bài đọc, chọn đáp án đúng nhất nha. 1 phút làm bài.
+Bài 2 - trắc nghiệm đọc hiểu. 4 câu hỏi, chọn A, B hoặc C nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the best answer (A, B, or C) for each question about the reading.
-**Dịch đề:** Chọn đáp án đúng nhất (A, B hoặc C) cho mỗi câu hỏi về bài đọc.
+**Đề:** Read the text. Choose the correct answer A, B or C.
+**Dịch đề:** Đọc văn bản. Chọn câu trả lời đúng A, B hoặc C.
 </task>
 
 <questions type="multiple_choice">
-**1.** When does the boat race festival take place?
-*Lễ hội đua thuyền diễn ra vào lúc nào?*
-- A. In spring
-- B. In autumn
-- C. In winter
+**1.** What is the text mainly about?
+- A. A local tradition.
+- B. A family tradition.
+- C. A cooking contest.
 
-**2.** What do contestants do in the boat race?
-*Các thí sinh làm gì trong cuộc đua thuyền?*
-- A. Jump in the water and swim to the finish line
-- B. Row the boat and also try to catch ducks in the river
-- C. Sing traditional songs while rowing
+**2.** To win the boat race, a team must _______.
+- A. row the boat more quickly than the other teams
+- B. be the fastest boat and properly cook the rice
+- C. cook rice properly and catch the duck
 
-**3.** What is the atmosphere like at the festival?
-*Không khí của lễ hội như thế nào?*
-- A. Lively and festive, with cheering crowds
-- B. Quiet and solemn, with silent prayers
-- C. Small and private, only for the village elders
+**3.** The phrase "**releases a duck**" in the text means _______.
+- A. gives it freedom
+- B. catches it
+- C. takes it home
 
-**4.** What is one main purpose of the festival?
-*Một mục đích chính của lễ hội là gì?*
-- A. To earn money for the village
-- B. To show off modern culture to tourists
-- C. To maintain customs and strengthen love for traditional ways of life
+**4.** Why is the festival important?
+- A. Because it is exciting.
+- B. Because people win valuable prizes.
+- C. Because it keeps some village traditions alive.
 </questions>
 
 <teacher_script pause="0">
@@ -99,13 +95,13 @@ Bài 2 - trắc nghiệm đọc hiểu. 4 câu hỏi về bài đọc, chọn đ
 </answer>
 
 <explanation>
-**1. A - In spring:** Câu đầu bài đọc: "Every spring, villagers gather along the riverbank..." - lễ hội diễn ra vào mùa xuân.
+**1. A - A local tradition:** Bài đọc nói về lễ hội làng ở một làng nhỏ miền Bắc - đây là truyền thống địa phương, không phải chỉ gia đình hay cuộc thi nấu ăn.
 
-**2. B - Row the boat and also try to catch ducks:** Bài đọc nói về hai hoạt động: đua thuyền ("contestants row their boats as fast as they can") VÀ bắt vịt ("live ducks are released into the river, and contestants jump in to catch them"). Đáp án B gộp cả hai hoạt động.
+**2. B - be the fastest boat and properly cook the rice:** *"The fastest team with well-cooked rice wins the race"* → cần cả hai: thuyền về đích nhanh nhất VÀ cơm nấu ngon.
 
-**3. A - Lively and festive, with cheering crowds:** Bài đọc: "The festival creates a lively and festive atmosphere" và "Spectators cheer loudly to encourage their favourite teams." Đây là lễ hội sôi động, đông đảo.
+**3. A - gives it freedom:** *"the referee releases a duck into the middle of the river"* → thả vịt ra = cho tự do, để người thi bắt. *Release* = thả ra, giải phóng.
 
-**4. C - Maintain customs and strengthen love for traditional ways of life:** Câu cuối bài đọc: "The festival helps maintain customs and strengthen the love for traditional food, music, and ways of life." Đây chính xác là mục đích được nêu.
+**4. C - keeps some village traditions alive:** *"The village festival helps us maintain our traditions, connect with other people, and strengthen our family bonds."* → duy trì truyền thống.
 </explanation>
 
 <!-- chunk: exercise-3 -->
