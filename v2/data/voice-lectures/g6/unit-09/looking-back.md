@@ -1,7 +1,7 @@
 # G6 UNIT-09 LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2e4a63dd.webm">
 Ok lớp 6, hôm nay mình ôn tập Unit 9 qua bài <eng>Looking Back</eng> nha. Bài này tổng hợp lại tất cả những gì đã học: từ vựng về thành phố, tính từ sở hữu và đại từ sở hữu. Mở sách trang 34 đi.
 </teacher_script>
 

@@ -48,6 +48,10 @@ Các em hãy ghi cấu trúc này vào vở nhé. Các em có 30 giây.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 12 - Listen and read
 
+<audio src="https://img.loigiaihay.com/picture/2022/0815/050.mp3">
+**Audio:** Bài 1 - Listen and read
+</audio>
+
 <teacher_script pause="0" href="audio/tts_ae745b39.webm">
 Chúng ta cùng làm Bài 1 <eng>Listen and read</eng>. Các em hãy nghe và đọc đoạn hội thoại, chú ý đến các câu hỏi và câu trả lời về phương tiện đi lại.
 </teacher_script>
@@ -203,7 +207,7 @@ Các em hãy sửa những lỗi sai vào bài làm của mình nếu có nhé.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 13 - Listen and complete
 
-<audio src="https://img.loigiaihay.com/picture/2022/0815/050.mp3">
+<audio src="https://img.loigiaihay.com/picture/2022/0815/051.mp3">
 **Audio:** Bài 4 - Listen and complete
 </audio>
 

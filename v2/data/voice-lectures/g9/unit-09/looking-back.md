@@ -4,39 +4,48 @@
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok lớp 9, hôm nay ôn tập Unit 9 về <eng>English in the World</eng> nha. Bài này ôn lại từ vựng về ngôn ngữ và ngữ pháp mệnh đề quan hệ. Mở sách trang 40 đi.
+Ok lớp 9, hôm nay ôn tập Unit 9 về <eng>English in the World</eng> nha. Bài này ôn lại từ vựng về ngôn ngữ và ngữ pháp mệnh đề quan hệ. Mở sách trang 100 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: exercise_1 -->
-### Bài 1 trang 40 - Vocabulary
+### Bài 1 trang 100 - Vocabulary
 
 <teacher_script pause="60">
-Bài 1. Điền từ thích hợp từ ngân hàng từ. Nhớ lại các từ về ngôn ngữ đã học nha. 1 phút.
+Bài 1. Điền từ thích hợp từ ngân hàng từ. Nhớ lại các từ về <eng>World Englishes</eng> đã học nha. 1 phút.
 </teacher_script>
 
 <questions type="fill_blanks">
-**Word bank:** *accent | bilingual | dialect | official | fluent*
+**Word bank:** *mean | concentric | bilingual | fluent | immigrants*
 
-1. She speaks English with a Scottish _______.
-2. Singapore has four _______ languages.
-3. My friend is _______; she speaks English and Vietnamese perfectly.
-4. He is _______ in Japanese.
-5. People in this region speak a local _______.
+1. What does this word _______ in English?
+*Từ này có nghĩa là gì trong tiếng Anh?*
+
+2. Kachru's model has three _______ circles.
+*Mô hình của Kachru có ba vòng tròn đồng tâm (lồng vào nhau).*
+
+3. The boy speaks Vietnamese with his mother and English with his father. He is _______.
+*Cậu bé nói tiếng Việt với mẹ và tiếng Anh với cha. Cậu ấy là người song ngữ.*
+
+4. Many children in the area are _______ English speakers, but they can't write well.
+*Nhiều trẻ em trong khu vực nói tiếng Anh lưu loát, nhưng họ không thể viết tốt.*
+
+5. The number of _______ in this country has increased rapidly in the last three years.
+*Số lượng người nhập cư ở đất nước này đã tăng nhanh chóng trong 3 năm gần đây.*
 </questions>
 
 <answer>
-**Đáp án:** 1. accent | 2. official | 3. bilingual | 4. fluent | 5. dialect
+**Đáp án:** 1. mean | 2. concentric | 3. bilingual | 4. fluent | 5. immigrants
 </answer>
 
 <teacher_script pause="0">
 Giải thích nha:
-- Câu 1: <eng>Scottish accent</eng> = giọng Scotland - cách phát âm đặc trưng của vùng đó
-- Câu 2: <eng>official languages</eng> = ngôn ngữ chính thức - Singapore có 4: Anh, Hoa, Mã Lai, Tamil
+- Câu 1: <eng>mean</eng> = có nghĩa là - "What does this word mean?" = "Từ này có nghĩa gì?"
+- Câu 2: <eng>concentric circles</eng> = vòng tròn đồng tâm - mô hình 3 vòng tròn của Kachru về World Englishes
 - Câu 3: <eng>bilingual</eng> = song ngữ - nói 2 ngôn ngữ thành thạo như nhau
-- Câu 4: <eng>fluent in Japanese</eng> = thông thạo tiếng Nhật - nói trôi chảy
-- Câu 5: <eng>local dialect</eng> = phương ngữ địa phương - tiếng địa phương riêng
+- Câu 4: <eng>fluent</eng> = lưu loát - nói trôi chảy (nhưng chưa chắc viết tốt)
+- Câu 5: <eng>immigrants</eng> = người nhập cư - người đến sống ở đất nước khác
 </teacher_script>
 
 ---
@@ -82,9 +91,9 @@ Mẹo: Tìm từ lặp lại, xác định người/vật/sở hữu, rồi thay
 Ok hết bài ôn tập Unit 9. Tóm tắt nha:
 
 **Từ vựng:**
-- <eng>accent</eng> = giọng điệu, <eng>dialect</eng> = phương ngữ
-- <eng>bilingual</eng> = song ngữ, <eng>fluent</eng> = thông thạo
-- <eng>official language</eng> = ngôn ngữ chính thức
+- <eng>mean</eng> = có nghĩa là, <eng>concentric</eng> = đồng tâm
+- <eng>bilingual</eng> = song ngữ, <eng>fluent</eng> = thông thạo/lưu loát
+- <eng>immigrants</eng> = người nhập cư
 
 **Ngữ pháp Mệnh đề quan hệ:**
 - <eng>WHO</eng> → người

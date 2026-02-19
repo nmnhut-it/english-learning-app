@@ -14,7 +14,7 @@ Hôm nay học cách chúc mừng - <eng>Congratulations</eng> và hỏi đáp v
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b1538840.webm">
 Các em mở sách ra, Unit 8, bài <eng>Communication</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 

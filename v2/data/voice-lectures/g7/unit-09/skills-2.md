@@ -66,7 +66,7 @@ Bài 1. Nhìn vào con vật trong hình và trả lời 2 câu hỏi: Con vật
 Bây giờ các em sẽ nghe Mark nói về Thanksgiving. Đây là nội dung bài nghe.
 </teacher_script>
 
-<audio src="https://img.loigiaihay.com/picture/2022/0815/u9-skills2.mp3">
+<audio src="https://img.loigiaihay.com/picture/2022/0815/066.mp3">
 **Audio:** Mark talks about Thanksgiving
 </audio>
 
