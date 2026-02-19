@@ -12,7 +12,7 @@ Ok lớp 6, hôm nay mình ôn tập Unit 9 qua bài <eng>Looking Back</eng> nha
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 34 - Vocabulary
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c7335e3d.webm">
 Bài 1 trang 34. Chọn 2 tính từ phù hợp nhất để hoàn thành câu. Nhớ các tính từ mô tả thành phố đã học: <eng>exciting, amazing, friendly, helpful, delicious</eng>... 1 phút.
 </teacher_script>
 

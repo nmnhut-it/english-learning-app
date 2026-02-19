@@ -1,12 +1,12 @@
 # G6 UNIT-09 SKILLS 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_01209242.webm">
 Ok lớp 6, hôm nay học phần <eng>Skills 2</eng> - Nghe và Viết nha. Mình sẽ nghe về một khu chợ nổi ở Thái Lan, rồi tập viết về một địa điểm du lịch. Mở sách trang 33 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c3aa1c8.webm">
 Học từ vựng trước nha. Bài nghe nói về chợ nổi ở Thái Lan - giống chợ nổi Cái Răng ở miền Tây mình vậy đó.
 </teacher_script>
 
@@ -26,7 +26,7 @@ Học từ vựng trước nha. Bài nghe nói về chợ nổi ở Thái Lan - 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 33 - Discussion
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_18b51120.webm">
 Bài 1. Thảo luận nhóm về Bangkok - thủ đô Thái Lan. Bangkok ở đâu? Bangkok nổi tiếng với gì? 1 phút suy nghĩ nha.
 </teacher_script>
 
@@ -58,7 +58,7 @@ Bài 1. Thảo luận nhóm về Bangkok - thủ đô Thái Lan. Bangkok ở đ�
 <!-- chunk: listening -->
 ### Listening
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_96f62fe5.webm">
 Giờ nghe bài nghe về chợ Chatuchak và ẩm thực đường phố ở Bangkok nha. Chú ý các con số và thông tin quan trọng.
 </teacher_script>
 
@@ -87,7 +87,7 @@ Giờ nghe bài nghe về chợ Chatuchak và ẩm thực đường phố ở Ba
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 33 - True/False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ac06a2f8.webm">
 Bài 2. Nghe và xác định True (Đúng) hay False (Sai). Chú ý: Bangkok nổi tiếng vì gì? Giá cả ở chợ như thế nào? Chợ nổi ở đâu? 1 phút.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 33 - Fill in the gaps
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_313f4f36.webm">
 Bài 3. Nghe lại và điền từ/số còn thiếu. Chú ý: loại chợ gì, số quầy hàng, cuộc sống người Thái. 1 phút.
 </teacher_script>
 
@@ -164,14 +164,14 @@ Ok đáp án nè.
 ---
 
 <!-- chunk: writing_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7d4d3f17.webm">
 Ok xong phần <eng>Listening</eng> rồi. Giờ chuyển qua phần <eng>Writing</eng> nha. Mình sẽ tập viết bưu thiếp về một thành phố em biết.
 </teacher_script>
 
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 33 - Speaking (pre-writing)
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_433e106c.webm">
 Bài 4. Trước khi viết, mình nói trước nha. Nói về một thành phố ở Việt Nam. Trả lời 3 câu hỏi: Thành phố gì? Nó như thế nào? Em có thể xem và làm gì ở đó? 2 phút suy nghĩ nha.
 </teacher_script>
 
@@ -199,7 +199,7 @@ Bài 4. Trước khi viết, mình nói trước nha. Nói về một thành ph�
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 33 - Write a postcard
 
-<teacher_script pause="300" action="photo">
+<teacher_script pause="300" action="photo" href="audio/tts_f8b1b739.webm">
 Bài 5. Viết một bưu thiếp khoảng 50 từ về kỳ nghỉ của em ở một thành phố. Dùng thông tin từ bài 4. Nhớ viết: lời chào, mô tả thời tiết/người/đồ ăn, hoạt động, và lời kết. 5 phút viết rồi chụp ảnh gửi thầy nha.
 </teacher_script>
 
@@ -241,7 +241,7 @@ Best,
 Phong
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_49ea2296.webm">
 Mẹo viết bưu thiếp nè:
 - Bắt đầu: <eng>Dear [tên người nhận],</eng>
 - Lời chào: <eng>How are you? / Greetings from [thành phố]!</eng>
@@ -251,6 +251,6 @@ Mẹo viết bưu thiếp nè:
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f40183b.webm">
 Ok hết bài <eng>Skills 2</eng> rồi. Hôm nay em học được cách nghe lấy thông tin về một địa điểm và viết mô tả địa điểm du lịch. Nhớ các từ: <eng>floating market</eng> = chợ nổi, <eng>stall</eng> = quầy hàng, <eng>cheap prices</eng> = giá rẻ. Bài sau ôn tập Looking Back nha. Bye!
 </teacher_script>

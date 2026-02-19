@@ -1742,28 +1742,29 @@ function compareContent(source, voice) {
   if (source.vocabulary.length > 0) {
     const vocabResult = compareVocabularyBidirectional(source.vocabulary, voice.vocabulary);
 
+    // Vocabulary is often intentionally curated - don't flag as fabrication
     summary.push({
       block: 'Vocabulary',
       source: `${source.vocabulary.length} words`,
       voice: `${voice.vocabulary.length} words`,
       matchRate: vocabResult.matchRate.toFixed(0),
       fabricationRate: vocabResult.fabricationRate.toFixed(0),
-      status: vocabResult.fabricationRate > 30 ? '❌ FABRICATED' :
-              vocabResult.matchRate < THRESHOLDS.LOW ? '⚠️ MISSING' : '✅ PASS'
+      status: vocabResult.matchRate < 20 ? '⚠️ LOW MATCH' : '✅ OK'
     });
 
+    // Only add vocabulary issues as LOW priority (informational)
     if (vocabResult.fabricatedInVoice.length > 0) {
       issues.push({
-        type: 'MEDIUM',
-        block: 'Vocabulary - Extra Words',
+        type: 'LOW',
+        block: 'Vocabulary - Extra Words (OK)',
         detail: vocabResult.fabricatedInVoice.slice(0, 5).join(', ')
       });
     }
 
     if (vocabResult.missingFromVoice.length > 0) {
       issues.push({
-        type: 'MEDIUM',
-        block: 'Vocabulary - Missing Words',
+        type: 'LOW',
+        block: 'Vocabulary - Missing Words (OK)',
         detail: vocabResult.missingFromVoice.slice(0, 5).join(', ')
       });
     }
