@@ -2,12 +2,12 @@
 ## COMMUNICATION - Giao tiếp
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eb52ceed.webm">
 Ok lớp 6, hôm nay mình học Unit 10, bài <eng>Communication</eng> nha. Bài này mình sẽ học cách bày tỏ sự ngạc nhiên khi thấy đồ vật mới của bạn, rồi phỏng vấn nhau về ngôi nhà trong tương lai. Mở sách trang 42 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f0c9c62f.webm">
 Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -23,7 +23,7 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" bên dư�
 </vocabulary>
 
 <!-- chunk: everyday-english -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c2410718.webm">
 Bài 1 trang 42, <eng>Everyday English</eng>. Mình học cách bày tỏ sự ngạc nhiên khi thấy đồ mới của bạn nha. Nghe và đọc hội thoại, chú ý những câu được đánh dấu.
 </teacher_script>
 
@@ -43,14 +43,14 @@ Bài 1 trang 42, <eng>Everyday English</eng>. Mình học cách bày tỏ sự n
 **David:** Vâng, đó là máy tính mới của tôi. Bố mẹ tôi đã tặng nó cho tôi nhân ngày sinh nhật của tôi.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17d59dd5.webm">
 Để bày tỏ sự ngạc nhiên, các em dùng <eng>Wow!</eng> rồi hỏi <eng>Is that your...?</eng> Sau đó khen luôn: <eng>It looks great!</eng> hoặc <eng>It's really beautiful!</eng> Nhớ nha!
 </teacher_script>
 
 <!-- chunk: bai-2 -->
 ### Bài 2 trang 42 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a00c0819.webm">
 Bài 2. Làm việc theo cặp, bày tỏ sự ngạc nhiên khi thấy đồng hồ mới, TV, điện thoại di động của bạn cùng bàn.
 </teacher_script>
 
@@ -60,11 +60,11 @@ Bài 2. Làm việc theo cặp, bày tỏ sự ngạc nhiên khi thấy đồng 
 **Dịch đề:** Làm việc theo cặp. Bày tỏ sự ngạc nhiên khi bạn nhìn thấy đồng hồ mới, TV, điện thoại di động, v.v. của bạn cùng bàn.
 </task>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e91bf985.webm">
 Các em thực hành nói nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc5837e9.webm">
 Ok đáp án mẫu nè.
 </teacher_script>
 
@@ -81,14 +81,14 @@ Ok đáp án mẫu nè.
 *(Ồ! Nhìn điện thoại di động này! Thật tuyệt vời!)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_af64b921.webm">
 Các em thấy mẫu câu quen không? <eng>Wow! Is that your new...?</eng> rồi khen <eng>It's really beautiful!</eng> hoặc <eng>It's so amazing!</eng> hoặc <eng>It's fantastic!</eng> Dễ hiểu hen!
 </teacher_script>
 
 <!-- chunk: bai-3 -->
 ### Bài 3 trang 43 - Survey
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a740e833.webm">
 Bài 3, <eng>Houses and appliances in the future</eng> - Những ngôi nhà và các thiết bị trong tương lai. Đọc các câu hỏi trong cuộc khảo sát lớp học, đánh dấu Y là <eng>Yes</eng>, N là <eng>No</eng>.
 </teacher_script>
 
@@ -118,11 +118,11 @@ Bài 3, <eng>Houses and appliances in the future</eng> - Những ngôi nhà và 
 *Bạn sẽ có một chiếc ô tô có thể bay?*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3b1a4ce0.webm">
 Các em đọc và đánh dấu Y hoặc N theo ý kiến của mình nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b6b7525f.webm">
 Ok, đây là đáp án gợi ý thôi nha, mỗi người sẽ có câu trả lời khác nhau.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Ok, đây là đáp án gợi ý thôi nha, mỗi người sẽ có câu trả l
 <!-- chunk: bai-4 -->
 ### Bài 4 trang 43 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3f432413.webm">
 Bài 4. Làm việc theo cặp. Dùng các câu hỏi trong bài 3 để phỏng vấn bạn của em.
 </teacher_script>
 
@@ -145,7 +145,7 @@ Bài 4. Làm việc theo cặp. Dùng các câu hỏi trong bài 3 để phỏng
 **Dịch đề:** Làm việc theo cặp. Sử dụng các câu hỏi trong bài 3 để phỏng vấn bạn của bạn.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ce90f060.webm">
 Đây là ví dụ trong sách nha.
 </teacher_script>
 
@@ -167,11 +167,11 @@ Bài 4. Làm việc theo cặp. Dùng các câu hỏi trong bài 3 để phỏng
 **Nam:** Tôi không chắc nữa. Nó có thể ở gần biển.
 </translation>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_2f87a97c.webm">
 Các em phỏng vấn nhau nha. 1 phút 30 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_237e7bc0.webm">
 Ok đáp án mẫu đầy đủ nè.
 </teacher_script>
 
@@ -194,14 +194,14 @@ Ok đáp án mẫu đầy đủ nè.
 | **B:** Yes, I will. | **B:** Vâng, tôi sẽ. |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_834aef71.webm">
 Các em thấy không? Khi trả lời <eng>No</eng>, có thể thêm thông tin bằng <eng>might</eng> - có thể. Ví dụ: <eng>No, it won't. It might be in the mountains.</eng> hoặc <eng>No, I won't. But I might have a smart cooker.</eng> Hay hen!
 </teacher_script>
 
 <!-- chunk: bai-5 -->
 ### Bài 5 trang 43 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d5c62c57.webm">
 Bài 5. Nói với cả lớp về bài phỏng vấn của em. Mình sẽ kể lại những gì bạn mình trả lời.
 </teacher_script>
 
@@ -211,7 +211,7 @@ Bài 5. Nói với cả lớp về bài phỏng vấn của em. Mình sẽ kể 
 **Dịch đề:** Nói với cả lớp về bài phỏng vấn của em.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ce90f060.webm">
 Đây là ví dụ trong sách nha.
 </teacher_script>
 
@@ -228,15 +228,15 @@ He might have a robot to help him with his home.
 *Anh ấy có thể có một robot để giúp anh ấy trong nhà của mình.*
 </reading>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_44ea4b16.webm">
 Các em viết và nói về bài phỏng vấn của mình nha. 1 phút 30 giây.
 </teacher_script>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_dbc4db27.webm">
 Ok, bây giờ các em ghi âm bài nói của mình nha. Bấm nút ghi âm bên dưới.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_54c6d6e5.webm">
 Đây là đáp án mẫu đầy đủ nè.
 </teacher_script>
 
@@ -250,11 +250,11 @@ In the future, Vy will live a hi-tech house. It won't be in space. It might be i
 *Trong tương lai, Vy sẽ sống trong một ngôi nhà công nghệ cao. Nó sẽ không ở trong không gian. Nó có thể ở trên núi. Xung quanh nhà cô sẽ có rất nhiều cây và hoa. Cô ấy sẽ không có tủ lạnh để nấu các bữa ăn nhưng cô ấy có thể có một chiếc nồi thông minh để làm điều đó. Cô ấy sẽ có một người máy có thể chăm sóc con cái của cô ấy và nó cũng có thể làm việc nhà. Cô ấy cũng sẽ có một chiếc xe có thể bay.*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33203710.webm">
 Các em thấy không? Khi kể lại, mình đổi <eng>you</eng> thành <eng>she/he</eng>, <eng>your</eng> thành <eng>her/his</eng>. Rồi dùng <eng>will</eng> cho khẳng định, <eng>won't</eng> cho phủ định, và <eng>might</eng> cho có thể. Nhớ nha!
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_548ceb1e.webm">
 Ok, bài <eng>Communication</eng> Unit 10 kết thúc tại đây rồi nha. Hôm nay các em đã học cách bày tỏ sự ngạc nhiên: <eng>Wow! Is that your...? It looks great!</eng> và phỏng vấn nhau về ngôi nhà trong tương lai với <eng>will/won't/might</eng>. Các em về nhà ôn bài rồi chuẩn bị cho bài <eng>Skills 1</eng> nha. Tạm biệt!
 </teacher_script>

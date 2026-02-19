@@ -2,12 +2,12 @@
 ## SKILLS 1 - Reading and Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5b7f7460.webm">
 Ok lớp 6, Unit 10, bài <eng>Skills 1</eng> nha. Bài này mình sẽ luyện <eng>Reading</eng> và <eng>Speaking</eng> về chủ đề ngôi nhà trong tương lai. Mở sách trang 44 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3150130f.webm">
 Trước tiên mình học từ vựng mới nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -36,7 +36,7 @@ Trước tiên mình học từ vựng mới nha. Bấm nút "Bắt đầu" bên
 <!-- chunk: bai-1 -->
 ### Bai 1 trang 44 - Look at the picture
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_61da641e.webm">
 Bài 1, <eng>Look at the picture and discuss it with a partner</eng>. Nhìn vào bức tranh và thảo luận với bạn của em nha.
 </teacher_script>
 
@@ -56,11 +56,11 @@ Bài 1, <eng>Look at the picture and discuss it with a partner</eng>. Nhìn vào
 *Bạn nghĩ ngôi nhà ở đâu?*
 </questions>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_51d6a726.webm">
 Nhìn hình và trả lời 2 câu hỏi. 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+<teacher_script pause="0" href="audio/tts_29c83a10.webm">
 Ok đáp án nè.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Câu 2: Ngôi nhà nằm trên một hòn đảo (<eng>on an island</eng>) với
 <!-- chunk: reading -->
 ### Bai 2 trang 44 - Reading
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e840e884.webm">
 Bài 2, <eng>Read the text and match the beginnings in A with the endings in B</eng>. Đọc văn bản và nối phần đầu trong A với phần cuối trong B nha.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Nó sẽ giúp tôi gửi và nhận email, cũng như liên lạc với bạn b
 Nó cũng sẽ giúp tôi mua thực phẩm từ siêu thị.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_969cccf7.webm">
 Đọc bài đọc và dịch vô vở. 3 phút nha.
 </teacher_script>
 
@@ -161,7 +161,7 @@ g. feed the dogs and cats *(cho chó và mèo ăn)*
 h. water the flowers *(tưới hoa)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5f7fa421.webm">
 Nối phần A với phần B. 1 phút nha.
 </teacher_script>
 
@@ -182,7 +182,7 @@ Câu 2: <eng>The house will have a super smart TV to</eng> - TV siêu thông min
 <!-- chunk: bai-3 -->
 ### Bai 3 trang 44 - Multiple Choice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9e98ee53.webm">
 Bài 3, <eng>Read the text again and circle the option A, B, or C to complete the sentences</eng>. Đọc lại văn bản và khoanh tròn đáp án A, B hoặc C để hoàn thành các câu nha.
 </teacher_script>
 
@@ -222,7 +222,7 @@ Bài 3, <eng>Read the text again and circle the option A, B, or C to complete th
 *......... sẽ giúp tôi cho chó và mèo ăn.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_57926640.webm">
 Đọc lại bài và chọn đáp án đúng. 1 phút nha.
 </teacher_script>
 
@@ -247,7 +247,7 @@ Câu 4: Đáp án B - <eng>robot</eng>. Bài đọc viết: "<eng>They will also
 <!-- chunk: bai-4 -->
 ### Bai 4 trang 44 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b561a6be.webm">
 Bài 4, <eng>Speaking</eng> nha. <eng>Work in pairs. Ask your partner about his/her future house. Use the suggested questions.</eng> Làm việc theo cặp. Hỏi bạn của bạn về ngôi nhà tương lai. Sử dụng các câu hỏi gợi ý.
 </teacher_script>
 
@@ -279,7 +279,7 @@ Bài 4, <eng>Speaking</eng> nha. <eng>Work in pairs. Ask your partner about his/
 *Nó sẽ có những thiết bị nào và chúng sẽ giúp bạn làm gì?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7561c682.webm">
 Ví dụ nè:
 </teacher_script>
 
@@ -293,11 +293,11 @@ Ví dụ nè:
 **B:** Nó sẽ là một cung điện.
 </translation>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_974f7758.webm">
 Giờ các em hỏi đáp với bạn theo 5 câu hỏi gợi ý nha. Bấm nút ghi âm và nói câu trả lời của mình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_98f9932c.webm">
 Ok đây là mẫu trả lời nè.
 </teacher_script>
 
@@ -348,7 +348,7 @@ Ok đây là mẫu trả lời nè.
 <!-- chunk: bai-5 -->
 ### Bai 5 trang 44 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f31573d7.webm">
 Bài 5, <eng>Work in groups. Tell your partners about your future house. You can use the information in 4.</eng> Làm việc nhóm. Nói với các bạn về ngôi nhà tương lai của bạn. Bạn có thể sử dụng thông tin trong bài 4.
 </teacher_script>
 
@@ -358,7 +358,7 @@ Bài 5, <eng>Work in groups. Tell your partners about your future house. You can
 **Dich de:** Làm việc nhóm. Nói với các bạn về ngôi nhà tương lai của bạn. Bạn có thể sử dụng thông tin trong bài 4.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4b5ecdb9.webm">
 Ví dụ trong sách:
 </teacher_script>
 
@@ -376,11 +376,11 @@ Sẽ có một chiếc TV siêu thông minh trong nhà.
 Nó sẽ giúp tôi nói chuyện với bạn bè của tôi trên các hành tinh khác.
 </translation>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_5e9a4449.webm">
 Giờ các em nói về ngôi nhà tương lai của mình nha. Bấm nút ghi âm và nói.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_98f9932c.webm">
 Ok đây là mẫu trả lời nè.
 </teacher_script>
 
@@ -393,6 +393,6 @@ My future house will be a very big and beautiful villa. It'll be on the hill. Th
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a84a56c9.webm">
 Ok xong bài <eng>Skills 1</eng> rồi nha. Bài này mình đã luyện đọc hiểu về ngôi nhà trong tương lai và luyện nói mô tả ngôi nhà mơ ước của mình. Các em nhớ ôn lại từ vựng và cấu trúc <eng>There will be...</eng> và <eng>will have...</eng> để nói về tương lai nha. Hẹn gặp lại ở bài sau!
 </teacher_script>
