@@ -624,8 +624,8 @@
 
     // Remarks functions — blockIndex is the unified index across all blocks
     function openRemarkModal(blockIndex) {
-      // If no explicit blockIndex, derive from current script's block index
-      if (blockIndex === undefined) {
+      // Guard: when called from event listener, first arg is the Event object
+      if (typeof blockIndex !== 'number') {
         blockIndex = state.scriptToBlock[state.currentIndex];
       }
       if (blockIndex === undefined) return;

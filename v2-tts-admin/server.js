@@ -445,10 +445,11 @@ app.post('/api/remarks', async (req, res) => {
   try {
     const { filePath, scriptIndex, remark } = req.body;
 
-    if (!filePath || scriptIndex === undefined || !remark) {
+    const parsedIndex = Number(scriptIndex);
+    if (!filePath || !Number.isInteger(parsedIndex) || parsedIndex < 0 || !remark) {
       return res.status(400).json({
         success: false,
-        error: 'Missing required fields: filePath, scriptIndex, remark'
+        error: 'Missing/invalid fields: filePath (string), scriptIndex (non-negative integer), remark (string)'
       });
     }
 
@@ -458,7 +459,7 @@ app.post('/api/remarks', async (req, res) => {
       remarks[filePath] = {};
     }
 
-    remarks[filePath][scriptIndex] = {
+    remarks[filePath][parsedIndex] = {
       remark,
       created: new Date().toISOString()
     };
