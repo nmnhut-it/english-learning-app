@@ -35,7 +35,7 @@ Tốt lắm nha. Từ vựng hôm nay có hai nhóm: nhóm tên nghề và nhóm
 
 <!-- chunk: exercise-1 -->
 <teacher_script pause="60">
-Bài 1 trang 127 — nối nghề với mô tả. Nhìn danh sách 5 nghề, nối với mô tả a–e cho đúng nha. Làm 1 phút đi.
+Bài 1 trang 126 — nối nghề với mô tả. Nhìn danh sách 5 nghề, nối với mô tả a–e cho đúng nha. Làm 1 phút đi.
 </teacher_script>
 
 <task>
@@ -81,7 +81,7 @@ Ok đáp án bài 1 nè.
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 trang 127 — trắc nghiệm từ vựng nha. 5 câu, chọn A B C D. Làm 1 phút đi.
+Bài 2 trang 126 — trắc nghiệm từ vựng nha. 5 câu, chọn A B C D. Làm 1 phút đi.
 </teacher_script>
 
 <task>
@@ -90,40 +90,40 @@ Bài 2 trang 127 — trắc nghiệm từ vựng nha. 5 câu, chọn A B C D. L�
 </task>
 
 <questions type="multiple_choice">
-**1.** A job that needs a lot of effort and is hard to do is called ________.
-- A. demanding
-- B. rewarding
-- C. repetitive
-- D. well-paid
-*Một công việc đòi hỏi nhiều nỗ lực và khó thực hiện được gọi là ________.*
+**1.** My brother is applying for a ________ as a customer manager in a supermarket.
+- A. job
+- B. duty
+- C. career
+- D. work
+*Anh trai tôi đang xin việc làm quản lý khách hàng trong siêu thị.*
 
-**2.** If you do the same task over and over every day, your job is ________.
-- A. creative
-- B. flexible
-- C. repetitive
-- D. communicative
-*Nếu bạn làm đi làm lại cùng một công việc mỗi ngày, công việc đó là ________.*
+**2.** Mr Hoang was a police officer. He had a successful ________ in the police force.
+- A. work
+- B. job
+- C. career
+- D. task
+*Ông Hoàng từng là công an. Ông đã có một sự nghiệp thành công trong lực lượng cảnh sát.*
 
-**3.** A job that gives you a sense of satisfaction and meaning is ________.
-- A. repetitive
-- B. manual
-- C. logical
-- D. rewarding
-*Một công việc mang lại sự thỏa mãn và có ý nghĩa là ________.*
+**3.** A cashier has to do ________ tasks, such as receiving money and printing receipts.
+- A. effective
+- B. creative
+- C. decisive
+- D. repetitive
+*Nhân viên thu ngân phải làm những công việc lặp đi lặp lại, chẳng hạn như nhận tiền và in biên lai.*
 
-**4.** Which job involves putting together parts in a factory?
-- A. cashier
-- B. surgeon
-- C. tailor
-- D. assembly worker
-*Nghề nào liên quan đến việc lắp ráp các bộ phận trong nhà máy?*
+**4.** A tailor can have a ________ job if he/she is creative and knowledgeable about fabric.
+- A. boring
+- B. basic
+- C. well-paid
+- D. difficult
+*Một thợ may có thể có được một công việc được trả lương cao nếu anh ấy/cô ấy có óc sáng tạo và am hiểu về vải.*
 
-**5.** A pilot or software engineer usually earns a high salary. We can say their jobs are ________.
-- A. repetitive
-- B. well-paid
-- C. manual
-- D. dexterous
-*Phi công hoặc kỹ sư phần mềm thường có mức lương cao. Ta có thể nói công việc của họ là ________.*
+**5.** A surgeon's job is ________. He/She works long hours and occasionally deals with life-and-death situations.
+- A. easy
+- B. demanding
+- C. rewarding
+- D. stress-free
+*Công việc của bác sĩ phẫu thuật rất khắt khe. Anh ấy/Cô ấy làm việc nhiều giờ và thỉnh thoảng phải giải quyết những tình huống sinh tử.*
 </questions>
 
 <teacher_script pause="0">
@@ -131,19 +131,19 @@ Bài 2 trang 127 — trắc nghiệm từ vựng nha. 5 câu, chọn A B C D. L�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.D | 4.D | 5.B
+**Đáp án:** 1.A | 2.C | 3.D | 4.C | 5.B
 </answer>
 
 <explanation>
-**Câu 1 — A: demanding.** Demanding = đòi hỏi cao, cần nhiều nỗ lực. Ví dụ: "Being a surgeon is very demanding." Không phải rewarding hay well-paid nha — những từ đó mang nghĩa khác.
+**Câu 1 — A: job.** "Apply for a job" = xin việc. *Job* là công việc cụ thể, *career* là sự nghiệp, *duty* là nhiệm vụ, *work* không đi với "a".
 
-**Câu 2 — C: repetitive.** Repetitive = lặp đi lặp lại, không thay đổi. Nghề assembly worker thường repetitive. Khác với creative hay flexible nhé.
+**Câu 2 — C: career.** "A successful career" = sự nghiệp thành công. Nói về quãng đời làm việc của ông Hoàng trong lực lượng cảnh sát.
 
-**Câu 3 — D: rewarding.** Rewarding = có ý nghĩa, mang lại sự thỏa mãn. Ví dụ: "Teaching is a rewarding career." Đây là từ rất hay dùng trong tiếng Anh khi nói về nghề nghiệp.
+**Câu 3 — D: repetitive.** "Repetitive tasks" = công việc lặp đi lặp lại. Thu ngân làm đi làm lại: nhận tiền, in biên lai...
 
-**Câu 4 — D: assembly worker.** Lắp ráp bộ phận trong nhà máy — đây là định nghĩa của assembly worker. Ba nghề còn lại đều không làm việc trong nhà máy.
+**Câu 4 — C: well-paid.** "Well-paid job" = công việc lương cao. Thợ may giỏi, am hiểu vải sẽ có lương cao.
 
-**Câu 5 — B: well-paid.** Well-paid = lương cao. Pilot và software engineer đều thuộc nhóm nghề lương cao. Dexterous là khéo léo tay chân, không liên quan đến lương nha.
+**Câu 5 — B: demanding.** "Demanding job" = công việc đòi hỏi cao. Bác sĩ phẫu thuật làm nhiều giờ, đối mặt tình huống sinh tử → rất khắt khe.
 </explanation>
 
 <!-- chunk: exercise-3 -->

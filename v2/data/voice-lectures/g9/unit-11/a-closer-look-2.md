@@ -57,40 +57,40 @@ Bài 1 nha — chọn dạng đúng. Đọc kỹ câu và chọn đáp án đún
 </task>
 
 <questions type="multiple_choice">
-**1.** The teacher suggested ________ old phones for recycling.
-- A. collecting
-- B. to collect
-- C. collected
-- D. collect
-*Giáo viên đề xuất thu gom điện thoại cũ để tái chế.*
+**1.** The sales assistant suggested that Tom ________ the portable laptop.
+- A. should buy
+- B. will buy
+- C. buys
+- D. bought
+*Người trợ lý bán hàng gợi ý Tom nên mua chiếc máy tính xách tay di động.*
 
-**2.** She suggested that he ________ his old phone for a newer model.
-- A. exchanges
-- B. exchanging
-- C. exchange
-- D. to exchange
-*Cô ấy đề xuất rằng anh ấy nên đổi điện thoại cũ lấy mẫu mới hơn.*
+**2.** My smartphone broke down last week, and Mary recommended ________ it to the repair centre.
+- A. I will bring
+- B. I bringing
+- C. I bring
+- D. me bring
+*Điện thoại thông minh của tôi bị hỏng vào tuần trước và Mary khuyên tôi nên mang nó đến trung tâm sửa chữa.*
 
-**3.** I recommend ________ the school's digital library for your research.
-- A. to access
-- B. accessed
-- C. accessing
-- D. access
-*Tôi đề xuất truy cập thư viện kỹ thuật số của trường cho bài nghiên cứu của bạn.*
+**3.** My uncle recommended ________ a robotic vacuum cleaner.
+- A. to buy
+- B. buying
+- C. to buying
+- D. buy
+*Chú tôi khuyên nên mua một chiếc robot hút bụi.*
 
-**4.** They suggested ________ phones during the lesson.
-- A. not using
-- B. not to use
-- C. not used
-- D. don't use
-*Họ đề xuất không dùng điện thoại trong giờ học.*
+**4.** I suggest that you ________ the directions carefully before assembling the computer.
+- A. should read
+- B. would read
+- C. will read
+- D. could read
+*Tôi khuyên bạn nên đọc kỹ hướng dẫn trước khi lắp ráp máy tính.*
 
-**5.** The doctor advises that he ________ less screen time every day.
-- A. has
-- B. having
-- C. to have
-- D. have
-*Bác sĩ khuyên rằng anh ấy nên có ít thời gian dùng màn hình hơn mỗi ngày.*
+**5.** She advises ________ a yoga class to improve flexibility and relaxation.
+- A. to take
+- B. took
+- C. take
+- D. taking
+*Cô ấy khuyên nên tham gia lớp học yoga để cải thiện tính linh hoạt và thư giãn.*
 </questions>
 
 <teacher_script pause="0">
@@ -98,19 +98,19 @@ Bài 1 nha — chọn dạng đúng. Đọc kỹ câu và chọn đáp án đún
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.C | 4.A | 5.D
+**Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.D
 </answer>
 
 <explanation>
-**1.A — collecting** — *Suggest + V-ing* nha. *Suggested collecting* = đề xuất thu gom. Không dùng *to-V* sau *suggest*.
+**1.A — should buy** — *Suggest + that + S + should + V*: gợi ý (rằng) ai đó (nên) làm gì. Sau *suggest that*, dùng *should + V* hoặc base form.
 
-**2.C — exchange** — *Suggest + that + S + (should) + V* → động từ sau *that* phải là **base form** (nguyên mẫu không *to*). *Exchange* không thêm *-s* hay đổi dạng, dù chủ ngữ là *he*.
+**2.C — I bring** — *Recommend + that + S + (should) + V*: gợi ý (rằng) ai đó (nên) làm gì. Cấu trúc mệnh đề với *that* nên dùng base form *I bring*.
 
-**3.C — accessing** — *Recommend + V-ing* nha. *Recommend accessing* = đề xuất truy cập. Tương tự *suggest*, *recommend* cũng đi với *V-ing*.
+**3.B — buying** — *Recommend + V-ing*: gợi ý làm gì. Không có *that* nên dùng V-ing. *Recommend buying* = khuyên nên mua.
 
-**4.A — not using** — Phủ định của *suggest + V-ing* là *suggest + **not** + V-ing*. *Suggested not using* = đề xuất không dùng. Không dùng *not to use* sau *suggest*.
+**4.A — should read** — *Suggest + that + S + should + V*: gợi ý ai đó nên làm gì. Sau *suggest that you*, dùng *should + V*.
 
-**5.D — have** — *Advise + that + S + (should) + V* → base form. Chủ ngữ là *he* nhưng vẫn dùng *have* (không phải *has*) vì đây là *that-clause* sau *advise*!
+**5.D — taking** — *Advise + V-ing*: khuyên làm gì. Không có object (tân ngữ) nên dùng V-ing. *Advises taking* = khuyên nên tham gia.
 </explanation>
 
 <!-- chunk: exercise-2 -->
@@ -124,20 +124,20 @@ Bài 2 nha — điền từ vô chỗ trống với dạng đúng của động 
 </task>
 
 <questions type="fill_blanks">
-**1.** I suggest ________ (collect) old phones for recycling instead of throwing them away.
-*Tôi đề xuất thu gom điện thoại cũ để tái chế thay vì vứt đi.*
+**1.** I recommended (collect) ________ old electronic devices.
+*Tôi đề nghị thu thập các thiết bị điện tử cũ.*
 
-**2.** She suggests that students ________ (exchange) ideas online using the school platform.
-*Cô ấy đề xuất rằng học sinh nên trao đổi ý tưởng trực tuyến qua nền tảng của trường.*
+**2.** The sales assistant suggested that I (exchange) ________ the digital music player I bought last month.
+*Người trợ lý bán hàng gợi ý rằng tôi nên đổi chiếc máy nghe nhạc kỹ thuật số mà tôi đã mua vào tháng trước.*
 
-**3.** He recommends that we ________ (access) the school's digital library for research.
-*Anh ấy đề xuất chúng ta truy cập thư viện kỹ thuật số của trường để nghiên cứu.*
+**3.** The teacher advised that we (access) ________ the Internet for extra information about our lecture.
+*Giáo viên khuyên rằng chúng tôi nên truy cập Internet để biết thêm thông tin về bài giảng.*
 
-**4.** They suggest ________ (not use) phones during family dinner time.
-*Họ đề xuất không dùng điện thoại trong bữa tối gia đình.*
+**4.** The doctor advised (not use) ________ digital devices before bedtime.
+*Bác sĩ khuyên không nên sử dụng thiết bị kỹ thuật số trước khi đi ngủ.*
 
-**5.** The doctor advises that he ________ (have) less screen time to protect his eyes.
-*Bác sĩ khuyên rằng anh ấy nên có ít thời gian dùng màn hình hơn để bảo vệ mắt.*
+**5.** My classmate recommended that I (have) ________ the PC repaired as soon as possible.
+*Bạn cùng lớp của tôi khuyên tôi nên sửa máy tính càng sớm càng tốt.*
 </questions>
 
 <teacher_script pause="0">
@@ -149,15 +149,15 @@ Bài 2 nha — điền từ vô chỗ trống với dạng đúng của động 
 </answer>
 
 <explanation>
-**1. collecting** — *Suggest + V-ing* → *suggest collecting*. Câu này không có *that* nên dùng V-ing.
+**1. collecting** — *Recommend + V-ing*: gợi ý làm gì. Không có *that* nên dùng V-ing.
 
-**2. (should) exchange** — *Suggest + that + S + (should) + V* → *exchange* (base form). *Should* có thể có hoặc không — cả hai đều đúng.
+**2. (should) exchange** — *Suggest + that + S + (should) + V*: đề xuất (rằng) ai đó (nên) làm gì. Dùng base form *exchange*, có thể thêm *should*.
 
-**3. (should) access** — *Recommend + that + S + (should) + V* → *access* (base form). Tương tự câu 2 — *should* tùy ý.
+**3. (should) access** — *Advise + that + S + (should) + V*: khuyên (rằng) ai đó (nên) làm gì. Dùng base form *access*.
 
-**4. not using** — *Suggest + not + V-ing* → *suggest not using*. Phủ định thì thêm *not* trước V-ing nha.
+**4. not using** — *Advise + not + V-ing*: khuyên không làm gì. Phủ định với V-ing.
 
-**5. (should) have** — *Advise + that + S + (should) + V* → *have* (base form). Dù chủ ngữ là *he*, vẫn dùng *have* không phải *has* vì là *that-clause*.
+**5. (should) have** — *Recommend + that + S + (should) + V*: gợi ý (rằng) ai đó (nên) làm gì. Dùng base form *have*.
 </explanation>
 
 <!-- chunk: exercise-3 -->
@@ -171,20 +171,25 @@ Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến
 </task>
 
 <questions type="fill_blanks">
-**1.** I suggest you don't waste time on social media.
-*→ Sửa: I suggest ________ time on social media.*
+**1.** The (A) teacher suggested that we (B) don't waste time (C) playing video (D) games.
+*Giáo viên gợi ý rằng chúng ta không nên lãng phí thời gian chơi trò chơi điện tử.*
+*→ Lỗi sai ở đâu? Sửa thế nào?*
 
-**2.** She recommends to try the new learning app on her tablet.
-*→ Sửa: She recommends ________ the new learning app.*
+**2.** I advise (A) to try a new workout (B) routine to (C) keep things (D) interesting.
+*Tôi khuyên bạn nên thử một thói quen tập luyện mới để giữ cho mọi thứ trở nên thú vị.*
+*→ Lỗi sai ở đâu? Sửa thế nào?*
 
-**3.** He suggests that she studies offline to focus better.
-*→ Sửa: He suggests that she ________ offline.*
+**3.** Her parents recommend (A) that she (B) studies harder (C) so that she can get (D) into a good university.
+*Cha mẹ cô ấy khuyên cô ấy nên học chăm chỉ hơn để có thể vào được một trường đại học tốt.*
+*→ Lỗi sai ở đâu? Sửa thế nào?*
 
-**4.** I suggest you must reduce your screen time before bed.
-*→ Sửa: I suggest you ________ reduce your screen time.*
+**4.** The (A) sales assistant suggested that I (B) must choose a tablet (C) with a brighter (D) colour.
+*Nhân viên bán hàng gợi ý tôi nên chọn máy tính bảng có màu sáng hơn.*
+*→ Lỗi sai ở đâu? Sửa thế nào?*
 
-**5.** The doctor advises eat more vegetables and less junk food.
-*→ Sửa: The doctor advises ________ more vegetables.*
+**5.** (A) If you (B) like chicken, I recommend (C) eat at the restaurant (D) opposite our office.
+*Nếu bạn thích thịt gà, tôi khuyên bạn nên ăn ở nhà hàng đối diện văn phòng của chúng tôi.*
+*→ Lỗi sai ở đâu? Sửa thế nào?*
 </questions>
 
 <teacher_script pause="0">
@@ -193,50 +198,60 @@ Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến
 
 <answer>
 **Đáp án:**
-1. not wasting
-2. trying
-3. study
-4. should
-5. eating
+1. B (don't waste → shouldn't waste)
+2. A (to try → trying)
+3. B (studies → (should) study)
+4. B (must → should)
+5. C (eat → eating)
 </answer>
 
 <explanation>
-**1. not wasting** — Lỗi: *don't waste* sai vì sau *suggest* không dùng mệnh đề *don't/do*. Đúng: *suggest + not + V-ing* → *suggest not wasting*.
+**1. B** — Lỗi: *don't waste* sai vì sau *suggest + that*, dùng *should + V* hoặc base form, không dùng *don't*. Sửa: *shouldn't waste*.
 
-**2. trying** — Lỗi: *to try* sai vì *recommend* không đi với *to-V*. Đúng: *recommend + V-ing* → *recommends trying*.
+**2. A** — Lỗi: *to try* sai vì *advise* không đi với *to-V* khi không có tân ngữ. Sửa: *advise trying*.
 
-**3. study** — Lỗi: *studies* sai vì sau *suggest that*, động từ phải là **base form** — không chia theo chủ ngữ *she*. Đúng: *suggests that she study*.
+**3. B** — Lỗi: *studies* sai vì sau *recommend + that*, động từ phải là base form — không chia theo chủ ngữ *she*. Sửa: *(should) study*.
 
-**4. should** — Lỗi: *must* sai vì sau *suggest that*, dùng *should* hoặc base form, không dùng *must*. Đúng: *suggest you should reduce*.
+**4. B** — Lỗi: *must* sai vì sau *suggest + that*, dùng *should*, không dùng *must*. Sửa: *should*.
 
-**5. eating** — Lỗi: *eat* sai vì *advise* đi với *V-ing* hoặc *advise + O + to-V*. Đây không có object nên phải dùng *V-ing*. Đúng: *advises eating*.
+**5. C** — Lỗi: *eat* sai vì *recommend* không có *that* nên phải dùng V-ing. Sửa: *eating*.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 nha — điền từ để hoàn thành lời khuyên về việc dùng thiết bị điện tử. Có 1 phút.
+Bài 4 nha — điền dạng đúng của động từ vào chỗ trống. Sau đó luyện nói theo cặp. Có 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Complete the sentences about safe device use. Use the correct form of the verbs.
-**Dịch đề:** Hoàn thành các câu về việc dùng thiết bị điện tử an toàn.
+**Đề:** Fill in each blank with the correct form of the verb in brackets. Then practise the exchanges with your partner.
+**Dịch đề:** Điền dạng đúng của động từ trong ngoặc vào chỗ trống. Sau đó thực hành trao đổi với bạn.
 </task>
 
 <questions type="fill_blanks">
-**1.** I suggest ________ (use) night mode on your phone to protect your eyes.
-*Tôi đề xuất dùng chế độ ban đêm trên điện thoại để bảo vệ mắt.*
+**1.**
+A: What should we do to create three dimensional objects?
+B: I recommend (use) ________ a 3D printer.
+*A: Chúng ta nên làm gì để tạo ra các vật thể ba chiều? B: Tôi khuyên bạn nên sử dụng máy in 3D.*
 
-**2.** Doctors recommend that teenagers ________ (reduce) screen time to 2 hours per day.
-*Bác sĩ đề xuất rằng thanh thiếu niên nên giảm thời gian dùng màn hình xuống còn 2 giờ mỗi ngày.*
+**2.**
+A: What should we do to prevent global warming?
+B: I suggest we should (reduce) ________ exhaust fumes.
+*A: Chúng ta nên làm gì để ngăn chặn sự nóng lên toàn cầu? B: Tôi đề nghị chúng ta nên giảm lượng khí thải.*
 
-**3.** I suggest not ________ (use) headphones at full volume.
-*Tôi đề xuất không dùng tai nghe ở âm lượng tối đa.*
+**3.**
+A: What should we do if we want to communicate with others on the move?
+B: I advise (use) ________ a smartphone.
+*A: Chúng ta nên làm gì nếu muốn liên lạc với người khác khi đang di chuyển? B: Tôi khuyên bạn nên sử dụng điện thoại thông minh.*
 
-**4.** She recommends you ________ (limit) social media to 30 minutes a day.
-*Cô ấy đề xuất bạn nên giới hạn mạng xã hội xuống 30 phút mỗi ngày.*
+**4.**
+A: What should we do to protect and preserve our national parks?
+B: I advise that we should (limit) ________ the number of visitors every day.
+*A: Chúng ta nên làm gì để bảo vệ và bảo tồn các vườn quốc gia? B: Tôi khuyên chúng ta nên hạn chế số lượng du khách mỗi ngày.*
 
-**5.** He advises ________ (eat) away from screens during meals.
-*Anh ấy khuyên ăn xa màn hình trong bữa ăn.*
+**5.**
+A: What should we do to improve our health?
+B: I recommend (eat) ________ more fruits and vegetables.
+*A: Chúng ta nên làm gì để cải thiện sức khỏe? B: Tôi khuyên bạn nên ăn nhiều trái cây và rau quả hơn.*
 </questions>
 
 <teacher_script pause="0">
@@ -244,19 +259,19 @@ Bài 4 nha — điền từ để hoàn thành lời khuyên về việc dùng t
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. using | 2. (should) reduce | 3. using | 4. (should) limit | 5. eating
+**Đáp án:** 1. using | 2. reduce | 3. using | 4. limit | 5. eating
 </answer>
 
 <explanation>
-**1. using** — *Suggest + V-ing* → *suggest using*. Lời khuyên về dùng chế độ ban đêm.
+**1. using** — *Recommend + V-ing*: gợi ý làm gì. Không có *that* nên dùng V-ing.
 
-**2. (should) reduce** — *Recommend + that + S + (should) + V* → *reduce* (base form). Không thêm *-s* dù chủ ngữ là *teenagers*.
+**2. reduce** — *Suggest + should + V*: đề xuất nên làm gì. Sau *should* dùng base form.
 
-**3. using** — *Suggest + not + V-ing* → *suggest not using*. Phủ định: *not* + V-ing nha.
+**3. using** — *Advise + V-ing*: khuyên làm gì. Không có tân ngữ nên dùng V-ing.
 
-**4. (should) limit** — *Recommend + that + you + (should) + V* → *limit*. Tương tự cấu trúc *that-clause*.
+**4. limit** — *Advise + that + should + V*: khuyên nên làm gì. Sau *should* dùng base form.
 
-**5. eating** — *Advise + V-ing* → *advises eating*. *Advise* + V-ing khi không có tân ngữ (object) nha.
+**5. eating** — *Recommend + V-ing*: gợi ý làm gì. Dùng V-ing vì không có *that*.
 </explanation>
 
 <!-- chunk: exercise-5 -->
