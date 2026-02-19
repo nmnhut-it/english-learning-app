@@ -459,6 +459,15 @@ function compareNormalizedSentences(sourceText, voiceText) {
  */
 function extractSourceBlocks(content) {
   content = content.replace(/\r\n/g, '\n'); // Normalize line endings
+
+  // Remove sample answer sections (not textbook content):
+  // 1. "Lời giải chi tiết" blocks
+  // 2. "Cách trả lời" (alternative answers) blocks
+  // 3. Everything after "Xem thêm" (additional content)
+  content = content.replace(/\*\*Lời giải chi tiết:\*\*[\s\S]*?(?=\*\*Bài\s+\d|\*\*Xem thêm|$)/g, '');
+  content = content.replace(/Cách trả lời \d[\s\S]*?(?=\*\*Bài\s+\d|Cách trả lời \d|\*\*Xem thêm|$)/g, '');
+  content = content.replace(/\*\*Xem thêm\*\*[\s\S]*$/g, '');
+
   const blocks = { dialogueText: '', questionText: '', readingText: '' };
 
   // Dialogue: Between Bài 1 and Tạm dịch (or Bài 2)
@@ -481,7 +490,7 @@ function extractSourceBlocks(content) {
   // Reading: Look for substantial English paragraphs
   // Strip ALL leading image markdown tags before checking if paragraph starts with capital
   const stripLeadingImages = (text) => {
-    let result = text.trim(); // Trim leading whitespace first
+    let result = text.trim();
     while (/^!\[[^\]]*\]\([^)]*\)\s*/.test(result)) {
       result = result.replace(/^!\[[^\]]*\]\([^)]*\)\s*/, '');
     }
@@ -495,7 +504,15 @@ function extractSourceBlocks(content) {
     })
     .map(p => stripLeadingImages(p))
     .join(' ');
-  blocks.readingText = englishParagraphs;
+
+  // Also extract numbered English sentences (1. sentence, 2. sentence...)
+  // These are often reading lists that are < 100 chars individually
+  const numberedLines = content.match(/^\d+\.\s+[A-Z][^*\n]+/gm) || [];
+  const numberedEnglish = numberedLines
+    .filter(line => !isVietnamese(line) && line.length > 20)
+    .join(' ');
+
+  blocks.readingText = [englishParagraphs, numberedEnglish].filter(Boolean).join(' ');
 
   return blocks;
 }
