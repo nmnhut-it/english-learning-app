@@ -377,6 +377,157 @@ function splitSentences(text) {
 }
 
 // =============================================================================
+// STRICT NORMALIZED COMPARISON (New - favors false positives)
+// =============================================================================
+
+/** Normalize strictly: keep only a-z, lowercase, collapse whitespace */
+function normalizeStrict(text) {
+  if (!text) return '';
+  return text.toLowerCase().replace(/[^a-z\s]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+/**
+ * Compare two texts using strict normalized sentence matching.
+ * Any source sentence not found in voice = flagged.
+ * Returns: matchRate, unmatched sentences, severity
+ */
+function compareNormalizedSentences(sourceText, voiceText) {
+  if (!sourceText) return { matchRate: 100, unmatched: [], passed: true, severity: 'PASS' };
+
+  const sourceSentences = splitSentences(sourceText).map(normalizeStrict).filter(s => s.length >= 10);
+  const voiceNormalized = normalizeStrict(voiceText || '');
+
+  if (sourceSentences.length === 0) {
+    return { matchRate: 100, unmatched: [], passed: true, severity: 'PASS' };
+  }
+
+  let matched = 0;
+  const unmatched = [];
+
+  for (const sentence of sourceSentences) {
+    if (voiceNormalized.includes(sentence)) {
+      matched++;
+    } else {
+      unmatched.push(sentence);
+    }
+  }
+
+  const matchRate = (matched / sourceSentences.length) * 100;
+
+  // STRICT: Any unmatched sentence = CRITICAL flag
+  return {
+    matchRate,
+    unmatched,
+    total: sourceSentences.length,
+    matched,
+    passed: unmatched.length === 0,
+    severity: unmatched.length > 0 ? 'CRITICAL' : 'PASS'
+  };
+}
+
+/**
+ * Extract raw English text blocks from source file (loigiaihay format).
+ * Simpler approach: just get text between markers, filter out Vietnamese.
+ */
+function extractSourceBlocks(content) {
+  const blocks = { dialogueText: '', questionText: '', readingText: '' };
+
+  // Dialogue: Between Bài 1 and Tạm dịch (or Bài 2)
+  const bai1Match = content.match(/\*\*(?:Bài\s+)?1\.?\*\*[\s\S]*?(?=\*\*Tạm dịch|\*\*Bài\s+2|\*\*Phương pháp)/i);
+  if (bai1Match) {
+    // Extract English dialogue lines: ***Speaker:*** text or **Speaker:** text
+    const dialogueLines = bai1Match[0].match(/\*{2,3}([A-Z][a-z]+):\*{2,3}\s*([^\n*]+)/g) || [];
+    const englishLines = dialogueLines
+      .map(line => line.replace(/\*{2,3}[A-Za-z]+:\*{2,3}\s*/, '').trim())
+      .filter(line => !isVietnamese(line) && line.length > 5);
+    blocks.dialogueText = englishLines.join(' ');
+  }
+
+  // Questions: All exercise text (English parts only)
+  const questionMatches = content.match(/\d+\.\s+[A-Z][^*\n]+/g) || [];
+  blocks.questionText = questionMatches
+    .filter(q => !isVietnamese(q))
+    .join(' ');
+
+  // Reading: Look for substantial English paragraphs
+  const paragraphs = content.split(/\n\n+/);
+  const englishParagraphs = paragraphs
+    .filter(p => p.length > 100 && !isVietnamese(p) && /^[A-Z]/.test(p.trim()))
+    .join(' ');
+  blocks.readingText = englishParagraphs;
+
+  return blocks;
+}
+
+/**
+ * Extract raw English text blocks from voice file (custom tags format).
+ */
+function extractVoiceBlocks(content) {
+  const blocks = { dialogueText: '', questionText: '', readingText: '' };
+
+  // Dialogue: Inside <dialogue> tags (both table and linear format)
+  const dialogueMatches = content.match(/<dialogue>([\s\S]*?)<\/dialogue>/g) || [];
+  for (const match of dialogueMatches) {
+    const inner = match.replace(/<\/?dialogue>/g, '');
+    // Extract English text, remove speaker markers and Vietnamese
+    const lines = inner.split('\n')
+      .map(line => line.replace(/^\*\*[A-Za-z]+:\*\*\s*/, '').replace(/\|/g, '').trim())
+      .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
+    blocks.dialogueText += ' ' + lines.join(' ');
+  }
+
+  // Questions: Inside <questions> tags
+  const questionMatches = content.match(/<questions[^>]*>([\s\S]*?)<\/questions>/g) || [];
+  for (const match of questionMatches) {
+    const inner = match.replace(/<\/?questions[^>]*>/g, '');
+    const lines = inner.split('\n')
+      .map(line => line.replace(/^\*\*\d+\.\*\*\s*/, '').trim())
+      .filter(line => line.length > 5 && !isVietnamese(line) && /^[A-Za-z]/.test(line));
+    blocks.questionText += ' ' + lines.join(' ');
+  }
+
+  // Reading: Inside <reading> tags
+  const readingMatches = content.match(/<reading>([\s\S]*?)<\/reading>/g) || [];
+  for (const match of readingMatches) {
+    const inner = match.replace(/<\/?reading>/g, '');
+    const lines = inner.split('\n')
+      .filter(line => line.length > 5 && !isVietnamese(line));
+    blocks.readingText += ' ' + lines.join(' ');
+  }
+
+  return blocks;
+}
+
+/**
+ * Run strict comparison between source and voice blocks.
+ * Returns array of results for each content type.
+ */
+function runStrictComparison(sourceBlocks, voiceBlocks) {
+  const results = [];
+
+  // Compare dialogues
+  if (sourceBlocks.dialogueText && sourceBlocks.dialogueText.length > 20) {
+    const result = compareNormalizedSentences(sourceBlocks.dialogueText, voiceBlocks.dialogueText);
+    results.push({ type: 'Dialogue', ...result });
+  }
+
+  // Compare questions
+  if (sourceBlocks.questionText && sourceBlocks.questionText.length > 20) {
+    const result = compareNormalizedSentences(sourceBlocks.questionText, voiceBlocks.questionText);
+    results.push({ type: 'Questions', ...result });
+  }
+
+  // Compare reading
+  if (sourceBlocks.readingText && sourceBlocks.readingText.length > 50) {
+    const result = compareNormalizedSentences(sourceBlocks.readingText, voiceBlocks.readingText);
+    results.push({ type: 'Reading', ...result });
+  }
+
+  const hasIssues = results.some(r => r.unmatched && r.unmatched.length > 0);
+  return { results, overallSeverity: hasIssues ? 'CRITICAL' : 'PASS' };
+}
+
+// =============================================================================
 // MATCHING ALGORITHMS
 // =============================================================================
 
@@ -1834,6 +1985,36 @@ function generateReport(grade, unit, section, comparison) {
     report += `\n`;
   }
 
+  // Strict Comparison Results (new)
+  if (comparison.strictComparison) {
+    const sc = comparison.strictComparison;
+    report += `## Strict Normalized Comparison\n\n`;
+    report += `| Content Type | Match Rate | Unmatched | Status |\n`;
+    report += `|--------------|------------|-----------|--------|\n`;
+
+    for (const result of sc.results) {
+      const status = result.passed ? '✅ PASS' : '❌ CRITICAL';
+      const unmatchedCount = result.unmatched ? result.unmatched.length : 0;
+      report += `| ${result.type} | ${result.matchRate.toFixed(0)}% | ${unmatchedCount}/${result.total} | ${status} |\n`;
+    }
+
+    report += `\n`;
+
+    // Show unmatched sentences for review
+    for (const result of sc.results) {
+      if (result.unmatched && result.unmatched.length > 0) {
+        report += `### Unmatched ${result.type} Sentences\n\n`;
+        for (const sentence of result.unmatched.slice(0, 10)) {
+          report += `- "${sentence}"\n`;
+        }
+        if (result.unmatched.length > 10) {
+          report += `- ... and ${result.unmatched.length - 10} more\n`;
+        }
+        report += `\n`;
+      }
+    }
+  }
+
   return report;
 }
 
@@ -1896,6 +2077,23 @@ async function main() {
       const voiceParsed = parseVoiceLecture(voiceContent);
 
       const comparison = compareContent(sourceParsed, voiceParsed);
+
+      // Run STRICT normalized comparison (new - favors false positives)
+      const sourceBlocks = extractSourceBlocks(sourceContent);
+      const voiceBlocks = extractVoiceBlocks(voiceContent);
+      const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks);
+      comparison.strictComparison = strictComparison;
+
+      // Add strict comparison issues to main issues list
+      for (const result of strictComparison.results) {
+        if (result.unmatched && result.unmatched.length > 0) {
+          comparison.issues.push({
+            type: 'CRITICAL',
+            block: `STRICT ${result.type} - Unmatched Sentences`,
+            detail: `${result.unmatched.length}/${result.total} sentences not found: "${result.unmatched.slice(0, 2).join('", "')}${result.unmatched.length > 2 ? '...' : ''}"`
+          });
+        }
+      }
 
       // Run quality checks
       const qualityChecks = runQualityChecks(voiceContent, parseInt(grade), sect);
