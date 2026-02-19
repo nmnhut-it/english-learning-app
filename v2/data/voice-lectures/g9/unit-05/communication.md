@@ -62,43 +62,29 @@ Nhớ mấy cụm này nha. Đặc biệt khi xin lỗi, cố gắng nói thêm 
 
 <!-- chunk: dialogue-1 -->
 <teacher_script pause="0">
-Hội thoại 1 — An đến muộn cho dự án nhóm và xin lỗi Tom nha.
+Bài 1 — <eng>Listen and read</eng> nha. Hai hội thoại về xin lỗi và chấp nhận lời xin lỗi. Chú ý những phần được in đậm — đó là các cụm quan trọng nha.
 </teacher_script>
 
-<dialogue>
-**An:** Tom, I'm really sorry for being late. I missed the bus and couldn't find a taxi.
-**Tom:** It's fine — these things happen. But next time, please let me know in advance.
-**An:** Of course. I promise I will. I'll also make it up to you by finishing the summary for our project.
-**Tom:** That's great! Thanks, An.
-</dialogue>
+<audio src="30.mp3"></audio>
 
-<translation>
-**An:** Tom ơi, mình thực sự xin lỗi vì đến muộn. Mình lỡ xe buýt và không tìm được taxi.
-**Tom:** Không sao — chuyện đó vẫn xảy ra. Nhưng lần sau, báo cho mình biết trước nha.
-**An:** Tất nhiên rồi. Mình hứa sẽ vậy. Mình cũng sẽ bù đắp bằng cách hoàn thành phần tóm tắt cho dự án của chúng mình.
-**Tom:** Hay đó! Cảm ơn An nha.
-</translation>
+<dialogue>
+| English | Vietnamese |
+|---------|------------|
+| **Mai:** Can I come in? I'm really sorry. I'm late. There was a lot of traffic. | **Mai:** Em vào lớp được không ạ? Em thực sự xin lỗi. Em đến trễ. Em bị kẹt xe. |
+| **Teacher:** That's okay, Mai. | **Giáo viên:** Không sao đâu Mai. |
+</dialogue>
 
 <teacher_script pause="0">
-Xong hội thoại 1. Giờ xem hội thoại 2 nha — Mi xin lỗi vì về nhà muộn.
+Hội thoại 2 nha — con trai quên giặt đồ và xin lỗi mẹ.
 </teacher_script>
 
-<!-- chunk: dialogue-2 -->
 <dialogue>
-**Mi:** Phong, I apologise for staying out past 9pm last night. I should have called you earlier.
-**Phong:** Don't worry — I'm not angry. But our parents were really worried. It wasn't fair on them.
-**Mi:** You're right, I'm really sorry. I promise I'll always be home on time from now on.
-**Phong:** That's all I needed to hear. Just don't let it happen again, okay?
-**Mi:** I won't. I promise!
+| English | Vietnamese |
+|---------|------------|
+| **Mother:** Have you done the washing yet? | **Mẹ:** Con giặt đồ chưa? |
+| **Son:** Oops, my mistake, Mum. I thought I could do it later. | **Con trai:** Ôi, lỗi của con, mẹ ạ. Con nghĩ con có thể làm điều đó sau. |
+| **Mother:** Oh, that's right. But please do it now. | **Mẹ:** Ồ, đúng rồi. Nhưng hãy làm điều đó ngay bây giờ. |
 </dialogue>
-
-<translation>
-**Mi:** Phong ơi, mình xin lỗi vì ở ngoài sau 9 giờ tối hôm qua. Mình đáng lẽ phải gọi cho bạn sớm hơn.
-**Phong:** Đừng lo — mình không tức đâu. Nhưng ba mẹ bọn mình lo lắm đó. Như vậy không công bằng với họ.
-**Mi:** Bạn nói đúng, mình thực sự xin lỗi. Mình hứa từ nay trở đi sẽ luôn về nhà đúng giờ.
-**Phong:** Đó là tất cả những gì mình cần nghe. Chỉ cần đừng để điều đó xảy ra lần nữa, được không?
-**Mi:** Mình sẽ không. Mình hứa!
-</translation>
 
 <teacher_script pause="180">
 Dịch cả hai hội thoại vô vở nha. 3 phút.
@@ -106,20 +92,16 @@ Dịch cả hai hội thoại vô vở nha. 3 phút.
 
 <!-- chunk: translation -->
 <translation>
-**Dịch hội thoại 1 — An và Tom**
+**Hội thoại 1:**
 
-- **An:** Tom ơi, mình thực sự xin lỗi vì đến muộn. Mình lỡ xe buýt và không tìm được taxi.
-- **Tom:** Không sao — chuyện đó vẫn xảy ra. Nhưng lần sau, báo cho mình biết trước nha.
-- **An:** Tất nhiên rồi. Mình hứa sẽ vậy. Mình cũng sẽ bù đắp bằng cách hoàn thành phần tóm tắt cho dự án của chúng mình.
-- **Tom:** Hay đó! Cảm ơn An nha.
+- **Mai:** Em vào lớp được không ạ? Em thực sự xin lỗi. Em đến trễ. Em bị kẹt xe.
+- **Giáo viên:** Không sao đâu Mai.
 
-**Dịch hội thoại 2 — Mi và Phong**
+**Hội thoại 2:**
 
-- **Mi:** Phong ơi, mình xin lỗi vì ở ngoài sau 9 giờ tối hôm qua. Mình đáng lẽ phải gọi cho bạn sớm hơn.
-- **Phong:** Đừng lo — mình không tức đâu. Nhưng ba mẹ bọn mình lo lắm đó. Như vậy không công bằng với họ.
-- **Mi:** Bạn nói đúng, mình thực sự xin lỗi. Mình hứa từ nay trở đi sẽ luôn về nhà đúng giờ.
-- **Phong:** Đó là tất cả những gì mình cần nghe. Chỉ cần đừng để điều đó xảy ra lần nữa, được không?
-- **Mi:** Mình sẽ không. Mình hứa!
+- **Mẹ:** Con giặt đồ chưa?
+- **Con trai:** Ôi, lỗi của con, mẹ ạ. Con nghĩ con có thể làm điều đó sau.
+- **Mẹ:** Ồ, đúng rồi. Nhưng hãy làm điều đó ngay bây giờ.
 </translation>
 
 <teacher_script pause="0">
@@ -128,35 +110,51 @@ Dịch xong rồi nha. Bây giờ luyện xin lỗi theo tình huống thực t�
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="120">
-Bài 2 — <eng>Role-play</eng> nha. Nhìn vào 3 tình huống dưới đây và viết lời xin lỗi phù hợp. 2 phút chuẩn bị, rồi thực hành với bạn.
+Bài 2 — làm việc theo cặp nha. Thực hiện hội thoại tương tự với 2 tình huống sau. 2 phút chuẩn bị.
 </teacher_script>
 
 <task>
-**Đề:** Write an apology for each situation, then role-play with your partner.
-**Dịch đề:** Viết lời xin lỗi cho mỗi tình huống, rồi thực hành với bạn.
+**Đề:** Work in pairs. Make similar conversations with the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự với các tình huống sau.
 </task>
 
 <questions type="speaking">
-**Tình huống a:**
-You forgot to lend your friend a book you promised to bring to school today.
-*(Bạn quên mang cuốn sách cho bạn mượn mà bạn đã hứa mang đến trường hôm nay.)*
+**1.** You submit your project after the deadline.
+*(Bạn gửi dự án của mình sau hạn chót.)*
 
-**Tình huống b:**
-You accidentally slipped and bumped into someone in the hallway, making them drop their things.
-*(Bạn vô tình trượt và đụng vào ai đó trong hành lang, làm họ đánh rơi đồ.)*
-
-**Tình huống c:**
-You submitted your homework a day late because you forgot about it.
-*(Bạn nộp bài tập muộn một ngày vì quên mất.)*
-
-**Mẫu đáp án:**
-- **a:** "I'm so sorry — I forgot to bring your book. I'll definitely bring it tomorrow. Is that okay?"
-- **b:** "I'm really sorry! I didn't mean to bump into you. Are you okay? Let me help you pick those up."
-- **c:** "I apologise for submitting my homework late, teacher. I forgot and I take full responsibility. It won't happen again."
+**2.** You came home later than you promised your mum you would.
+*(Bạn về nhà muộn hơn bạn đã hứa với mẹ.)*
 </questions>
 
 <teacher_script pause="0">
-Xong rồi nha. Các em đã biết cách xin lỗi chuyên nghiệp và tự nhiên rồi.
+Mẫu hội thoại nè — tham khảo thôi, không cần chép y chang nha.
+</teacher_script>
+
+<answer>
+**Tình huống 1 — nộp bài trễ hạn:**
+
+**Teacher:** Have you submitted your project yet?
+*(Giáo viên: Em đã nộp dự án của mình chưa?)*
+
+**Student:** Oops, my mistake. I thought I had more time. I'll make sure to be on time next time.
+*(Học sinh: Ôi, lỗi của em. Em tưởng em có nhiều thời gian hơn. Lần sau em đảm bảo sẽ đúng thời hạn.)*
+
+**Teacher:** That's alright, but try to manage your time better in the future.
+*(Giáo viên: Được rồi, nhưng sau này hãy cố gắng quản lý thời gian tốt hơn nhé.)*
+
+---
+
+**Tình huống 2 — về nhà muộn hơn đã hứa:**
+
+**You:** I'm really sorry. I came home later than I promised.
+*(Con thực sự xin lỗi. Con về nhà muộn hơn con đã hứa.)*
+
+**Mom:** That's okay, but next time, make sure to inform me if you're going to be late.
+*(Mẹ: Không sao đâu, nhưng lần sau con về muộn nhớ báo cho mẹ nhé.)*
+</answer>
+
+<teacher_script pause="0">
+Xong rồi nha. Tiếp theo đọc bài về trải nghiệm cắm trại nha.
 </teacher_script>
 
 <!-- chunk: exercise-3-vocab -->

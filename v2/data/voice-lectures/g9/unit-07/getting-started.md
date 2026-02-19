@@ -140,7 +140,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 *Tom tham gia Cuộc thi Kỳ quan Thiên nhiên.*
 
-**2.** Lan is not interested in natural wonders. _____
+**2.** Lan is not keen on natural wonders. _____
 
 *Lan không quan tâm đến kỳ quan thiên nhiên.*
 
@@ -148,7 +148,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 *Tom gợi ý những cách bảo tồn kỳ quan thiên nhiên.*
 
-**4.** Tom asked the host if he wanted to visit Ha Long Bay. _____
+**4.** Tom asked the host if he wanted to go to Ha Long Bay. _____
 
 *Tom hỏi người dẫn chương trình xem anh ấy có muốn đi Vịnh Hạ Long không.*
 </questions>
@@ -204,11 +204,11 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </task>
 
 <questions type="fill_blanks">
-**1.** A _______ is everything you can see when you look across a large area of land, especially in the countryside.
-**2.** His climbing to the peak was very risky, but we _______ admiring his courage.
-**3.** The best way to _______ the Trang An Scenic Landscape Complex is by boat.
-**4.** Environmentalists strongly _______ measures to preserve these heritage trees.
-**5.** The goals of sustainable _______ will guide us to create a more sustainable future for everyone.
+**1.** A _______ is everything you can see in a large area of land, especially in the countryside.
+**2.** It was risky for him to climb the peak, but we _______ admiring his courage.
+**3.** The best way to _______ the Trang An Landscape Complex is by boat.
+**4.** Environmentalists strongly _______ measures to save these heritage trees.
+**5.** Sustainable _______ goals will guide us to create a more sustainable future for all.
 </questions>
 
 <teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
@@ -267,12 +267,12 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </task>
 
 <questions type="fill_blanks">
-**Word bank:** *crazy / landscape / explore / suggest / contribute*
+**Word bank:** *crazy / landscape / explore / suggest / contributes*
 
 **1.** Charles is _______ about football. He follows all the World Cup matches.
-**2.** When you come to Mui Ne, you can admire the unique _______ of a desert.
-**3.** The children are very eager to _______ the countryside around.
-**4.** Can you _______ ways to promote our local tourism?
+**2.** When you go to Mui Ne, you can see the unique _______ of a desert.
+**3.** The children were very eager to _______ the surrounding countryside.
+**4.** Can you _______ ways of boosting our local tourism?
 **5.** Tourism _______ millions of dollars to our country's economy.
 </questions>
 
