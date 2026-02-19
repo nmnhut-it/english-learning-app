@@ -18,9 +18,9 @@ Ok lớp 9, bài <eng>Skills 1</eng> Unit 5 — đọc và nói nha. Hôm nay đ
 9. **outskirts** : (n) vùng ngoại ô /ˈaʊtskɜːts/
 10. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
 11. **below** : (prep/adv) dưới đây /bɪˈləʊ/
-12. **push-ups** : (n) bài tập hít đất /ˈpʊʃ ʌps/
-13. **military** : (adj/n) quân đội /ˈmɪlɪtəri/
-14. **unique** : (adj) độc đáo, duy nhất /juːˈniːk/
+12. **theme** : (n) chủ đề /θiːm/
+13. **billiards** : (n) bi-a /ˈbɪliədz/
+14. **Rockefeller Centre** : (n) Trung tâm Rockefeller /ˈrɒkəˌfelə ˈsentə/
 </vocabulary>
 
 <teacher_script pause="0">
@@ -251,28 +251,33 @@ Bài 4 — <eng>Speaking</eng>, nối câu hỏi ở A với câu trả lời �
 </explanation>
 
 <!-- chunk: speaking -->
-<teacher_script pause="300">
-Bài 5 — <eng>Speaking</eng> cuối bài nha. Kể về một trải nghiệm học ngoài trời hoặc mùa hè đặc biệt của em. Chuẩn bị 5 phút, rồi nói trước lớp.
+<teacher_script pause="60">
+Bài 5 — <eng>Speaking</eng> cuối bài nha. Làm việc theo cặp, hỏi và trả lời về một khóa học bạn đã từng tham gia. Dùng câu hỏi ở bài 4 làm gợi ý. Có 1 phút chuẩn bị nha.
 </teacher_script>
 
 <task>
-**Đề:** Describe a special summer experience or outdoor learning experience you have had (or would like to have).
-**Dịch đề:** Mô tả một trải nghiệm mùa hè đặc biệt hoặc trải nghiệm học ngoài trời mà em đã có (hoặc muốn có).
+**Đề:** Work in pairs. Ask and answer about a course you have experienced. Use the questions in 4 as cues. Then report your partner's answers to the class.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về một khóa học bạn đã trải qua. Sử dụng các câu hỏi ở phần 4 làm gợi ý. Sau đó báo cáo câu trả lời của bạn cho cả lớp.
 </task>
 
 <questions type="speaking">
-**Gợi ý cấu trúc:**
-1. **What** was the experience? *(Trải nghiệm đó là gì?)*
-2. **Where** and **when** was it? *(Ở đâu, khi nào?)*
-3. **What activities** did you do? *(Bạn đã làm những hoạt động gì?)*
-4. **What was challenging?** *(Điều gì khó khăn nhất?)*
-5. **What did you learn or gain?** *(Bạn học được hoặc có được gì?)*
-6. **How did you feel overall?** *(Cảm giác tổng thể như thế nào?)*
+**Câu hỏi gợi ý (từ bài 4):**
+1. What course did you attend?
+*(Bạn đã tham gia khóa học nào?)*
+2. When was that?
+*(Đó là khi nào?)*
+3. What did you do?
+*(Bạn đã làm gì?)*
+4. What do you remember most about it?
+*(Bạn nhớ điều gì nhất về nó?)*
+5. How did you feel?
+*(Bạn cảm thấy thế nào?)*
 
-**Đoạn văn mẫu:**
-*"Last summer, I attended a science camp in Da Lat for one week with students from my school. We did experiments with plants and studied wildlife in the forest. The most exciting part was the night hike, where we saw fireflies for the first time. It was a little scary in the dark, but our instructor was very supportive. I have never felt so close to nature before, and I learnt that science is not just in textbooks — it's everywhere around us. It was truly an unforgettable experience."*
+**Mẫu báo cáo:**
+*Minh attended a memorable summer course last year. It was a presentation skills course. He learnt......*
+*(Minh đã tham dự một khóa học hè đáng nhớ vào năm ngoái. Đó là một khóa học kỹ năng thuyết trình. Anh ấy đã học......)*
 </questions>
 
 <teacher_script pause="0">
-Xuất sắc! Xong bài <eng>Skills 1</eng> Unit 5 rồi nha! Tụi mình đã đọc về trải nghiệm của Dương và Akiko, làm bài tập đọc hiểu, và luyện kỹ năng nói. Hẹn gặp ở bài <eng>Skills 2</eng>!
+Xong bài <eng>Skills 1</eng> Unit 5 rồi nha! Hôm nay đọc bài của Dương ở trại quân đội Sơn Tây và Akiko ở Thornwood campus New York — hai trải nghiệm mùa hè rất khác nhau nhưng đều khó quên. Nhớ từ quan trọng: *touching*, *strict*, *unforgettable*, *theme*, *outskirts* nha. Hẹn gặp ở bài <eng>Skills 2</eng> hen!
 </teacher_script>
