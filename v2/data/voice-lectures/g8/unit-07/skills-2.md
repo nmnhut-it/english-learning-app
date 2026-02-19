@@ -28,7 +28,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 </questions>
 
 <answer>
-**Đáp án:** 1. drinking | 2. factories | 3. harmful | 4. shouldn't
+**Bài 2 - Đáp án:** 1. drinking | 2. factories | 3. harmful | 4. shouldn't
 </answer>
 
 <explanation>
@@ -65,7 +65,7 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Water pollution (Ô nhiễm nước).
 2. Two (Hai nguồn: man-made and natural).
 3. Rivers and lakes (Sông và hồ).

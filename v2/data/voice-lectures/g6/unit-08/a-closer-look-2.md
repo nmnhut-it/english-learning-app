@@ -162,7 +162,7 @@ Bài 1 <eng>Choose the correct answer</eng> nha. Chọn đáp án đúng A, B ho
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.C | 4.A | 5.B
+**Bài 1 - Đáp án:** 1.C | 2.B | 3.C | 4.A | 5.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_68cdfada.mp3">
@@ -250,7 +250,7 @@ Bài 2 <eng>Write the correct form of the verbs</eng> nha. Chia động từ tro
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. went | 2. had | 3. did you do | 4. visited | 5. ate | 6. scored
+**Bài 2 - Đáp án:** 1. went | 2. had | 3. did you do | 4. visited | 5. ate | 6. scored
 </answer>
 
 <teacher_script pause="0" href="audio/tts_d2177117.mp3">
@@ -444,7 +444,7 @@ Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Don't park | 2. Close | 3. Tidy up | 4. Don't use | 5. Try
+**Bài 4 - Đáp án:** 1. Don't park | 2. Close | 3. Tidy up | 4. Don't use | 5. Try
 </answer>
 
 <teacher_script pause="0" href="audio/tts_424d3639.mp3">

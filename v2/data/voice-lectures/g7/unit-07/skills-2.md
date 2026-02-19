@@ -75,7 +75,7 @@ Mumbai là một trong những thành phố tắc nghẽn nhất thế giới đ
 </teacher_script>
 
 <answer>
-**Trả lời:**
+**Bài 1 - Trả lời:**
 I can see a busy street with heavy traffic. There are many vehicles: cars, buses, motorbikes. The special thing is that the traffic is very congested - vehicles can hardly move.
 
 *(Tôi thấy một con đường đông đúc với giao thông dày đặc. Có nhiều phương tiện: ô tô, xe buýt, xe máy. Điều đặc biệt là giao thông rất tắc nghẽn - xe cộ hầu như không di chuyển được.)*
@@ -146,7 +146,7 @@ Chúng ta cùng làm Bài 2 <eng>Listen and choose</eng>. Các em hãy nghe đo�
 </teacher_script>
 
 <answer>
-**Đáp án:** C - Traffic problems in Mumbai
+**Bài 2 - Đáp án:** C - Traffic problems in Mumbai
 *(Vấn đề giao thông ở Mumbai)*
 </answer>
 
@@ -207,7 +207,7 @@ Chúng ta cùng làm Bài 3 <eng>Listen and fill</eng>. Các em hãy nghe lại 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. jams
 2. jams / problems
 3. Twenty / 20

@@ -48,7 +48,7 @@ Bài 1 <eng>Find one odd word</eng> nha. Tìm một từ không cùng nhóm tron
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.A | 3.C | 4.B | 5.B
+**Bài 1 - Đáp án:** 1.C | 2.A | 3.C | 4.B | 5.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_19cd179f.webm">
@@ -139,7 +139,7 @@ Bài 2 <eng>Put the correct form of the verbs</eng> nha. Điền <eng>play, do</
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. do | 2. is playing | 3. goes | 4. went | 5. played | 6. are doing
+**Bài 2 - Đáp án:** 1. do | 2. is playing | 3. goes | 4. went | 5. played | 6. are doing
 </answer>
 
 <teacher_script pause="0" href="audio/tts_229587b4.webm">
@@ -224,7 +224,7 @@ Bài 3 <eng>Put the verbs in brackets in the correct form</eng> nha. Chia độn
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. took
 2. started
 3. didn't like
@@ -305,7 +305,7 @@ Bài 4 <eng>What do you say in these situations?</eng> nha. Nói gì trong các 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Please, stop **making noise**.
 2. **Go out** to play with your friends.
 3. **Don't feed** the animals.
@@ -360,7 +360,7 @@ Sports and games are very important in our lives. We all can (1) _______ a sport
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. play | 2. hear | 3. favourite | 4. sports | 5. famous
+**Bài 5 - Đáp án:** 1. play | 2. hear | 3. favourite | 4. sports | 5. famous
 </answer>
 
 <explanation>

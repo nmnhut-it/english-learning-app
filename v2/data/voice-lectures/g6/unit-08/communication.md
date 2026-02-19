@@ -175,7 +175,7 @@ Sau đây là đáp án. Đây là những kiến thức chung rất thú vị v
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. 22 players (11 on each side)
 2. 90 minutes (two halves of 45 minutes)
 3. Every four years

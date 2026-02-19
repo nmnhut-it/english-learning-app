@@ -54,7 +54,7 @@ Bài 1 nha. Đánh dấu các thứ cần thiết để mua sắm online đi. 30
 </task>
 
 <answer>
-**Đáp án:** 1, 3, 4 (Internet, smartphone, credit card).
+**Bài 1 - Đáp án:** 1, 3, 4 (Internet, smartphone, credit card).
 </answer>
 
 ---
@@ -90,7 +90,7 @@ Bài 2 <eng>Listen and fill</eng> nha. Nghe về mua sắm online rồi điền 
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. service
 2. seller's
 3. money
@@ -143,7 +143,7 @@ A. popularity | B. convenience | C. advantages and disadvantages
 </questions>
 
 <answer>
-**Đáp án:** 1.B | 2.C | 3.C
+**Bài 3 - Đáp án:** 1.B | 2.C | 3.C
 </answer>
 
 <explanation>

@@ -135,7 +135,7 @@ Chúng ta cùng làm Bài 1 <eng>Listen and tick</eng>. Các em hãy nghe audio 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 
 | Programmes | Channel 1 | Channel 2 | Channel 3 |
 |------------|-----------|-----------|-----------|
@@ -210,7 +210,7 @@ Chúng ta cùng làm Bài 2 <eng>True or False</eng>. Các em hãy nghe lại au
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. T | 2. F | 3. T | 4. F
+**Bài 2 - Đáp án:** 1. T | 2. F | 3. T | 4. F
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e70b2510.mp3">

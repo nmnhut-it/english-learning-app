@@ -78,7 +78,7 @@ Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. ball | 2. sports shoes | 3. boat | 4. racket | 5. goggles
+**Bài 1 - Đáp án:** 1. ball | 2. sports shoes | 3. boat | 4. racket | 5. goggles
 </answer>
 
 <teacher_script pause="0" href="audio/tts_3911f885.mp3">
@@ -159,7 +159,7 @@ Bài 2 <eng>Match each thing with a sport</eng> nha. Nối dụng cụ ở cột
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
+**Bài 2 - Đáp án:** 1-c | 2-d | 3-a | 4-b | 5-e
 </answer>
 
 <teacher_script pause="0" href="audio/tts_db12ecb7.mp3">
@@ -255,7 +255,7 @@ Bài 3 <eng>Fill each blank with one of the words from the box</eng> nha. Điề
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. competition | 2. champion | 3. congratulations | 4. sporty | 5. marathon
+**Bài 3 - Đáp án:** 1. competition | 2. champion | 3. congratulations | 4. sporty | 5. marathon
 </answer>
 
 <teacher_script pause="0" href="audio/tts_54809aaa.mp3">
@@ -449,7 +449,7 @@ Ok đáp án nè. Liệt kê từ chứa từng âm để dễ theo dõi nha.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 | Âm /e/ | Âm /æ/ |
 |--------|--------|

@@ -143,7 +143,7 @@ Chúng ta cùng làm Bài 2 <eng>Choose the correct answer</eng>. Các em hãy �
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.C
+**Bài 2 - Đáp án:** 1.A | 2.B | 3.C
 </answer>
 
 <teacher_script pause="0" href="audio/tts_d333e5bd.webm">
@@ -225,7 +225,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete the sentences</eng>. Các em hãy tìm
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. cycled | 2. should | 3. jams | 4. How | 5. crowded
+**Bài 3 - Đáp án:** 1. cycled | 2. should | 3. jams | 4. How | 5. crowded
 </answer>
 
 <teacher_script pause="0" href="audio/tts_778f802f.webm">

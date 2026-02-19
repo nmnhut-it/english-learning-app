@@ -93,7 +93,7 @@ You can also do things like **buying green products** and practising **reduce, r
 </questions>
 
 <answer>
-**Đáp án:** 1, 3, 4.
+**Bài 3 - Đáp án:** 1, 3, 4.
 </answer>
 
 <teacher_script pause="0" href="audio/tts_aca3c861.mp3">
@@ -131,7 +131,7 @@ d. improving our health, reducing pollution
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 **1 - d** (trồng cây -> cải thiện sức khỏe, giảm ô nhiễm)
 **2 - b** (mua sản phẩm xanh -> giảm nóng lên toàn cầu)
 **3 - a** (nhặt rác -> làm sạch môi trường)

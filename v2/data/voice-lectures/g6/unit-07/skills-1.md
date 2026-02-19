@@ -189,7 +189,7 @@ Bây giờ các em hãy tìm thông tin trong bảng để trả lời 5 câu h�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. It's Cuc Phuong Forest. / It's about plants, flowers and animals.
 2. Yes, it is.
 3. It's on at 10:30.
@@ -280,7 +280,7 @@ Chúng ta cùng làm Bài 2 <eng>Match people with programmes</eng>. Dựa vào 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. Phong → Children are Always Right
 2. Bob → The Fox Teacher
 3. Nga → Cuc Phuong Forest

@@ -2,12 +2,12 @@
 ## SKILLS 2 - Listening and Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e4617e86.webm">
 Ok lớp 6, Unit 10 <eng>Skills 2</eng> nha. Bài này mình sẽ nghe về ngôi nhà mơ ước rồi viết một đoạn văn mô tả ngôi nhà mơ ước của mình. Mở sách trang 45 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6abd3cb6.webm">
 Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để học từ, máy đọc thì em đọc theo. Xong rồi làm bài trắc nghiệm từ vựng rồi ghi vô tập.
 </teacher_script>
 
@@ -30,7 +30,7 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để họ
 </vocabulary>
 
 <!-- chunk: listening-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_551b3a0c.webm">
 <eng>Listening</eng> nha. Bây giờ mình nghe Nick và Linda nói về ngôi nhà mơ ước của họ. Đây là bài nghe.
 </teacher_script>
 
@@ -39,7 +39,7 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để họ
 </audio>
 
 <!-- chunk: tapescript -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_277aaab9.webm">
 Đây là bài nghe <eng>tapescript</eng>. Đọc và dịch nha.
 </teacher_script>
 
@@ -65,14 +65,14 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để họ
 **Linda:** Nghe cũng hay đấy. Nhưng tôi nghĩ nó sẽ là...
 </translation>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_443b6833.webm">
 Dịch bài nghe vô vở. 2 phút nha.
 </teacher_script>
 
 <!-- chunk: bai1 -->
 ### Bài 1 trang 45 - Listening
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_38e51442.webm">
 Bài 1 <eng>Listen and read</eng> nha.
 </teacher_script>
 
@@ -89,7 +89,7 @@ Bài 1 <eng>Listen and read</eng> nha.
 - Picture c: biệt thự bên biển *(villa by the sea)*
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_923bd2d5.webm">
 Nghe bài nghe và chọn hình phù hợp cho Nick và Linda. 45 giây nha.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Ok đáp án nè.
 <!-- chunk: bai2 -->
 ### Bài 2 trang 45 - Tick the columns
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_30bae750.webm">
 Bài 2 nha.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Bài 2 nha.
 | 5. garden *(sân vườn)* |  |  |
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_83abe46d.webm">
 Nghe lại và đánh dấu vào bảng. 45 giây nha.
 </teacher_script>
 
@@ -162,7 +162,7 @@ Ok đáp án nè.
 <!-- chunk: bai3 -->
 ### Bài 3 trang 45 - Answer questions
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0f501861.webm">
 Bài 3 nha.
 </teacher_script>
 
@@ -189,11 +189,11 @@ Bài 3 nha.
 *(Nó ở đâu?)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_66432852.webm">
 Trả lời 5 câu hỏi vô vở. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+<teacher_script pause="0" href="audio/tts_29c83a10.webm">
 Ok đáp án nè.
 </teacher_script>
 
@@ -225,14 +225,14 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: writing-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d7c68188.webm">
 <eng>Writing</eng> nha. Bây giờ mình sẽ viết đoạn văn mô tả ngôi nhà mơ ước.
 </teacher_script>
 
 <!-- chunk: bai4 -->
 ### Bài 4 trang 45 - Discuss dream house
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d620ed49.webm">
 Bài 4 nha. Làm việc theo cặp, thảo luận về ngôi nhà mơ ước và điền vào bảng.
 </teacher_script>
 
@@ -265,11 +265,11 @@ Bài 4 nha. Làm việc theo cặp, thảo luận về ngôi nhà mơ ước và
 | Appliances in the house *(Các thiết bị trong nhà)* | _____________ |
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f19fc928.webm">
 Điền thông tin về ngôi nhà mơ ước của em vô bảng. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8e6cfb36.webm">
 Ok đây là ví dụ mẫu nè.
 </teacher_script>
 
@@ -287,7 +287,7 @@ Ok đây là ví dụ mẫu nè.
 <!-- chunk: bai5 -->
 ### Bài 5 trang 45 - Write a paragraph
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0732c4f2.webm">
 Bài 5 nha. Viết đoạn văn khoảng 50 từ về ngôi nhà mơ ước.
 </teacher_script>
 
@@ -309,11 +309,11 @@ Bài 5 nha. Viết đoạn văn khoảng 50 từ về ngôi nhà mơ ước.
 - I'm happy to live in my... *(Tôi hạnh phúc khi sống trong... của mình.)*
 </questions>
 
-<teacher_script pause="300" action="photo">
-Viết đoạn văn khoảng 50 từ về ngôi nhà mơ ước vô vở. Xong rồi chụp hình gửi cô. 5 phút nha.
+<teacher_script pause="300" action="photo" href="audio/tts_b1da4013.webm">
+Viết đoạn văn khoảng 50 từ về ngôi nhà mơ ước vô vở. Xong rồi chụp hình gửi thầy. 5 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_931902ba.webm">
 Ok đây là bài mẫu nè. Em đọc và so sánh với bài của mình nha.
 </teacher_script>
 
@@ -342,6 +342,6 @@ My dream house is a big villa by the sea. It has four bedrooms, three bathrooms,
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5fc142e0.webm">
 Ok xong bài <eng>Skills 2</eng> Unit 10 rồi nha. Hôm nay mình đã nghe về ngôi nhà mơ ước của Nick và Linda, rồi viết đoạn văn về ngôi nhà mơ ước của mình. Về nhà ôn lại từ vựng và đọc lại bài viết nha. Hẹn gặp lại ở bài <eng>Looking Back</eng>. Bye bye!
 </teacher_script>

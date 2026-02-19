@@ -78,7 +78,7 @@ Chúng ta cùng làm Bài 1 <eng>Label the signs</eng>. Các em hãy nhìn các 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. red light
 2. school ahead
 3. hospital ahead
@@ -144,7 +144,7 @@ Sau đây là đáp án đúng.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. A red light sign means **you have to stop**.
 2. A school ahead sign means **there is a school ahead**.
 3. A hospital ahead sign means **there is a hospital ahead**.
@@ -211,7 +211,7 @@ Chúng ta cùng làm Bài 2 <eng>Fill in the gaps</eng>. Các em hãy điền m�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. user
 2. ride
 3. passenger
@@ -308,7 +308,7 @@ Chúng ta cùng làm Bài 3 <eng>Write sentences with It</eng>. Các em hãy vi�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. It is over 100 km from my home town to Ho Chi Minh City.
 2. It is about 25 km from here to my grandparents' house.
 3. It is not very far from our school to the city museum.
@@ -414,7 +414,7 @@ Chúng ta cùng làm Bài 4 <eng>Choose the correct modal verb</eng>. Các em h�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. A (should)
 2. B (must)
 3. C (shouldn't)

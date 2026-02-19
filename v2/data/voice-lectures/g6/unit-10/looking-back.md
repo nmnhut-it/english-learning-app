@@ -2,19 +2,19 @@
 ## LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_da645246.webm">
 Ok lớp 6, hôm nay mình ôn tập Unit 10 qua bài <eng>Looking Back</eng> nha. Bài này tổng hợp lại từ vựng về thiết bị trong nhà tương lai, cùng với ngữ pháp <eng>will/won't</eng> và <eng>might/might not</eng>. Mở sách ra đi.
 </teacher_script>
 
 <!-- chunk: vocab_header -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b678c135.webm">
 Phần đầu tiên là ôn từ vựng về các thiết bị trong nhà thông minh nha.
 </teacher_script>
 
 **Vocabulary**
 
 <!-- chunk: exercise_1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_28fbbf3e.webm">
 Bài 1. Viết các từ hoặc cụm từ dưới mỗi hình ảnh. Các từ cho sẵn là: <eng>computer, fridge, smart clock, dishwasher, wireless TV, washing machine</eng>. 1 phút nha.
 </teacher_script>
 
@@ -49,12 +49,12 @@ e. fridge *(tủ lạnh)*
 f. smart clock *(đồng hồ thông minh)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5fe9e8c9.webm">
 Giải thích nha. Đây là các thiết bị thông minh trong nhà tương lai. <eng>Dishwasher</eng> là máy rửa chén - <eng>dish</eng> là chén bát, <eng>washer</eng> là máy rửa. <eng>Wireless TV</eng> là TV không dây - <eng>wireless</eng> nghĩa là không dây. <eng>Smart clock</eng> là đồng hồ thông minh, có thể kết nối internet.
 </teacher_script>
 
 <!-- chunk: exercise_2 -->
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_97a6aac9.webm">
 Bài 2. Suy nghĩ về những gì các thiết bị sẽ làm trong tương lai và điền vào bảng. Ví dụ: <eng>robots</eng> sẽ <eng>look after the house</eng>. Em suy nghĩ xem các thiết bị khác sẽ làm gì nha. 1 phút rưỡi.
 </teacher_script>
 
@@ -92,19 +92,19 @@ Ok đáp án nè.
 | 6. dishwashers *(máy rửa bát)* | wash dishes | rửa bát |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_32573034.webm">
 Giải thích nha. Trong tương lai, <eng>robots</eng> sẽ <eng>look after the house</eng> - chăm sóc nhà cửa. <eng>Washing machine</eng> giặt quần áo - <eng>wash clothes</eng>. <eng>Wireless TV</eng> có thể <eng>access to internet</eng> - truy cập internet. <eng>Super cars</eng> siêu xe có thể <eng>fly</eng> - bay luôn. <eng>Smart clocks</eng> có thể <eng>play online music</eng> - chơi nhạc trực tuyến. Và <eng>dishwashers</eng> thì <eng>wash dishes</eng> - rửa bát.
 </teacher_script>
 
 <!-- chunk: grammar_header -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_964f8a87.webm">
 Chuyển qua phần ngữ pháp nha. Ôn lại <eng>will/won't</eng> và <eng>might/might not</eng>.
 </teacher_script>
 
 **Grammar**
 
 <!-- chunk: grammar_review_will -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6af1e4f4.webm">
 Nhắc lại nha. <eng>Will</eng> dùng để nói về điều chắc chắn sẽ xảy ra trong tương lai. <eng>Won't</eng> là viết tắt của <eng>will not</eng> - sẽ không. Cấu trúc: Chủ ngữ + <eng>will/won't</eng> + động từ nguyên mẫu.
 </teacher_script>
 
@@ -120,7 +120,7 @@ Nhắc lại nha. <eng>Will</eng> dùng để nói về điều chắc chắn s�
 </grammar>
 
 <!-- chunk: exercise_3 -->
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_e52f902e.webm">
 Bài 3. Hoàn thành các câu với <eng>will</eng> hoặc <eng>won't</eng>. Đọc kỹ nghĩa câu để biết là "sẽ" hay "sẽ không" nha. 1 phút rưỡi.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Bài 3. Hoàn thành các câu với <eng>will</eng> hoặc <eng>won't</eng>. Đ
 *Tony ________ vượt qua kỳ kiểm tra. Anh ấy chưa học.*
 </questions>
 
-<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
+<teacher_script pause="0" href="audio/tts_29c83a10.webm">
 Ok đáp án nè.
 </teacher_script>
 
@@ -180,12 +180,12 @@ Ok đáp án nè.
 *(Tony sẽ không vượt qua kỳ kiểm tra. Anh ấy chưa học.)* - Chưa học thì sẽ không đậu.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c049bb81.webm">
 Giải thích thêm nha. Câu 1 và 4 có nghĩa phủ định nên dùng <eng>won't</eng>. Câu 6 cũng vậy, chưa học thì sao đậu được, nên dùng <eng>won't</eng>. Câu 2, 3, 5 là những điều chắc chắn sẽ làm nên dùng <eng>will</eng>.
 </teacher_script>
 
 <!-- chunk: grammar_review_might -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_017ec673.webm">
 Tiếp theo là <eng>might</eng>. <eng>Might</eng> dùng khi không chắc chắn, có thể xảy ra hoặc không. <eng>Might not</eng> là có thể không.
 </teacher_script>
 
@@ -201,7 +201,7 @@ Tiếp theo là <eng>might</eng>. <eng>Might</eng> dùng khi không chắc chắ
 </grammar>
 
 <!-- chunk: exercise_4 -->
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_3fb4f14e.webm">
 Bài 4. Hoàn thành các câu với <eng>might</eng> hoặc <eng>might not</eng>. Nhớ: <eng>might</eng> là không chắc chắn, "có thể". 1 phút rưỡi nha.
 </teacher_script>
 
@@ -255,12 +255,12 @@ Ok đáp án nè.
 *(Phong đang suy nghĩ xem mình sẽ làm gì vào Chủ nhật. Anh ấy có thể đến câu lạc bộ judo hoặc anh ấy có thể ở nhà học tiếng Anh.)* - Đang suy nghĩ, chưa quyết định, nên cả hai đều là "có thể".
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bb0ea7a5.webm">
 Giải thích nha. Tất cả các câu đều không chắc chắn nên dùng <eng>might</eng>. Câu 3 và 4 có nghĩa tiêu cực: giáo viên ốm thì có thể không họp, Ann bận thì có thể không đến - nên dùng <eng>might not</eng>. Câu 5 Phong đang suy nghĩ, chưa quyết định, nên cả hai khả năng đều là <eng>might</eng>.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bbfb6c42.webm">
 Ok hết bài ôn tập Unit 10 rồi. Tổng kết nè:
 
 **Từ vựng về nhà tương lai:**

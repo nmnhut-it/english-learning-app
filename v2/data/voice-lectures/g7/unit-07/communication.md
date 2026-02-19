@@ -157,7 +157,7 @@ Chúng ta cùng làm Bài 3 <eng>Left or right</eng>. Các em hãy cho biết nh
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. The United Kingdom ✓
 2. The United States of America ✗
 3. Australia ✓
@@ -229,7 +229,7 @@ One explanation is that some countries use _______ as the UK.
 </teacher_script>
 
 <answer>
-**Đáp án:** the same system
+**Bài 4 - Đáp án:** the same system
 
 One explanation is that some countries use **the same system** as the UK.
 *(Một cách giải thích là một số nước sử dụng **cùng hệ thống** giống như Anh.)*

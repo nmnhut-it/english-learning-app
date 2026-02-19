@@ -68,7 +68,7 @@ Chúng ta cùng làm Bài 1 <eng>Match</eng>. Các em hãy nối các động t�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-b | 4-d | 5-e
+**Bài 1 - Đáp án:** 1-c | 2-a | 3-b | 4-d | 5-e
 </answer>
 
 <teacher_script pause="0" href="audio/tts_778f802f.webm">
@@ -140,7 +140,7 @@ Chúng ta cùng làm Bài 2 <eng>Road signs</eng>. Các em hãy quan sát các b
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. no right turn (cấm rẽ phải)
 2. traffic lights (đèn giao thông)
 3. cycle lane (làn đường xe đạp)
@@ -335,7 +335,7 @@ Chúng ta cùng làm Bài 5 <eng>Underline and circle</eng>. Các em hãy gạch
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 
 | Âm /aɪ/ (gạch chân) | Âm /eɪ/ (khoanh tròn) |
 |---------------------|----------------------|

@@ -92,7 +92,7 @@ Bài 1 <eng>Complete</eng> nha. Điền trạng từ tần suất phù hợp đi
 </questions>
 
 <answer>
-**Đáp án:** 1. always | 2. rarely | 3. never | 4. often | 5. sometimes
+**Bài 1 - Đáp án:** 1. always | 2. rarely | 3. never | 4. often | 5. sometimes
 </answer>
 
 <teacher_script pause="0" href="audio/tts_61bfae1c.mp3">
@@ -148,7 +148,7 @@ Bài 3 nha. Xác định câu nào là lịch trình (A) hay quyết định cá
 </questions>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.A | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.B | 2.A | 3.A | 4.A | 5.B
 </answer>
 
 <explanation>
@@ -186,7 +186,7 @@ Bài 4 <eng>Choose</eng> nha. Chọn thì đúng đi. Nhớ phân biệt lịch 
 </questions>
 
 <answer>
-**Đáp án:** 1. opens | 2. will make | 3. won't buy | 4. is | 5. Does
+**Bài 4 - Đáp án:** 1. opens | 2. will make | 3. won't buy | 4. is | 5. Does
 </answer>
 
 <explanation>

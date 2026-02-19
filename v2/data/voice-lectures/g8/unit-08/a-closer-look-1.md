@@ -61,7 +61,7 @@ Bài 1 <eng>Match</eng> nha. Nhìn hình rồi chọn từ đúng đi. 1 phút n
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. price tag
 2. shopaholic
 3. on sale
@@ -106,7 +106,7 @@ e. Offers one or two specific kinds of goods.
 </task>
 
 <answer>
-**Đáp án:** 1.e | 2.a | 3.d | 4.b | 5.c
+**Bài 2 - Đáp án:** 1.e | 2.a | 3.d | 4.b | 5.c
 </answer>
 
 <explanation>
@@ -145,7 +145,7 @@ Bài 3 <eng>Complete</eng> nha. Điền từ vô chỗ trống đi. 1 phút nha.
 </questions>
 
 <answer>
-**Đáp án:** 1. speciality shops | 2. browsing | 3. bargain | 4. range of products | 5. shopaholic
+**Bài 3 - Đáp án:** 1. speciality shops | 2. browsing | 3. bargain | 4. range of products | 5. shopaholic
 </answer>
 
 ---

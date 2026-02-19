@@ -94,7 +94,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. character | 2. educational programme | 3. comedy | 4. talent show | 5. viewer
+**Bài 1 - Đáp án:** 1. character | 2. educational programme | 3. comedy | 4. talent show | 5. viewer
 </answer>
 
 <teacher_script pause="0" href="audio/tts_b0090b20.webm">
@@ -184,7 +184,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. channel | 2. character | 3. animated films | 4. game show | 5. comedies | 6. viewers
+**Bài 2 - Đáp án:** 1. channel | 2. character | 3. animated films | 4. game show | 5. comedies | 6. viewers
 </answer>
 
 <teacher_script pause="0" href="audio/tts_15ce380a.webm">
@@ -279,7 +279,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. popular | 2. boring | 3. cute | 4. live | 5. funny | 6. educational
+**Bài 3 - Đáp án:** 1. popular | 2. boring | 3. cute | 4. live | 5. funny | 6. educational
 </answer>
 
 <teacher_script pause="0" href="audio/tts_bee2e608.webm">

@@ -113,7 +113,7 @@ Chúng ta cùng làm Bài 1 <eng>Write sentences with It</eng>. Các em hãy vi�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. It is about 700 metres from my flat to the Youth Club.
 2. It is about 5 kilometres from my village to the nearest town.
 3. It is about 120 km from Ho Chi Minh City to Vung Tau.
@@ -345,7 +345,7 @@ Chúng ta cùng làm Bài 3 <eng>Choose the correct option</eng>. Các em hãy c
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. should | 2. should | 3. shouldn't | 4. should | 5. shouldn't
+**Bài 3 - Đáp án:** 1. should | 2. should | 3. shouldn't | 4. should | 5. shouldn't
 </answer>
 
 <teacher_script pause="0" href="audio/tts_b0cf372b.webm">
@@ -436,7 +436,7 @@ Chúng ta cùng làm Bài 4 <eng>Complete each sentence</eng>. Các em hãy đi�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. shouldn't
 2. should
 3. shouldn't
@@ -524,7 +524,7 @@ Chúng ta cùng làm Bài 5 <eng>Look at the pictures</eng>. Các em hãy nhìn 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 5 - Đáp án:**
 1. We shouldn't waste water.
 2. Children should wear their helmets when cycling.
 3. She should be more careful so that she wouldn't have a crash.

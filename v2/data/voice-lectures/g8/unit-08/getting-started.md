@@ -86,7 +86,7 @@ Bài 2 <eng>Complete the list</eng> nha. Nghe lại rồi liệt kê các địa
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. open-air market
 2. farmers' market
 3. supermarket
@@ -133,7 +133,7 @@ e. The weather does not affect shopping.
 </task>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. **Open-air market**: a, c
 2. **Supermarket**: b, d, e
 </answer>
@@ -175,7 +175,7 @@ Bài 4 <eng>Complete sentences</eng> nha. Điền từ vô chỗ trống đi. D�
 </questions>
 
 <answer>
-**Đáp án:** 1. bargain | 2. convenience store | 3. home-grown | 4. price tag | 5. home-made
+**Bài 4 - Đáp án:** 1. bargain | 2. convenience store | 3. home-grown | 4. price tag | 5. home-made
 </answer>
 
 <teacher_script pause="0" href="audio/tts_6a3dc422.mp3">

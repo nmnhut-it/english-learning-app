@@ -172,7 +172,7 @@ Các chương trình trò chơi thì vừa vui vừa (5) _______.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. viewers | 2. animal | 3. sports | 4. funny | 5. educational
+**Bài 2 - Đáp án:** 1. viewers | 2. animal | 3. sports | 4. funny | 5. educational
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e70b2510.mp3">
@@ -301,7 +301,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete each question with a suitable question
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. How many | 2. What | 3. Why | 4. Who | 5. How many
+**Bài 3 - Đáp án:** 1. How many | 2. What | 3. Why | 4. Who | 5. How many
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e70b2510.mp3">
@@ -381,7 +381,7 @@ Chúng ta cùng làm Bài 4 <eng>Complete with conjunctions</eng>. Các em hãy 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. and | 2. so | 3. but | 4. but | 5. so
+**Bài 4 - Đáp án:** 1. and | 2. so | 3. but | 4. but | 5. so
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e70b2510.mp3">

@@ -69,7 +69,7 @@ Trong hình có mấy bạn học sinh đang qua đường.
 </teacher_script>
 
 <answer>
-**Trả lời:**
+**Bài 1 - Trả lời:**
 Yes, we can see some potential danger as the students do not walk across the street at the zebra crossing and it seems like they are not paying attention to other vehicles on the road.
 
 *(Có, chúng ta thấy một số nguy hiểm tiềm ẩn vì các học sinh không đi qua đường ở vạch kẻ đường và dường như họ không chú ý đến các phương tiện khác trên đường.)*
@@ -207,7 +207,7 @@ Bây giờ các em hãy trả lời câu hỏi: Bài đọc này nói về chủ
 </teacher_script>
 
 <answer>
-**Đáp án:** C - traffic rules
+**Bài 2 - Đáp án:** C - traffic rules
 </answer>
 
 <teacher_script pause="0" href="audio/tts_9b6c76d1.webm">
@@ -272,7 +272,7 @@ Chúng ta cùng làm Bài 3 <eng>Read the text again</eng>. Các em hãy đọc 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. At the zebra crossing.
 2. The cycle lane.
 3. Give a signal before you turn.

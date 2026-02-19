@@ -74,7 +74,7 @@ e. This is a frightening type of film.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.a | 3.e | 4.c | 5.b
+**Bài 1 - Đáp án:** 1.d | 2.a | 3.e | 4.c | 5.b
 </answer>
 
 <teacher_script pause="0" href="audio/tts_a5b856a5.webm">
@@ -143,7 +143,7 @@ Ok đáp án gợi ý nè.
 </teacher_script>
 
 <answer>
-**Gợi ý:**
+**Bài 2 - Gợi ý:**
 - a documentary: Pirates of Southeast Asia
 - a fantasy: The Arabian Nights
 - a horror film: Annabelle
@@ -202,7 +202,7 @@ A. confusing | B. shocking | C. interesting
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.C | 4.A | 5.B | 6.A
+**Bài 3 - Đáp án:** 1.C | 2.B | 3.C | 4.A | 5.B | 6.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_8a2ae020.webm">
@@ -288,7 +288,7 @@ e. However, only a few people saw it.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.e | 3.a | 4.b | 5.c
+**Bài 4 - Đáp án:** 1.d | 2.e | 3.a | 4.b | 5.c
 </answer>
 
 <teacher_script pause="0" href="audio/tts_342ee4a6.webm">

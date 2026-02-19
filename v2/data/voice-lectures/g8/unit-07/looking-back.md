@@ -34,7 +34,7 @@ A. Watering | B. Cleaning up | C. Cutting down
 </questions>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.C
+**Bài 1 - Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.C
 </answer>
 
 <explanation>
@@ -70,7 +70,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </questions>
 
 <answer>
-**Đáp án:** 1. littering | 2. carbon footprint | 3. picking up rubbish | 4. habitat | 5. endangered species
+**Bài 2 - Đáp án:** 1. littering | 2. carbon footprint | 3. picking up rubbish | 4. habitat | 5. endangered species
 </answer>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">
@@ -95,7 +95,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </task>
 
 <answer>
-**Gợi ý:**
+**Bài 3 - Gợi ý:**
 1. ...until he comes back.
 2. ...I called my mom.
 3. ...before you go to bed.
@@ -121,7 +121,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </questions>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. **B** (go -> will go)
 2. **B** (until -> after/when)
 3. **C** (will finish -> finish)

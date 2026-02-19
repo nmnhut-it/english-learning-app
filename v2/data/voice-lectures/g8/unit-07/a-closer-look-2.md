@@ -58,7 +58,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. I.C (Mệnh đề chính)
 2. D.C (Bắt đầu bằng 'when')
 3. I.C (Mệnh đề chính)
@@ -104,7 +104,7 @@ A. until | B. before | C. while
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.A | 3.C | 4.C | 5.B
+**Bài 2 - Đáp án:** 1.A | 2.A | 3.C | 4.C | 5.B
 </answer>
 
 <explanation>
@@ -153,7 +153,7 @@ e. when you get on the train.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.b | 2.d | 3.e | 4.c | 5.a
+**Bài 3 - Đáp án:** 1.b | 2.d | 3.e | 4.c | 5.a
 </answer>
 
 <explanation>
@@ -198,7 +198,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. I will call you **as soon as** I arrive at the station.
 2. Many Vietnamese women wear conical hats **when** they work in the field.
 3. My father taught me how to use the computer **before** he bought one for me.

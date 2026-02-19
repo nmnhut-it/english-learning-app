@@ -55,7 +55,7 @@ e. saving water
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **c. picking up rubbish** (nhặt rác) - ✓
 2. **d. protecting endangered species** (bảo vệ loài nguy cấp) - ✓
 3. **b. cutting down trees** (chặt cây)
@@ -105,7 +105,7 @@ e. The place where a type of plant or animal lives.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.e | 2.a | 3.c | 4.b | 5.d
+**Bài 2 - Đáp án:** 1.e | 2.a | 3.c | 4.b | 5.d
 </answer>
 
 <explanation>
@@ -151,7 +151,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </questions>
 
 <answer>
-**Đáp án:** 1. endangered species | 2. habitat | 3. carbon dioxide | 4. Cutting down trees | 5. ecosystem
+**Bài 3 - Đáp án:** 1. endangered species | 2. habitat | 3. carbon dioxide | 4. Cutting down trees | 5. ecosystem
 </answer>
 
 <teacher_script pause="30" href="audio/tts_75ebc937.mp3">

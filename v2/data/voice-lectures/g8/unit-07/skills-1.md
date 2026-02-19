@@ -79,7 +79,7 @@ A. environment | B. small islands
 </questions>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.B | 4.A
+**Bài 2 - Đáp án:** 1.A | 2.B | 3.B | 4.A
 </answer>
 
 <explanation>
@@ -122,7 +122,7 @@ B. Con Dao National Park's mission is to help other national parks.
 </questions>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.A | 5.B
+**Bài 3 - Đáp án:** 1.B | 2.A | 3.B | 4.A | 5.B
 </answer>
 
 <explanation>

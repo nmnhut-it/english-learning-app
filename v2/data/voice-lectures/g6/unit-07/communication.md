@@ -336,7 +336,7 @@ Chúng ta cùng làm Bài 3 <eng>Complete the facts</eng>. Các em hãy điền 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. Japan | 2. Viet Nam | 3. Iceland | 4. the USA
+**Bài 3 - Đáp án:** 1. Japan | 2. Viet Nam | 3. Iceland | 4. the USA
 </answer>
 
 <teacher_script pause="0" href="audio/tts_e70b2510.mp3">
@@ -488,7 +488,7 @@ Bây giờ các em hãy đánh dấu vào bảng. Có thể chọn cả 2 nếu 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 | | Let's Learn | Hello Fatty |
 |---|:-----------:|:-----------:|
 | 1. It's educational. | ✓ | ✓ |

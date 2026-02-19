@@ -385,7 +385,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** What, Where, How long
+**Bài 1 - Đáp án:** What, Where, How long
 </answer>
 
 <teacher_script pause="0" href="audio/tts_d8de02ff.mp3">
@@ -453,7 +453,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-g | 2-a | 3-b | 4-c | 5-d | 6-e | 7-f
+**Bài 2 - Đáp án:** 1-g | 2-a | 3-b | 4-c | 5-d | 6-e | 7-f
 </answer>
 
 <teacher_script pause="0" href="audio/tts_21eb5d42.mp3">
@@ -553,7 +553,7 @@ B: In the yard.
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 - Conversation 1: How often, What
 - Conversation 2: Who
 - Conversation 3: When, Where
@@ -800,7 +800,7 @@ Ok thầy sửa bài nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
+**Bài 4 - Đáp án:** 1-c | 2-a | 3-e | 4-b | 5-d
 </answer>
 
 <teacher_script pause="0" href="audio/tts_f7f5556f.mp3">
@@ -888,7 +888,7 @@ Ok đáp án nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. so | 2. but | 3. so | 4. but | 5. and
+**Bài 5 - Đáp án:** 1. so | 2. but | 3. so | 4. but | 5. and
 </answer>
 
 <teacher_script pause="0" href="audio/tts_f7f5556f.mp3">
