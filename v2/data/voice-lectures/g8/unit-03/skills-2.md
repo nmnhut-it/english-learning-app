@@ -19,6 +19,8 @@ Ok lớp 8, bài <eng>Skills 2</eng> nha — nghe và viết về vấn đề tu
 10. **fit** : (adj) cân đối, khỏe mạnh /fɪt/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-18.mp3"></audio>
+
 <!-- chunk: listening -->
 <teacher_script pause="0">
 Giờ nghe 3 bạn học sinh nói về vấn đề của các bạn ấy nha. Nghe kỹ xem mỗi bạn đang gặp khó khăn gì. Bấm play đi.

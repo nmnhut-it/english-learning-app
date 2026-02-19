@@ -58,6 +58,8 @@ Từ vựng xong nha. Giờ mình học mấy mẫu câu để nói về kế ho
 Nhớ nha: "I'm planning to" + động từ nguyên mẫu. "I look forward to" + V-ing (động từ thêm -ing). Đây là lỗi hay gặp lắm. Giờ nghe hội thoại của Khang và An nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/75.mp3"></audio>
+
 <!-- chunk: dialogue-khang -->
 <teacher_script pause="0">
 Đây là câu chuyện của Khang — bạn đang có kế hoạch học y. Nghe và đọc theo nha.

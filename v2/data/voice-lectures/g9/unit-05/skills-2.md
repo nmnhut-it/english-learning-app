@@ -23,6 +23,8 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 5 — nghe và viết nha. Hôm nay t�
 Xong từ vựng rồi nha. Ghi vô tập, rồi mình nghe và làm bài tập về Hạ Long và Phong Nha thôi.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/31.mp3"></audio>
+
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
 Tụi mình sẽ nghe bài giới thiệu về hai địa điểm: Vịnh Hạ Long và hang Phong Nha. Chú ý các chi tiết quan trọng như số liệu, năm tháng và tên địa điểm nha.
@@ -91,6 +93,8 @@ Bài 2 — <eng>True/False</eng> nha. Dựa theo bài nghe. 1 phút.
 - **4. T:** "Phong Nha Cave is famous for its ancient fossils" → Đúng.
 - **5. F:** **Son Doong Cave** (cũng trong vườn quốc gia Phong Nha-Kẻ Bàng) mới là hang lớn nhất thế giới, không phải chính hang Phong Nha → Sai.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/32.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

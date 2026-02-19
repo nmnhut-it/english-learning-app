@@ -162,6 +162,9 @@ Bài 3. <eng>Fill in each blank with a word or phrase from the box.</eng> Điề
 - **Câu 5 — property:** "Lost all of their property" — mất hết tài sản. Sau "their" cần danh từ → <eng>property</eng> (tài sản).
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-55.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-56.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Bây giờ mình học phát âm nha. Phần này quan trọng lắm đó — quy tắc nhấn âm cho các từ tận cùng bằng <eng>-al</eng> và <eng>-ous</eng>. Nghe kỹ nha!

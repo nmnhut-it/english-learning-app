@@ -58,6 +58,8 @@ Trước khi vào hội thoại, mình học một số cụm từ hay dùng khi
 Nhớ mấy cụm này nha: <eng>"In my culture, we usually..."</eng>, <eng>"It's customary to..."</eng>, <eng>"We have a tradition of..."</eng>. Dùng trong Speaking thi sẽ được điểm cao hơn đó.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/24.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Giờ đọc hội thoại giữa Mi và Tom về phong tục nha. Mi nói chuyện với Tom người Mỹ về phong tục thờ cúng tổ tiên của người Việt.

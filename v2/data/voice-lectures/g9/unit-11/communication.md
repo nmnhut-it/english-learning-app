@@ -57,6 +57,8 @@ Trước khi vô hội thoại, mình ôn nhanh các câu để kiểm tra sự 
 Nhớ chưa nha? Ba nhóm: hỏi → xác nhận → xin giải thích. Giờ đọc hội thoại mẫu và xem cách dùng thực tế nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/70.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Đây là hội thoại giữa Nam và Linh — Nam đang giới thiệu điện thoại mới cho Linh. Đọc và chú ý cách họ dùng các câu kiểm tra sự hiểu nha.

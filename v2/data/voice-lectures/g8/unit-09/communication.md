@@ -46,6 +46,8 @@ Trước khi đọc hội thoại, mình xem cách đưa tin buồn và phản �
 Nhớ nha: khi nghe tin buồn thì KHÔNG NÊN nói "OK" hay im lặng — phải bày tỏ sự đồng cảm. Dùng "<eng>I'm sorry to hear that</eng>" hoặc "<eng>That's awful</eng>" rồi hỏi thêm về gia đình họ. Đó là cách nói chuyện lịch sự và quan tâm nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-57.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Bài 1. <eng>Listen and read the dialogue below. Pay attention to the highlighted sentences.</eng> Nghe và đọc hội thoại giữa Mark và Phong nha. Chú ý các câu được đánh dấu — đó là các câu bày tỏ đồng cảm.

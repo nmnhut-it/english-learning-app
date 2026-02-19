@@ -200,6 +200,8 @@ Bài 3 trang 128 — điền từ vô chỗ trống. Đọc câu rồi chọn t�
 **Câu 5:** "His job was repetitive" — lặp đi lặp lại. Câu sau giải thích rõ: làm đúng một việc 8 tiếng mỗi ngày.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/74.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Giờ mình qua phần phát âm nha — <eng>Pronunciation</eng>. Hôm nay học về ngữ điệu trong câu hỏi lựa chọn — <eng>Intonation in questions of choice</eng>. Đây là loại câu hỏi "A hay B?" nha.

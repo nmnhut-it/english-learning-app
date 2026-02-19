@@ -181,6 +181,9 @@ Bài 3, <eng>Complete the following sentences with the words from the box</eng> 
 **5. galaxy** — "The Milky Way is the *galaxy* that includes our solar system." Dải Ngân Hà là thiên hà mà hệ Mặt Trời của chúng ta nằm trong đó.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-75.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-76.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Xong bài tập rồi, giờ mình học phần phát âm nha — <eng>Intonation in lists</eng>. Tức là ngữ điệu khi mình liệt kê nhiều thứ trong một câu. Cái này quan trọng lắm để nghe tự nhiên như người bản ngữ á!

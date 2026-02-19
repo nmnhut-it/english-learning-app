@@ -133,6 +133,9 @@ Chúng ta cùng chuyển sang phần Phát âm (Pronunciation). Hôm nay chúng 
 
 ---
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/42.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/43.mp3"></audio>
+
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 74 - Listen and repeat
 

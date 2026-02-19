@@ -45,6 +45,8 @@ Nhìn ảnh và thảo luận: Tại sao làm nhà búp bê lại là một sở
 Nói ý kiến nhanh 30 giây rồi mình nghe bài nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0705/007.mp3"></audio>
+
 <!-- chunk: exercise-2 -->
 <teacher_script pause="0">
 Bài 2 trang 16 — nghe bài và điền vào chỗ trống. Nghe kỹ các chi tiết cụ thể nha: số lượng, tên người, vật liệu. Đây là bài nghe nên các em tập trung nha.

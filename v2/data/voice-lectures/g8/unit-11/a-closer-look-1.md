@@ -199,6 +199,9 @@ Bài 3 — điền từ trong ô vào chỗ trống. Dùng đúng dạng từ nh
 **Câu 5 — fingerprint scanner:** "Quét ngón tay trên _______" → **máy quét vân tay** (<eng>fingerprint scanner</eng>) để điểm danh.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-69.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-70.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Phần phát âm nha — <eng>Sentence Stress</eng>. Đây là kỹ năng quan trọng để nói tiếng Anh nghe tự nhiên hơn đó.

@@ -40,6 +40,8 @@ The Amazon Rainforest is a magnificent area. It is the largest tropical forest o
 
 ---
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/46.mp3"></audio>
+
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 79 - True or False
 

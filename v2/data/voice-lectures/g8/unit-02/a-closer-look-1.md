@@ -149,6 +149,8 @@ Bài 3. Điền tính từ thích hợp vào chỗ trống nha. 1 phút.
 - **5. surrounded:** Được núi và sông bao quanh = **được bao quanh**.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-9.mp3"></audio>
+
 <!-- chunk: pronunciation_theory -->
 ### Pronunciation - /ɪ/ and /iː/
 

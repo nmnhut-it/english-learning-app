@@ -166,6 +166,8 @@ Bài 3. Nhìn tranh và ghi tên hoạt động phù hợp nha. 1 phút.
 5. surfing the net
 </answer>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-3.mp3"></audio>
+
 <!-- chunk: pronunciation_theory -->
 ### Pronunciation - Stress in Compound Nouns
 
