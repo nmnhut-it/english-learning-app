@@ -610,8 +610,11 @@ function hasVietnameseTranslation(voiceContent, sourceSpeakers) {
   return false;
 }
 
-function runStrictComparison(sourceBlocks, voiceBlocks, voiceContent = '') {
+function runStrictComparison(sourceBlocks, voiceBlocks, voiceContent = '', section = '') {
   const results = [];
+
+  // Sections that don't have reading passages (only exercises)
+  const noReadingSections = ['a-closer-look-1', 'a-closer-look-2', 'looking-back'];
 
   // Compare dialogues - HIGH PRIORITY (educational content)
   if (sourceBlocks.dialogueText && sourceBlocks.dialogueText.length > 20) {
@@ -636,7 +639,8 @@ function runStrictComparison(sourceBlocks, voiceBlocks, voiceContent = '') {
   }
 
   // Compare reading - HIGH PRIORITY (educational content)
-  if (sourceBlocks.readingText && sourceBlocks.readingText.length > 50) {
+  // Skip for sections that don't have reading passages (only exercises)
+  if (sourceBlocks.readingText && sourceBlocks.readingText.length > 50 && !noReadingSections.includes(section)) {
     const result = compareNormalizedSentences(sourceBlocks.readingText, voiceBlocks.readingText);
     // Downgrade by 1 level if >60% match (minor changes acceptable)
     if (result.matchRate >= 60) {
@@ -2254,7 +2258,7 @@ async function main() {
       // Run STRICT normalized comparison (new - favors false positives)
       const sourceBlocks = extractSourceBlocks(sourceContent);
       const voiceBlocks = extractVoiceBlocks(voiceContent);
-      const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks, voiceContent);
+      const strictComparison = runStrictComparison(sourceBlocks, voiceBlocks, voiceContent, sect);
       comparison.strictComparison = strictComparison;
       comparison.sourceBlocks = sourceBlocks;  // For side-by-side report
       comparison.voiceBlocks = voiceBlocks;
