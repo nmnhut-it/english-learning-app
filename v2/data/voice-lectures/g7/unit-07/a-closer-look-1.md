@@ -463,7 +463,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn từ đúng để hoàn t
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.A | 4.C | 5.A | 6.B
+**Bài tập 1 - Đáp án:** 1.A | 2.B | 3.A | 4.C | 5.A | 6.B
 </answer>
 
 <teacher_script pause="0">

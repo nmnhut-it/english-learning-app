@@ -56,7 +56,7 @@ Bài 1 <eng>Work in pairs. Discuss and choose the correct answer</eng>. Trước
 </questions>
 
 <answer>
-**Đáp án:** 1.A | 2.B
+**Bài 1 - Đáp án:** 1.A | 2.B
 </answer>
 
 <explanation>
@@ -117,7 +117,7 @@ d. very, very old *(rất rất cũ)*
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.c | 2.d | 3.a | 4.b
+**Bài 2 - Đáp án:** 1.c | 2.d | 3.a | 4.b
 </answer>
 
 <explanation>
@@ -171,7 +171,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.B | 4.A | 5.C
+**Bài 3 - Đáp án:** 1.C | 2.B | 3.B | 4.A | 5.C
 </answer>
 
 <explanation>

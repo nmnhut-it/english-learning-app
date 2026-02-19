@@ -98,7 +98,7 @@ Bài 1 nha — chọn dạng đúng. Đọc kỹ câu và chọn đáp án đún
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.D
+**Bài 1 - Đáp án:** 1.A | 2.C | 3.B | 4.A | 5.D
 </answer>
 
 <explanation>
@@ -145,7 +145,7 @@ Bài 2 nha — điền từ vô chỗ trống với dạng đúng của động 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. collecting | 2. (should) exchange | 3. (should) access | 4. not using | 5. (should) have
+**Bài 2 - Đáp án:** 1. collecting | 2. (should) exchange | 3. (should) access | 4. not using | 5. (should) have
 </answer>
 
 <explanation>
@@ -197,7 +197,7 @@ Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. B (don't waste → shouldn't waste)
 2. A (to try → trying)
 3. B (studies → (should) study)
@@ -259,7 +259,7 @@ B: I recommend (eat) ________ more fruits and vegetables.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. using | 2. reduce | 3. using | 4. limit | 5. eating
+**Bài 4 - Đáp án:** 1. using | 2. reduce | 3. using | 4. limit | 5. eating
 </answer>
 
 <explanation>

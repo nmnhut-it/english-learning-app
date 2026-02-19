@@ -260,7 +260,7 @@ A. after | B. before | C. when
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.C | 4.A | 5.B
+**Bài tập 1 - Đáp án:** 1.A | 2.B | 3.C | 4.A | 5.B
 </answer>
 
 <teacher_script pause="0">
@@ -323,7 +323,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy nối hai câu lại dùng liên
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 2 - Đáp án:**
 1. We will plant more trees before the rainy season starts.
 2. Close all the windows before you turn on the air conditioner.
 3. The volunteers will rest after they finish cleaning the park.
@@ -394,7 +394,7 @@ Bài tập cuối cùng. Các em hãy hoàn thành các câu về bảo vệ mô
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 3 - Đáp án:**
 1. as soon as / when
 2. When / If
 3. while

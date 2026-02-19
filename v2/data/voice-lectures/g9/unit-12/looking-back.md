@@ -32,6 +32,7 @@ Bài 1 trang 138 — sắp xếp từ vào 3 cột đúng nha: tên nghề, đ�
 </teacher_script>
 
 <answer>
+**Bài 1 - Đáp án:**
 **Jobs (Nghề nghiệp):**
 tailor / surgeon / cashier / assembly worker / software engineer / mechanic / hairdresser
 
@@ -84,7 +85,7 @@ Bài 2 trang 138 — điền từ đúng vô chỗ trống. 5 câu ngắn. Làm 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. sewing
 2. job
 3. creative
@@ -136,7 +137,7 @@ Bài 3 trang 139 — viết lại câu dùng mệnh đề trạng ngữ đã h�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. Although the salary is low, she loves her job as a hairdresser.
 2. The surgery was so complex that the team needed 12 hours to finish.
 3. She became a chef because she was passionate about food.
@@ -208,7 +209,7 @@ Bài 4 trang 139 — trắc nghiệm tổng hợp cả 3 loại mệnh đề tr�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.B | 3.C | 4.D | 5.D
+**Bài 4 - Đáp án:** 1.C | 2.B | 3.C | 4.D | 5.D
 </answer>
 
 <explanation>

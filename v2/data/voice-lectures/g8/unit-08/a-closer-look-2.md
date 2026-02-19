@@ -279,7 +279,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy viết lại câu với trạng 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 1. I usually shop at the mall.
 2. She is never late for sales.
 3. We often bargain at the market.
@@ -352,7 +352,7 @@ A. go | B. will go | C. are going
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.A | 2.B | 3.A | 4.B | 5.A | 6.B
+**Bài tập 2 - Đáp án:** 1.A | 2.B | 3.A | 4.B | 5.A | 6.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_4ea0b95f.mp3">
@@ -429,7 +429,7 @@ Bài tập cuối cùng. Các em hãy hoàn thành các câu về mua sắm. Cá
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 3 - Đáp án:**
 1. always shops
 2. closes
 3. rarely buy

@@ -47,7 +47,7 @@ Làm bài 1 — 45 giây nha. Đọc từng động từ rồi chọn danh từ 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. **A** | 2. **B** | 3. **B** | 4. **A**
 </answer>
 
@@ -99,7 +99,7 @@ Bài 2 — điền từ vào chỗ trống. Chọn từ hoặc cụm từ trong 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. **robot teacher**
 2. **application**
 3. **face recognition**
@@ -155,7 +155,7 @@ Tìm lỗi và sửa bài 3 — 1 phút. Nhớ bảng lùi thì: <eng>is→was, 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. (B) discovers → **discovered**
 2. (A) is → **was**
 3. (B) will → **would**
@@ -211,7 +211,7 @@ Làm bài 4 vô vở — 1 phút. Xác định cần đổi gì: lùi thì, đ�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Tom said that we couldn't connect to the Internet to work online **there**.
 2. Mr Thompson said that science was becoming a more important subject in schools **then**.
 3. The headmaster said that the school **would** use a machine to check students' attendance the following year.

@@ -29,7 +29,7 @@ Bài 1. <eng>Write the name of a natural disaster in each blank.</eng> Nhìn hì
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. earthquake (động đất)
 2. flood (lũ lụt)
 3. tornado (lốc xoáy)
@@ -78,7 +78,7 @@ Bài 2. <eng>Fill in each blank with the correct form of the word in brackets.</
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. destruction
 2. prediction
 3. victims
@@ -127,7 +127,7 @@ Bài 3. <eng>Put the verbs into the correct tense: the past simple or past conti
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. were — doing
 2. destroyed
 3. was watering — came

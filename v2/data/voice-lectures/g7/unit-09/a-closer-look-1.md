@@ -39,7 +39,7 @@ Các em mở sách ra, Unit 9, bài <eng>A Closer Look 1</eng>, ghi tựa bài. 
 25. **patient** : (adj) Kiên nhẫn /ˈpeɪʃənt/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4a59b9d3.webm">
 Mẹo nhớ nha:
 - <eng>Thanksgiving</eng> = <eng>Thanks</eng> (cảm ơn) + <eng>giving</eng> (cho đi) = Lễ Tạ ơn, người Mỹ ăn gà tây (<eng>turkey</eng>) vào ngày này
 - <eng>Easter</eng> có <eng>eggs</eng> (trứng) - trứng sô cô la và vẽ trứng
@@ -52,7 +52,7 @@ Mẹo nhớ nha:
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 94 - Write festival names
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5473dc90.webm">
 Bài 1. Nhìn hình và viết tên lễ hội tương ứng. Em nhận ra lễ hội qua các đặc điểm: Halloween có bí ngô, Christmas có cây thông và ông già Noel, Mid-Autumn có múa lân và đèn lồng. 1 phút nha.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 94 - Complete the table
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_707f3f57.webm">
 Bài 2. Hoàn thành bảng với thức ăn và hoạt động của mỗi lễ hội. Em cần phân loại: đâu là <eng>Food</eng> (thức ăn), đâu là <eng>Activity</eng> (hoạt động). Ví dụ: <eng>turkey</eng> là thức ăn, <eng>carving pumpkins</eng> là hoạt động. 90 giây.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 94 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d94b01f6.webm">
 Bài 3. Điền từ hoặc cụm từ vào chỗ trống. Đọc kỹ câu để hiểu ngữ cảnh nha. 1 phút.
 </teacher_script>
 
@@ -198,7 +198,7 @@ Ok đáp án nè.
 <!-- chunk: pronunciation -->
 ### Pronunciation - Stress in two-syllable words
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_745ffef0.webm">
 Giờ học phát âm nha. Quy tắc nhấn trọng âm từ 2 âm tiết:
 - **Danh từ và tính từ**: thường nhấn âm tiết ĐẦU TIÊN (âm 1)
 - **Động từ**: thường nhấn âm tiết THỨ HAI (âm 2)
@@ -222,7 +222,7 @@ Ví dụ: <eng>'costume</eng> (danh từ) nhấn âm 1, nhưng <eng>en'joy</eng>
 - pre'pare /prɪˈpeə/ - chuẩn bị
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_92859134.webm">
 Mẹo nhớ nè: Danh từ và tính từ nhấn ĐẦU (như người lịch sự chào trước!). Động từ nhấn SAU (như hành động cần thời gian!).
 </teacher_script>
 
@@ -231,7 +231,7 @@ Mẹo nhớ nè: Danh từ và tính từ nhấn ĐẦU (như người lịch s�
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 95 - Listen and repeat
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d9a99600.webm">
 Bài 4. Nghe và nhắc lại, rồi gạch chân âm tiết được nhấn trọng âm.
 </teacher_script>
 
@@ -279,7 +279,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 95 - Listen and underline
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_28fe804b.webm">
 Bài 5. Nghe và gạch chân âm tiết được nhấn trong các từ in đậm. Nhớ quy tắc: danh từ/tính từ nhấn âm đầu, động từ nhấn âm sau. 1 phút.
 </teacher_script>
 
@@ -340,7 +340,7 @@ Ok đáp án nè.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_56c63a9a.webm">
 Ok hết bài <eng>A Closer Look 1</eng>. Hôm nay em học được:
 - Từ vựng về lễ hội: <eng>Halloween, Christmas, Easter, Thanksgiving, Mid-Autumn Festival</eng>
 - Thức ăn và hoạt động: <eng>turkey, moon cakes, carving pumpkins, performing lion dance</eng>

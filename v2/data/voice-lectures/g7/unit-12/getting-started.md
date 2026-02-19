@@ -103,7 +103,7 @@ Bài 2. Hội thoại này nói về chủ đề gì? Chọn đáp án đúng nh
 </teacher_script>
 
 <answer>
-**Đáp án: A** - Phong's holiday in Australia
+**Bài 2 - Đáp án: A** - Phong's holiday in Australia
 </answer>
 
 <explanation>
@@ -135,7 +135,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.✓ | 2.✗ | 3.✗ | 4.✓ | 5.✓
+**Bài 3 - Đáp án:** 1.✓ | 2.✗ | 3.✗ | 4.✓ | 5.✓
 </answer>
 
 <explanation>
@@ -173,7 +173,7 @@ Bài 4. Điền từ hoặc cụm từ trong khung vào chỗ trống nha. 1 ph�
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. landscape | 2. watching | 3. island | 4. sunset | 5. Australians
+**Bài 4 - Đáp án:** 1. landscape | 2. watching | 3. island | 4. sunset | 5. Australians
 </answer>
 
 <explanation>
@@ -215,7 +215,7 @@ e. Wellington
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.d | 2.a | 3.b | 4.c | 5.e
+**Bài 5 - Đáp án:** 1.d | 2.a | 3.b | 4.c | 5.e
 </answer>
 
 <explanation>

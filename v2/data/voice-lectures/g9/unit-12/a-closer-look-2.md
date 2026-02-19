@@ -156,7 +156,7 @@ Bài 1 trang 129 — điền <eng>although / though / even though</eng> vô ch�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1. Although
 2. Though
 3. Even though
@@ -208,7 +208,7 @@ Bài 2 trang 129 — điền <eng>so...that</eng> hoặc <eng>such...that</eng> 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 2 - Đáp án:**
 1. so ... that
 2. such ... that
 3. so ... that
@@ -260,7 +260,7 @@ Bài 3 trang 130 — điền <eng>because / since / as</eng> nha. Nhớ: because
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. because
 2. since
 3. as
@@ -312,7 +312,7 @@ Bài 4 trang 130 — viết lại câu dùng mệnh đề trạng ngữ đúng l
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 4 - Đáp án:**
 1. Although the job is demanding, she loves it.
 2. The exam was so difficult that many students couldn't pass.
 3. He became a mechanic because he is passionate about cars.
@@ -384,7 +384,7 @@ Bài 5 trang 130 — trắc nghiệm tổng hợp 3 loại mệnh đề. 5 câu,
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.C | 3.C | 4.D | 5.D
+**Bài 5 - Đáp án:** 1.C | 2.C | 3.C | 4.D | 5.D
 </answer>
 
 <explanation>

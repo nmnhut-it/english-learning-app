@@ -101,6 +101,7 @@ Ok đáp án nè. Nghe thầy giải thích từng câu nha.
 </teacher_script>
 
 <answer>
+**Bài 2 - Đáp án:**
 **1.** She likes working with people and she is quite creative.
 **2.** She can attend a vocational college for 2 years and earn a certificate. Many hairdressers also complete an apprenticeship first.
 **3.** They are demanding careers that require many years of study.
@@ -151,7 +152,7 @@ e. learns a trade skill through hands-on training
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-c | 3-b | 4-a | 5-e
+**Bài 3 - Đáp án:** 1-d | 2-c | 3-b | 4-a | 5-e
 </answer>
 
 <explanation>
@@ -218,7 +219,7 @@ Ok đáp án nè. Giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.C | 2.D | 3.C | 4.B | 5.A
+**Bài 4 - Đáp án:** 1.C | 2.D | 3.C | 4.B | 5.A
 </answer>
 
 <explanation>

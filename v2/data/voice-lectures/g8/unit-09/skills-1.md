@@ -53,7 +53,7 @@ B. earthquake
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 1 - Đáp án:**
 1 – B (30 seconds of a slight shaking in Hanoi → earthquake)
 2 – A (A thick layer of ash covers Tonga → volcanic eruption)
 </answer>
@@ -173,7 +173,7 @@ Bài 3. <eng>Read the articles again and answer the questions.</eng> Đọc lạ
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:**
+**Bài 3 - Đáp án:**
 1. A volcano in the South Pacific erupted violently last Saturday.
 2. The eruption also caused a tsunami which flooded properties in Tonga's capital.
 3. It destroyed hundreds of homes on some small islands. More than twenty people on these islands are still missing.
@@ -221,7 +221,7 @@ e. It happened in a village in Phu Yen last week.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:**
+**Bài 4 - Đáp án:**
 1 – c (What kind of natural disaster? → It was a serious flood.)
 2 – e (When and where? → In a village in Phu Yen last week.)
 3 – a (What caused it? → Five days of heavy rain.)

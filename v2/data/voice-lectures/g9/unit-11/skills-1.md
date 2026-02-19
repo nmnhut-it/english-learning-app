@@ -93,7 +93,7 @@ Bài 2 nha — <eng>True or False</eng>. Đọc câu và xác định đúng hay
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
+**Bài 2 - Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
 </answer>
 
 <explanation>
@@ -140,7 +140,7 @@ Bài 3 nha — trả lời câu hỏi dựa vào bài đọc. Viết câu trả 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài 3 - Đáp án:**
 1. They had to wait days for photos to be developed.
 2. Portrait mode, landscape mode, and multiple camera lenses (for different effects).
 3. A selfie is a self-portrait / a photo you take of yourself.
@@ -185,7 +185,7 @@ Bài 4 nha — nối tính năng với chức năng đúng của nó. Có 1 phú
 </teacher_script>
 
 <answer>
-**Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
+**Bài 4 - Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
 </answer>
 
 <explanation>

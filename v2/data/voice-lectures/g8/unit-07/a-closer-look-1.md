@@ -246,7 +246,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về bả
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 1. pollution
 2. endangered species
 3. cut down
@@ -317,7 +317,7 @@ Chúng ta cùng làm Bài tập 2. Các em hãy viết câu về các hành đ�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 2 - Đáp án:**
 1. We should pick up rubbish on the beach.
 2. It's important to protect endangered species.
 3. People should save water in daily life.
@@ -377,7 +377,7 @@ Bài tập cuối cùng. Các em hãy đọc các câu và chọn True (T) hoặ
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 3 - Đáp án:**
 1. F (False)
 2. T (True)
 3. T (True)

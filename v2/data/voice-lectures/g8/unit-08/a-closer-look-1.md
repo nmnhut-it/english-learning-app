@@ -247,7 +247,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy hoàn thành các câu về mua 
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 1 - Đáp án:**
 1. shopaholic
 2. on sale
 3. browsing
@@ -323,7 +323,7 @@ A. discount shop | B. speciality shop | C. supermarket
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.B
+**Bài tập 2 - Đáp án:** 1.B | 2.A | 3.B | 4.C | 5.B
 </answer>
 
 <teacher_script pause="0" href="audio/tts_d87b1313.webm">
@@ -392,7 +392,7 @@ Bài tập cuối cùng. Các em hãy viết câu về các tình huống mua s�
 </teacher_script>
 
 <answer>
-**Đáp án:**
+**Bài tập 3 - Đáp án:**
 1. I love browsing online shops.
 2. The store has a wide range of products.
 3. My mother never bargains at supermarkets.

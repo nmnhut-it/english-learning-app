@@ -573,7 +573,7 @@ Chúng ta cùng làm Bài tập 1. Các em hãy chọn đáp án đúng để ho
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.B | 3.C | 4.A | 5.B | 6.A
+**Bài tập 1 - Đáp án:** 1.B | 2.B | 3.C | 4.A | 5.B | 6.A
 </answer>
 
 <teacher_script pause="0" href="audio/tts_6f67bf8f.webm">
@@ -653,7 +653,7 @@ Bài tập 2, các em hãy chọn từ có cách phát âm khác với các từ
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.B | 3.B | 4.B | 5.B | 6.C
+**Bài tập 2 - Đáp án:** 1.B | 2.B | 3.B | 4.B | 5.B | 6.C
 </answer>
 
 <teacher_script pause="0" href="audio/tts_63b0bc72.webm">

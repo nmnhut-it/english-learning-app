@@ -30,7 +30,7 @@ Bài 1 trang 122 nha — nhìn hình và viết tên thiết bị điện tử. 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. e-reader | 2. smartwatch | 3. robotic vacuum cleaner | 4. 3D printer | 5. portable music player | 6. camcorder
+**Bài 1 - Đáp án:** 1. e-reader | 2. smartwatch | 3. robotic vacuum cleaner | 4. 3D printer | 5. portable music player | 6. camcorder
 </answer>
 
 <explanation>
@@ -81,7 +81,7 @@ Bài 2 trang 122 nha — điền từ vào chỗ trống. Dùng các từ trong 
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. copper | 2. e-reader | 3. smartwatch | 4. plastic | 5. 3D printer
+**Bài 2 - Đáp án:** 1. copper | 2. e-reader | 3. smartwatch | 4. plastic | 5. 3D printer
 </answer>
 
 <explanation>
@@ -148,7 +148,7 @@ Bài 3 trang 122 nha — trắc nghiệm ngữ pháp. Chọn A, B, C hoặc D. C
 </teacher_script>
 
 <answer>
-**Đáp án:** 1.B | 2.A | 3.B | 4.A | 5.D
+**Bài 3 - Đáp án:** 1.B | 2.A | 3.B | 4.A | 5.D
 </answer>
 
 <explanation>
@@ -195,7 +195,7 @@ Bài 4 trang 122 nha — điền dạng đúng của động từ trong ngoặc.
 </teacher_script>
 
 <answer>
-**Đáp án:** 1. reduce | 2. closing | 3. look | 4. choosing | 5. traveling
+**Bài 4 - Đáp án:** 1. reduce | 2. closing | 3. look | 4. choosing | 5. traveling
 </answer>
 
 <explanation>
