@@ -11,6 +11,8 @@ Ok lớp 7, bài <eng>Communication</eng> Unit 1 nha. Mở sách trang 12. Bài 
 Bài 1 trang 12 — nghe các hội thoại mẫu. Chú ý cách hỏi và trả lời về sở thích nha. Nghe xong thì đọc lại theo.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0704/006.mp3"></audio>
+
 ### Bài 1 trang 12 - Listen to model dialogues
 
 <task>

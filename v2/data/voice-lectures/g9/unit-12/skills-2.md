@@ -70,6 +70,8 @@ Bài 2 trang 135 — nghe hai người nói về con đường sự nghiệp c�
 Đọc lại bài và dịch vô vở. 3 phút nha. Chú ý câu chuyện của Minh — vì sao chọn nông nghiệp, và câu chuyện của Ann — học nghề nấu ăn từ đâu.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/76.mp3"></audio>
+
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
 Bài 2 trang 135 — nghe và đánh dấu T (Đúng) hoặc F (Sai) cho 4 câu về Minh và Ann. Làm 1 phút nha.
@@ -111,6 +113,8 @@ Ok đáp án bài 2 nè.
 
 **4 — F:** Sai. Ann là đầu bếp tại một nhà hàng trong **khách sạn nhỏ** (a restaurant in a small hotel), KHÔNG phải nhà hàng nổi tiếng (famous restaurant). Bài nói "small hotel" — khách sạn nhỏ nha.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/77.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

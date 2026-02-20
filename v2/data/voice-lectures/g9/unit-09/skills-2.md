@@ -45,6 +45,8 @@ Giờ nghe bạn Trang chia sẻ về cách học từ vựng tiếng Anh nha. C
 <audio src="https://img.loigiaihay.com/picture/2024/0515/57.mp3">
 **Audio:** Trang talks about how she learns English vocabulary.
 </audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/57.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/58.mp3"></audio>
 
 <reading>
 I've learnt English for six years and I usually find it challenging to learn its vocabulary. Here are some tips I've tried to improve my vocabulary learning. Firstly, I spend time reading different kinds of English books, from short stories to novels. When I see a new word, I try to guess its meaning from the sentence. Secondly, I use a good dictionary. My mum bought me an English-English dictionary three years ago. Whenever I cannot find the meaning of a new word, I look it up, check its meaning and pronunciation in the dictionary. The dictionary also helps me understand better when to use the word. Thirdly, I've made my own vocabulary notebook. I have the habit of copying all new words into a notebook. This way I can know how many words I've learnt and can revise the words easily. Finally, I take every opportunity to speak with people in English. I try to use the words I've learnt and pick up more new words from these conversations. I've done these things regularly and now I'm quite confident about my English vocabulary.

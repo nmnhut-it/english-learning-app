@@ -152,6 +152,9 @@ Bài 3 nha. Chọn từ đúng trong ngoặc để điền vào chỗ trống: <
 - **Câu 5 - serves:** Chủ ngữ là *"it"* (nhà hàng) → dùng *serves* (phục vụ). Nhớ thêm *-s* vì chủ ngữ ngôi thứ ba số ít.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-33.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-34.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Ok, xong phần từ vựng rồi nha. Giờ mình qua phần phát âm — <eng>Pronunciation</eng>. Hôm nay học về trọng âm trong các từ có 3 âm tiết. Nghe kỹ nha.

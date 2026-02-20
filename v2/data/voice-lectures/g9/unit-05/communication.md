@@ -153,6 +153,8 @@ Mẫu hội thoại nè — tham khảo thôi, không cần chép y chang nha.
 *(Mẹ: Không sao đâu, nhưng lần sau con về muộn nhớ báo cho mẹ nhé.)*
 </answer>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/30.mp3"></audio>
+
 <teacher_script pause="0">
 Xong rồi nha. Tiếp theo đọc bài về trải nghiệm cắm trại nha.
 </teacher_script>

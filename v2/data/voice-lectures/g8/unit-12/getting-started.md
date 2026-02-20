@@ -27,6 +27,8 @@ Ok lớp 8, Unit 12 nha — <eng>LIFE ON ANOTHER PLANET</eng>. Mở sách trang 
 Xong từ vựng rồi, giờ mình qua hội thoại nha. Bài này có hai bạn Mai và Nick đang nói chuyện về một cuốn sách khoa học viễn tưởng tên là <eng>A journey back to Soduka</eng>. Đọc và dịch theo bảng bên dưới đi.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-74.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Đây là hội thoại bài 1 — <eng>Listen and read</eng>. Mai hỏi Nick đang đọc sách gì. Nhìn vào bảng, đọc tiếng Anh rồi xem dịch tiếng Việt nha.

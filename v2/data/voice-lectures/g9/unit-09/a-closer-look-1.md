@@ -92,6 +92,9 @@ Cả hai đều đúng, chỉ khác vùng miền!
 
 ---
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/54.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/55.mp3"></audio>
+
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 33 - Listen and practice
 

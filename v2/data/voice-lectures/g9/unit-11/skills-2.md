@@ -23,6 +23,8 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 11 nha — hôm nay nghe về máy hú
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Chú ý *laborious* = vất vả, *crumb* = mảnh vụn, *recognise* = nhận ra — ba từ quan trọng nhất trong bài nghe.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/71.mp3"></audio>
+
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
 Bài 1 — thảo luận theo cặp hai câu hỏi: thiết bị trong hình là gì, và bạn có muốn có cái đó ở nhà không? Nhìn hình trong sách, rồi mình nghe bài chính nha.
@@ -81,6 +83,8 @@ Ok đáp án nè.
 
 **4. C** - Công nghệ laser: "laser technology will make it recognise anything on the ground like dust or dirt" → nhận ra mọi thứ trên sàn = *see everything on the ground* = đáp án C. Lưu ý: leo cầu thang là tính năng khác (câu 2), KHÔNG phải chức năng của laser.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0516/72.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

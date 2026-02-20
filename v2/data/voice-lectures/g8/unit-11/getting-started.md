@@ -30,6 +30,8 @@ Ok lớp 8, Unit 11 nha — <eng>Science and Technology</eng>. Bài đầu tiên
 Từ vựng xong rồi nha. Giờ mình đọc hội thoại — Minh và Ann đang nói về trường học tương lai đó. Đọc và dịch theo nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-68.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Bài 1 <eng>Listen and read</eng> nha. Minh và Ann nói về học trực tuyến và công nghệ tương lai. Xem họ nói gì nào!

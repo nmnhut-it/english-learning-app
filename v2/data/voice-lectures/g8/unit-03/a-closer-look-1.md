@@ -184,6 +184,8 @@ Ok đáp án nè.
 **5. B — pressure:** Cảm thấy áp lực từ nhiều phía (bài thi, bạn bè, ba mẹ) → *pressure* (áp lực) là đúng.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-15.mp3"></audio>
+
 <!-- chunk: pronunciation-theory -->
 <teacher_script pause="0">
 Xong phần từ vựng rồi. Giờ mình học phát âm nha — hai âm mới của Unit 3: <eng>/ʊə/</eng> và <eng>/ɔɪ/</eng>. Hai âm này hay bị nhầm lắm, nghe kỹ nha.

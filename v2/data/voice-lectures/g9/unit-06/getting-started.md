@@ -29,6 +29,8 @@ Ok lớp 9, Unit 6 nha — <eng>Viet Nam: Then and Now</eng>. Hôm nay mình ôn
 Xong từ vựng rồi nha. Làm bài trắc nghiệm từ vựng đi, sau đó ghi từ vào tập. Nhớ ghi cả nghĩa tiếng Việt nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/33.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Giờ mình vô bài đọc chính nha. Đây là hội thoại giữa Phong và ông nội — hai ông cháu đang nói chuyện về cuộc sống ngày xưa và bây giờ. Nghe và đọc theo nha.

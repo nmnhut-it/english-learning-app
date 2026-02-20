@@ -23,6 +23,8 @@ Ok lớp 7, Unit 1 nha — bài <eng>Getting Started</eng>. Mở sách trang 6 �
 Ok từ vựng xong rồi. Giờ mình qua hội thoại nha. Bài 1 trang 6 — <eng>Listen and read</eng>. Đọc hội thoại của Ann và Trang đi.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0704/002.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Đây là hội thoại giữa Ann và Trang. Ann tới nhà Trang chơi và hai bạn nói chuyện về sở thích. Đọc kỹ nha, có từ mới thì xem lại từ vựng ở trên.
@@ -106,6 +108,8 @@ Xong chưa? Ok đáp án nè.
 
 **5. F** — Không phải 8 giờ tối mà là 8 giờ *sáng*. "At eight in the morning."
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2022/0704/003.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="0">

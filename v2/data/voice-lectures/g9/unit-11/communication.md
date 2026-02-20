@@ -53,6 +53,8 @@ Trước khi vô hội thoại, mình ôn nhanh các câu để kiểm tra sự 
 Nhớ chưa nha? Ba nhóm: hỏi → xác nhận → xin giải thích. Giờ đọc hội thoại mẫu và xem cách dùng thực tế nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/70.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Bài 1 trang 121 — nghe và đọc hai hội thoại mẫu. Chú ý những câu in đậm — đó là cách kiểm tra sự hiểu và xác nhận hiểu nha.

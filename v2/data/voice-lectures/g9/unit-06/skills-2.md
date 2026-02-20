@@ -22,6 +22,8 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 6 nha — hôm nay mình nghe và vi�
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Đặc biệt nhớ hai từ *nuclear family* và *extended family* — hai khái niệm quan trọng trong bài nghe này luôn.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/37.mp3"></audio>
+
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
 Giờ mình nghe bài nói về sự thay đổi của cuộc sống gia đình Việt Nam nha. Nghe kỹ — người nói so sánh ngày xưa và bây giờ về ba khía cạnh: loại gia đình, kỳ nghỉ, và mối quan hệ cha mẹ con cái.
@@ -121,6 +123,8 @@ Bài 2 nha — nghe và đánh dấu đúng vào cột <eng>The past</eng> (Quá
 
 **5. The present ✓** — "The relation between parents and children is more democratic." → Quan hệ ngày nay dân chủ hơn — con cái được lắng nghe.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/38.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <audio src="38.mp3"></audio>

@@ -55,6 +55,8 @@ Bài 1. <eng>Work in pairs. Look at the picture and answer the questions.</eng> 
 2. We need these things when there is a natural disaster.
 </answer>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-58.mp3"></audio>
+
 <!-- chunk: listening -->
 <teacher_script pause="0">
 Bây giờ nghe chương trình radio đặc biệt của đài phát thanh xã An Bình về cách chuẩn bị ứng phó bão nha. Nghe kỹ để làm bài tập bên dưới.
@@ -127,6 +129,8 @@ Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct co
 - **1 — After:** SAU bão, nghe hướng dẫn từ chính quyền — "Listen to important instructions from local authorities."
 - **4 — After:** SAU bão, tránh xa khu vực nguy hiểm — "They may warn you about which parts of your area are dangerous."
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-59.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

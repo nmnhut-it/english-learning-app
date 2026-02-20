@@ -27,6 +27,8 @@ Học từ vựng trước khi nghe nha. Bấm "Bắt đầu".
 13. **medical facilities** : (n.phr) cơ sở y tế /ˈmɛdɪkl fəˈsɪlɪtɪz/
 </vocabulary>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0703/track-12.mp3"></audio>
+
 <!-- chunk: listening -->
 ### Bài 1-2 trang 25 - Listening
 

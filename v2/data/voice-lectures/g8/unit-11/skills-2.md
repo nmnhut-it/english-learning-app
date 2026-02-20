@@ -73,6 +73,8 @@ Bài 1 — <eng>Tick the things that you think a robot teacher can do</eng> nha.
 **Câu 3 — ✗:** Robot KHÔNG thể dạy học sinh cách cư xử — đây là hạn chế của robot. Trong bài nghe, Lan sẽ nói rõ điều này nha.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-72.mp3"></audio>
+
 <!-- chunk: exercise_2_tapescript -->
 ### Bài 2 trang SGK - Fill Blanks
 
@@ -163,6 +165,8 @@ Giờ điền từ vào bảng bài 2 nha. Bảng chia 2 cột: robot CAN do và
 
 **Câu 5 — problems:** "robots can't solve **problems** between students" — không thể giải quyết vấn đề giữa các học sinh. "Solve problems" là cụm cố định nha.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-73.mp3"></audio>
 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang SGK - True/False

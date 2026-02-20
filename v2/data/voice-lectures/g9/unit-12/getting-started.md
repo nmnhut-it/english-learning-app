@@ -32,6 +32,8 @@ Ok lớp 9, Unit 12 nha — <eng>My Future Career</eng>, tức là "Nghề nghi�
 Ok từ vựng xong rồi nha. Giờ mình vô hội thoại. Đây là cuộc trò chuyện giữa Mi và Nick về buổi định hướng nghề nghiệp. Nghe và đọc theo nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/73.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Bài 1 trang 125 — <eng>Listen and read</eng>. Đọc hội thoại giữa Mi và Nick nha. Chú ý từ vựng vừa học là xuất hiện hết ở đây luôn á.

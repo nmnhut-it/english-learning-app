@@ -17,6 +17,23 @@ Ok lớp 8, bài <eng>Skills 2</eng> nha. Hôm nay mình nghe về lễ hội Ok
 8. **harvest** : (n) mùa gặt, thu hoạch /ˈhɑːvɪst/
 </vocabulary>
 
+<teacher_script pause="0">
+Xong từ vựng rồi nha. Chuẩn bị nghe audio bài nghe về một lễ hội truyền thống. Nghe và làm bài tập nha.
+</teacher_script>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0616/track-31.mp3"></audio>
+
+<!-- chunk: listening -->
+<teacher_script pause="0">
+Bài 1 - nghe audio bài 30, nhìn tranh trong sách trang 56. Trả lời câu hỏi: Đây là lễ hội gì, ở đâu?
+</teacher_script>
+
+🔊 [Track 30](https://img.loigiaihay.com/picture/2023/0616/track-30.mp3)
+
+<teacher_script pause="0">
+Bài nghe này kể về một lễ hội làng truyền thống. Người ta tổ chức vào cuối mùa gặt để tạ ơn tổ tiên và thiên nhiên. Trong lễ hội có nhiều hoạt động đặc sắc lắm. Nghe kỹ rồi làm bài 2 và bài 3 nha.
+</teacher_script>
+
 <!-- chunk: exercise-1 -->
 <teacher_script pause="60">
 Bài 1 — nhìn ảnh trong sách trang 56 và trả lời 2 câu hỏi nha. 1 phút thôi.

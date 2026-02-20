@@ -162,6 +162,9 @@ Ghi xong chưa nha! Chú ý hai từ hay nhầm: "delay" là *trì hoãn* — l�
 **5. distractions** — "sự xao lãng" (số nhiều). Tắt điện thoại để tránh *những thứ làm mất tập trung*. *Avoid distractions.*
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/15.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/16.mp3"></audio>
+
 <!-- chunk: pronunciation-theory -->
 <teacher_script pause="0">
 Xong từ vựng rồi, giờ học phát âm nha. Hôm nay học cách nhấn âm trong từ 3 âm tiết có đuôi <eng>-ic</eng> và <eng>-tion</eng>. Ghi quy tắc vô tập đi nha.

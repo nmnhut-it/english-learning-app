@@ -58,6 +58,8 @@ Trước khi vào hội thoại, mình học một số cụm từ hay dùng khi
 Nhớ mấy cụm này nha: <eng>"In my culture, we usually..."</eng>, <eng>"It's customary to..."</eng>, <eng>"We have a tradition of..."</eng>. Dùng trong Speaking thi sẽ được điểm cao hơn đó.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/24.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Nghe và đọc hai hội thoại mẫu về cách cảm ơn và đáp lại nha. Chú ý các câu <eng>Thanking and responding</eng> được in đậm.

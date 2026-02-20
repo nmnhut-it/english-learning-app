@@ -223,6 +223,9 @@ Bài 4 — điền từ vào chỗ trống nha. Dùng từ trong hộp. Các câ
 - **5. heritage:** di sản (cultural heritage) → người Việt tự hào về di sản văn hóa.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/22.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2024/0515/23.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Giờ học phát âm nha — quy tắc trọng âm cho các từ có đuôi <eng>-tion / -sion</eng>. Cái này quan trọng lắm, thi Speaking hay dùng.

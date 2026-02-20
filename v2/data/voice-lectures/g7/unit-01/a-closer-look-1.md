@@ -186,6 +186,9 @@ Xong chưa? Đáp án nè.
 **5.** "hate ride" → hates riding (She → thêm s vào hates) a horse.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2022/0704/004.mp3"></audio>
+<audio src="https://img.loigiaihay.com/picture/2022/0704/005.mp3"></audio>
+
 <!-- chunk: pronunciation -->
 <teacher_script pause="0">
 Ok xong ngữ pháp rồi. Giờ mình qua phần phát âm nha — bài 4. Hôm nay học hai âm dễ nhầm: âm /ə/ — âm schwa ngắn, và âm /ɜː/ — âm schwa dài. Nghe kỹ nha.

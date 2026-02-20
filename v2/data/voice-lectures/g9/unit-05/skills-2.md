@@ -52,6 +52,8 @@ Being bullied *(bị bắt nạt)* là trải nghiệm tồi tệ.
 Bắt nạt có thể có tác động tiêu cực đáng kể đến sức khỏe tinh thần và cảm xúc của một người. Nó còn gây ra trầm cảm, lo âu, thiếu tự tin và thậm chí dẫn đến kết quả học tập kém. Còn "winning a competition" và "doing community service" là những trải nghiệm tích cực.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/31.mp3"></audio>
+
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
 Tụi mình sẽ nghe hội thoại giữa Minh và bố. Minh hỏi bố về trải nghiệm tồi tệ nhất ở trường — và sau đó bố hỏi lại Minh. Chú ý các chi tiết quan trọng nha.
@@ -143,6 +145,8 @@ Bài 2 — <eng>True/False</eng> nha. Nghe bài hội thoại giữa Minh và b�
 
 **5. F** — "I actually **learnt it by rote without really understanding** the lesson." → Minh học vẹt, không thực sự hiểu bài → Sai.
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2024/0515/32.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">

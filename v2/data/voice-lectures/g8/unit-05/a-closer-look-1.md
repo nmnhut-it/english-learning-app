@@ -156,6 +156,8 @@ Bài 3 - điền từ vào chỗ trống nha. Có 5 câu, các em dùng từ v�
 **5. martial arts:** *Martial arts* = võ thuật - nhiều lễ hội truyền thống có màn biểu diễn võ nghệ, đặc biệt là các lễ hội ở miền Bắc.
 </explanation>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-28.mp3"></audio>
+
 <!-- chunk: pronunciation-theory -->
 <teacher_script pause="0">
 Xong phần từ vựng rồi nha! Giờ mình học phát âm - âm /ə/ còn gọi là âm <eng>schwa</eng> đó. Đây là âm xuất hiện nhiều nhất trong tiếng Anh luôn á, nhưng ít người để ý. Nghe thầy/cô giải thích trước nha.

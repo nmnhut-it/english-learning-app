@@ -56,6 +56,8 @@ Hội thoại 2 — Học sinh và nhân viên. Đọc theo nha.
 Thấy mẫu câu chưa? *Hopefully, I'll...* và *I hope I'll...* — cả hai đều diễn đạt hy vọng. Phản hồi thì dùng *I hope so, too* hoặc *Good luck*. Giờ mình luyện tập nha.
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0516/75.mp3"></audio>
+
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
 Bài 2 trang 131 — làm theo cặp, tạo hội thoại tương tự với hai tình huống sau. Đọc tình huống rồi nói theo mẫu. Có 1 phút nha.

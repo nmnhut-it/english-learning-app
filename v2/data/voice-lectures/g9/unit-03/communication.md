@@ -59,6 +59,8 @@ Khi nghe ai nói mà không hiểu hoặc không nghe rõ, người Anh sẽ dù
 Mẹo nhỏ: trong lớp học, dùng "Could you say that again, please?" là an toàn và lịch sự nhất nha. "Sorry?" thì hơi ngắn, còn "I beg your pardon?" thì nghe formal lắm, dùng khi gặp người lớn hay trong môi trường nghiêm túc. Bây giờ vô hội thoại nha!
 </teacher_script>
 
+<audio src="https://img.loigiaihay.com/picture/2024/0515/17.mp3"></audio>
+
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
 Nghe và đọc hai hội thoại mẫu nha. Chú ý các câu hỏi lại và cách đáp lại.

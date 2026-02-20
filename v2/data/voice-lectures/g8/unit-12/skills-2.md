@@ -61,6 +61,8 @@ Ok gợi ý câu trả lời nè.
 *(Mình nghĩ nó có thể làm nhiều thứ một lúc vì nó có bốn tay. Ví dụ: Bốn tay có thể rửa bát nhanh hơn hai tay.)*
 </answer>
 
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-78.mp3"></audio>
+
 <!-- chunk: tapescript -->
 ### Tapescript - Bài nghe
 
@@ -173,6 +175,8 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 - Bài nghe nói: "they drink a type of petrol from under the ground" (họ uống một loại dầu từ dưới lòng đất).
 - Họ KHÔNG uống nước lỏng (A), mà uống dầu từ dưới đất. Hay ghê hen!
 </explanation>
+
+<audio src="https://img.loigiaihay.com/picture/2023/0804/track-79.mp3"></audio>
 
 <!-- chunk: bai3 -->
 ### Bài 3 trang 131 - Fill in the blanks
