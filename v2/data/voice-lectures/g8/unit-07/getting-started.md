@@ -202,21 +202,18 @@ Bài 3 <eng>Fill in the blanks with words from the conversation</eng>. Điền t
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with words from the conversation.
-**Dịch đề:** Điền từ vào chỗ trống bằng từ trong hội thoại.
-**Yêu cầu:** Đọc lại hội thoại, tìm từ phù hợp để điền vào chỗ trống.
-**Hướng dẫn:**
-- Bước 1: Đọc câu cần điền
-- Bước 2: Tìm từ trong hội thoại
-- Bước 3: Điền từ đúng ngữ pháp
+**Đề:** Complete each sentence with one word or phrase from the box.
+**Dịch đề:** Hoàn thành mỗi câu với một từ hoặc cụm từ trong khung.
+
+*(reduce / single-use / pollution / carbon footprint / environmental programme)*
 </task>
 
 <questions type="fill_blanks">
-**1.** Air and water _______ causes many health problems.
-**2.** We can _______ our carbon footprint by using less energy.
-**3.** Plastic bags are _______ products. We should avoid using them.
-**4.** Your _______ is the amount of CO2 you produce.
-**5.** We can volunteer for _______ to protect nature.
+**1.** _______ is a serious problem everywhere.
+**2.** We should avoid dumping waste into lakes and rivers to _______ water pollution.
+**3.** We shouldn't throw away _______ products but recycle them.
+**4.** _______ is the amount of carbon dioxide we release into the environment.
+**5.** We hope a lot more people join our _______.
 </questions>
 
 <teacher_script pause="0" type="answer" href="audio/tts_a43b7c53.mp3">
@@ -249,11 +246,11 @@ Câu 5 là <eng>environment programmes</eng> - chương trình môi trường.
 
 <explanation>
 **Giải thích:**
-1. pollution - "air and water quality" → pollution causes health problems
-2. reduce - "We can reduce our carbon footprint"
-3. single-use - "avoid using single-use products, like plastic bags"
-4. carbon footprint - "the amount of carbon dioxide that we release"
-5. environment programmes - "volunteer for some local environment programmes"
+1. **Pollution** - ô nhiễm là vấn đề nghiêm trọng khắp nơi.
+2. **reduce** - "avoid dumping waste... to **reduce** water pollution" → giảm ô nhiễm nước.
+3. **single-use** - "avoid using single-use products, like plastic bags" → đồ dùng một lần.
+4. **Carbon footprint** - "the amount of carbon dioxide we release into the environment" → lượng CO2 thải ra.
+5. **environmental programme** - "join our environmental programme" → chương trình bảo vệ môi trường.
 </explanation>
 
 ---
@@ -319,58 +316,73 @@ Câu 5: <eng>single-use products</eng> - sản phẩm dùng một lần.
 
 ---
 
-### Bài 5 trang 73 - Quiz
+### Bài 5 trang 73 - Environment Quiz
 
-<teacher_script pause="60" href="audio/tts_916731d8.mp3">
-Bài 5 <eng>Quiz: Are you eco-friendly?</eng> Trắc nghiệm: Bạn có thân thiện với môi trường không? Chọn câu trả lời phù hợp với bản thân. 1 phút nha.
+<teacher_script pause="60">
+Bài 5 — <eng>Environment Quiz</eng>. Trắc nghiệm kiến thức môi trường nha. Đọc câu hỏi rồi chọn đáp án đúng. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Quiz: Are you eco-friendly?
-**Dịch đề:** Trắc nghiệm: Bạn có thân thiện với môi trường không?
-**Yêu cầu:** Chọn câu trả lời phù hợp với bản thân.
+**Đề:** QUIZ. Environment Quiz. Do the following quiz.
+**Dịch đề:** Câu đố môi trường. Làm bài trắc nghiệm sau.
 </task>
 
 <questions type="multiple_choice">
-**1.** Do you turn off the lights when you leave a room?
-- A. Always
-- B. Sometimes
-- C. Never
+**1.** Which of the following is the greenest form of transport?
+- A. Motorbike.
+- B. Bus.
+- C. Bicycle.
 
-*Bạn có tắt đèn khi rời khỏi phòng không?*
+*Hình thức giao thông nào sau đây là xanh nhất?*
 
-**2.** Do you use reusable bags when shopping?
-- A. Never
-- B. Sometimes
-- C. Always
+**2.** Which of the following is a renewable source?
+- A. Coal.
+- B. Oil.
+- C. Wind.
 
-*Bạn có dùng túi tái sử dụng khi mua sắm không?*
+*Nguồn nào sau đây là nguồn tái tạo?*
 
-**3.** Do you recycle paper and plastic?
-- A. Always
-- B. Sometimes
-- C. Never
+**3.** What causes the most pollution?
+- A. Factories.
+- B. Animals.
+- C. Hospitals.
 
-*Bạn có tái chế giấy và nhựa không?*
+*Cái gì gây ô nhiễm nhiều nhất?*
 
-**4.** Do you walk or cycle to school?
-- A. Never
-- B. Sometimes
-- C. Always
+**4.** The surroundings in which we live are our _______.
+- A. habitat
+- B. place
+- C. environment
 
-*Bạn có đi bộ hoặc đạp xe đến trường không?*
+*Môi trường xung quanh nơi chúng ta sống là _______ của chúng ta.*
 
-**5.** Do you take short showers to save water?
-- A. Never
-- B. Always
-- C. Sometimes
+**5.** Which of these will reduce your carbon footprint?
+- A. Cutting down a lot of trees.
+- B. Recycling paper products.
+- C. Leaving the TV on all night.
 
-*Bạn có tắm nhanh để tiết kiệm nước không?*
+*Điều nào sau đây sẽ làm giảm lượng khí thải carbon của bạn?*
 </questions>
 
-<teacher_script pause="0" type="answer" href="audio/tts_dde6f5e7.mp3">
-Nếu chọn nhiều <eng>Always</eng>, bạn rất <eng>eco-friendly</eng>. Nếu chọn nhiều <eng>Sometimes</eng> hoặc <eng>Never</eng>, cần cố gắng thêm nha. Bảo vệ môi trường bắt đầu từ những việc nhỏ.
+<teacher_script pause="0">
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Bài 5 - Đáp án:** 1.C | 2.C | 3.A | 4.A | 5.B
+</answer>
+
+<explanation>
+**1. C - Bicycle**: Xe đạp không dùng nhiên liệu, không thải khí → xanh nhất trong 3 lựa chọn.
+
+**2. C - Wind**: Gió là nguồn năng lượng tái tạo vô hạn. Than và dầu là nhiên liệu hóa thạch, không tái tạo được.
+
+**3. A - Factories**: Nhà máy thải ra nhiều khí độc và chất thải công nghiệp → gây ô nhiễm nhiều nhất.
+
+**4. A - Habitat**: "The surroundings in which we live" = nơi sinh sống của sinh vật → *habitat* (môi trường sống). *Environment* là nghĩa rộng hơn, *habitat* mới là "nơi sinh sống cụ thể".
+
+**5. B - Recycling paper products**: Tái chế giấy giảm lượng rác thải và tiết kiệm tài nguyên → giảm carbon footprint. Chặt cây và để TV bật cả đêm đều làm tăng ô nhiễm.
+</explanation>
 
 ---
 

@@ -3,232 +3,222 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 9, bài <eng>Skills 1</eng> Unit 11 nha — hôm nay đọc bài về nhiếp ảnh trong thời đại kỹ thuật số. Hay lắm đó — có cả chuyện về film camera đang quay lại phổ biến với giới trẻ nữa! Mở sách, ghi tựa bài, học từ vựng trước đi nha.
+Ok lớp 9, bài <eng>Skills 1</eng> Unit 11 nha — hôm nay đọc bài về các thiết bị điện tử: điện thoại thông minh, máy nghe nhạc di động và rèm cửa sổ thông minh. Thú vị lắm đó! Mở sách, ghi tựa bài, học từ vựng trước đi nha.
 </teacher_script>
 
 <vocabulary>
-1. **light** : (adj) nhẹ /laɪt/
+1. **stylish** : (adj) thời trang, sành điệu /ˈstaɪlɪʃ/
 2. **self-portrait** : (n) ảnh chân dung tự chụp /ˌself ˈpɔːtrɪt/
-3. **feature** : (n) tính năng /ˈfiːtʃə/
+3. **camcorder** : (n) máy quay phim /ˈkæmkɔːdə/
 4. **right away** : (adv) ngay lập tức /raɪt əˈweɪ/
-5. **camcorder** : (n) máy quay phim /ˈkæmkɔːdə/
-6. **landscape** : (n) phong cảnh /ˈlændskeɪp/
-7. **convenient** : (adj) tiện lợi /kənˈviːniənt/
-8. **resolution** : (n) độ phân giải /ˌrezəˈluːʃən/
-9. **capture** : (v) ghi lại /ˈkæptʃə/
-10. **original** : (adj) gốc, nguyên bản /əˈrɪdʒɪnəl/
-11. **function** : (n) chức năng /ˈfʌŋkʃən/
-12. **design** : (n) thiết kế /dɪˈzaɪn/
-13. **effect** : (n) hiệu ứng /ɪˈfekt/
-14. **battery life** : (n phrase) thời lượng pin /ˈbætəri laɪf/
-15. **affordable** : (adj) vừa tầm tiền /əˈfɔːdəbəl/
+5. **portable** : (adj) di động, cầm tay /ˈpɔːtəbl/
+6. **fingertips** : (n) đầu ngón tay /ˈfɪŋɡətɪps/
+7. **store** : (v) lưu trữ /stɔː/
+8. **privacy** : (n) sự riêng tư /ˈprɪvəsi/
+9. **window shade** : (n) rèm cửa sổ /ˈwɪndəʊ ʃeɪd/
+10. **prevent** : (v) ngăn chặn /prɪˈvent/
 </vocabulary>
 
 <teacher_script pause="0">
-Làm trắc nghiệm từ vựng đi, rồi ghi vô tập nha. Chú ý *resolution*, *capture*, và *battery life* — ba từ quan trọng trong bài đọc.
+Làm trắc nghiệm từ vựng đi, rồi ghi vô tập nha. Chú ý <eng>self-portrait</eng> = ảnh tự chụp chính mình (tức là *selfie* đó!), và <eng>portable</eng> = có thể mang theo người — di động.
 </teacher_script>
 
-<!-- chunk: reading -->
+<!-- chunk: pre-reading -->
+### Bài 1 trang 54 - Discuss
+
+<teacher_script pause="45">
+Bài 1 trang 54. Thảo luận theo cặp 2 câu hỏi này. 45 giây nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Discuss the following questions.
+**Dịch đề:** Làm việc theo cặp. Thảo luận các câu hỏi sau đây.
+
+What electronic device do you use most often? What do you use it for?
+*(Bạn sử dụng thiết bị điện tử nào thường xuyên nhất? Bạn sử dụng chúng để làm gì?)*
+</task>
+
 <teacher_script pause="0">
-Giờ đọc bài <eng>Photography in the Digital Age</eng> nha. Bài này nói về sự thay đổi của nhiếp ảnh — từ máy ảnh film ngày xưa đến điện thoại thông minh ngày nay. Đọc kỹ nha.
+Gợi ý nha: điện thoại thông minh (<eng>smartphone</eng>), máy tính bảng (<eng>tablet</eng>), máy tính xách tay (<eng>laptop</eng>), tai nghe (<eng>earphones</eng>)... Dùng để làm gì? Nghe nhạc, xem phim, nhắn tin, học bài...
+</teacher_script>
+
+---
+
+<!-- chunk: reading -->
+### Bài 2 trang 54 - Read and match
+
+<teacher_script pause="0">
+Giờ đọc ba tờ rơi quảng cáo thiết bị điện tử nha — điện thoại thông minh, máy nghe nhạc di động và rèm cửa sổ thông minh. Đọc kỹ rồi nối từ được in đậm với nghĩa của chúng.
 </teacher_script>
 
 <reading>
-## Photography in the Digital Age
+You can do a lot of things with this small smartphone! This light, stylish phone has a special self-portrait feature that helps you send great photos of yourself right away. Its camcorder will record important moments, so you can share them with friends. Besides standard text messaging and phone calls, it can keep you connected through emails, video calls, and social networking apps.
 
-Photography has been transformed by digital technology. In the past, people used film cameras and had to wait days for photos to be developed. Today, smartphones can take professional-quality photos instantly.
+This portable music player can carry your music collection everywhere you go and supply your favourite hits at your fingertips. Listen to up to 24 hours of high-quality music wherever you are - on the bus, in the car, or at the gym. The portable music player allows you to store up to 5,000 songs and even play games.
 
-Many phones now feature portrait mode, landscape mode, and multiple camera lenses for different effects. The selfie — or self-portrait — has become a cultural phenomenon, with millions taken every day. Social media platforms make it easy to share photos right away.
-
-However, some photographers argue that digital editing has made photos less original — with filters and AI touch-ups, the true scene is often changed. Camcorders have also been largely replaced by smartphones for video recording, as phone cameras now offer high resolution and good battery life.
-
-But film photography is making a comeback among young people who enjoy the "unpredictable" nature of film. They like that every shot costs money, which makes them think more carefully before pressing the shutter. Whether digital or film, photography remains one of the most convenient and powerful ways to capture memories and share experiences.
+This smart window shade doesn't only help you control how much light comes into your house, but it also saves money by preventing heat or cold from entering our house. It's an excellent option for those that have trouble controlling the temperature of their houses. It can also give additional privacy to apartments by blocking out light as well as unwanted views.
 </reading>
 
 <translation>
-## Nhiếp ảnh trong Thời đại Kỹ thuật số
+Bạn có thể làm rất nhiều thứ với chiếc điện thoại thông minh nhỏ bé này! Chiếc điện thoại nhẹ nhàng, thời trang này có tính năng tự chụp chân dung đặc biệt giúp bạn gửi ngay những bức ảnh tuyệt đẹp của chính mình. Máy quay của nó sẽ ghi lại những khoảnh khắc quan trọng để bạn có thể chia sẻ chúng với bạn bè. Bên cạnh việc nhắn tin văn bản và gọi điện tiêu chuẩn, nó có thể giúp bạn kết nối thông qua email, cuộc gọi điện video và các ứng dụng mạng xã hội.
 
-Nhiếp ảnh đã được chuyển đổi bởi công nghệ kỹ thuật số. Ngày xưa, người ta dùng máy ảnh film và phải chờ nhiều ngày để ảnh được rửa ra. Ngày nay, điện thoại thông minh có thể chụp ảnh chất lượng chuyên nghiệp ngay lập tức.
+Máy nghe nhạc di động này có thể mang bộ sưu tập nhạc của bạn đi khắp mọi nơi và cung cấp những bản nhạc yêu thích trong tầm tay bạn. Nghe nhạc chất lượng cao lên đến 24 giờ mọi lúc mọi nơi - trên xe buýt, trong ô tô hoặc tại phòng tập thể dục. Máy nghe nhạc di động cho phép bạn lưu trữ tới 5.000 bài hát và thậm chí chơi trò chơi.
 
-Nhiều điện thoại bây giờ có tính năng chế độ chân dung, chế độ phong cảnh và nhiều ống kính camera cho các hiệu ứng khác nhau. Ảnh selfie — hay ảnh chân dung tự chụp — đã trở thành một hiện tượng văn hóa, với hàng triệu bức ảnh được chụp mỗi ngày. Các nền tảng mạng xã hội giúp dễ dàng chia sẻ ảnh ngay lập tức.
-
-Tuy nhiên, một số nhiếp ảnh gia cho rằng chỉnh sửa kỹ thuật số đã làm ảnh kém nguyên bản hơn — với các bộ lọc và chỉnh sửa AI, cảnh thật thường bị thay đổi. Máy quay phim cũng đã phần lớn bị thay thế bởi điện thoại thông minh để quay video, vì camera điện thoại bây giờ cung cấp độ phân giải cao và thời lượng pin tốt.
-
-Nhưng nhiếp ảnh film đang quay lại trong giới trẻ — những người thích tính "bất ngờ" của film. Họ thích việc mỗi bức ảnh tốn tiền, khiến họ suy nghĩ cẩn thận hơn trước khi bấm máy. Dù kỹ thuật số hay film, nhiếp ảnh vẫn là một trong những cách tiện lợi và mạnh mẽ nhất để ghi lại kỷ niệm và chia sẻ trải nghiệm.
+Rèm cửa sổ thông minh này không chỉ giúp bạn kiểm soát lượng ánh sáng vào nhà mà còn tiết kiệm tiền bằng cách ngăn nhiệt hoặc lạnh xâm nhập vào nhà. Đó là một lựa chọn tuyệt vời cho những người gặp khó khăn trong việc kiểm soát nhiệt độ trong nhà. Nó cũng có thể mang lại sự riêng tư bổ sung cho các căn hộ bằng cách chặn ánh sáng cũng như những góc nhìn không mong muốn.
 </translation>
 
 <teacher_script pause="180">
-Dịch bài đọc vô vở nha. Có 3 phút — ghi đủ cả bài nha.
+Dịch ba tờ rơi này vô vở nha. 3 phút — ghi đủ cả ba đoạn.
 </teacher_script>
 
-<!-- chunk: exercise-2 -->
+---
+
+<!-- chunk: exercise-2-matching -->
 <teacher_script pause="60">
-Bài 2 nha — <eng>True or False</eng>. Đọc câu và xác định đúng hay sai dựa vào bài đọc. Có 1 phút nha.
+Bài 2 tiếp theo — nối các từ được in đậm trong tờ rơi với nghĩa của chúng. 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Read the statements and write True (T) or False (F).
-**Dịch đề:** Đọc các câu và ghi True (T) hoặc False (F).
-</task>
-
-<questions type="true_false">
-**1.** Smartphones can now take professional-quality photos. (T/F)
-*Điện thoại thông minh bây giờ có thể chụp ảnh chất lượng chuyên nghiệp.*
-
-**2.** Portrait mode blurs the background to keep the face sharp. (T/F)
-*Chế độ chân dung làm mờ nền để giữ khuôn mặt sắc nét.*
-
-**3.** Camcorders have been banned by the government. (T/F)
-*Máy quay phim đã bị chính phủ cấm.*
-
-**4.** Film photography is making a comeback among young people. (T/F)
-*Nhiếp ảnh film đang quay lại phổ biến trong giới trẻ.*
-
-**5.** Young people like film because it is cheaper than digital. (T/F)
-*Giới trẻ thích film vì nó rẻ hơn kỹ thuật số.*
-</questions>
-
-<teacher_script pause="0">
-Đáp án bài 2 nè.
-</teacher_script>
-
-<answer>
-**Bài 2 - Đáp án:** 1.T | 2.T | 3.F | 4.T | 5.F
-</answer>
-
-<explanation>
-**1.T** — Bài đọc nói *"smartphones can take professional-quality photos instantly"* — đúng luôn.
-
-**2.T** — Hội thoại Communication Unit 11 và bài này đều xác nhận portrait mode *"blurs the background and keeps your face sharp"* — đúng.
-
-**3.F** — Sai nha! Bài đọc nói *"Camcorders have been largely replaced by smartphones"* — máy quay bị thay thế, không phải bị cấm. Câu hỏi dùng từ *"banned"* — đó là từ cần chú ý.
-
-**4.T** — Đúng! Bài nói *"film photography is making a comeback among young people"* — đang quay lại phổ biến.
-
-**5.F** — Sai nha! Giới trẻ thích film không phải vì rẻ hơn — thực ra film *tốn tiền hơn* mỗi bức. Họ thích vì nó *"unpredictable"* và việc tốn tiền mỗi bức khiến họ suy nghĩ cẩn thận hơn trước khi chụp.
-</explanation>
-
-<!-- chunk: exercise-3 -->
-<teacher_script pause="60">
-Bài 3 nha — trả lời câu hỏi dựa vào bài đọc. Viết câu trả lời đầy đủ nha. Có 1 phút.
-</teacher_script>
-
-<task>
-**Đề:** Answer the questions based on the reading.
-**Dịch đề:** Trả lời các câu hỏi dựa vào bài đọc.
-</task>
-
-<questions type="complete_sentences">
-**1.** What did people have to do with film cameras in the past?
-*Người ta phải làm gì với máy ảnh film ngày xưa?*
-
-**2.** What are THREE features of modern smartphones mentioned in the article?
-*Bài viết đề cập BA tính năng nào của điện thoại thông minh hiện đại?*
-
-**3.** What is a "selfie"?
-*"Selfie" là gì?*
-
-**4.** Why do some photographers say digital photos are "less original"?
-*Tại sao một số nhiếp ảnh gia nói ảnh kỹ thuật số "kém nguyên bản" hơn?*
-
-**5.** Why do young people enjoy using film cameras?
-*Tại sao giới trẻ thích dùng máy ảnh film?*
-</questions>
-
-<teacher_script pause="0">
-Đáp án bài 3 nè.
-</teacher_script>
-
-<answer>
-**Bài 3 - Đáp án:**
-1. They had to wait days for photos to be developed.
-2. Portrait mode, landscape mode, and multiple camera lenses (for different effects).
-3. A selfie is a self-portrait / a photo you take of yourself.
-4. Because filters and AI touch-ups change the true / original scene.
-5. Because film is "unpredictable" and every shot costs money, making them think more carefully before taking a photo.
-</answer>
-
-<explanation>
-**1.** *"wait days for photos to be developed"* — Ngày xưa chụp xong không thấy ảnh liền — phải mang film đi rửa, chờ vài ngày mới có ảnh. Bây giờ chụp xong thấy ngay — tiện hơn nhiều!
-
-**2.** Ba tính năng trong bài: *portrait mode* (chế độ chân dung), *landscape mode* (chế độ phong cảnh), và *multiple camera lenses* (nhiều ống kính). Bài cũng nhắc *effects* nhưng đây là kết quả của các tính năng đó.
-
-**3.** *Selfie* = *self-portrait* = ảnh tự chụp chính mình. Bài nói *"The selfie — or self-portrait — has become a cultural phenomenon"* — hiện tượng văn hóa đó!
-
-**4.** Vì *"filters and AI touch-ups change the true scene"* — bộ lọc và chỉnh sửa AI làm thay đổi cảnh thật. Ảnh không còn phản ánh thực tế nữa.
-
-**5.** Hai lý do: (1) Film *"unpredictable"* — không biết ảnh sẽ ra sao — có yếu tố bất ngờ thú vị. (2) *"Every shot costs money"* — mỗi tấm tốn tiền nên phải suy nghĩ cẩn thận trước khi bấm. Chụp có tâm hơn đó!
-</explanation>
-
-<!-- chunk: exercise-4 -->
-<teacher_script pause="60">
-Bài 4 nha — nối tính năng với chức năng đúng của nó. Có 1 phút.
-</teacher_script>
-
-<task>
-**Đề:** Match each camera feature with what it does.
-**Dịch đề:** Nối mỗi tính năng camera với chức năng của nó.
+**Đề:** Read the following leaflets and match the highlighted words with their meanings.
+**Dịch đề:** Đọc các tờ rơi sau và nối các từ được in đậm với nghĩa của chúng.
 </task>
 
 <questions type="matching">
-| Feature / Tính năng | What it does / Chức năng |
-|--------------------|--------------------------|
-| 1. portrait mode | a. wide angle for capturing scenery |
-| 2. landscape mode | b. adds colour effect to a photo |
-| 3. resolution | c. how long phone works before needing charge |
-| 4. filter | d. blurs background, keeps face sharp |
-| 5. battery life | e. determines how clear and detailed the photo is |
+**Words:**
+1. stylish
+2. self-portrait
+3. window shade
+4. privacy
+
+**Meanings:**
+a. a piece of material fixed onto a roller that we can pull down to cover a window
+b. fashionable; elegant and attractive
+c. the state of being not watched or disturbed by other people
+d. a picture or photograph that you make of yourself
 </questions>
 
 <teacher_script pause="0">
-Đáp án bài 4 nè.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 4 - Đáp án:** 1-d | 2-a | 3-e | 4-b | 5-c
+**Bài 2 - Đáp án:** 1-b | 2-d | 3-a | 4-c
 </answer>
 
 <explanation>
-**1-d: portrait mode** — Làm mờ nền và giữ khuôn mặt sắc nét. *Portrait* = chân dung — tức là tập trung vào người, nền mờ đi.
-
-**2-a: landscape mode** — Góc rộng để chụp phong cảnh. *Landscape* = phong cảnh — cần góc nhìn rộng hơn để bao quát cả khung cảnh.
-
-**3-e: resolution** — Quyết định độ rõ và chi tiết của ảnh. Độ phân giải cao = ảnh sắc nét hơn. Thường tính bằng megapixel (MP).
-
-**4-b: filter** — Thêm hiệu ứng màu vào ảnh. *Filter* = bộ lọc — thay đổi tone màu, độ sáng, hiệu ứng vintage...
-
-**5-c: battery life** — Thời gian pin hoạt động trước khi cần sạc. *Battery life* dài = dùng được lâu hơn.
+**1-b. stylish** - fashionable; elegant and attractive = thời trang; thanh lịch và hấp dẫn. Điện thoại được mô tả là *"light, stylish"* = nhẹ và thời trang.
+**2-d. self-portrait** - a picture or photograph that you make of yourself = ảnh chân dung do chính bạn chụp. Đây chính là *selfie* mà các bạn hay chụp!
+**3-a. window shade** - a piece of material fixed onto a roller that we can pull down to cover a window = rèm cuốn che cửa sổ. Ở đây là rèm thông minh tự điều chỉnh ánh sáng.
+**4-c. privacy** - the state of being not watched or disturbed by other people = sự riêng tư, không bị người khác nhìn thấy hoặc làm phiền.
 </explanation>
 
-<!-- chunk: speaking -->
-<teacher_script pause="300">
-Bài 5 nha — luyện nói về nhiếp ảnh điện thoại. Thảo luận theo cặp với các câu hỏi sau. Có 5 phút — nói thật nhiều vào nha!
+---
+
+<!-- chunk: exercise-3 -->
+### Bài 3 trang 54 - True or False
+
+<teacher_script pause="60">
+Bài 3 trang 54. Đọc lại ba tờ rơi và đánh dấu T (Đúng) hoặc F (Sai). 1 phút nha.
 </teacher_script>
 
 <task>
-**Đề:** Discuss with a partner about smartphone photography.
-**Dịch đề:** Thảo luận theo cặp về nhiếp ảnh bằng điện thoại thông minh.
+**Đề:** Read the leaflets again and tick T (True) or F (False).
+**Dịch đề:** Đọc lại tờ rơi và đánh dấu T (Đúng) hoặc F (Sai).
 </task>
 
-<questions type="speaking">
-**1.** What do you usually use to take photos — a smartphone, tablet, or camera?
-*Em thường dùng gì để chụp ảnh — điện thoại thông minh, máy tính bảng hay máy ảnh?*
+<questions type="true_false">
+**1.** The smartphone allows you to connect with everybody through emails, video calls, and social networking apps. _____
+*(Điện thoại thông minh cho phép bạn kết nối với mọi người thông qua email, cuộc gọi video và ứng dụng mạng xã hội.)*
 
-**2.** Do you prefer taking selfies or landscape photos? Why?
-*Em thích chụp selfie hay chụp phong cảnh hơn? Tại sao?*
+**2.** You can send the photographs of yourself immediately with the smartphone. _____
+*(Bạn có thể gửi ảnh của chính mình ngay lập tức bằng điện thoại thông minh.)*
 
-**3.** Do you use filters when editing your photos? Why or why not?
-*Em có dùng bộ lọc khi chỉnh ảnh không? Tại sao có hay không?*
+**3.** The portable music player doesn't allow you to play games on it. _____
+*(Máy nghe nhạc di động không cho phép bạn chơi trò chơi trên đó.)*
 
-**4.** Do you think film cameras should make a comeback? Why or why not?
-*Em có nghĩ máy ảnh film nên quay lại phổ biến không? Tại sao?*
+**4.** You cannot control how much light comes into your house with the smart window shade. _____
+*(Bạn không thể kiểm soát lượng ánh sáng vào nhà bằng rèm cửa sổ thông minh.)*
+
+**5.** The smart window shade allows you to control the temperature of your house. _____
+*(Rèm cửa sổ thông minh cho phép bạn kiểm soát nhiệt độ trong nhà.)*
 </questions>
 
 <teacher_script pause="0">
-Thảo luận xong rồi nha? Thử trả lời một câu cho cả lớp nghe nha — câu 4 hay đó, chắc nhiều ý kiến khác nhau lắm!
+Ok đáp án nè.
 </teacher_script>
+
+<answer>
+**Bài 3 - Đáp án:** 1.T | 2.T | 3.F | 4.F | 5.T
+</answer>
+
+<explanation>
+**1. T** - Đúng! Tờ rơi smartphone nói: *"it can keep you connected through emails, video calls, and social networking apps."*
+**2. T** - Đúng! *"This light, stylish phone has a special self-portrait feature that helps you send great photos of yourself right away."* → gửi ảnh **ngay lập tức**.
+**3. F** - SAI! Tờ rơi máy nghe nhạc nói: *"The portable music player allows you to store up to 5,000 songs and **even play games**."* → cho phép chơi game. Câu hỏi nói KHÔNG cho phép — sai ngược lại.
+**4. F** - SAI! Tờ rơi rèm thông minh nói: *"This smart window shade doesn't only help you **control how much light comes into your house**..."* → có thể kiểm soát ánh sáng. Câu hỏi nói KHÔNG thể — sai ngược lại.
+**5. T** - Đúng! *"It's an excellent option for those that have trouble **controlling the temperature** of their houses."* → giúp kiểm soát nhiệt độ.
+</explanation>
+
+---
+
+<!-- chunk: exercise-4 -->
+### Bài 4 trang 55 - Speaking: Ask and answer
+
+<teacher_script pause="300">
+Bài 4 trang 55. Làm việc theo cặp nha. Hỏi và trả lời về một thiết bị điện tử quan trọng với em. Ghi lại câu trả lời của bạn. 5 phút nha — nói thật nhiều vào!
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Ask and answer the following questions about an electronic device which is important to you. Make notes of your partner's answers.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời các câu hỏi sau đây về một thiết bị điện tử quan trọng đối với bạn. Ghi lại câu trả lời của bạn của bạn.
+</task>
+
+<questions type="speaking">
+**1.** What electronic device is important to you?
+*(Thiết bị điện tử nào quan trọng với bạn?)*
+
+**2.** How long have you had it?
+*(Bạn đã có nó bao lâu rồi?)*
+
+**3.** What does it look like?
+*(Nó trông như thế nào?)*
+
+**4.** When do you use it?
+*(Khi nào bạn sử dụng nó?)*
+
+**5.** Why is it important to you?
+*(Tại sao nó quan trọng với bạn?)*
+</questions>
+
+<teacher_script pause="0">
+Gợi ý nha: Dùng thì <eng>Present Perfect</eng> để nói về thời gian đã có thiết bị: *"I've had it for two years."* Mô tả hình dáng: màu sắc, kích thước, hình dạng. Giải thích tại sao quan trọng: giúp học bài, giải trí, kết nối bạn bè...
+</teacher_script>
+
+---
+
+<!-- chunk: exercise-5 -->
+### Bài 5 trang 55 - Speaking: Talk about partner's device
+
+<teacher_script pause="300">
+Bài 5 trang 55. Làm việc theo nhóm nha. Thay phiên nhau nói về thiết bị điện tử quan trọng của bạn mình. 5 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Take turns to talk about the electronic device that is important to your partner.
+**Dịch đề:** Làm việc theo nhóm. Thay phiên nhau nói về thiết bị điện tử quan trọng đối với bạn của bạn.
+
+You can begin as follows:
+*I talked with... about his/her... that is important to him/her. He/She has had it for ....*
+*(Tôi đã nói chuyện với... về ... quan trọng với anh ấy/cô ấy. Anh ấy/Cô ấy đã có nó trong ....)*
+</task>
+
+<teacher_script pause="0" action="record">
+Nói về thiết bị điện tử của bạn em rồi ghi âm gửi thầy nha.
+</teacher_script>
+
+---
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong <eng>Skills 1</eng> Unit 11 rồi nha! Hôm nay đọc về sự thay đổi của nhiếp ảnh — từ film đến kỹ thuật số. Nhớ các tính năng quan trọng: *portrait mode*, *landscape mode*, *filter*, *resolution*, *battery life* nha. Bài sau là <eng>Skills 2</eng> — nghe về robot giáo viên. Thú vị lắm! Học tốt hen!
+Xong <eng>Skills 1</eng> Unit 11 rồi nha! Hôm nay đọc về ba thiết bị điện tử — điện thoại thông minh, máy nghe nhạc di động và rèm cửa sổ thông minh. Nhớ từ vựng quan trọng: <eng>stylish, self-portrait, camcorder, portable, privacy</eng> nha. Bài sau là <eng>Skills 2</eng>. Học tốt hen!
 </teacher_script>

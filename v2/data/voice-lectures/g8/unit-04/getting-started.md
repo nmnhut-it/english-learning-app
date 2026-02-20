@@ -164,20 +164,21 @@ Bài 4 — điền từ vô chỗ trống. Có 5 từ cho sẵn, điền vô 5 c
 </task>
 
 <questions type="fill_blanks">
-**1.** I like mua sap, a popular _______ of the Thai people.
+**1.** I love mua sap, a popular _______ of the Thai people.
 *Mình thích múa sạp, một điệu _______ phổ biến của người Thái.*
 
 **2.** Their beautiful stilt house _______ a large rice field.
 *Ngôi nhà sàn đẹp của họ _______ một cánh đồng lúa rộng lớn.*
 
-**3.** What is the name of a popular _______ of the Tay? — It is the dan tinh.
+**3.** A: What is the name of a popular Tay's _______?
+B: It's dan tinh.
 *Tên của một _______ phổ biến của người Tày là gì? — Đó là đàn tính.*
 
-**4.** Each ethnic group has its own _______ culture.
+**4.** Every ethnic group has their own _______ culture.
 *Mỗi dân tộc có nền văn hóa _______ riêng của mình.*
 
-**5.** Among the 54 _______, the Kinh are the largest.
-*Trong số 54 _______, người Kinh là nhóm đông nhất.*
+**5.** Of the 54 _______ in Viet Nam, the Kinh is the largest.
+*Trong số 54 _______ ở Việt Nam, người Kinh là nhóm đông nhất.*
 </questions>
 
 <teacher_script pause="0">
@@ -187,7 +188,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 <answer>
 **Bài 4 - Đáp án:** 1. folk dance | 2. overlooks | 3. musical instrument | 4. traditional | 5. ethnic groups
 
-**1. folk dance** — *mua sap* (múa sạp) là một điệu *múa dân gian* (*folk dance*) nổi tiếng của người Thái. Động từ *like* + danh từ chỉ loại hình nghệ thuật.
+**1. folk dance** — *mua sap* (múa sạp) là một điệu *múa dân gian* (*folk dance*) nổi tiếng của người Thái. Động từ *love* + danh từ chỉ loại hình nghệ thuật.
 
 **2. overlooks** — chủ ngữ là *stilt house* (số ít) nên động từ thêm *-s* → *overlooks*. Nghĩa: *nhìn ra*, *nhìn xuống* một cánh đồng phía dưới.
 

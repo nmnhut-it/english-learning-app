@@ -77,16 +77,16 @@ Xong rồi nha. Giờ làm bài 2 - bài <eng>True or False</eng>. Đọc 5 câu
 **1.** Elena and Trang are at Sa Dec Flower Village.
 *Elena và Trang đang ở Làng Hoa Sa Đéc.*
 
-**2.** Many people visit flower villages to take photos with the blooming flowers.
-*Nhiều người đến làng hoa để chụp ảnh với những bông hoa đang nở.*
+**2.** Many people visit flower villages to take photos.
+*Nhiều người đến làng hoa để chụp ảnh.*
 
 **3.** Trang's family usually buys kumquat trees and peach blossoms at Nhat Tan Village.
 *Gia đình Trang thường mua cây quất và hoa đào ở Làng Nhật Tân.*
 
-**4.** Flowers are not an important part of Vietnamese Tet tradition.
-*Hoa không phải là phần quan trọng trong truyền thống Tết của người Việt.*
+**4.** Flowers are not part of any Vietnamese traditions.
+*Hoa không phải là một phần trong bất kỳ truyền thống nào của người Việt.*
 
-**5.** People decorate bamboo poles with small bells and lanterns for the New Year.
+**5.** People decorate bamboo poles with small bells and lanterns for New Years.
 *Người ta trang trí cây nêu bằng chuông nhỏ và đèn lồng để đón Năm Mới.*
 </questions>
 
@@ -101,11 +101,11 @@ Ok đáp án nè.
 <explanation>
 **1. F - Sai** nha. Elena và Trang đang xem ảnh thôi, không có ở Sa Đéc. Người ở Sa Đéc là *em họ* của Trang ("She's my cousin. She's at Sa Dec Flower Village").
 
-**2. T - Đúng.** Trang nói rõ: "many people visit flower villages to take pictures with the blooming flowers" - nhiều người đến làng hoa chụp ảnh với hoa đang nở.
+**2. T - Đúng.** Trang nói rõ: "Tet is coming soon, so many people visit flower villages to take pictures" - nhiều người đến làng hoa chụp ảnh.
 
 **3. T - Đúng.** Trang nói: "We usually visit Nhat Tan Village to buy kumquat trees and peach blossoms" - gia đình Trang thường đến Làng Nhật Tân mua cây quất và hoa đào.
 
-**4. F - Sai** nha. Trang nói hoa là phần *quan trọng* của Tết: "They are an important part of our Tet tradition."
+**4. F - Sai** nha. Trang nói rõ hoa và cây là phần quan trọng của truyền thống Tết người Việt: "They are an important part of our Tet tradition." → Hoa KHÔNG PHẢI là "not part of any Vietnamese traditions".
 
 **5. T - Đúng.** Trang nói: "They hang decorative items like small bells and lanterns on it" - người ta treo chuông nhỏ và đèn lồng lên cây nêu.
 </explanation>
@@ -161,14 +161,14 @@ Bài 4 nè - điền từ vào chỗ trống. Có 4 câu, dùng các từ: <eng>
 </task>
 
 <questions type="fill_blanks">
-**1.** English families _______ gifts under their Christmas trees.
-*Các gia đình Anh _______ quà dưới cây thông Giáng Sinh.*
+**1.** The British decorate their Christmas trees and _______ presents under them.
+*Người Anh trang trí cây thông và _______ quà bên dưới.*
 
-**2.** Tomi loves to _______ the view from the hilltop.
-*Tomi rất thích _______ cảnh vật từ trên đỉnh đồi.*
+**2.** Tomi likes to _______ the view from the hill.
+*Tomi thích _______ cảnh vật từ ngọn đồi.*
 
-**3.** In many cultures, making noise is a way to _______ away bad spirits.
-*Trong nhiều nền văn hóa, tạo tiếng ồn là cách để _______ tà ma đi.*
+**3.** In many cultures, knocking on wood is a way to _______ away bad spirits.
+*Trong nhiều nền văn hóa, gõ vào gỗ là cách để _______ tà ma đi.*
 
 **4.** Many Asians go to Buddhist temples to _______ for good luck.
 *Nhiều người châu Á đến chùa để _______ cầu may mắn.*
@@ -183,11 +183,11 @@ Ok đáp án nè.
 </answer>
 
 <explanation>
-**1. place** (đặt): Động từ *place* = đặt, để. Câu này nói về việc đặt quà dưới cây thông. Không dùng *put* vì không có trong khung, không dùng *admire* hay *pray* vì nghĩa không hợp.
+**1. place** (đặt): "The British decorate their Christmas trees and **place** presents under them" — người Anh trang trí cây thông và đặt quà bên dưới. *Place* = đặt, để.
 
-**2. admire** (ngắm nhìn): *Admire the view* = ngắm phong cảnh - đây là cụm từ rất tự nhiên. *Admire* thể hiện sự trầm trồ, thích thú khi nhìn.
+**2. admire** (ngắm nhìn): "Tomi likes to **admire** the view from the hill" — *admire the view* = ngắm phong cảnh. Thể hiện sự trầm trồ, thích thú khi nhìn.
 
-**3. chase** (xua đuổi): *Chase away* = xua đuổi đi. Đây là cụm từ cố định, hay đi với *bad spirits/bad luck* - xua tà ma, xua vận xui.
+**3. chase** (xua đuổi): "knocking on wood is a way to **chase** away bad spirits" — *chase away* = xua đuổi đi. Cụm từ cố định hay đi với *bad spirits/bad luck*.
 
 **4. pray** (cầu nguyện): *Pray for good luck* = cầu mong may mắn. Đây là từ hợp nghĩa nhất - người ta đến chùa để cầu nguyện.
 </explanation>

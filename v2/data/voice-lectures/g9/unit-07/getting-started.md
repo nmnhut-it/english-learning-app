@@ -78,17 +78,17 @@ Bây giờ các em sẽ nghe một đoạn băng. Hãy chú ý lắng nghe để
 </task>
 
 <dialogue>
-**Lan:** Hi, Tom. I heard that you won second prize in the Natural Wonders Contest. Congratulations!
-**Tom:** Thank you, Lan. I like exploring the wonders of nature. I'm crazy about them.
+**Lan:** Hi, Tom. I hear that you've won second prize in the Natural Wonders Contest. Congratulations!
+**Tom:** Thanks, Lan. I like exploring the wonders of nature. I'm crazy about them.
 **Lan:** What did you talk about in the contest?
 **Tom:** I talked about some natural wonders like Mount Everest, the Great Barrier Reef, and the Dead Sea.
-**Lan:** Great! I'm interested in them, too.
-**Tom:** You know, our planet has so many beautiful landscapes, from snow-covered peaks to charming rivers, lakes, and other natural places that we can't help admiring. So that's what I talked about.
-**Lan:** Oh, yes... And what else did you mention?
-**Tom:** Well, I mentioned the risks of us, humans, destroying natural wonders, and I suggested ways to preserve them and support sustainable development.
+**Lan:** Wonderful! I'm interested in them too.
+**Tom:** Well, you know our planet has so many beautiful landscapes, from snow-covered peaks to charming rivers, lakes, and other natural places that we can't help admiring. So that's what I talked about.
+**Lan:** Oh yeah... And what else did you mention?
+**Tom:** Well, I mentioned the risk of us, humans, destroying natural wonders, and I suggested ways to preserve them and support sustainable development.
 **Lan:** Sounds interesting. Do you want to visit any of these places?
 **Tom:** The host also asked me if I wanted to visit those places, and I answered that I wanted to see two of them: the Grand Canyon and Ha Long Bay.
-**Lan:** I want to visit them, too.
+**Lan:** I'd love to visit them too.
 </dialogue>
 
 <translation>
@@ -140,7 +140,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 *Tom tham gia Cuộc thi Kỳ quan Thiên nhiên.*
 
-**2.** Lan is not interested in natural wonders. _____
+**2.** Lan is not keen on natural wonders. _____
 
 *Lan không quan tâm đến kỳ quan thiên nhiên.*
 
@@ -148,7 +148,7 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 
 *Tom gợi ý những cách bảo tồn kỳ quan thiên nhiên.*
 
-**4.** Tom asked the host if he wanted to visit Ha Long Bay. _____
+**4.** Tom asked the host if he wanted to go to Ha Long Bay. _____
 
 *Tom hỏi người dẫn chương trình xem anh ấy có muốn đi Vịnh Hạ Long không.*
 </questions>
@@ -166,7 +166,7 @@ Câu 1 là <eng>True</eng>. Tom <eng>won second prize</eng>, nghĩa là Tom tham
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_f0a9f384.webm">
-Câu 2 là <eng>False</eng>. Lan nói <eng>I'm interested in them, too</eng>, nghĩa là Lan cũng quan tâm. Chữ <eng>not</eng> trong đề làm câu sai.
+Câu 2 là <eng>False</eng>. Lan nói <eng>I'm interested in them too</eng>, nghĩa là Lan cũng quan tâm đến kỳ quan thiên nhiên. Đề nói Lan *not keen on* (không quan tâm) — sai nha.
 </teacher_script>
 
 <teacher_script pause="0" href="audio/tts_0d40e40c.webm">
@@ -204,11 +204,11 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </task>
 
 <questions type="fill_blanks">
-**1.** A _______ is everything you can see when you look across a large area of land, especially in the countryside.
-**2.** His climbing to the peak was very risky, but we _______ admiring his courage.
-**3.** The best way to _______ the Trang An Scenic Landscape Complex is by boat.
-**4.** Environmentalists strongly _______ measures to preserve these heritage trees.
-**5.** The goals of sustainable _______ will guide us to create a more sustainable future for everyone.
+**1.** A _______ is everything you can see in a large area of land, especially in the countryside.
+**2.** It was risky for him to climb the peak, but we _______ admiring his courage.
+**3.** The best way to _______ the Trang An Landscape Complex is by boat.
+**4.** Environmentalists strongly _______ measures to save these heritage trees.
+**5.** Sustainable _______ goals will guide us to create a more sustainable future for all.
 </questions>
 
 <teacher_script pause="0" type="answer" href="audio/tts_d5fd6a66.mp3">
@@ -267,12 +267,12 @@ Các em hãy đọc kỹ yêu cầu và hoàn thành bài tập vào vở hoặc
 </task>
 
 <questions type="fill_blanks">
-**Word bank:** *crazy / landscape / explore / suggest / contribute*
+**Word bank:** *crazy / landscape / explore / suggest / contributes*
 
 **1.** Charles is _______ about football. He follows all the World Cup matches.
-**2.** When you come to Mui Ne, you can admire the unique _______ of a desert.
-**3.** The children are very eager to _______ the countryside around.
-**4.** Can you _______ ways to promote our local tourism?
+**2.** When you go to Mui Ne, you can see the unique _______ of a desert.
+**3.** The children were very eager to _______ the surrounding countryside.
+**4.** Can you _______ ways of boosting our local tourism?
 **5.** Tourism _______ millions of dollars to our country's economy.
 </questions>
 

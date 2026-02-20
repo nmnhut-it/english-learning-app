@@ -18,9 +18,9 @@ Ok lớp 9, bài <eng>Skills 1</eng> Unit 5 — đọc và nói nha. Hôm nay đ
 9. **outskirts** : (n) vùng ngoại ô /ˈaʊtskɜːts/
 10. **communicate** : (v) giao tiếp /kəˈmjuːnɪkeɪt/
 11. **below** : (prep/adv) dưới đây /bɪˈləʊ/
-12. **push-ups** : (n) bài tập hít đất /ˈpʊʃ ʌps/
-13. **military** : (adj/n) quân đội /ˈmɪlɪtəri/
-14. **unique** : (adj) độc đáo, duy nhất /juːˈniːk/
+12. **theme** : (n) chủ đề /θiːm/
+13. **billiards** : (n) bi-a /ˈbɪliədz/
+14. **Rockefeller Centre** : (n) Trung tâm Rockefeller /ˈrɒkəˌfelə ˈsentə/
 </vocabulary>
 
 <teacher_script pause="0">
@@ -33,32 +33,24 @@ Bài đọc thứ nhất là của Dương — kể về trải nghiệm đến 
 </teacher_script>
 
 <reading>
-**Bài đọc 1 — Dương**
+**Duong:**
 
-Last summer, I attended a ten-day military training camp in Son Tay, outside Hanoi. Every morning, we had to wake up at 5am and do push-ups and running exercises before breakfast. It was incredibly tough, especially in the heat.
+I had a hard 10-day course in an army camp in Son Tay last summer. Everything was different from my life at home. We had to wake up at 5 a.m and attended classes which were like training courses for soldiers. In the evening, we read books or worked in teams. The team leaders walked us through many exciting activities. We also joined a performance that had the **theme**: environment protection. We could only call our parents once a day.
 
-The instructors were very strict, but they were also fair and encouraging. They helped us develop discipline, teamwork, and a sense of responsibility. I had never felt so challenged in my life before.
-
-By the end of the ten days, I had made lifelong friends — people who had shared the same struggles and successes with me. We still communicate with each other now, even though we live in different cities.
-
-It was physically exhausting, but the most unforgettable experience I have ever had. I would recommend it to any teenager who wants to test their limits and discover what they are truly capable of.
+We also had touching moments when we received letters from our parents. I have never attended such a strict but exciting course like this.
 </reading>
 
 <!-- chunk: reading-2 -->
 <teacher_script pause="0">
-Bài đọc thứ hai là của Akiko — bạn người Nhật đi học tiếng Anh ở Mỹ. Đọc và so sánh với bài của Dương nha.
+Bài đọc thứ hai là của Akiko — bạn đi học mùa hè ở Mỹ. Đọc và so sánh với bài của Dương nha.
 </teacher_script>
 
 <reading>
-**Bài đọc 2 — Akiko**
+**Akiko:**
 
-Last summer, I joined a three-week English language course at Thornwood International Campus, located on the outskirts of New York City. It was my very first time living away from home and from my family in Japan.
+I have been on an unforgettable summer course in America. I stayed in Thornwood campus on the outskirts of New York City for three weeks. We had an enjoyable campus tour, attended English classes, and joined team activities. We all tried to communicate in English. In the evening, we played board games and billiards. The most special experience was my visit to the top of Rockefeller Centre. From there, I could view the whole city below.
 
-The campus was beautiful — it had a large library, a swimming pool, several sports courts, and comfortable dormitories. We had English classes every morning and excursions to museums, parks, and markets in the afternoon.
-
-The best part was learning to communicate in English in real-life situations. At first, it was embarrassing when I made mistakes, but the teachers were patient and encouraging. By the end of the course, I felt much more confident.
-
-It was a unique and enriching experience that I will never forget. I made friends from many different countries and learnt that confidence comes from practice, not perfection.
+**That** was the first time I travelled without my parents, so I felt like I grew up a lot after the trip.
 </reading>
 
 <teacher_script pause="180">
@@ -69,25 +61,17 @@ Dịch cả hai bài đọc vô vở nha. 3 phút.
 <translation>
 **Dịch bài đọc 1 — Dương**
 
-Mùa hè năm ngoái, tôi tham dự trại huấn luyện quân sự 10 ngày ở Sơn Tây, ngoại ô Hà Nội. Mỗi buổi sáng, chúng tôi phải thức dậy lúc 5 giờ sáng và hít đất cùng các bài tập chạy trước bữa sáng. Thật sự rất khó khăn, đặc biệt trong cái nóng.
+Tôi đã có một khóa học 10 ngày vất vả ở trại quân đội ở Sơn Tây vào mùa hè năm ngoái. Mọi thứ đều khác với cuộc sống ở nhà của tôi. Chúng tôi phải thức dậy lúc 5 giờ sáng và tham gia các lớp học giống như huấn luyện binh sĩ. Vào buổi tối, chúng tôi đọc sách hoặc làm việc theo nhóm. Các trưởng nhóm đã dẫn dắt chúng tôi tham gia nhiều hoạt động thú vị. Chúng tôi còn tham gia một tiết mục có chủ đề: bảo vệ môi trường. Chúng tôi chỉ có thể gọi điện cho bố mẹ một lần một ngày.
 
-Các huấn luyện viên rất nghiêm khắc, nhưng cũng công bằng và động viên. Họ giúp chúng tôi phát triển kỷ luật, tinh thần đồng đội và ý thức trách nhiệm. Tôi chưa bao giờ cảm thấy bị thử thách như vậy trong cuộc đời mình.
-
-Vào cuối 10 ngày, tôi đã có những người bạn cả đời — những người đã chia sẻ những khó khăn và thành công tương tự. Chúng tôi vẫn giữ liên lạc với nhau ngay cả bây giờ, dù sống ở các thành phố khác nhau.
-
-Đó là trải nghiệm kiệt sức về thể chất, nhưng là trải nghiệm khó quên nhất tôi từng có. Tôi sẽ giới thiệu cho bất kỳ bạn trẻ nào muốn thử thách giới hạn và khám phá khả năng thực sự của bản thân.
+Chúng tôi cũng có những giây phút cảm động khi nhận được thư của bố mẹ. Tôi chưa bao giờ tham gia một khóa học nghiêm ngặt nhưng thú vị như thế này.
 
 ---
 
 **Dịch bài đọc 2 — Akiko**
 
-Mùa hè năm ngoái, tôi tham gia khóa học tiếng Anh 3 tuần tại Thornwood International Campus, nằm ở ngoại ô Thành phố New York. Đó là lần đầu tiên tôi sống xa nhà và xa gia đình ở Nhật Bản.
+Tôi đã trải qua một khóa học mùa hè khó quên ở Mỹ. Tôi ở trong khuôn viên trường Thornwood ở ngoại ô thành phố New York trong ba tuần. Chúng tôi đã có một chuyến tham quan khuôn viên trường thú vị, tham dự các lớp học tiếng Anh và tham gia các hoạt động nhóm. Tất cả chúng tôi đều cố gắng giao tiếp bằng tiếng Anh. Vào buổi tối, chúng tôi chơi trò chơi board game và bi-a. Trải nghiệm đặc biệt nhất là chuyến viếng thăm đỉnh Trung tâm Rockefeller. Từ đó, tôi có thể ngắm nhìn toàn cảnh thành phố bên dưới.
 
-Khuôn viên trường rất đẹp — có thư viện lớn, hồ bơi, nhiều sân thể thao và ký túc xá thoải mái. Chúng tôi học tiếng Anh mỗi buổi sáng và đi tham quan bảo tàng, công viên và chợ vào buổi chiều.
-
-Phần tuyệt nhất là học giao tiếp bằng tiếng Anh trong các tình huống thực tế. Lúc đầu, thật ngượng khi phạm lỗi, nhưng các giáo viên rất kiên nhẫn và động viên. Vào cuối khóa học, tôi cảm thấy tự tin hơn rất nhiều.
-
-Đó là một trải nghiệm độc đáo và phong phú mà tôi sẽ không bao giờ quên. Tôi đã kết bạn với nhiều người từ các quốc gia khác nhau và học được rằng sự tự tin đến từ thực hành, không phải sự hoàn hảo.
+Đó là lần đầu tiên tôi đi du lịch mà không có bố mẹ đi cùng nên tôi cảm thấy mình trưởng thành hơn rất nhiều sau chuyến đi.
 </translation>
 
 <teacher_script pause="0">
@@ -96,53 +80,73 @@ Dịch xong rồi nha. Làm bài tập thôi!
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 — trắc nghiệm kết hợp cả hai bài đọc nha. Chọn đáp án đúng. 1 phút.
+Bài 2 — trắc nghiệm dựa vào hai bài đọc nha. Chọn đáp án đúng A, B, C hoặc D. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Choose the best answer (A, B, C, or D) based on the two readings.
-**Dịch đề:** Chọn câu trả lời đúng nhất (A, B, C, hoặc D) dựa theo hai bài đọc.
+**Đề:** Read the texts and choose the correct answer A, B, C, or D.
+**Dịch đề:** Đọc đoạn văn và chọn câu trả lời đúng A, B, C hoặc D.
 </task>
 
 <questions type="multiple_choice">
-**1.** How long was Duong's military training camp?
-*Trại huấn luyện quân sự của Dương kéo dài bao lâu?*
-- A. 3 days
-- B. **10 days**
-- C. 2 weeks
-- D. 1 month
+**1.** Duong and Akiko talked about ________.
+*Dương và Akiko trò chuyện về ________.*
+- A. their English summer courses
+*(các khóa học tiếng Anh mùa hè của họ)*
+- B. experiences at summer courses
+*(các trải nghiệm tại khóa học hè)*
+- C. activities in summer
+*(hoạt động vào mùa hè)*
+- D. their army training
+*(huấn luyện quân đội của họ)*
 
-**2.** What time did Duong and his group wake up every morning?
-*Dương và nhóm của cậu thức dậy lúc mấy giờ mỗi sáng?*
-- A. 4am
-- B. **5am**
-- C. 6am
-- D. 7am
+**2.** What didn't Duong do during his course?
+*Dương đã không làm gì trong suốt khóa học?*
+- A. Get up early.
+*(Dậy sớm.)*
+- B. Work as a leader.
+*(Làm việc như một người lãnh đạo.)*
+- C. Receive letters from home.
+*(Nhận thư từ quê nhà.)*
+- D. Work in teams.
+*(Làm việc theo nhóm.)*
 
-**3.** Where was Akiko's English course held?
-*Khóa học tiếng Anh của Akiko được tổ chức ở đâu?*
-- A. London, England
-- B. Tokyo, Japan
-- C. Sydney, Australia
-- D. **New York City, USA**
+**3.** The word "theme" means ________.
+*Từ "theme" có nghĩa là ________.*
+- A. performance
+*(màn biểu diễn)*
+- B. environment
+*(môi trường)*
+- C. activity
+*(hoạt động)*
+- D. topic
+*(chủ đề)*
 
-**4.** How long was Akiko's English course?
-*Khóa học tiếng Anh của Akiko kéo dài bao lâu?*
-- A. 1 week
-- B. 10 days
-- C. **3 weeks**
-- D. 1 month
+**4.** The experience at Rockefeller Centre was ________ for Akiko.
+*Trải nghiệm tại Trung tâm Rockefeller thật ________ đối với Akiko.*
+- A. unforgettable
+*(khó quên)*
+- B. enjoyable
+*(thú vị)*
+- C. special
+*(đặc biệt)*
+- D. touching
+*(cảm động)*
 
-**5.** What skill did Akiko most improve during her course?
-*Kỹ năng nào Akiko cải thiện nhiều nhất trong khóa học?*
-- A. **English communication skills in real situations**
-- B. Writing formal essays
-- C. Reading academic texts
-- D. Memorising vocabulary by rote
+**5.** The word "That" refers to ________.
+*Từ "That" dùng để chỉ việc ________.*
+- A. travelling to America
+*(đi du lịch Mỹ)*
+- B. touring the Thornwood campus
+*(tham quan khuôn viên trường Thornwood)*
+- C. visiting Rockefeller Centre
+*(tham quan Trung tâm Rockefeller)*
+- D. viewing the city below
+*(ngắm nhìn thành phố bên dưới)*
 </questions>
 
 <teacher_script pause="0">
-Đáp án nha.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -150,39 +154,35 @@ Bài 2 — trắc nghiệm kết hợp cả hai bài đọc nha. Chọn đáp á
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1. B (10 days):** Bài đọc của Dương nói rõ "ten-day military training camp" → 10 ngày.
-- **2. B (5am):** "we had to wake up at 5am every morning" → Dương thức dậy lúc 5 giờ sáng.
-- **3. D (New York City):** Akiko học ở "Thornwood International Campus, located on the outskirts of New York City" → New York, Mỹ.
-- **4. C (3 weeks):** "a three-week English language course" → 3 tuần.
-- **5. A:** Akiko viết "learning to communicate in English in real-life situations" là phần tuyệt nhất → kỹ năng giao tiếp thực tế.
+**1. B** - experiences at summer courses: Dương kể về trại quân đội, Akiko kể về khóa học tiếng Anh — cả hai đều chia sẻ *trải nghiệm tại khóa học hè*. Không phải chỉ riêng khóa tiếng Anh (A) hay chỉ quân đội (D).
+
+**2. B** - Work as a leader: Dương thức dậy lúc 5am (A ✓), nhận thư (C ✓), làm việc nhóm (D ✓). Nhưng Dương KHÔNG làm *trưởng nhóm* — chỉ có "team leaders walked us through activities" → Dương là thành viên, không phải leader.
+
+**3. D** - topic (chủ đề): "a performance that had the **theme**: environment protection" → theme = chủ đề của tiết mục.
+
+**4. C** - special (đặc biệt): "The most **special** experience was my visit to the top of Rockefeller Centre." → đặc biệt nhất, không phải khó quên (A) hay thú vị (B).
+
+**5. A** - travelling to America: "I have been on an unforgettable summer course in America... **That** was the first time I travelled without my parents." → "That" chỉ việc đi Mỹ lần đó.
 </explanation>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 — Akiko hay Dương? Ai đã làm điều đó? 1 phút.
+Bài 3 — đọc lại và đánh dấu Dương hay Akiko cho mỗi trải nghiệm nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Who did each activity — Akiko or Duong? Write the correct name.
-**Dịch đề:** Ai đã làm mỗi hoạt động — Akiko hay Dương? Viết tên đúng.
+**Đề:** Read the texts again and tick (✔) Duong or Akiko.
+**Dịch đề:** Đọc lại đoạn văn và đánh dấu (✔) Dương hoặc Akiko.
 </task>
 
-<questions type="complete_sentences">
-**1.** __________ studied English as the main activity.
-*__________ học tiếng Anh là hoạt động chính.*
-
-**2.** __________ went through military training.
-*__________ trải qua huấn luyện quân sự.*
-
-**3.** __________ woke up at 5am every morning.
-*__________ thức dậy lúc 5 giờ sáng mỗi sáng.*
-
-**4.** __________ had access to a library and sports facilities on campus.
-*__________ có thể sử dụng thư viện và cơ sở thể thao trong khuôn viên trường.*
-
-**5.** __________ made lifelong friends who still keep in touch.
-*__________ kết bạn thân thiết vẫn còn giữ liên lạc.*
+<questions type="matching">
+| Experiences | Duong | Akiko |
+|------------|-------|-------|
+| 1. attending an English course | | |
+| 2. attending an army-like course | | |
+| 3. joining a performance | | |
+| 4. touring a campus | | |
+| 5. receiving letters from home | | |
 </questions>
 
 <teacher_script pause="0">
@@ -191,45 +191,43 @@ Bài 3 — Akiko hay Dương? Ai đã làm điều đó? 1 phút.
 
 <answer>
 **Bài 3 - Đáp án:**
-1. **Akiko**
-2. **Duong**
-3. **Duong**
-4. **Akiko**
-5. **Duong**
+1. **Akiko** ✔
+2. **Duong** ✔
+3. **Duong** ✔
+4. **Akiko** ✔
+5. **Duong** ✔
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1. Akiko:** Akiko tham gia khóa học tiếng Anh — đó là hoạt động chính của cô ấy.
-- **2. Duong:** Dương đi trại huấn luyện quân sự 10 ngày.
-- **3. Duong:** "we had to wake up at 5am" — Dương thức dậy lúc 5 giờ sáng.
-- **4. Akiko:** "library, swimming pool, sports courts" — cơ sở vật chất ở campus của Akiko.
-- **5. Duong:** "I had made lifelong friends ... we still communicate with each other now" — Dương kết bạn thân và vẫn liên lạc.
+**1. Akiko** - attending an English course (tham gia khóa học tiếng Anh): "attended English classes" — Akiko học tiếng Anh ở Thornwood.
+
+**2. Duong** - attending an army-like course (tham gia một khóa học giống như quân đội): "a hard 10-day course in an army camp" — đó là khóa học của Dương.
+
+**3. Duong** - joining a performance (tham gia biểu diễn): "We also joined a performance that had the theme: environment protection" — Dương tham gia biểu diễn.
+
+**4. Akiko** - touring a campus (tham quan khuôn viên trường): "We had an enjoyable campus tour" — Akiko tham quan Thornwood campus.
+
+**5. Duong** - receiving letters from home (nhận thư từ nhà): "We also had touching moments when we received letters from our parents" — Dương nhận thư từ bố mẹ.
 </explanation>
 
 <!-- chunk: exercise-4 -->
 <teacher_script pause="60">
-Bài 4 — <eng>Speaking</eng>, nối các chủ đề với câu mô tả nha. 1 phút.
+Bài 4 — <eng>Speaking</eng>, nối câu hỏi ở A với câu trả lời ở B nha. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Match each topic (1–5) with the sentence that best describes it (A–E).
-**Dịch đề:** Nối mỗi chủ đề (1–5) với câu mô tả phù hợp nhất (A–E).
+**Đề:** Match the questions in A with the answers in B. Share your answers with a classmate.
+**Dịch đề:** Ghép các câu hỏi ở A với các câu trả lời ở B. Chia sẻ câu trả lời của bạn với bạn cùng lớp.
 </task>
 
 <questions type="matching">
-**1.** What the camp/course was like
-**2.** The best part of the experience
-**3.** What was challenging
-**4.** What skills were gained
-**5.** Overall feeling about the experience
-
----
-**A.** "By the end, I felt much more confident and capable."
-**B.** "It was physically exhausting, but completely worth it."
-**C.** "The instructors were strict but fair — they helped us develop discipline."
-**D.** "Waking up at 5am every day in the heat was incredibly tough."
-**E.** "Making friends from different countries and communicating in real English."
+| A | B |
+|---|---|
+| 1. What course did you attend? | a. It was in June. |
+| 2. When was that? | b. I felt that I grew up a lot after that course. |
+| 3. What did you do? | c. I attended a course on soft skills with a group of young trainers. |
+| 4. What do you remember most about it? | d. We worked in groups on different projects. We also learned to solve problems. We had various experiences. |
+| 5. How did you feel? | e. I remember being so embarrassed at first. But the trainers and my peers were great and they helped me a lot. |
 </questions>
 
 <teacher_script pause="0">
@@ -237,41 +235,49 @@ Bài 4 — <eng>Speaking</eng>, nối các chủ đề với câu mô tả nha. 
 </teacher_script>
 
 <answer>
-**Bài 4 - Đáp án:** 1-C | 2-E | 3-D | 4-A | 5-B
+**Bài 4 - Đáp án:** 1-c | 2-a | 3-d | 4-e | 5-b
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1-C:** Mô tả trại/khóa học như thế nào → giáo viên nghiêm khắc nhưng công bằng.
-- **2-E:** Phần tốt nhất → kết bạn từ khắp nơi, dùng tiếng Anh thực tế.
-- **3-D:** Điều khó khăn nhất → thức dậy lúc 5 giờ sáng trong nắng nóng.
-- **4-A:** Kỹ năng có được → tự tin và có năng lực hơn.
-- **5-B:** Cảm giác tổng thể → mệt về thể chất nhưng hoàn toàn xứng đáng.
+**1-c:** What course did you attend? → I attended a course on **soft skills** with a group of young trainers. (Khóa học về kỹ năng mềm.)
+
+**2-a:** When was that? → It was **in June**. (Vào tháng Sáu.)
+
+**3-d:** What did you do? → We **worked in groups** on different projects. We also **learned to solve problems**. (Làm việc nhóm và giải quyết vấn đề.)
+
+**4-e:** What do you remember most? → I remember being **so embarrassed at first**. But the trainers and peers helped me a lot. (Nhớ nhất lúc đầu xấu hổ, nhưng được hỗ trợ nhiều.)
+
+**5-b:** How did you feel? → I felt that I **grew up a lot** after that course. (Cảm thấy trưởng thành hơn nhiều.)
 </explanation>
 
 <!-- chunk: speaking -->
-<teacher_script pause="300">
-Bài 5 — <eng>Speaking</eng> cuối bài nha. Kể về một trải nghiệm học ngoài trời hoặc mùa hè đặc biệt của em. Chuẩn bị 5 phút, rồi nói trước lớp.
+<teacher_script pause="60">
+Bài 5 — <eng>Speaking</eng> cuối bài nha. Làm việc theo cặp, hỏi và trả lời về một khóa học bạn đã từng tham gia. Dùng câu hỏi ở bài 4 làm gợi ý. Có 1 phút chuẩn bị nha.
 </teacher_script>
 
 <task>
-**Đề:** Describe a special summer experience or outdoor learning experience you have had (or would like to have).
-**Dịch đề:** Mô tả một trải nghiệm mùa hè đặc biệt hoặc trải nghiệm học ngoài trời mà em đã có (hoặc muốn có).
+**Đề:** Work in pairs. Ask and answer about a course you have experienced. Use the questions in 4 as cues. Then report your partner's answers to the class.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về một khóa học bạn đã trải qua. Sử dụng các câu hỏi ở phần 4 làm gợi ý. Sau đó báo cáo câu trả lời của bạn cho cả lớp.
 </task>
 
 <questions type="speaking">
-**Gợi ý cấu trúc:**
-1. **What** was the experience? *(Trải nghiệm đó là gì?)*
-2. **Where** and **when** was it? *(Ở đâu, khi nào?)*
-3. **What activities** did you do? *(Bạn đã làm những hoạt động gì?)*
-4. **What was challenging?** *(Điều gì khó khăn nhất?)*
-5. **What did you learn or gain?** *(Bạn học được hoặc có được gì?)*
-6. **How did you feel overall?** *(Cảm giác tổng thể như thế nào?)*
+**Câu hỏi gợi ý (từ bài 4):**
+1. What course did you attend?
+*(Bạn đã tham gia khóa học nào?)*
+2. When was that?
+*(Đó là khi nào?)*
+3. What did you do?
+*(Bạn đã làm gì?)*
+4. What do you remember most about it?
+*(Bạn nhớ điều gì nhất về nó?)*
+5. How did you feel?
+*(Bạn cảm thấy thế nào?)*
 
-**Đoạn văn mẫu:**
-*"Last summer, I attended a science camp in Da Lat for one week with students from my school. We did experiments with plants and studied wildlife in the forest. The most exciting part was the night hike, where we saw fireflies for the first time. It was a little scary in the dark, but our instructor was very supportive. I have never felt so close to nature before, and I learnt that science is not just in textbooks — it's everywhere around us. It was truly an unforgettable experience."*
+**Mẫu báo cáo:**
+*Minh attended a memorable summer course last year. It was a presentation skills course. He learnt......*
+*(Minh đã tham dự một khóa học hè đáng nhớ vào năm ngoái. Đó là một khóa học kỹ năng thuyết trình. Anh ấy đã học......)*
 </questions>
 
 <teacher_script pause="0">
-Xuất sắc! Xong bài <eng>Skills 1</eng> Unit 5 rồi nha! Tụi mình đã đọc về trải nghiệm của Dương và Akiko, làm bài tập đọc hiểu, và luyện kỹ năng nói. Hẹn gặp ở bài <eng>Skills 2</eng>!
+Xong bài <eng>Skills 1</eng> Unit 5 rồi nha! Hôm nay đọc bài của Dương ở trại quân đội Sơn Tây và Akiko ở Thornwood campus New York — hai trải nghiệm mùa hè rất khác nhau nhưng đều khó quên. Nhớ từ quan trọng: *touching*, *strict*, *unforgettable*, *theme*, *outskirts* nha. Hẹn gặp ở bài <eng>Skills 2</eng> hen!
 </teacher_script>

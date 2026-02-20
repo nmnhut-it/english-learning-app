@@ -50,15 +50,18 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe Tom gọi điện phàn nàn về ba
 </audio>
 
 <dialogue>
-**Tom:** **I'm calling to make a complaint about** the SMART backpack...
-(Tôi gọi để phàn nàn về chiếc ba lô SMART...)
+**Tom:** I'm calling to make a complaint about the SMART backpack I ordered from you last week. I got it this morning, and it's smaller than the one you advertised online.
 **Trang:** Well... Let me check it.
-(À... Để tôi kiểm tra.)
-**Tom:** And **I'm not happy with** the colour, either.
-(Và tôi cũng không hài lòng về màu sắc.)
-**Trang:** **I'm sorry about that**. I'll send you another one.
-(Tôi xin lỗi về điều đó.)
+**Tom:** And I'm not happy with the colour, either. In your picture it's dark brown, and this one is yellowish brown.
+**Trang:** I'm sorry about that. I'll send you another one.
 </dialogue>
+
+<translation>
+**Tom:** Tôi gọi để khiếu nại về chiếc ba lô SMART mà tôi đã đặt từ bạn tuần trước. Tôi nhận được nó sáng nay, và nó nhỏ hơn cái bạn quảng cáo trên mạng.
+**Trang:** À... Để tôi kiểm tra đã.
+**Tom:** Và tôi cũng không hài lòng về màu sắc. Trong hình của bạn nó màu nâu sẫm, còn cái này là nâu vàng.
+**Trang:** Tôi xin lỗi về điều đó. Tôi sẽ gửi cho bạn một cái khác.
+</translation>
 
 <grammar>
 ## Making complaints (Đưa ra lời phàn nàn)
@@ -91,20 +94,34 @@ Bài 2 <eng>Role-play</eng> nha. Đóng vai phàn nàn theo tình huống đi. X
 </teacher_script>
 
 <task>
-**Situations:**
-1. Cans of fish expired 5 days ago.
-2. An assistant was not helpful.
+**Đề:** Work in pairs. In turn, make complaints about the situations below.
+**Dịch đề:** Làm việc theo cặp. Đổi lượt, khiếu nại về các tình huống bên dưới.
 </task>
 
-<dialogue>
-**Example 1:**
-**A:** I'm calling to make a complaint about the fish cans. They expired 5 days ago.
-**B:** I'm sorry about that. Let me check and send you new ones.
+<reading>
+1. The cans of fish you bought at the shop expired five days ago.
+2. An assistant at the shop was not very helpful.
+</reading>
 
-**Example 2:**
-**A:** I'm not happy with the assistant at your shop. She was rude.
-**B:** I'm really sorry. I will talk to her.
+<dialogue>
+**Ví dụ 1:**
+**A:** I'm calling to make a complaint about the can of fish I bought at the shop. It expired five days ago.
+**B:** Well... Let me check it. I'm sorry about that. I'll send you another one.
+
+**Ví dụ 2:**
+**A:** I'm not happy with the assistant at your shop. She was not very helpful.
+**B:** I'm really sorry about that. I will talk to her.
 </dialogue>
+
+<translation>
+**Ví dụ 1:**
+**A:** Tôi gọi để khiếu nại về hộp cá tôi mua ở cửa hàng. Nó đã hết hạn 5 ngày trước.
+**B:** À... Để tôi kiểm tra. Tôi xin lỗi về chuyện này. Tôi sẽ gửi cho bạn hộp khác.
+
+**Ví dụ 2:**
+**A:** Tôi không hài lòng về nhân viên ở cửa hàng của bạn. Cô ấy không nhiệt tình.
+**B:** Tôi thực sự xin lỗi về điều đó. Tôi sẽ nói chuyện với cô ấy.
+</translation>
 
 <teacher_script pause="0" action="record" href="audio/tts_9aa64cbc.webm">
 Ghi âm đóng vai phàn nàn và gửi cho thầy nha.
@@ -173,6 +190,13 @@ Bài 4 <eng>Ask and answer</eng> nha. Hỏi đáp về lý do thích địa đi�
 **A:** What does Mai like about open-air markets?
 **B:** Products are home-grown and home-made.
 </dialogue>
+
+<translation>
+**A:** Nam thích gì về việc mua sắm ở cửa hàng tiện lợi?
+**B:** Nó tiết kiệm thời gian.
+**A:** Mai thích gì về chợ trời?
+**B:** Sản phẩm do nhà trồng và tự làm.
+</translation>
 
 ---
 

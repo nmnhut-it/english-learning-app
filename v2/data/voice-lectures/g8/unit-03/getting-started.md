@@ -32,23 +32,23 @@ Giờ mình nghe hội thoại nha. Thầy/cô đang nói chuyện với Minh v�
 <reading>
 🎧 [Track 13](https://img.loigiaihay.com/picture/2023/0803/track-13_1.mp3)
 
-**Teacher:** Good morning, class! So what's going on with everyone lately?
+**Teacher:** It's great to see you again, class! What's going on?
 
-**Minh:** Well, teacher, we've been using our class Facebook page as a forum. It's really user-friendly. We also joined some club activities. But right now we're preparing for the midterm tests — it's very stressful!
+**Minh:** We've decided to use Facebook for our class forum, and we joined some school club activities. We're also preparing for the midterm tests. It's really stressful.
 
-**Teacher:** Stay calm, work hard and you'll do fine. Are there any other kinds of pressure you're facing?
+**Teacher:** I'm sorry to hear that. I know exams may give you a lot of stress. But stay calm and work hard. What other pressure do you have?
 
-**Minh:** Yes, teacher. We also feel pressure from our parents and friends.
+**Minh:** Well, we also have pressure from our parents and friends.
 
-**Teacher:** That's understandable. Why don't you discuss these problems in your Facebook group?
+**Teacher:** Do you? Let's discuss these problems in your new Facebook group. By the way, why did you choose Facebook?
 
-**Ann:** We do, teacher! That's one reason we chose Facebook — it's user-friendly, so everyone can join in easily.
+**Ann:** Because it's user-friendly.
 
-**Teacher:** What about the clubs? Are there any new ones this year?
+**Teacher:** Good! How about club activities? Do you find them enjoyable?
 
-**Ann:** Yes! We have new clubs this year — an arts and crafts club and a music club. The club leaders provide a variety of activities for different interests. There are competitions as usual too. It's really awesome!
+**Ann:** Yes. This year there are some new clubs like arts and crafts, and music. The club leaders will provide us with a variety of activities to suit different interests. And there will also be competitions as usual.
 
-**Teacher:** That's great! I hope all of you can find a club you enjoy.
+**Teacher:** Awesome! I hope you all can join the clubs you like.
 </reading>
 
 <teacher_script pause="0">
@@ -58,15 +58,15 @@ Ok, mình dịch hội thoại vô vở nha. Thầy/cô cho 3 phút.
 <translation>
 | English | Vietnamese |
 |---------|------------|
-| **Teacher:** Good morning, class! So what's going on with everyone lately? | **Giáo viên:** Chào buổi sáng các em! Gần đây mọi người thế nào rồi? |
-| **Minh:** Well, teacher, we've been using our class Facebook page as a forum. It's really user-friendly. We also joined some club activities. But right now we're preparing for the midterm tests — it's very stressful! | **Minh:** Dạ thưa thầy/cô, tụi em dùng trang Facebook của lớp như một diễn đàn ạ. Nó rất thân thiện với người dùng. Tụi em cũng tham gia một số hoạt động câu lạc bộ. Nhưng bây giờ tụi em đang chuẩn bị cho kỳ thi giữa kỳ — căng thẳng lắm ạ! |
-| **Teacher:** Stay calm, work hard and you'll do fine. Are there any other kinds of pressure you're facing? | **Giáo viên:** Hãy bình tĩnh, cố gắng học thì các em sẽ ổn thôi. Còn loại áp lực nào khác mà các em đang đối mặt không? |
-| **Minh:** Yes, teacher. We also feel pressure from our parents and friends. | **Minh:** Dạ có ạ. Tụi em cũng cảm thấy áp lực từ ba mẹ và bạn bè. |
-| **Teacher:** That's understandable. Why don't you discuss these problems in your Facebook group? | **Giáo viên:** Điều đó có thể hiểu được. Sao các em không thảo luận những vấn đề này trên nhóm Facebook nhỉ? |
-| **Ann:** We do, teacher! That's one reason we chose Facebook — it's user-friendly, so everyone can join in easily. | **Ann:** Tụi em có làm vậy đó thầy/cô! Đó là một lý do tụi em chọn Facebook — vì nó thân thiện với người dùng, nên mọi người đều có thể tham gia dễ dàng. |
-| **Teacher:** What about the clubs? Are there any new ones this year? | **Giáo viên:** Còn về các câu lạc bộ thì sao? Năm nay có câu lạc bộ mới nào không? |
-| **Ann:** Yes! We have new clubs this year — an arts and crafts club and a music club. The club leaders provide a variety of activities for different interests. There are competitions as usual too. It's really awesome! | **Ann:** Dạ có ạ! Năm nay có câu lạc bộ mới — câu lạc bộ nghệ thuật thủ công và câu lạc bộ âm nhạc. Các trưởng nhóm cung cấp nhiều hoạt động đa dạng phù hợp với sở thích khác nhau. Vẫn có các cuộc thi như thường lệ nữa. Tuyệt vời lắm ạ! |
-| **Teacher:** That's great! I hope all of you can find a club you enjoy. | **Giáo viên:** Tốt lắm! Thầy/cô hy vọng tất cả các em đều tìm được câu lạc bộ mình thích. |
+| **Teacher:** It's great to see you again, class! What's going on? | **Giáo viên:** Cô rất vui khi được gặp lại cả lớp! Có gì mới không các em? |
+| **Minh:** We've decided to use Facebook for our class forum, and we joined some school club activities. We're also preparing for the midterm tests. It's really stressful. | **Minh:** Chúng em đã quyết định dùng Facebook cho diễn đàn của lớp, và chúng em đã tham gia vào một số hoạt động câu lạc bộ của trường. Chúng em cũng đang chuẩn bị cho thi giữa kì. Căng thẳng lắm ạ. |
+| **Teacher:** I'm sorry to hear that. I know exams may give you a lot of stress. But stay calm and work hard. What other pressure do you have? | **Giáo viên:** Cô rất tiếc khi phải nghe điều đó. Cô biết là kì kiểm tra gây ra cho tụi em rất nhiều áp lực. Nhưng hãy bình tĩnh và làm việc chăm chỉ. Các em còn những áp lực nào khác không? |
+| **Minh:** Well, we also have pressure from our parents and friends. | **Minh:** Tụi em cũng có áp lực từ cha mẹ và bạn bè nữa. |
+| **Teacher:** Do you? Let's discuss these problems in your new Facebook group. By the way, why did you choose Facebook? | **Giáo viên:** Thật sao? Hãy thảo luận những vấn đề này trên nhóm Facebook mới của các em đi. Nhân tiện thì, tại sao em lại chọn Facebook? |
+| **Ann:** Because it's user-friendly. | **Ann:** Vì nó thân thiện với người dùng ạ. |
+| **Teacher:** Good! How about club activities? Do you find them enjoyable? | **Giáo viên:** Tốt lắm! Còn các hoạt động câu lạc bộ thì sao? Các em có thích chúng không? |
+| **Ann:** Yes. This year there are some new clubs like arts and crafts, and music. The club leaders will provide us with a variety of activities to suit different interests. And there will also be competitions as usual. | **Ann:** Có ạ. Năm nay có một số câu lạc bộ mới như nghệ thuật thủ công và âm nhạc. Các trưởng nhóm sẽ cung cấp cho tụi em nhiều hoạt động đa dạng phù hợp với sở thích khác nhau. Và vẫn sẽ có các cuộc thi như thường lệ ạ. |
+| **Teacher:** Awesome! I hope you all can join the clubs you like. | **Giáo viên:** Tuyệt vời! Cô mong tất cả các em có thể tham gia các câu lạc bộ mà các em thích. |
 </translation>
 
 <teacher_script pause="180">
@@ -84,20 +84,20 @@ Xong rồi hả? Giờ mình làm bài 2 nha — bài <eng>True or False</eng>. 
 </task>
 
 <questions type="true_false">
-**1.** Students have already finished their midterm tests.
-*Học sinh đã hoàn thành bài kiểm tra giữa kỳ rồi.*
+**1.** The students finished their midterm tests.
+*Các học sinh đã hoàn thành các bài kiểm tra giữa kỳ.*
 
-**2.** Minh mentions different kinds of pressure they are facing.
-*Minh đề cập đến những loại áp lực khác nhau mà các bạn đang đối mặt.*
+**2.** Minh mentions the different types of pressure they are facing.
+*Minh nhắc đến những loại áp lực khác nhau họ đang đối mặt.*
 
-**3.** The teacher advises them to stay calm and work hard.
-*Giáo viên khuyên các bạn hãy bình tĩnh và cố gắng học.*
+**3.** The teacher tells them to stay calm and work hard.
+*Giáo viên bảo họ hãy bình tĩnh và học chăm chỉ.*
 
 **4.** The class will discuss their problems offline.
 *Cả lớp sẽ thảo luận vấn đề của mình ngoại tuyến (offline).*
 
-**5.** The school has different clubs for students.
-*Trường có các câu lạc bộ khác nhau cho học sinh.*
+**5.** The school has different clubs for its students.
+*Trường có các câu lạc bộ khác nhau cho học sinh của mình.*
 </questions>
 
 <teacher_script pause="60">
@@ -117,10 +117,10 @@ Ok đáp án nè.
 Minh nói *"we're preparing for the midterm tests"* — đang chuẩn bị, chưa thi xong. Không phải "đã hoàn thành" rồi nha.
 
 **2. T — Đúng.**
-Minh nói áp lực từ *bài thi giữa kỳ*, rồi cũng nói áp lực từ *ba mẹ và bạn bè* nữa — tức là nhiều loại áp lực khác nhau đó.
+Minh nói áp lực từ *bài thi giữa kỳ*, rồi cũng nói áp lực từ *ba mẹ và bạn bè* nữa — tức là nhiều *types of pressure* khác nhau đó.
 
 **3. T — Đúng.**
-Giáo viên nói thẳng: *"Stay calm, work hard and you'll do fine"* — bình tĩnh và cố gắng học. Đúng y chang câu hỏi.
+Giáo viên nói: *"Stay calm and work hard"* — bình tĩnh và học chăm chỉ. Đúng y chang câu hỏi.
 
 **4. F — Sai.**
 Cả lớp thảo luận trên nhóm *Facebook* — tức là online, không phải offline. Ann còn giải thích lý do chọn Facebook vì *user-friendly* nữa.
@@ -194,20 +194,20 @@ Bài 4 — điền từ vào chỗ trống. Dùng các từ ở bài 3 để đi
 </task>
 
 <questions type="fill_blanks">
-**1.** Minh is a member of our _______________. His greeting cards are really creative.
-*Minh là thành viên của _____ chúng tôi. Thiệp chào hỏi của bạn ấy rất sáng tạo.*
+**1.** Minh is a member of our _____________. The greeting cards he makes are really creative.
+*Minh là thành viên _____ của chúng tôi. Những tấm thiệp chào hỏi bạn ấy làm rất sáng tạo.*
 
-**2.** Students can discuss their problems in the class _______________.
+**2.** Students can discuss their problems in their class _____________.
 *Học sinh có thể thảo luận vấn đề của mình trong _____ lớp.*
 
-**3.** We share essays we write in English in our _______________.
-*Chúng tôi chia sẻ các bài luận viết bằng tiếng Anh trong _____ của mình.*
+**3.** We share the essays and stories that we write in English in our _____________.
+*Chúng tôi chia sẻ các bài luận và câu chuyện viết bằng tiếng Anh trong _____ của mình.*
 
-**4.** She felt unwell this weekend because of all the _______________ from her studies.
+**4.** She is not feeling very well this weekend because of all the _____________ from her schoolwork.
 *Cô ấy cảm thấy không khỏe cuối tuần này vì _____ từ việc học.*
 
-**5.** The coach of our _______________ asks us to drink plenty of water during practice.
-*Huấn luyện viên của _____ chúng tôi yêu cầu uống nhiều nước khi tập luyện.*
+**5.** The coach of our _____________ tells us to drink plenty of water during our practice sessions.
+*Huấn luyện viên của _____ chúng tôi yêu cầu uống nhiều nước trong các buổi tập luyện.*
 </questions>
 
 <teacher_script pause="120">
@@ -228,18 +228,58 @@ Ok xem đáp án nào.
 </answer>
 
 <explanation>
-**1. arts and crafts club** — Minh làm thiệp chào hỏi (*greeting cards*) rất sáng tạo → câu lạc bộ nghệ thuật thủ công mới phù hợp nè.
+**1. arts and crafts club** — "The greeting cards he makes are really creative" — thiệp của Minh rất sáng tạo → câu lạc bộ nghệ thuật thủ công phù hợp nhất nè.
 
 **2. forum** — Học sinh thảo luận vấn đề trực tuyến → *forum* (diễn đàn) là đúng, giống như cả lớp dùng Facebook forum trong hội thoại.
 
-**3. language club** — Chia sẻ bài luận tiếng Anh → câu lạc bộ ngôn ngữ (*language club*) là nơi luyện viết và nói ngoại ngữ.
+**3. language club** — Chia sẻ bài luận và câu chuyện viết bằng tiếng Anh (*essays and stories*) → câu lạc bộ ngôn ngữ (*language club*) là nơi luyện viết và nói ngoại ngữ.
 
 **4. pressure** — Cảm thấy không khỏe vì việc học → *pressure* (áp lực) học tập, giống như Minh kể trong hội thoại.
 
-**5. sports club** — Huấn luyện viên yêu cầu uống nước khi tập → *sports club* (câu lạc bộ thể thao) vì có luyện tập thể chất.
+**5. sports club** — "The coach of our ___ tells us to drink plenty of water during our practice sessions" → *sports club* (câu lạc bộ thể thao) vì có luyện tập thể chất.
 </explanation>
+
+<!-- chunk: exercise-bai5 -->
+<teacher_script pause="90">
+Bài 5 trang cuối — làm việc theo cặp. Hỏi đáp 4 câu hỏi bên dưới rồi báo cáo câu trả lời của bạn cho cả lớp nha. 1 phút rưỡi.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Ask and answer the questions below. Report your friend's answers to the class.
+**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời các câu hỏi dưới đây. Báo cáo câu trả lời của bạn bè cho cả lớp.
+
+1. What types of social media do you use?
+*(Bạn sử dụng mạng xã hội nào?)*
+
+2. What kinds of pressure do you have?
+*(Bạn có những loại áp lực nào?)*
+
+3. What clubs do you participate in?
+*(Bạn tham gia câu lạc bộ nào?)*
+
+4. Why do you choose to participate in that club?
+*(Tại sao bạn chọn tham gia câu lạc bộ đó?)*
+</task>
+
+<teacher_script pause="0">
+Ok đáp án mẫu nè.
+</teacher_script>
+
+<answer>
+**1.** I use social media like Facebook, Instagram, and TikTok.
+*(Mình dùng mạng xã hội như Facebook, Instagram và TikTok.)*
+
+**2.** I have pressure from my schoolwork, from my parents, and also peer pressure.
+*(Mình có áp lực từ việc học, từ ba mẹ, và áp lực đồng trang lứa.)*
+
+**3.** I participate in the sports club and the language club.
+*(Mình tham gia câu lạc bộ thể thao và câu lạc bộ ngôn ngữ.)*
+
+**4.** I chose the sports club because it helps me stay healthy and make new friends.
+*(Mình chọn câu lạc bộ thể thao vì nó giúp mình khỏe mạnh và kết bạn mới.)*
+</answer>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Getting Started</eng> rồi nha. Hôm nay tụi mình học được từ vựng về các câu lạc bộ và áp lực tuổi teen, luyện đọc hội thoại và làm các bài tập từ vựng. Tiết sau mình học <eng>A Closer Look 1</eng> về mạng xã hội và phát âm nghen. Cất sách đi thôi!
+Xong bài <eng>Getting Started</eng> rồi nha. Hôm nay tụi mình học từ vựng về câu lạc bộ và áp lực tuổi teen, luyện đọc hội thoại, làm bài T/F, ghép từ, điền từ và hỏi đáp theo cặp. Tiết sau mình học <eng>A Closer Look 1</eng> nghen. Cất sách đi thôi!
 </teacher_script>

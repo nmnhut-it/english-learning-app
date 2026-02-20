@@ -48,97 +48,88 @@ Ba cách đó tự nhiên và lịch sự lắm nha. "I can... if you like" nghe
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là hội thoại giữa Lan và Tom nha. Lan bị lạc, đang tìm bưu điện. Tom thấy vậy liền đề nghị giúp. Đọc và dịch theo bảng nha.
+Bây giờ nghe và đọc hai hội thoại mẫu nha. Chú ý các câu <eng>Offering help</eng> được in đậm trong đó.
 </teacher_script>
 
 <dialogue>
-**Lan:** Excuse me, could you help me? I'm looking for the post office.
-**Tom:** Of course! I can take you there if you like — it's just two blocks away.
-**Lan:** That's very kind! But first, do you know the bus schedule from here?
-**Tom:** Would you like me to check Google Maps for you?
-**Lan:** Yes, please!
-**Tom:** The Number 36 bus arrives at 3pm. It runs every 15 minutes on average.
-**Lan:** Great! We still have 20 minutes. Could we hang out at the café while we wait?
-**Tom:** Sure! Shall I show you a nice one nearby?
-**Lan:** That would be great! Thank you so much, Tom!
+**1.**
+
+**Duong's dad:** I can take you to the airport if you like.
+**Duong:** Thanks, Dad.
+
+**2.**
+
+**Minh:** Would you like me to give you a ride home?
+**Hoang:** Thank you. That's so kind of you.
 </dialogue>
 
-<translation>
-**Lan:** Xin lỗi, bạn có thể giúp mình không? Mình đang tìm bưu điện.
-**Tom:** Tất nhiên rồi! Mình có thể đưa bạn đến đó nếu bạn muốn — chỉ cách hai dãy nhà thôi.
-**Lan:** Bạn thật tốt bụng! Nhưng trước tiên, bạn có biết lịch xe buýt từ đây không?
-**Tom:** Bạn có muốn mình kiểm tra trên Google Maps không?
-**Lan:** Vâng, cảm ơn bạn!
-**Tom:** Xe buýt số 36 đến lúc 3 giờ chiều. Trung bình cứ 15 phút có một chuyến.
-**Lan:** Tuyệt! Mình còn 20 phút. Mình có thể ra quán cà phê chờ không?
-**Tom:** Được chứ! Để mình chỉ cho bạn một quán gần đây nhé?
-**Lan:** Vậy thì tuyệt lắm! Cảm ơn bạn nhiều lắm, Tom!
-</translation>
-
 <teacher_script pause="180">
-Dịch hội thoại vô vở nha. Chú ý các câu <eng>Offering help</eng> trong đó: "I can take you there if you like", "Would you like me to check", "Shall I show you". Ba phút.
+Dịch hai hội thoại vô vở nha. Gạch chân câu đề nghị giúp đỡ: "I can take you to the airport if you like" và "Would you like me to give you a ride home?". Ba phút.
 </teacher_script>
 
 <!-- chunk: exercise-2-speaking-offering-help -->
 <teacher_script pause="0">
-<eng>Exercise 2</eng> — luyện nói đề nghị giúp đỡ nha. Có 3 tình huống, với mỗi tình huống hãy dùng một trong ba cách đã học để đề nghị giúp.
+<eng>Exercise 2</eng> — luyện nói đề nghị giúp đỡ nha. Có 2 tình huống, dùng các câu đã học để đề nghị giúp rồi đáp lại.
 </teacher_script>
 
 <task>
-**Đề:** Look at the situations below. Offer help using the phrases you have learnt.
-**Dịch đề:** Nhìn vào các tình huống bên dưới. Đề nghị giúp đỡ bằng các câu đã học.
+**Đề:** Work in pairs. Make similar conversations with the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự với các tình huống sau.
 </task>
 
 <questions type="speaking">
-**a.** Your friend is carrying very heavy bags.
-*(Bạn của bạn đang xách nhiều túi nặng.)*
+**1.** Your friend doesn't know how to use the library smart card. You offer to show him/her.
+*(Bạn của bạn không biết cách sử dụng thẻ thông minh của thư viện. Bạn đề nghị hướng dẫn anh ấy/cô ấy.)*
 
-**b.** Your classmate doesn't understand the homework.
-*(Bạn cùng lớp không hiểu bài tập về nhà.)*
-
-**c.** An elderly person is trying to cross a busy street.
-*(Một người cao tuổi đang cố qua đường đông xe.)*
+**2.** A teacher wants to talk to Ms Hoa, but she is not there. You offer to write a note for Ms Hoa.
+*(Một thầy giáo muốn nói chuyện với cô Hoa nhưng cô không có ở đó. Bạn đề nghị viết một lời nhắn cho cô Hoa.)*
 </questions>
 
 <answer>
 **Gợi ý đáp án:**
 
-**a.** "I can carry those bags for you if you like!" / "Shall I help you with your bags?"
+**1.**
+- **You:** I can show you how to use the library smart card if you want.
+- **Your friend:** That would be great, thanks!
 
-**b.** "Would you like me to explain the homework to you?" / "I can help you with the homework if you like."
-
-**c.** "Shall I help you cross the street?" / "I can help you cross the road if you like."
+**2.**
+- **You:** Would you like me to write a note for Ms Hoa?
+- **Teacher:** Thank you. That's so kind of you.
 </answer>
 
 <explanation>
-**a.** Tình huống túi nặng → dùng "Shall I carry...?" hoặc "I can carry... if you like" đều tự nhiên.
+**1.** Tình huống thẻ thư viện → "I can show you... if you want" — đề nghị trực tiếp, tự nhiên.
 
-**b.** Bài tập khó → "Would you like me to explain...?" nghe lịch sự và phù hợp với bạn học.
-
-**c.** Người cao tuổi qua đường → "Shall I help you cross...?" nghe thân thiện và tôn trọng nhất.
+**2.** Tình huống viết lời nhắn → "Would you like me to write...?" — lịch sự và phù hợp khi nói chuyện với thầy/cô.
 </explanation>
 
-<!-- chunk: exercise-3-vocabulary-fill -->
-<teacher_script pause="60">
-<eng>Exercise 3</eng> — điền từ vựng vào chỗ trống. Chọn từ trong khung: *traffic jams, sky train, crowded, tram, discount*. 60 giây nha.
+<!-- chunk: exercise-3-reading-transport -->
+<teacher_script pause="0">
+<eng>Exercise 3</eng> — đọc mô tả của ba bạn trẻ về phương tiện giao thông yêu thích của họ. Sau đó hoàn thành bảng nha.
 </teacher_script>
 
+<reading>
+**Hoang:** I live in the suburbs of Ha Noi. I use my bike to get around. It's convenient because I can ride it to places where the bus line doesn't reach. Going by bike might be a bit slow, but I can avoid traffic jams.
+
+**Cholada:** My favourite means of transport in Bangkok is the sky train. It's crowded at rush hour, but it's always on time. It doesn't get stuck in traffic jams, so I can save time travelling.
+
+**Kathy:** I love the tram in Melbourne. It offers a discount for students. Sometimes the tram is late, but it always updates its arrival on a smartphone app, so I know in advance and arrange my time easily.
+</reading>
+
 <task>
-**Đề:** Fill in the blanks with the correct words: *traffic jams, sky train, crowded, tram, discount*.
-**Dịch đề:** Điền từ đúng vào chỗ trống.
+**Đề:** Work in pairs. Read the descriptions of three teenagers about their favourite means of transport. Then complete the table below.
+**Dịch đề:** Làm việc theo cặp. Đọc mô tả của ba thiếu niên về phương tiện giao thông yêu thích của họ. Sau đó hoàn thành bảng dưới đây.
+
+| Means of transport | Advantage | Disadvantage |
+|---|---|---|
+| Hoang's bike | avoids 1. ________ | a bit slow |
+| Cholada's 2. ________ | always on time | 3. ________ at rush hour |
+| Kathy's 4. ________ | offers a 5. ________ for students | sometimes late |
 </task>
 
-<questions type="fill_blanks">
-**1.** Many people leave early to avoid ________.
-
-**2.** The new ________ opened in the city this year.
-
-**3.** The old buses are very ________ during rush hour.
-
-**4.** The ________ runs on rails through the city centre.
-
-**5.** Students get a ________ on their travel card.
-</questions>
+<teacher_script pause="60">
+Đọc và điền vào bảng nha. 60 giây.
+</teacher_script>
 
 <teacher_script pause="0">
 Đáp án nè!
@@ -154,70 +145,49 @@ Dịch hội thoại vô vở nha. Chú ý các câu <eng>Offering help</eng> tr
 </answer>
 
 <explanation>
-**1. traffic jams** — "ùn tắc giao thông". Mọi người ra đường sớm để *tránh* ùn tắc. "Avoid traffic jams" là cụm hay dùng lắm nha.
+**1. traffic jams** — "ùn tắc giao thông". Thông tin: "Going by bike might be a bit slow, but I can avoid **traffic jams**."
 
-**2. sky train** — "tàu điện trên cao". Đây là phương tiện giao thông công cộng mới mở trong thành phố.
+**2. sky train** — "tàu điện trên cao". Thông tin: "My favourite means of transport in Bangkok is the **sky train**."
 
-**3. crowded** — "đông đúc, chật chội". Xe buýt cũ thường rất *đông* vào giờ cao điểm.
+**3. crowded** — "đông đúc". Thông tin: "It's **crowded** at rush hour, but it's always on time."
 
-**4. tram** — "xe điện bánh sắt". Khác với *sky train* (tàu điện trên cao), *tram* chạy dưới mặt đường trên đường ray.
+**4. tram** — "xe điện bánh sắt". Thông tin: "I love the **tram** in Melbourne."
 
-**5. discount** — "giảm giá". Học sinh thường được *giảm giá* khi mua vé tháng hoặc thẻ xe.
+**5. discount** — "giảm giá". Thông tin: "It offers a **discount** for students."
 </explanation>
 
-<!-- chunk: exercise-4-speaking-transport -->
-<teacher_script pause="0">
-<eng>Exercise 4</eng> — nói nha! Thảo luận về các phương tiện giao thông công cộng ở thành phố mình. Câu hỏi gợi ý bên dưới.
+<!-- chunk: exercise-4-notes-transport -->
+<teacher_script pause="120">
+<eng>Exercise 4</eng> — ghi chú về phương tiện giao thông em đang dùng nha. Ghi vô vở: tên phương tiện, ưu điểm, nhược điểm, và lý do em chọn nó. 2 phút.
 </teacher_script>
 
 <task>
-**Đề:** Discuss with a partner: Which type of public transport is best for Hanoi or Ho Chi Minh City? Give pros and cons.
-**Dịch đề:** Thảo luận với bạn: Phương tiện công cộng nào phù hợp nhất cho Hà Nội hay TP.HCM? Nêu ưu và nhược điểm.
+**Đề:** Make notes about a means of transport you are using.
+**Dịch đề:** Ghi chú về phương tiện giao thông bạn đang sử dụng.
+
+- Name of the means of transport *(Tên của phương tiện giao thông)*
+- Its advantage(s) and drawback(s) *(Lợi ích và bất lợi của nó)*
+- Why you choose to use it *(Vì sao bạn chọn nó)*
+</task>
+
+<!-- chunk: exercise-5-speaking-transport -->
+<teacher_script pause="120">
+<eng>Exercise 5</eng> — nói nha! Dùng ghi chú ở bài 4, kể cho nhóm nghe về phương tiện giao thông em đang dùng. 2 phút chuẩn bị, rồi nói.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Talk to your friends about the means of transport that you use. Use your notes in 4.
+**Dịch đề:** Làm việc theo nhóm. Nói chuyện với bạn bè về phương tiện giao thông mà bạn đang sử dụng. Dùng ghi chú ở phần 4.
 </task>
 
 <questions type="speaking">
-**Gợi ý thảo luận:**
-
-1. What types of public transport exist in your city? *(Thành phố em có những loại phương tiện công cộng nào?)*
-2. What are the advantages? *(Ưu điểm là gì?)*
-3. What are the drawbacks? *(Nhược điểm là gì?)*
-4. Which would you recommend and why? *(Em sẽ đề xuất loại nào và tại sao?)*
-</questions>
-
-<answer>
-**Gợi ý:**
-
-| Transport | Advantage | Drawback |
-|---|---|---|
-| Bus | Cheap, wide network | Slow, crowded, no fixed arrival time |
-| Metro | Fast, on time, comfortable | Limited routes, expensive to build |
-| Tram | Eco-friendly, low noise | Needs dedicated rails, slow |
-| Motorbike taxi | Flexible, fast in traffic | Not safe, expensive per trip |
-</answer>
-
-<!-- chunk: exercise-5-writing-offering-help -->
-<teacher_script pause="300">
-<eng>Exercise 5</eng> — viết 3 câu đề nghị giúp đỡ trong các tình huống khác nhau. Dùng ba cấu trúc đã học: "I can... if you like", "Would you like me to...?", "Shall I...?". 5 phút nha, viết vô vở.
-</teacher_script>
-
-<task>
-**Đề:** Write 3 sentences offering help in 3 different situations. Use a different structure each time.
-**Dịch đề:** Viết 3 câu đề nghị giúp đỡ trong 3 tình huống khác nhau, mỗi câu dùng một cấu trúc khác nhau.
-</task>
-
-<questions type="writing">
-Use:
-1. **I can ________ if you like.**
-2. **Would you like me to ________?**
-3. **Shall I ________?**
+**Gợi ý mở đầu:** "I live in [city]. I use [means of transport] to get around. It's [advantage], but [drawback]. I choose it because..."
 </questions>
 
 <answer>
 **Gợi ý đáp án:**
 
-1. I can show you the way to the station if you like.
-2. Would you like me to help you find a seat on the bus?
-3. Shall I carry your bag to the taxi?
+I live in Ha Noi. I use buses to get around. With extensive networks connecting, buses provide accessibility to a wide range of destinations. The cost-effectiveness and a discount for students of bus travel makes it an attractive option. However, during peak hours, buses can be late and become crowded. I choose to use the bus because it helps reduce traffic congestion and lowers carbon footprints.
 </answer>
 
 <teacher_script pause="0">

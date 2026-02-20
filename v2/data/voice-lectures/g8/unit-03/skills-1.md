@@ -88,17 +88,17 @@ Xong rồi hả? Bài 2 — đúng hay sai nha. Đọc lại hội thoại rồi
 </task>
 
 <questions type="true_false">
-**1.** The school has a badminton club, chess club, and arts and crafts club.
-*Trường có câu lạc bộ cầu lông, câu lạc bộ cờ vua và câu lạc bộ nghệ thuật thủ công.*
+**1.** The school has badminton, chess and arts and crafts clubs.
+*Trường có các câu lạc bộ cầu lông, cờ vua và nghệ thuật thủ công.*
 
-**2.** The badminton club meets after school hours.
-*Câu lạc bộ cầu lông họp sau giờ tan học.*
+**2.** The badminton club activities are after school.
+*Các hoạt động của câu lạc bộ cầu lông diễn ra sau giờ học.*
 
-**3.** Tom started playing chess when he was five years old.
+**3.** Tom started playing chess when he was five.
 *Tom bắt đầu chơi cờ vua khi anh ấy năm tuổi.*
 
-**4.** Arts and crafts club members do projects that help the community.
-*Các thành viên câu lạc bộ nghệ thuật thủ công thực hiện các dự án giúp ích cho cộng đồng.*
+**4.** Members of the arts and crafts club do community activities.
+*Các thành viên của câu lạc bộ nghệ thuật thủ công thực hiện các hoạt động cộng đồng.*
 </questions>
 
 <teacher_script pause="90">

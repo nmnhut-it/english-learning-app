@@ -11,20 +11,16 @@ Ok lớp 9, bài <eng>Communication</eng> Unit 11 nha — hôm nay học cách k
 2. **do you follow me?** : (phrase) bạn theo kịp không? /duː juː ˈfɒləʊ miː/
 3. **I got what you mean** : (phrase) tôi hiểu ý bạn /aɪ ɡɒt wɒt juː miːn/
 4. **electronic device** : (n phrase) thiết bị điện tử /ɪˌlekˈtrɒnɪk dɪˈvaɪs/
-5. **interactive lesson** : (n phrase) bài học tương tác /ˌɪntərˈæktɪv ˈlesən/
-6. **self-portrait** : (n) ảnh tự chụp /ˌself ˈpɔːtrɪt/
-7. **feature** : (n) tính năng /ˈfiːtʃə/
-8. **right away** : (adv) ngay lập tức /raɪt əˈweɪ/
-9. **camcorder** : (n) máy quay phim /ˈkæmkɔːdə/
-10. **portrait mode** : (n phrase) chế độ chụp chân dung /ˈpɔːtrɪt məʊd/
-11. **filter** : (n) bộ lọc /ˈfɪltə/
-12. **storage** : (n) dung lượng lưu trữ /ˈstɔːrɪdʒ/
-13. **Wi-Fi** : (n) wifi /ˈwaɪ faɪ/
-14. **update** : (v/n) cập nhật /ˈʌpdeɪt/
+5. **interactive** : (adj) tương tác /ˌɪntərˈæktɪv/
+6. **feedback** : (n) phản hồi /ˈfiːdbæk/
+7. **cooperate** : (v) hợp tác /kəʊˈɒpəreɪt/
+8. **distracted** : (adj) bị phân tâm /dɪˈstræktɪd/
+9. **educational** : (adj) giáo dục /ˌedʒuˈkeɪʃənl/
+10. **print material** : (n phr) tài liệu in /prɪnt məˈtɪəriəl/
 </vocabulary>
 
 <teacher_script pause="0">
-Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Chú ý *portrait mode*, *storage*, và *filter* — ba từ hay gặp trong bài hội thoại này luôn.
+Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Chú ý các cụm từ kiểm tra sự hiểu: *Got it?*, *Do you follow me?* và phản hồi *I got what you mean* — học xong dùng được ngay trong lớp luôn!
 </teacher_script>
 
 <!-- chunk: language-focus -->
@@ -61,103 +57,131 @@ Nhớ chưa nha? Ba nhóm: hỏi → xác nhận → xin giải thích. Giờ đ
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Đây là hội thoại giữa Nam và Linh — Nam đang giới thiệu điện thoại mới cho Linh. Đọc và chú ý cách họ dùng các câu kiểm tra sự hiểu nha.
+Bài 1 trang 121 — nghe và đọc hai hội thoại mẫu. Chú ý những câu in đậm — đó là cách kiểm tra sự hiểu và xác nhận hiểu nha.
+</teacher_script>
+
+<audio src="70.mp3"></audio>
+
+<dialogue>
+**1.**
+
+**Sister:** I can't do my English homework. Can you help me?
+**Brother:** You just read it carefully and find the key words from the questions. Got it?
+**Sister:** OK, I got what you mean.
+</dialogue>
+
+<teacher_script pause="0">
+Hội thoại 2 nha — quản lý hướng dẫn nhân viên.
 </teacher_script>
 
 <dialogue>
-**Nam:** So with this phone, you can take amazing photos in portrait mode.
-**Linh:** Portrait mode? Could you explain what that means?
-**Nam:** It blurs the background and keeps your face sharp — perfect for selfies.
-**Linh:** Oh, got it! And what about the storage?
-**Nam:** It has 256GB. You can store thousands of photos and videos.
-**Linh:** Do you mean I won't need to delete things as often?
-**Nam:** Exactly! Plus it updates automatically at night.
-**Linh:** I see. So the battery needs to be charged every night?
-**Nam:** Not exactly — it charges wirelessly while updating.
-**Linh:** Wow, I got what you mean now. Technology is amazing!
+**2.**
+
+**Manager:** First, enter the Event Title and then enter the Event Description. Next, select the Location and Room. Do you follow me?
+**Employee:** I'm sorry. I don't quite follow you. Could you say that again, please?
 </dialogue>
 
 <translation>
-**Nam:** Với điện thoại này, bạn có thể chụp ảnh tuyệt vời ở chế độ chân dung.
-**Linh:** Chế độ chân dung? Bạn có thể giải thích nó nghĩa là gì không?
-**Nam:** Nó làm mờ nền và giữ khuôn mặt bạn sắc nét — hoàn hảo cho ảnh tự chụp.
-**Linh:** À, hiểu rồi! Còn dung lượng lưu trữ thì sao?
-**Nam:** Nó có 256GB. Bạn có thể lưu hàng nghìn ảnh và video.
-**Linh:** Ý bạn là tôi sẽ không cần xóa nhiều nữa phải không?
-**Nam:** Đúng vậy! Thêm nữa là nó tự cập nhật vào ban đêm.
-**Linh:** À, tôi hiểu. Vậy pin cần sạc mỗi đêm phải không?
-**Nam:** Không hẳn — nó sạc không dây trong khi cập nhật.
-**Linh:** Ồ, tôi hiểu ý bạn rồi. Công nghệ thật tuyệt vời!
+**Hội thoại 1:**
+
+- **Em gái:** Em không thể làm bài tập tiếng Anh được. Anh có thể giúp em được không?
+- **Anh trai:** Em cứ đọc kỹ và tìm từ khóa trong câu hỏi nhé. Hiểu chưa?
+- **Em gái:** Được rồi, em hiểu ý anh.
+
+**Hội thoại 2:**
+
+- **Quản lý:** Đầu tiên, vào Tiêu đề sự kiện và sau đó nhập Mô tả sự kiện. Tiếp theo chọn Vị trí và Phòng. Bạn có hiểu ý tôi không?
+- **Nhân viên:** Tôi xin lỗi. Tôi không hoàn toàn theo dõi bạn. Bạn có thể nói lại lần nữa được chứ?
 </translation>
 
 <teacher_script pause="180">
-Dịch hội thoại vô vở nha. Ghi cả hai cột tiếng Anh và tiếng Việt. Có 3 phút — chú ý các câu kiểm tra sự hiểu trong hội thoại nha.
+Dịch hai hội thoại vô vở nha. Gạch chân các câu kiểm tra sự hiểu và phản hồi. Có 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
-Bài 2 nha — <eng>True or False</eng> về cách dùng emoji trong giao tiếp. Đọc câu và xác định đúng hay sai nha. Có 1 phút.
+<teacher_script pause="120">
+Bài 2 — làm theo cặp nha. Thực hiện hội thoại tương tự với hai tình huống sau. Dùng mẫu câu đã học. Có 2 phút chuẩn bị.
 </teacher_script>
 
 <task>
-**Đề:** Read and write True (T) or False (F).
-**Dịch đề:** Đọc và ghi True (T) hoặc False (F).
+**Đề:** Work in pairs. Make similar conversations for the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự cho các tình huống sau.
 </task>
 
-<questions type="true_false">
-**1.** People of all ages use emojis in their messages. (T/F)
-*Người ở mọi lứa tuổi dùng emoji trong tin nhắn của họ.*
+<questions type="speaking">
+**1.** Your friend asks you to explain the rules of a game. You explain the rules to him / her and check if he / she understands what you are saying. He / She answers that he / she understands it.
+*(Bạn của bạn yêu cầu bạn giải thích luật chơi. Bạn giải thích các quy tắc cho anh ấy/cô ấy và kiểm tra xem anh ấy/cô ấy có hiểu bạn đang nói gì không. Anh ấy/Cô ấy trả lời rằng anh ấy/cô ấy hiểu.)*
 
-**2.** Emojis can fully replace words in all situations. (T/F)
-*Emoji có thể thay thế hoàn toàn lời nói trong mọi tình huống.*
-
-**3.** Emojis help express emotions regardless of language. (T/F)
-*Emoji giúp biểu đạt cảm xúc bất kể ngôn ngữ.*
-
-**4.** A smiley face emoji can replace words like "happy" in some messages. (T/F)
-*Emoji mặt cười có thể thay thế từ "happy" trong một số tin nhắn.*
+**2.** A stranger asks you the way to the nearest hospital. You tell him / her the way and check if he/she could follow you. He / She answers that he / she doesn't quite follow you and asks you to repeat it.
+*(Một người lạ hỏi bạn đường đến bệnh viện gần nhất. Bạn chỉ đường cho anh ấy/cô ấy và kiểm tra xem anh ấy/cô ấy có thể đi theo bạn không. Anh ấy/Cô ấy trả lời rằng anh ấy/cô ấy không theo kịp bạn và yêu cầu bạn nhắc lại.)*
 </questions>
 
 <teacher_script pause="0">
-Đáp án bài 2 nè.
+Mẫu hội thoại nha.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1.T | 2.F | 3.T | 4.T
+**Tình huống 1 — giải thích luật chơi:**
+
+**Your friend:** I don't understand the rules of this game. Can you help me?
+*(Tôi không hiểu luật chơi này. Bạn có thể giúp tôi được không?)*
+
+**You:** So, in this game, each player takes turns rolling the dice and moving their game piece accordingly. Got it?
+*(Vì vậy, trong trò chơi này, mỗi người chơi lần lượt tung xúc xắc và di chuyển quân cờ của mình cho phù hợp. Bạn hiểu chứ?)*
+
+**Your friend:** OK, I got what you mean.
+*(Được rồi, tôi hiểu ý bạn rồi.)*
+
+---
+
+**Tình huống 2 — chỉ đường bệnh viện:**
+
+**You:** First, you need to head straight down this street. Then, take a left turn at the traffic lights. The hospital is on your right. Do you follow me?
+*(Đầu tiên, bạn cần đi thẳng xuống con đường này. Sau đó, rẽ trái ở đèn giao thông. Bệnh viện ở bên phải bạn. Bạn có theo kịp tôi không?)*
+
+**Stranger:** I'm sorry. I don't quite follow you. Could you say that again, please?
+*(Tôi xin lỗi. Tôi không hoàn toàn theo dõi bạn. Bạn có thể nói lại lần nữa được chứ?)*
 </answer>
 
-<explanation>
-**1.T** — Emoji được dùng rộng rãi ở mọi lứa tuổi — từ học sinh đến người lớn đều dùng trong tin nhắn hàng ngày.
+<!-- chunk: reading-3 -->
+<teacher_script pause="0">
+Bài 3 — đọc ý kiến của Nick và Phong về việc dùng thiết bị điện tử trong lớp học hiện đại. Đọc kỹ rồi làm bài T/F nha.
+</teacher_script>
 
-**2.F** — Sai nha! Emoji *không thể thay thế hoàn toàn* lời nói. Trong các tình huống nghiêm túc (hợp đồng, báo cáo, email chính thức), không thể chỉ dùng emoji được. Emoji chỉ hỗ trợ thêm cảm xúc thôi.
+<reading>
+**Nick:** Nowadays, electronic devices are becoming more and more popular in modern classrooms. Teachers can use electronic devices to teach interactive lessons, provide real-time feedback to students, etc. Students can use them to access online resources, cooperate with their classmates, and complete assignments online. Some schools use digital textbooks and educational software instead of traditional print materials.
 
-**3.T** — Đúng! Emoji vượt qua rào cản ngôn ngữ — mặt cười hay trái tim thì người ở bất kỳ quốc gia nào cũng hiểu được.
+**Phong:** There are some disadvantages of using electronic devices in modern classrooms. Students may become distracted by non-educational content such as social media or entertainment websites. Additionally, constant use of electronic devices may cause eye strain, headaches, and poor posture, as well as other health problems.
+</reading>
 
-**4.T** — Đúng, trong một số tin nhắn thông thường, thay vì viết *"I'm happy"* người ta có thể chỉ gửi emoji 😊 và người nhận hiểu ngay.
-</explanation>
+<translation>
+**Nick:** Ngày nay, các thiết bị điện tử ngày càng trở nên phổ biến trong các lớp học hiện đại. Giáo viên có thể sử dụng các thiết bị điện tử để dạy các bài học tương tác, cung cấp phản hồi theo thời gian thực cho học sinh, v.v. Học sinh có thể sử dụng chúng để truy cập các tài nguyên trực tuyến, hợp tác với các bạn cùng lớp và hoàn thành bài tập trực tuyến. Một số trường sử dụng sách giáo khoa điện tử và phần mềm giáo dục thay vì tài liệu in truyền thống.
+
+**Phong:** Có một số nhược điểm của việc sử dụng thiết bị điện tử trong lớp học hiện đại. Học sinh có thể bị phân tâm bởi nội dung phi giáo dục như mạng xã hội hoặc các trang web giải trí. Ngoài ra, việc sử dụng liên tục các thiết bị điện tử có thể gây mỏi mắt, đau đầu, tư thế xấu cũng như các vấn đề sức khỏe khác.
+</translation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="0">
-Bài 3 nha — trò chơi từ vựng về thiết bị điện tử. Đọc mô tả và đoán đó là thiết bị gì. Đây là bài tập vui nha — đọc kỹ từng mô tả.
+<teacher_script pause="60">
+Bài 3 — <eng>True/False</eng> nha. Đọc kỹ hai đoạn của Nick và Phong rồi xác định đúng hay sai. 1 phút.
 </teacher_script>
 
 <task>
-**Đề:** Read the descriptions and guess the electronic device.
-**Dịch đề:** Đọc các mô tả và đoán đó là thiết bị điện tử gì.
+**Đề:** Read Nick's and Phong's ideas about the use of electronic devices in modern classrooms and tick (✔) T (True) or F (False).
+**Dịch đề:** Đọc ý kiến của Nick và Phong về việc sử dụng thiết bị điện tử trong lớp học hiện đại và đánh dấu (✔) T (Đúng) hoặc F (Sai).
 </task>
 
-<questions type="matching">
-**1.** "It has a large screen, can run apps and browse the internet, but you can't make phone calls with it."
-*Nó có màn hình lớn, có thể chạy ứng dụng và duyệt internet, nhưng bạn không thể gọi điện bằng nó.*
-→ It is a ________.
+<questions type="true_false">
+**1.** Nick says that electronic devices help students collaborate with their classmates.
+*Nick nói rằng các thiết bị điện tử giúp học sinh cộng tác với các bạn cùng lớp.*
 
-**2.** "You wear it on your wrist. It tracks your steps, heart rate, and can even send text messages."
-*Bạn đeo nó trên cổ tay. Nó theo dõi số bước chân, nhịp tim và thậm chí có thể gửi tin nhắn.*
-→ It is a ________.
+**2.** According to Nick, print materials have been replaced by digital textbooks and educational software in most schools.
+*Theo Nick, tài liệu in đã được thay thế bằng sách giáo khoa kỹ thuật số và phần mềm giáo dục ở hầu hết các trường học.*
 
-**3.** "It is used for reading books in digital format. It has a special e-ink display that is easy on the eyes."
-*Nó dùng để đọc sách dạng kỹ thuật số. Nó có màn hình e-ink đặc biệt dễ nhìn hơn.*
-→ It is an ________.
+**3.** Phong says social media or entertainment websites help increase students' focus and attention during class time.
+*Phong cho biết mạng xã hội hoặc các trang web giải trí giúp học sinh tăng cường sự tập trung và chú ý trong giờ học.*
+
+**4.** According to Phong, prolonged use of electronic devices can lead to health problems.
+*Theo Phong, sử dụng thiết bị điện tử kéo dài có thể dẫn đến các vấn đề về sức khỏe.*
 </questions>
 
 <teacher_script pause="0">
@@ -165,38 +189,87 @@ Bài 3 nha — trò chơi từ vựng về thiết bị điện tử. Đọc mô
 </teacher_script>
 
 <answer>
-**1.** tablet (máy tính bảng)
-**2.** smartwatch (đồng hồ thông minh)
-**3.** e-reader (máy đọc sách điện tử)
+**Bài 3 - Đáp án:** 1.T | 2.F | 3.F | 4.T
 </answer>
 
 <explanation>
-**1. tablet** — *Large screen + apps + internet but no calls* = máy tính bảng. iPad là ví dụ phổ biến nhất nha.
+**1. T** — Nick nói "Students can use them to **cooperate with their classmates**" → giúp học sinh cộng tác → Đúng.
 
-**2. smartwatch** — *Worn on wrist + tracks steps + heart rate + messages* = đồng hồ thông minh. Apple Watch hay Samsung Galaxy Watch đó nha.
+**2. F** — Nick nói "**Some schools** use digital textbooks" — chỉ **một số trường**, không phải đa số. Câu hỏi nói "most schools" → Sai.
 
-**3. e-reader** — *Digital books + e-ink display* = máy đọc sách. *E-ink* là công nghệ màn hình giống giấy thật — không mỏi mắt như điện thoại. Kindle là ví dụ nổi tiếng.
+**3. F** — Ngược lại! Phong nói "Students may **become distracted** by social media or entertainment websites" → bị phân tâm, KHÔNG phải tăng sự tập trung → Sai.
+
+**4. T** — Phong nói "constant use may cause **eye strain, headaches, and poor posture, as well as other health problems**" → gây vấn đề sức khỏe → Đúng.
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="300">
-Bài 4 nha — nói về thiết bị điện tử yêu thích của mình. Dùng từ vựng trong bài để mô tả. Có 5 phút — thảo luận theo cặp hoặc tự trình bày nha.
+<teacher_script pause="120">
+Bài 4 — phân loại ưu điểm và nhược điểm của thiết bị điện tử trong lớp học nha. Có 6 ý, điền vào đúng cột. 2 phút.
 </teacher_script>
 
 <task>
-**Đề:** Describe your favourite electronic device using vocabulary from this unit. Talk about: What it is / Its features / Why you like it / How you use it daily.
-**Dịch đề:** Mô tả thiết bị điện tử yêu thích của bạn dùng từ vựng trong bài. Nói về: Đó là thiết bị gì / Các tính năng của nó / Tại sao bạn thích / Bạn dùng nó hàng ngày như thế nào.
+**Đề:** Work in pairs. Put the advantages and disadvantages of using electronic devices in modern classrooms (1-6) in the suitable column.
+**Dịch đề:** Làm việc theo cặp. Viết những ưu điểm và nhược điểm của việc sử dụng thiết bị điện tử trong lớp học hiện đại (1-6) vào cột thích hợp.
 </task>
 
-<questions type="speaking">
-**Gợi ý cấu trúc:**
-- "My favourite device is ___."
-- "It has a ___ feature that I really like."
-- "The storage is ___ so I can ___."
-- "I use it right away when I wake up to ___."
-- "I suggest everyone try ___ because ___."
+<questions type="matching">
+1. Using electronic devices in classrooms can help students stay engaged and motivated.
+*(Sử dụng thiết bị điện tử trong lớp học có thể giúp học sinh hứng thú và có động lực học hơn.)*
+
+2. Relying too much on electronic devices for information can lead to a decrease in critical thinking, problem-solving, and creativity skills.
+*(Dựa quá nhiều vào các thiết bị điện tử để lấy thông tin có thể dẫn đến giảm sút kỹ năng tư duy phê phán, giải quyết vấn đề và sáng tạo.)*
+
+3. Using electronic devices in classrooms can help students develop technology skills and better prepare them for future careers.
+*(Sử dụng thiết bị điện tử trong lớp học có thể giúp học sinh phát triển các kỹ năng công nghệ và chuẩn bị tốt hơn cho nghề nghiệp tương lai.)*
+
+4. Electronic devices can be expensive, and schools may need to invest more to purchase and maintain them for students.
+*(Thiết bị điện tử có thể đắt tiền và trường học có thể cần đầu tư nhiều hơn để mua và bảo trì chúng cho học sinh.)*
+
+5. Electronic devices can be used by students to cheat on tests and assignments.
+*(Học sinh có thể sử dụng thiết bị điện tử để gian lận trong các bài kiểm tra và bài tập.)*
+
+6. Electronic devices can help students store, organise, and access their notes and assignments.
+*(Thiết bị điện tử có thể giúp học sinh lưu trữ, sắp xếp và truy cập các ghi chú và bài tập của mình.)*
 </questions>
 
 <teacher_script pause="0">
-Trình bày xong rồi nha? Bài <eng>Communication</eng> Unit 11 xong rồi luôn! Nhớ ba nhóm câu: hỏi sự hiểu, xác nhận hiểu, và xin giải thích nha. Dùng được ngay trong lớp và trong cuộc sống hàng ngày đó. Bài sau là <eng>Skills 1</eng> — đọc về nhiếp ảnh kỹ thuật số. Học tốt nha!
+Đáp án bài 4 nè.
+</teacher_script>
+
+<answer>
+**Advantages (Ưu điểm):** 1, 3, 6
+
+**Disadvantages (Nhược điểm):** 2, 4, 5
+</answer>
+
+<explanation>
+**Ưu điểm:**
+- **1.** Giúp học sinh hứng thú và có động lực.
+- **3.** Phát triển kỹ năng công nghệ cho tương lai.
+- **6.** Lưu trữ, sắp xếp và truy cập tài liệu dễ dàng.
+
+**Nhược điểm:**
+- **2.** Phụ thuộc quá nhiều → giảm tư duy phản biện và sáng tạo.
+- **4.** Tốn kém — trường phải đầu tư nhiều để mua và bảo trì.
+- **5.** Học sinh có thể dùng để gian lận trong kiểm tra.
+</explanation>
+
+<!-- chunk: exercise-5 -->
+<teacher_script pause="300">
+Bài 5 — <eng>Speaking</eng> nha. Làm việc theo nhóm — lần lượt đưa ra ý kiến về việc dùng thiết bị điện tử trong lớp học hiện đại. Bắt đầu bằng câu gợi ý bên dưới. 5 phút.
+</teacher_script>
+
+<task>
+**Đề:** Work in groups. Take turns to give your opinions about the use of electronic devices in modern classrooms.
+**Dịch đề:** Làm việc theo nhóm. Lần lượt đưa ra ý kiến của bạn về việc sử dụng các thiết bị điện tử trong lớp học hiện đại.
+</task>
+
+<questions type="speaking">
+**Bắt đầu bằng:**
+*"I think / don't think that the use of electronic devices in modern classrooms is convenient / good / ... First, ..."*
+*(Tôi nghĩ/không nghĩ rằng việc sử dụng các thiết bị điện tử trong lớp học hiện đại là thuận tiện/tốt/... Đầu tiên,...)*
+</questions>
+
+<teacher_script pause="0">
+Trình bày xong rồi nha? Bài <eng>Communication</eng> Unit 11 xong rồi luôn! Nhớ ba nhóm câu: hỏi sự hiểu — *"Got it? Do you follow me?"*, xác nhận hiểu — *"Got it! I got what you mean."*, xin giải thích — *"Could you say that again?"*. Dùng được ngay trong lớp đó. Học tốt nha!
 </teacher_script>

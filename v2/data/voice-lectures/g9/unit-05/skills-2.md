@@ -3,47 +3,94 @@
 
 <!-- chunk: vocabulary -->
 <teacher_script pause="0">
-Ok lớp 9, bài <eng>Skills 2</eng> Unit 5 — nghe và viết nha. Hôm nay tụi mình học về Vịnh Hạ Long và hang Phong Nha — hai kỳ quan thiên nhiên tuyệt đẹp của Việt Nam. Bấm "Bắt đầu" học từ vựng trước nha.
+Ok lớp 9, bài <eng>Skills 2</eng> Unit 5 — nghe và viết nha. Hôm nay tụi mình nghe hội thoại giữa Minh và bố về những trải nghiệm ở trường. Bấm "Bắt đầu" học từ vựng trước nha.
 </teacher_script>
 
 <vocabulary>
-1. **discover** : (v) khám phá, tìm ra /dɪˈskʌvə/
-2. **admire** : (v) ngưỡng mộ /ədˈmaɪə/
-3. **vast** : (adj) rộng lớn, bao la /vɑːst/
-4. **limestone** : (n) đá vôi /ˈlaɪmstəʊn/
-5. **kayak** : (v/n) chèo thuyền kayak /ˈkaɪæk/
-6. **stalactite** : (n) nhũ đá (rủ xuống từ trần hang) /stəˈlæktaɪt/
-7. **fossil** : (n) hóa thạch /ˈfɒsl/
-8. **ancient** : (adj) cổ xưa, cổ đại /ˈeɪnʃənt/
-9. **record** : (n) kỷ lục /ˈrekɔːd/
-10. **cave** : (n) hang động /keɪv/
+1. **bully** : (v/n) bắt nạt /ˈbʊli/
+2. **snatch** : (v) giật, cướp /snætʃ/
+3. **fight back** : (phr v) đánh trả, chống lại /faɪt bæk/
+4. **go blank** : (phr) trống rỗng (đầu óc) /ɡəʊ blæŋk/
+5. **embarrassed** : (adj) xấu hổ, ngượng ngùng /ɪmˈbærəst/
+6. **revise** : (v) ôn lại bài /rɪˈvaɪz/
+7. **by rote** : (phr) học vẹt, học thuộc máy móc /baɪ rəʊt/
+8. **community service** : (n phr) phục vụ cộng đồng /kəˈmjuːnɪti ˈsɜːvɪs/
+9. **pleasant** : (adj) dễ chịu, thú vị /ˈplezənt/
+10. **unpleasant** : (adj) khó chịu, tệ /ʌnˈplezənt/
 </vocabulary>
 
 <teacher_script pause="0">
-Xong từ vựng rồi nha. Ghi vô tập, rồi mình nghe và làm bài tập về Hạ Long và Phong Nha thôi.
+Xong từ vựng rồi nha. Ghi vô tập, rồi mình vào bài nghe thôi.
 </teacher_script>
+
+<!-- chunk: exercise-1 -->
+<teacher_script pause="30">
+Bài 1 — trả lời câu hỏi nhanh nha. Trong các lựa chọn dưới đây, cái nào là trải nghiệm tồi tệ? 30 giây.
+</teacher_script>
+
+<task>
+**Đề:** Which of the following is a bad experience?
+**Dịch đề:** Điều nào sau đây là một trải nghiệm tồi tệ?
+</task>
+
+<questions type="multiple_choice">
+- failing an exam *(trượt một kỳ thi)*
+- being bullied *(bị bắt nạt)*
+- winning a competition *(chiến thắng một cuộc thi)*
+- lacking confidence *(thiếu tự tin)*
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+Being bullied *(bị bắt nạt)* là trải nghiệm tồi tệ.
+</answer>
+
+<explanation>
+Bắt nạt có thể có tác động tiêu cực đáng kể đến sức khỏe tinh thần và cảm xúc của một người. Nó còn gây ra trầm cảm, lo âu, thiếu tự tin và thậm chí dẫn đến kết quả học tập kém. Còn "winning a competition" và "doing community service" là những trải nghiệm tích cực.
+</explanation>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/31.mp3"></audio>
 
 <!-- chunk: listening-intro -->
 <teacher_script pause="0">
-Tụi mình sẽ nghe bài giới thiệu về hai địa điểm: Vịnh Hạ Long và hang Phong Nha. Chú ý các chi tiết quan trọng như số liệu, năm tháng và tên địa điểm nha.
+Tụi mình sẽ nghe hội thoại giữa Minh và bố. Minh hỏi bố về trải nghiệm tồi tệ nhất ở trường — và sau đó bố hỏi lại Minh. Chú ý các chi tiết quan trọng nha.
 </teacher_script>
 
 <reading>
-**Bài nghe — Audio transcript**
+**Bài nghe — Tapescript**
 
-**Ha Long Bay**
+**Minh:** Dad, what was your worst experience at school?
 
-Ha Long Bay is located in Quang Ninh Province in northeastern Vietnam. The bay features nearly 1,969 limestone islands and islets, rising dramatically from the emerald sea to form a breathtaking landscape. The name "Ha Long" means "Descending Dragon" in Vietnamese.
+**Dad:** A classmate bullied me.
 
-In 1994, Ha Long Bay was officially recognised as a UNESCO World Heritage Site, thanks to its outstanding natural beauty and geological significance. Visitors can explore the bay by boat, going kayaking through sea caves, watching the sunset over the water, and admiring ancient stalactites inside the caves. Ha Long Bay is one of Vietnam's most popular tourist destinations and attracts millions of visitors every year.
+**Minh:** Really? What happened, dad?
 
-**Phong Nha Cave**
+**Dad:** A big boy in my class was always taking my things. I could never get anything back. Once he and his friends waited for me outside the school and snatched my backpack. They got all my money.
 
-Phong Nha Cave is part of the Phong Nha–Ke Bang National Park in Quang Binh Province. The cave system is famous for its ancient fossils, extraordinary stalactites, and vast underground rivers.
+**Minh:** What did you do then?
 
-Son Doong Cave, located within the same national park, holds the record for being the largest cave in the world. It was first discovered by a local farmer in 1991 and was only fully explored by a British-Vietnamese team in 2009. The cave is so large that it has its own rainforest, river, and weather system inside. Phong Nha–Ke Bang was recognised as a UNESCO World Heritage Site in 2003.
+**Dad:** I was so angry that I fought back.
+
+**Minh:** Wow. What happened next?
+
+**Dad:** He was totally surprised. But then he returned my money and went away ... What about you?
+
+**Minh:** Well, it was just last week. My biology teacher checked our understanding of the previous lesson. My mind suddenly went blank. I stood there and couldn't say anything. I felt so embarrassed!
+
+**Dad:** So what happened then?
+
+**Minh:** I got a zero.
+
+**Dad:** Sorry about that.
+
+**Minh:** It was such a terrible experience.
+
+**Dad:** Didn't you revise the lesson?
+
+**Minh:** I did. But I actually learnt it by rote without really understanding the lesson.
 </reading>
 
 <teacher_script pause="0">
@@ -52,29 +99,31 @@ Ok, mình đã đọc/nghe xong rồi. Làm bài tập thôi nha.
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="60">
-Bài 2 — <eng>True/False</eng> nha. Dựa theo bài nghe. 1 phút.
+Bài 2 — <eng>True/False</eng> nha. Nghe bài hội thoại giữa Minh và bố rồi xác định đúng hay sai. 1 phút.
 </teacher_script>
 
+<audio src="31.mp3"></audio>
+
 <task>
-**Đề:** Listen and write T (True) or F (False) for each statement.
-**Dịch đề:** Nghe và viết T (Đúng) hoặc F (Sai) cho mỗi câu.
+**Đề:** Listen to the conversation between Minh and his dad and tick (✔) T (True) or F (False).
+**Dịch đề:** Nghe đoạn hội thoại giữa Minh và bố và đánh dấu (✔) T (Đúng) hoặc F (Sai).
 </task>
 
 <questions type="true_false">
-**1.** Ha Long Bay has exactly 2,000 islands and islets.
-*Vịnh Hạ Long có đúng 2.000 hòn đảo và đảo nhỏ.*
+**1.** Minh's peers bullied him.
+*Bạn bè của Minh bắt nạt anh ấy.*
 
-**2.** Ha Long Bay was recognised as a UNESCO World Heritage Site in 1990.
-*Vịnh Hạ Long được công nhận là Di sản Thế giới UNESCO năm 1990.*
+**2.** Dad could always get things back.
+*Bố luôn có thể lấy lại mọi thứ.*
 
-**3.** Kayaking is a popular activity in Ha Long Bay.
-*Chèo thuyền kayak là hoạt động phổ biến ở Vịnh Hạ Long.*
+**3.** Dad's peers got his money.
+*Bạn bè của bố đã lấy tiền của bố.*
 
-**4.** Phong Nha Cave has ancient fossils inside.
-*Hang Phong Nha có hóa thạch cổ đại bên trong.*
+**4.** Minh had an embarrassing experience.
+*Minh đã có một trải nghiệm đáng xấu hổ.*
 
-**5.** Phong Nha Cave is the largest cave in the world.
-*Hang Phong Nha là hang động lớn nhất thế giới.*
+**5.** Minh understood the lesson well.
+*Minh hiểu bài rất tốt.*
 </questions>
 
 <teacher_script pause="0">
@@ -82,51 +131,59 @@ Bài 2 — <eng>True/False</eng> nha. Dựa theo bài nghe. 1 phút.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1. F | 2. F | 3. T | 4. T | 5. F
+**Bài 2 - Đáp án:** 1.F | 2.F | 3.T | 4.T | 5.F
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1. F:** Ha Long Bay có gần **1,969** hòn đảo, không phải đúng 2,000 → Sai.
-- **2. F:** Ha Long Bay được công nhận năm **1994**, không phải 1990 → Sai.
-- **3. T:** Bài nghe đề cập "going kayaking through sea caves" → Đúng, kayaking rất phổ biến.
-- **4. T:** "Phong Nha Cave is famous for its ancient fossils" → Đúng.
-- **5. F:** **Son Doong Cave** (cũng trong vườn quốc gia Phong Nha-Kẻ Bàng) mới là hang lớn nhất thế giới, không phải chính hang Phong Nha → Sai.
+**1. F** — Bạn cùng lớp của **bố** bắt nạt bố, không phải bạn của Minh. "A classmate bullied **me**." (bố kể) → Sai.
+
+**2. F** — "I could **never** get anything back." → bố KHÔNG bao giờ lấy lại được đồ → Sai.
+
+**3. T** — "Once he and his friends... snatched my backpack. They **got all my money**." → bạn của bố lấy tiền của bố → Đúng.
+
+**4. T** — "My mind suddenly went blank... I felt so **embarrassed**!" → Minh cảm thấy xấu hổ → Đúng.
+
+**5. F** — "I actually **learnt it by rote without really understanding** the lesson." → Minh học vẹt, không thực sự hiểu bài → Sai.
 </explanation>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/32.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
 <teacher_script pause="60">
-Bài 3 — trắc nghiệm nha. 1 phút.
+Bài 3 — nghe lại và chọn đáp án đúng A, B, hoặc C nha. 1 phút.
 </teacher_script>
 
+<audio src="32.mp3"></audio>
+
 <task>
-**Đề:** Choose the best answer (A, B, C, or D).
-**Dịch đề:** Chọn câu trả lời đúng nhất (A, B, C, hoặc D).
+**Đề:** Listen again and choose the correct answer A, B, or C.
+**Dịch đề:** Nghe lại và chọn câu trả lời đúng A, B hoặc C.
 </task>
 
 <questions type="multiple_choice">
-**1.** In which province is Ha Long Bay located?
-*Vịnh Hạ Long thuộc tỉnh nào?*
-- A. Ha Noi
-- B. Hai Phong
-- C. **Quang Ninh**
-- D. Quang Binh
+**1.** Dad and Minh are talking about ________.
+*Bố và Minh đang nói về ________.*
+- A. dad's experience
+- B. Minh's experience
+- C. experiences of Minh and his dad
 
-**2.** What type of rock are the islands in Ha Long Bay made of?
-*Các hòn đảo ở Vịnh Hạ Long được tạo thành từ loại đá gì?*
-- A. **Limestone**
-- B. Granite
-- C. Sandstone
-- D. Marble
+**2.** Dad's classmates often ________ him.
+*Các bạn cùng lớp của bố thường ________ ông.*
+- A. bullied
+- B. helped
+- C. argued with
 
-**3.** In which year was Son Doong Cave first discovered?
-*Hang Sơn Đoòng được phát hiện lần đầu tiên vào năm nào?*
-- A. 1985
-- B. 2003
-- C. **1991**
-- D. 2009
+**3.** Minh's dad ________ the bullies.
+*Bố của Minh ________ những kẻ bắt nạt.*
+- A. ran away from
+- B. shouted at
+- C. fought
+
+**4.** Minh got a low mark because he ________.
+*Minh bị điểm thấp vì anh ấy ________.*
+- A. reviewed the lesson
+- B. learnt the lesson by rote
+- C. learnt the lesson by heart
 </questions>
 
 <teacher_script pause="0">
@@ -134,44 +191,78 @@ Bài 3 — trắc nghiệm nha. 1 phút.
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. C | 2. A | 3. C
+**Bài 3 - Đáp án:** 1.C | 2.A | 3.C | 4.B
 </answer>
 
 <explanation>
-**Giải thích:**
-- **1. C (Quang Ninh):** "Ha Long Bay is located in Quang Ninh Province" → tỉnh Quảng Ninh.
-- **2. A (Limestone):** "nearly 1,969 limestone islands" → đảo đá vôi.
-- **3. C (1991):** "first discovered by a local farmer in 1991" → phát hiện năm 1991. Năm 2009 là khi được khám phá đầy đủ bởi đội Anh-Việt.
+**1. C** — Cả hai đều kể về trải nghiệm của mình: bố kể bị bắt nạt, Minh kể bị hỏi bài và trả lời không được → "experiences of Minh and **his dad**."
+
+**2. A** — "A classmate **bullied** me." → bắt nạt.
+
+**3. C** — "I was so angry that I **fought back**." → đánh trả. (C. fought)
+
+**4. B** — "I actually **learnt it by rote** without really understanding the lesson." → học vẹt = learnt by rote.
+
+Lưu ý: "learnt by rote" ≠ "learnt by heart" — *by rote* = học vẹt (không hiểu), *by heart* = thuộc lòng (có thể hiểu). Đáp án B đúng vì Minh tự nói dùng từ "rote."
 </explanation>
 
 <!-- chunk: writing -->
-<teacher_script pause="300">
-Bài 4 — <eng>Writing</eng> nha. Viết đoạn văn khoảng 100 từ về một kỳ quan thiên nhiên của Việt Nam. 5 phút nha.
+<teacher_script pause="120">
+Bài 4 — sắp xếp các cụm từ vào đúng cột nha. 2 phút.
 </teacher_script>
 
 <task>
-**Đề:** Write a paragraph of about 100 words about a natural wonder of Vietnam (Ha Long Bay, Phong Nha Cave, or another wonder).
-**Dịch đề:** Viết đoạn văn khoảng 100 từ về một kỳ quan thiên nhiên của Việt Nam (Vịnh Hạ Long, hang Phong Nha, hoặc kỳ quan khác).
+**Đề:** Work in pairs. Put the phrases from the box in the correct column.
+**Dịch đề:** Làm việc theo cặp. Đặt các cụm từ trong khung vào đúng cột.
+</task>
 
-**Cấu trúc gợi ý:**
-1. **What** is it and **where** is it? *(Đó là gì và ở đâu?)*
-2. **Why** is it famous? *(Tại sao nó nổi tiếng?)*
-3. **What activities** can visitors do? *(Du khách có thể làm gì?)*
-4. **Your recommendation** *(Lời khuyên của em)*
+<questions type="matching">
+**Các cụm từ:**
+a. taking wrong things *(lấy nhầm đồ của người khác)*
+b. doing community service *(làm dịch vụ cộng đồng)*
+c. not revising lessons *(không ôn lại bài học)*
+d. winning a competition *(chiến thắng một cuộc thi)*
+e. arguing with a friend *(cãi nhau với một người bạn)*
+f. coming to school late *(đến trường muộn)*
+
+| Pleasant experience | Unpleasant experience |
+|---|---|
+| | |
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Bài 4 - Đáp án:**
+
+| Pleasant experience | Unpleasant experience |
+|---|---|
+| b. doing community service | a. taking wrong things |
+| d. winning a competition | c. not revising lessons |
+| | e. arguing with a friend |
+| | f. coming to school late |
+</answer>
+
+<!-- chunk: writing-5 -->
+<teacher_script pause="300">
+Bài 5 — <eng>Writing</eng> nha. Viết đoạn văn 100-120 từ về trải nghiệm thú vị hoặc khó chịu nhất ở trường. Bắt đầu bằng câu gợi ý bên dưới. 5 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** Write a paragraph (100-120 words) about the most pleasant or unpleasant experience you have had at school.
+**Dịch đề:** Viết một đoạn văn (100-120 từ) về trải nghiệm thú vị hoặc khó chịu nhất mà bạn đã trải qua ở trường.
+
+**Bắt đầu bằng:** *I still remember the most pleasant / unpleasant experience I have had at school. It was…*
 </task>
 
 <questions type="writing">
 **Đoạn văn mẫu:**
 
-*"Ha Long Bay is one of Vietnam's most stunning natural wonders, located in Quang Ninh province in northeastern Vietnam. It features nearly 2,000 limestone islands rising dramatically from the emerald sea, creating breathtaking scenery. In 1994, it was recognised as a UNESCO World Heritage Site due to its outstanding beauty and geological importance. Visitors can go kayaking through sea caves, admire ancient stalactites, watch the sunset from the deck of a boat, and enjoy delicious fresh seafood. Ha Long Bay is truly magnificent — I would recommend it to anyone who loves nature and adventure. It is a place that makes you feel proud to be Vietnamese."*
-
-*(khoảng 105 từ)*
+*"I still remember the most pleasant experience I have had at school. It was winning a competition. The happiness of hearing my name announced as the winner along with the cheers of my classmates filled me with a sense of pride. It wasn't just about the victory itself, but also the recognition of my hard work and dedication. The moment I held the medal in my hand was unforgettable, etched in my memory as a highlight of my school years. Winning that competition taught me the value of perseverance and determination, creating a feeling of confidence and boosting my motivation to pursue my goals."*
 </questions>
 
 <teacher_script pause="0">
-Viết xong rồi đọc lại một lần nữa, kiểm tra lỗi chính tả và ngữ pháp nha. Sau đó đổi bài với bạn bên cạnh để nhận xét.
-</teacher_script>
-
-<teacher_script pause="0">
-Xong bài <eng>Skills 2</eng> Unit 5 rồi nha! Tụi mình đã học về Vịnh Hạ Long và hang Phong Nha — hai kỳ quan thiên nhiên tuyệt đẹp của Việt Nam. Và mình đã thực hành kỹ năng viết đoạn văn mô tả địa danh. Tự hào về đất nước Việt Nam mình nha! Unit 5 xong rồi — hẹn gặp lại!
+Xong bài <eng>Skills 2</eng> Unit 5 rồi nha! Tụi mình đã nghe hội thoại về trải nghiệm tồi tệ của Minh và bố — nhớ bài học: đừng học vẹt, phải hiểu bài thực sự nha! Unit 5 xong rồi — hẹn gặp lại!
 </teacher_script>

@@ -1,5 +1,6 @@
 {
   "_comment": "Whitelist for false positives in fabrication check. Key format: g{grade}-unit-{nn}-{section}. Values are normalized sentences to skip.",
+
   "global": {
     "instructions": [
       "work in pairs",

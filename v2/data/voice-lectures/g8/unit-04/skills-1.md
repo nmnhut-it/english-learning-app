@@ -51,19 +51,11 @@ Ok bây giờ đọc bài về nhà sàn. Đọc kỹ, chú ý thông tin về: 
 </teacher_script>
 
 <reading>
-## Stilt Houses in Vietnam
+Stilt houses are popular among different ethnic minority groups, from the Thai in the Northern Highlands to the Khmer in the Mekong Delta. The houses come in different sizes and styles, and show the traditional culture of their owners.
 
-Stilt houses are one of the most popular types of traditional housing among many highland ethnic groups in Vietnam. They are not just found in a few remote areas — many communities across the country live in stilt houses, from the northern mountains to parts of the Central Highlands.
+Stilt houses are made from natural materials like wood, bamboo, and leaves. They stand on strong posts, about two or three metres above the ground. This allows them to keep people safe from wild animals. People climb a seven- or nine-step staircase to enter the house. The most important place in the house is the kitchen. It has an open fire in the middle of the house. It is the place for family gatherings and receiving guests.
 
-Different ethnic groups build stilt houses in different styles, so they do not all look the same. The Thai people of the northwest build stilt houses with lower posts, while the Tay and Nung build theirs with higher posts. The Ede and Bahnar of the Central Highlands are famous for their extremely long stilt houses that can house an entire extended family.
-
-Most stilt houses are built using natural materials such as wood, bamboo, and leaves. The houses are raised above the ground on wooden or bamboo posts. This design keeps the house cool and protects the family from wild animals and flooding.
-
-In the centre of many stilt houses, there is a fireplace or a fire pit. This central fire is the heart of the home — it is where the family gathers for meals, family gatherings, and for receiving guests. On cold nights in the highlands, the fire keeps everyone warm.
-
-The Rong house (*nhà Rông*) of the Bahnar and Ede peoples is a special type of stilt house. It is not a private home but a communal house — a large, tall building that serves as the center of village life. Villagers use the Rong house for festivals, meetings, and important ceremonies. Its tall, pointed roof that soars towards the sky is one of the most iconic images of the Central Highlands.
-
-Stilt houses often overlook rice fields, rivers, or valleys below. This beautiful setting makes them not only functional homes but also a symbol of the rich cultural heritage of Vietnam's ethnic communities.
+The stilt houses of the Tay and Nung usually overlook a field. The stilt houses of the Thai, however, face mountains or a forest. The Bahnar and Ede have a communal house (called a Rong house) as the heart of their village. These communal houses are the largest and tallest ones in the village.
 </reading>
 
 <teacher_script pause="180">
@@ -81,17 +73,17 @@ Bài 1 — đúng (T) hay sai (F) dựa vào bài đọc? Cho 2 phút nha.
 </task>
 
 <questions type="true_false">
-**1.** Only a few minority groups in remote areas live in stilt houses.
-*Chỉ một vài nhóm thiểu số ở vùng hẻo lánh sống trong nhà sàn.*
+**1.** Only a few minority groups live in stilt houses.
+*Chỉ một vài nhóm thiểu số sống trong nhà sàn.*
 
-**2.** All stilt houses in Vietnam look the same.
-*Tất cả nhà sàn ở Việt Nam đều trông giống nhau.*
+**2.** All stilt houses look alike.
+*Tất cả nhà sàn đều trông giống nhau.*
 
-**3.** Family gatherings often take place near the central fire.
-*Các buổi đoàn tụ gia đình thường diễn ra gần bếp lửa trung tâm.*
+**3.** Family gatherings take place by the open fire in the middle of the house.
+*Các buổi đoàn tụ gia đình diễn ra ở bếp lửa giữa nhà.*
 
-**4.** The Rong house is a private home for one family.
-*Nhà Rông là nhà riêng của một gia đình.*
+**4.** The Rong house serves as the center of an Ede village.
+*Nhà Rông là trung tâm của một ngôi làng Ê-đê.*
 </questions>
 
 <teacher_script pause="0">
@@ -99,18 +91,15 @@ Bài 1 — đúng (T) hay sai (F) dựa vào bài đọc? Cho 2 phút nha.
 </teacher_script>
 
 <answer>
-**Bài 1 - Đáp án:** 1.F | 2.F | 3.T | 4.F
+**Bài 1 - Đáp án:** 1.F | 2.F | 3.T | 4.T
 
-**1.F — Sai.** Bài đọc nói: *"They are not just found in a few remote areas — many communities across the country live in stilt houses"* → Không phải chỉ vài nhóm ở vùng hẻo lánh, mà nhiều cộng đồng khắp cả nước.
-→ *Sửa:* Many ethnic groups across Vietnam live in stilt houses, not just a few in remote areas.
+**1.F — Sai.** *"Stilt houses are popular among different ethnic minority groups, from the Thai in the Northern Highlands to the Khmer in the Mekong Delta"* → Không phải chỉ vài nhóm, mà nhiều dân tộc thiểu số sống trong nhà sàn.
 
-**2.F — Sai.** Bài đọc nói: *"Different ethnic groups build stilt houses in different styles, so they do not all look the same"* → Các dân tộc xây nhà sàn theo phong cách khác nhau, không giống nhau.
-→ *Sửa:* Different ethnic groups build stilt houses in different styles.
+**2.F — Sai.** *"The houses come in different sizes and styles"* → Nhà sàn có nhiều kích cỡ và phong cách, không giống nhau.
 
-**3.T — Đúng.** Bài đọc nói: *"it is where the family gathers for meals, family gatherings, and for receiving guests"* → Bếp lửa trung tâm là nơi gia đình tụ họp.
+**3.T — Đúng.** *"It has an open fire in the middle of the house. It is the place for family gatherings and receiving guests."* → Bếp lửa giữa nhà là nơi tụ họp gia đình.
 
-**4.F — Sai.** Bài đọc nói: *"It is not a private home but a communal house"* → Nhà Rông không phải nhà riêng tư mà là nhà cộng đồng.
-→ *Sửa:* The Rong house is a communal house — the centre of village life.
+**4.T — Đúng.** *"The Bahnar and Ede have a communal house (called a Rong house) as the heart of their village."* → Nhà Rông là trung tâm của làng Ê-đê.
 </answer>
 
 <!-- chunk: exercise-2 -->
@@ -124,23 +113,17 @@ Bài 2 — điền vào chỗ trống dựa vào bài đọc. Cho 3 phút nha.
 </task>
 
 <questions type="fill_blanks">
-**1.** Stilt houses are a _______ type of traditional housing for many highland ethnic groups.
-*(Nhà sàn là loại nhà ở truyền thống _______ của nhiều dân tộc vùng cao.)*
+**1.** A stilt house shows the _______ culture of the owner.
+*(Nhà sàn thể hiện văn hóa _______ của gia chủ.)*
 
-**2.** The Ede and Bahnar build extremely long stilt houses that can house an entire _______.
-*(Người Ê Đê và Ba Na xây nhà sàn rất dài có thể chứa cả một _______.)* 
+**2.** The Tay's and Nung's stilt houses overlook a _______.
+*(Nhà sàn của người Tày và Nùng thường nhìn ra một cái _______.)*
 
-**3.** Most stilt houses are built using natural _______ such as wood, bamboo, and leaves.
-*(Hầu hết nhà sàn được xây từ _______ tự nhiên như gỗ, tre và lá.)*
+**3.** The Thai's stilt houses overlook a _______ or _______.
+*(Nhà sàn của người Thái nhìn ra _______ hoặc _______.)*
 
-**4.** The central _______ is where the family gathers for meals and family events.
-*(_______ trung tâm là nơi gia đình tụ họp ăn cơm và tổ chức sự kiện.)*
-
-**5.** The Rong house often serves as the _______ of village life.
-*(Nhà Rông thường là _______ của cuộc sống làng.)*
-
-**6.** Stilt houses often _______ rice fields, rivers, or valleys below.
-*(Nhà sàn thường _______ ra cánh đồng lúa, sông ngòi hoặc thung lũng bên dưới.)*
+**4.** The largest and tallest house in an Ede village is the _______ house.
+*(Ngôi nhà lớn nhất và cao nhất trong một ngôi làng Ê-đê là nhà _______.)*
 </questions>
 
 <teacher_script pause="0">
@@ -148,19 +131,15 @@ Bài 2 — điền vào chỗ trống dựa vào bài đọc. Cho 3 phút nha.
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** 1. popular | 2. extended family | 3. materials | 4. fire / fireplace | 5. centre / center | 6. overlook
+**Bài 2 - Đáp án:** 1. traditional | 2. field | 3. mountains / forest | 4. Rong
 
-**1. popular** — *"one of the most popular types of traditional housing"* — phổ biến, được nhiều nhóm dân tộc dùng.
+**1. traditional** — *"show the traditional culture of their owners"* — văn hóa truyền thống.
 
-**2. extended family** — *"an entire extended family"* — *extended family* = gia đình mở rộng (nhiều thế hệ). Khác với *nuclear family* (gia đình hạt nhân: bố mẹ + con).
+**2. field** — *"The stilt houses of the Tay and Nung usually overlook a field."* — nhìn ra ruộng đồng.
 
-**3. materials** — *"natural materials such as wood, bamboo, and leaves"* — vật liệu tự nhiên.
+**3. mountains / forest** — *"The stilt houses of the Thai, however, face mountains or a forest."* — nhìn ra núi hoặc rừng. (Ngược với Tày/Nùng nhìn ra đồng.)
 
-**4. fire / fireplace** — *"a fireplace or a fire pit"* — bếp lửa trung tâm là trái tim của ngôi nhà.
-
-**5. centre / center** — *"serves as the center of village life"* — trung tâm của đời sống làng.
-
-**6. overlook** — *"Stilt houses often overlook rice fields, rivers, or valleys below"* — nhìn xuống, hướng ra. *overlook* = nhìn từ trên cao xuống một địa điểm phía dưới.
+**4. Rong** — *"The Bahnar and Ede have a communal house (called a Rong house) as the heart of their village. These communal houses are the largest and tallest ones in the village."*
 </answer>
 
 <!-- chunk: speaking -->

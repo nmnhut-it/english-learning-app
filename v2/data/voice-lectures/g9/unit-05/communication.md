@@ -62,43 +62,29 @@ Nhớ mấy cụm này nha. Đặc biệt khi xin lỗi, cố gắng nói thêm 
 
 <!-- chunk: dialogue-1 -->
 <teacher_script pause="0">
-Hội thoại 1 — An đến muộn cho dự án nhóm và xin lỗi Tom nha.
+Bài 1 — <eng>Listen and read</eng> nha. Hai hội thoại về xin lỗi và chấp nhận lời xin lỗi. Chú ý những phần được in đậm — đó là các cụm quan trọng nha.
 </teacher_script>
 
-<dialogue>
-**An:** Tom, I'm really sorry for being late. I missed the bus and couldn't find a taxi.
-**Tom:** It's fine — these things happen. But next time, please let me know in advance.
-**An:** Of course. I promise I will. I'll also make it up to you by finishing the summary for our project.
-**Tom:** That's great! Thanks, An.
-</dialogue>
+<audio src="30.mp3"></audio>
 
-<translation>
-**An:** Tom ơi, mình thực sự xin lỗi vì đến muộn. Mình lỡ xe buýt và không tìm được taxi.
-**Tom:** Không sao — chuyện đó vẫn xảy ra. Nhưng lần sau, báo cho mình biết trước nha.
-**An:** Tất nhiên rồi. Mình hứa sẽ vậy. Mình cũng sẽ bù đắp bằng cách hoàn thành phần tóm tắt cho dự án của chúng mình.
-**Tom:** Hay đó! Cảm ơn An nha.
-</translation>
+<dialogue>
+**1.**
+
+**Mai:** Can I come in? I'm really sorry. I'm late. There was a lot of traffic.
+**Teacher:** That's okay, Mai.
+</dialogue>
 
 <teacher_script pause="0">
-Xong hội thoại 1. Giờ xem hội thoại 2 nha — Mi xin lỗi vì về nhà muộn.
+Hội thoại 2 nha — con trai quên giặt đồ và xin lỗi mẹ.
 </teacher_script>
 
-<!-- chunk: dialogue-2 -->
 <dialogue>
-**Mi:** Phong, I apologise for staying out past 9pm last night. I should have called you earlier.
-**Phong:** Don't worry — I'm not angry. But our parents were really worried. It wasn't fair on them.
-**Mi:** You're right, I'm really sorry. I promise I'll always be home on time from now on.
-**Phong:** That's all I needed to hear. Just don't let it happen again, okay?
-**Mi:** I won't. I promise!
-</dialogue>
+**2.**
 
-<translation>
-**Mi:** Phong ơi, mình xin lỗi vì ở ngoài sau 9 giờ tối hôm qua. Mình đáng lẽ phải gọi cho bạn sớm hơn.
-**Phong:** Đừng lo — mình không tức đâu. Nhưng ba mẹ bọn mình lo lắm đó. Như vậy không công bằng với họ.
-**Mi:** Bạn nói đúng, mình thực sự xin lỗi. Mình hứa từ nay trở đi sẽ luôn về nhà đúng giờ.
-**Phong:** Đó là tất cả những gì mình cần nghe. Chỉ cần đừng để điều đó xảy ra lần nữa, được không?
-**Mi:** Mình sẽ không. Mình hứa!
-</translation>
+**Mother:** Have you done the washing yet?
+**Son:** Oops, my mistake, Mum. I thought I could do it later.
+**Mother:** Oh, that's right. But please do it now.
+</dialogue>
 
 <teacher_script pause="180">
 Dịch cả hai hội thoại vô vở nha. 3 phút.
@@ -106,20 +92,16 @@ Dịch cả hai hội thoại vô vở nha. 3 phút.
 
 <!-- chunk: translation -->
 <translation>
-**Dịch hội thoại 1 — An và Tom**
+**Hội thoại 1:**
 
-- **An:** Tom ơi, mình thực sự xin lỗi vì đến muộn. Mình lỡ xe buýt và không tìm được taxi.
-- **Tom:** Không sao — chuyện đó vẫn xảy ra. Nhưng lần sau, báo cho mình biết trước nha.
-- **An:** Tất nhiên rồi. Mình hứa sẽ vậy. Mình cũng sẽ bù đắp bằng cách hoàn thành phần tóm tắt cho dự án của chúng mình.
-- **Tom:** Hay đó! Cảm ơn An nha.
+- **Mai:** Em vào lớp được không ạ? Em thực sự xin lỗi. Em đến trễ. Em bị kẹt xe.
+- **Giáo viên:** Không sao đâu Mai.
 
-**Dịch hội thoại 2 — Mi và Phong**
+**Hội thoại 2:**
 
-- **Mi:** Phong ơi, mình xin lỗi vì ở ngoài sau 9 giờ tối hôm qua. Mình đáng lẽ phải gọi cho bạn sớm hơn.
-- **Phong:** Đừng lo — mình không tức đâu. Nhưng ba mẹ bọn mình lo lắm đó. Như vậy không công bằng với họ.
-- **Mi:** Bạn nói đúng, mình thực sự xin lỗi. Mình hứa từ nay trở đi sẽ luôn về nhà đúng giờ.
-- **Phong:** Đó là tất cả những gì mình cần nghe. Chỉ cần đừng để điều đó xảy ra lần nữa, được không?
-- **Mi:** Mình sẽ không. Mình hứa!
+- **Mẹ:** Con giặt đồ chưa?
+- **Con trai:** Ôi, lỗi của con, mẹ ạ. Con nghĩ con có thể làm điều đó sau.
+- **Mẹ:** Ồ, đúng rồi. Nhưng hãy làm điều đó ngay bây giờ.
 </translation>
 
 <teacher_script pause="0">
@@ -128,60 +110,135 @@ Dịch xong rồi nha. Bây giờ luyện xin lỗi theo tình huống thực t�
 
 <!-- chunk: exercise-2 -->
 <teacher_script pause="120">
-Bài 2 — <eng>Role-play</eng> nha. Nhìn vào 3 tình huống dưới đây và viết lời xin lỗi phù hợp. 2 phút chuẩn bị, rồi thực hành với bạn.
+Bài 2 — làm việc theo cặp nha. Thực hiện hội thoại tương tự với 2 tình huống sau. 2 phút chuẩn bị.
 </teacher_script>
 
 <task>
-**Đề:** Write an apology for each situation, then role-play with your partner.
-**Dịch đề:** Viết lời xin lỗi cho mỗi tình huống, rồi thực hành với bạn.
+**Đề:** Work in pairs. Make similar conversations with the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự với các tình huống sau.
 </task>
 
 <questions type="speaking">
-**Tình huống a:**
-You forgot to lend your friend a book you promised to bring to school today.
-*(Bạn quên mang cuốn sách cho bạn mượn mà bạn đã hứa mang đến trường hôm nay.)*
+**1.** You submit your project after the deadline.
+*(Bạn gửi dự án của mình sau hạn chót.)*
 
-**Tình huống b:**
-You accidentally slipped and bumped into someone in the hallway, making them drop their things.
-*(Bạn vô tình trượt và đụng vào ai đó trong hành lang, làm họ đánh rơi đồ.)*
-
-**Tình huống c:**
-You submitted your homework a day late because you forgot about it.
-*(Bạn nộp bài tập muộn một ngày vì quên mất.)*
-
-**Mẫu đáp án:**
-- **a:** "I'm so sorry — I forgot to bring your book. I'll definitely bring it tomorrow. Is that okay?"
-- **b:** "I'm really sorry! I didn't mean to bump into you. Are you okay? Let me help you pick those up."
-- **c:** "I apologise for submitting my homework late, teacher. I forgot and I take full responsibility. It won't happen again."
+**2.** You came home later than you promised your mum you would.
+*(Bạn về nhà muộn hơn bạn đã hứa với mẹ.)*
 </questions>
 
 <teacher_script pause="0">
-Xong rồi nha. Các em đã biết cách xin lỗi chuyên nghiệp và tự nhiên rồi.
+Mẫu hội thoại nè — tham khảo thôi, không cần chép y chang nha.
 </teacher_script>
 
-<!-- chunk: exercise-3-vocab -->
-<teacher_script pause="0">
-Bài 3 — học thêm từ vựng về chuyến đi lặn biển nha. Những từ này sẽ xuất hiện trong bài nghe và bài viết. Đọc và ghi vô tập.
-</teacher_script>
+<answer>
+**Tình huống 1 — nộp bài trễ hạn:**
 
-<vocabulary>
-1. **ankle** : (n) mắt cá chân /ˈæŋkl/
-2. **tent** : (n) lều /tent/
-3. **hurt** : (v/adj) đau; bị thương /hɜːt/
-4. **slip** : (v) trượt ngã /slɪp/
-5. **helpless** : (adj) bất lực /ˈhelpləs/
-6. **put up the tents** : (phr) dựng lều /pʊt ʌp ðə tents/
-7. **unforgettable** : (adj) khó quên /ˌʌnfəˈɡetəbl/
-8. **hire** : (v) thuê /haɪə/
-9. **brilliant** : (adj) tuyệt vời /ˈbrɪliənt/
-10. **instructor** : (n) huấn luyện viên /ɪnˈstrʌktə/
-11. **snorkel** : (v/n) lặn ống thở /ˈsnɔːkl/
-12. **exhilarating** : (adj) phấn khích /ɪɡˈzɪləreɪtɪŋ/
-13. **coral reef** : (n) rạn san hô /ˈkɒrəl riːf/
-</vocabulary>
+**Teacher:** Have you submitted your project yet?
+*(Giáo viên: Em đã nộp dự án của mình chưa?)*
+
+**Student:** Oops, my mistake. I thought I had more time. I'll make sure to be on time next time.
+*(Học sinh: Ôi, lỗi của em. Em tưởng em có nhiều thời gian hơn. Lần sau em đảm bảo sẽ đúng thời hạn.)*
+
+**Teacher:** That's alright, but try to manage your time better in the future.
+*(Giáo viên: Được rồi, nhưng sau này hãy cố gắng quản lý thời gian tốt hơn nhé.)*
+
+---
+
+**Tình huống 2 — về nhà muộn hơn đã hứa:**
+
+**You:** I'm really sorry. I came home later than I promised.
+*(Con thực sự xin lỗi. Con về nhà muộn hơn con đã hứa.)*
+
+**Mom:** That's okay, but next time, make sure to inform me if you're going to be late.
+*(Mẹ: Không sao đâu, nhưng lần sau con về muộn nhớ báo cho mẹ nhé.)*
+</answer>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0515/30.mp3"></audio>
 
 <teacher_script pause="0">
-Xong rồi nha! Bài <eng>Communication</eng> Unit 5 đã học xong. Tụi mình đã học cách xin lỗi và chấp nhận xin lỗi, đọc hội thoại thực tế, và luyện từ vựng chuyến đi. Hẹn gặp ở bài <eng>Skills 1</eng> nghen!
+Xong rồi nha. Tiếp theo đọc bài về trải nghiệm cắm trại nha.
+</teacher_script>
+
+<!-- chunk: exercise-3 -->
+<teacher_script pause="0">
+Bài 3 — đọc bài viết của ba người bạn về ngày cắm trại nha. Sau đó ghép tên với trải nghiệm đúng.
+</teacher_script>
+
+<reading>
+**Mai:** It was actually a terrible day for me. I slipped and hurt my ankle, so I had to stay inside my tent. I couldn't join any team building games at all. I have never experienced such helplessness.
+
+**Tom:** I haven't had many exciting experiences like that before. We got to a beautiful site in Ninh Bình. We put up the tents and did unforgettable team building activities. We also hired bikes and cycled around the area. It was so relaxing.
+
+**Minh:** I had a brilliant experience by the sea with my class last year. We joined team building activities in the morning. In the afternoon an instructor taught some of us snorkelling. It was exhilarating. It was also wonderful to see a coral reef and many types of colourful fishes swimming around. It's the best experience I've ever had.
+</reading>
+
+<translation>
+**Mai:** Thực sự đó là một ngày khủng khiếp đối với tôi. Tôi bị trượt chân và bị thương ở mắt cá chân nên phải ở trong lều. Tôi không thể tham gia bất kỳ trò chơi xây dựng nhóm nào cả. Tôi chưa bao giờ trải qua sự bất lực như vậy.
+
+**Tom:** Trước đây tôi chưa có nhiều trải nghiệm thú vị như vậy. Chúng tôi đã đến một địa điểm đẹp ở Ninh Bình. Chúng tôi dựng lều và thực hiện những hoạt động teambuilding khó quên. Chúng tôi cũng thuê xe đạp và đạp xe quanh khu vực. Thật là thư giãn.
+
+**Minh:** Tôi đã có một trải nghiệm tuyệt vời bên bờ biển với lớp của mình vào năm ngoái. Chúng tôi tham gia các hoạt động xây dựng đội nhóm vào buổi sáng. Vào buổi chiều, một người hướng dẫn dạy vài người trong số chúng tôi lặn với ống thở. Thật là phấn khởi. Thật tuyệt vời khi được ngắm nhìn rạn san hô và nhiều loại cá đủ màu sắc bơi lội xung quanh. Đó là trải nghiệm tuyệt vời nhất tôi từng có.
+</translation>
+
+<teacher_script pause="60">
+Ghép tên Mai, Tom, Minh với các trải nghiệm a-f bên dưới nha. 1 phút.
+</teacher_script>
+
+<questions type="matching">
+| | Mai | Tom | Minh |
+|---|-----|-----|------|
+| a. exciting experiences in an area | | | |
+| b. a terrible experience at the campsite | | | |
+| c. a brilliant experience by the sea | | | |
+| d. an exhilarating experience of snorkelling | | | |
+| e. an experience of watching team building activities | | | |
+| f. a relaxing bike riding experience | | | |
+</questions>
+
+<teacher_script pause="0">
+Đáp án nè.
+</teacher_script>
+
+<answer>
+**Mai:** b, e
+**Tom:** a, f
+**Minh:** c, d
+</answer>
+
+<explanation>
+**Mai - b, e:**
+- **b.** a terrible experience: Mai "slipped and hurt my ankle" → trải nghiệm khủng khiếp ở khu cắm trại.
+- **e.** watching team building activities: Mai không *tham gia* được vì bị thương — chỉ *xem* thôi.
+
+**Tom - a, f:**
+- **a.** exciting experiences in an area: Tom đến Ninh Bình, dựng lều, làm teambuilding → trải nghiệm thú vị ở một khu vực.
+- **f.** a relaxing bike riding experience: "hired bikes and cycled around the area. It was so relaxing."
+
+**Minh - c, d:**
+- **c.** a brilliant experience by the sea: "I had a brilliant experience by the sea" — Minh tự nói vậy.
+- **d.** an exhilarating experience of snorkelling: "snorkelling. It was exhilarating."
+</explanation>
+
+<!-- chunk: exercise-4-5 -->
+<teacher_script pause="60">
+Bài 4 và 5 — <eng>Speaking</eng> nha. Làm việc theo cặp, hỏi và trả lời về trải nghiệm của Mai, Tom và Minh, dùng câu hỏi gợi ý bên dưới. Sau đó kể về trải nghiệm chuyến đi của bản thân. 1 phút chuẩn bị.
+</teacher_script>
+
+<questions type="speaking">
+**Câu hỏi gợi ý (Bài 4):**
+- Where did he / she go? *(Anh ấy/ Cô ấy đã đi đâu?)*
+- What did he/she do? *(Anh ấy/ Cô ấy đã làm gì?)*
+- How was his/her experience? *(Trải nghiệm của anh ấy/ cô ấy như thế nào?)*
+- Has he/she ever had that experience before? *(Anh ấy/ Cô ấy đã bao giờ có trải nghiệm như thế trước đây chưa?)*
+
+**Bài 5 — Kể về chuyến đi của bản thân:**
+
+*A: Where did you go?*
+*B: I went to ....*
+*C: What did you do?*
+*B: I climbed ...*
+</questions>
+
+<teacher_script pause="0">
+Xong bài <eng>Communication</eng> Unit 5 rồi nha! Hôm nay học cách xin lỗi và chấp nhận lời xin lỗi — nhớ mấy cụm quan trọng: *I'm really sorry*, *Oops, my mistake*, *That's okay*, *Don't worry*. Đọc bài viết của Mai, Tom, Minh về ngày cắm trại nữa. Ôn bài hen!
 </teacher_script>

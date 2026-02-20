@@ -59,14 +59,35 @@ Bài 1 <eng>Listen and read</eng> nha. Nghe Mai và Alice nói về mua sắm đ
 
 <dialogue>
 **Mai:** How was your trip to Bac Ha, Alice?
-(Chuyến đi Bắc Hà thế nào Alice?)
-**Alice:** It's awesome. I like **Bac Ha Fair** most. It's an **open-air market** in Lao Cai.
-(Tuyệt lắm. Mình thích chợ phiên Bắc Hà nhất. Đó là chợ ngoài trời ở Lào Cai.)
-**Alice:** ...most of the products sold at the market were **home-grown** and **home-made**.
-(...hầu hết sản phẩm là đồ nhà trồng và nhà làm.)
-**Mai:** I prefer shopping at the supermarket. I can find almost everything... and I don't have to **bargain**. All the items have **fixed prices** on their **price tags**.
-(Mình thích siêu thị hơn... không phải trả giá. Mọi thứ đều có giá niêm yết.)
+**Alice:** It's awesome. I like Bac Ha Fair most. It's an open-air market in Lao Cai.
+**Mai:** What do you like about it?
+**Alice:** Many things. The people at the market were wearing really colourful costumes.
+**Mai:** Yeah ... They came from different minority groups.
+**Alice:** I think so, and most of the products sold at the market were home-grown and home-made. I love it.
+**Mai:** Do you have similar markets in New Zealand?
+**Alice:** Yes, we do. Back in my city, Auckland, we have a farmers' market every Saturday where farmers sell their products. My mother loves shopping there, and she rarely misses one.
+**Mai:** I prefer shopping at the supermarket. I can find almost everything I need there, and I don't have to bargain. All the items have fixed prices on their price tags.
+**Alice:** Right. It's more convenient.
+**Mai:** Yeah ... Oh, I've got to go. My art lesson starts at one o'clock, and I want to go to a convenience store on the way. See you later.
+**Alice:** See you.
 </dialogue>
+
+<translation>
+| English | Vietnamese |
+|---------|------------|
+| **Mai:** How was your trip to Bac Ha, Alice? | **Mai:** Alice, chuyến đi của cậu đến Bắc Hà như thế nào? |
+| **Alice:** It's awesome. I like Bac Ha Fair most. It's an open-air market in Lao Cai. | **Alice:** Tuyệt vời. Mình thích Hội chợ Bắc Hà nhất. Nó là một khu chợ trời ở Lào Cai. |
+| **Mai:** What do you like about it? | **Mai:** Cậu thích điều gì ở đó? |
+| **Alice:** Many things. The people at the market were wearing really colourful costumes. | **Alice:** Nhiều thứ lắm. Mọi người ở khu chợ mặc rất nhiều bộ đồ đầy màu sắc. |
+| **Mai:** Yeah ... They came from different minority groups. | **Mai:** Đúng rồi ... Họ đến từ những dân tộc khác nhau. |
+| **Alice:** I think so, and most of the products sold at the market were home-grown and home-made. I love it. | **Alice:** Mình cũng thế, và hầu hết các sản phẩm ở chợ đều là tự trồng và tự làm lấy. Mình rất thích điều đó. |
+| **Mai:** Do you have similar markets in New Zealand? | **Mai:** Ở New Zealand có khu chợ như thế không? |
+| **Alice:** Yes, we do. Back in my city, Auckland, we have a farmers' market every Saturday where farmers sell their products. My mother loves shopping there, and she rarely misses one. | **Alice:** Có chứ. Ở thành phố của mình, Auckland, tụi mình có một khu chợ nông sản mỗi thứ Bảy. Mẹ mình rất yêu thích mua sắm ở đó và bà ấy hiếm khi bỏ lỡ. |
+| **Mai:** I prefer shopping at the supermarket. I can find almost everything I need there, and I don't have to bargain. All the items have fixed prices on their price tags. | **Mai:** Mình thích mua sắm ở siêu thị hơn. Mình có thể tìm thấy hầu hết mọi thứ và không cần trả giá. Tất cả mặt hàng đều có giá cố định trên nhãn giá. |
+| **Alice:** Right. It's more convenient. | **Alice:** Đúng rồi. Như vậy thì tiện lợi hơn. |
+| **Mai:** Yeah ... Oh, I've got to go. My art lesson starts at one o'clock, and I want to go to a convenience store on the way. See you later. | **Mai:** Ừa... Ồ, mình phải đi rồi. Tiết mỹ thuật bắt đầu lúc một giờ và mình muốn ghé cửa hàng tiện lợi trên đường đi. Hẹn gặp lại cậu. |
+| **Alice:** See you. | **Alice:** Hẹn gặp lại. |
+</translation>
 
 ---
 

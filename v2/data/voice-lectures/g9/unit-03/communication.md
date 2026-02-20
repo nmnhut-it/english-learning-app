@@ -63,105 +63,127 @@ Mẹo nhỏ: trong lớp học, dùng "Could you say that again, please?" là an
 
 <!-- chunk: dialogue -->
 <teacher_script pause="0">
-Hội thoại giữa An và Phong — hai bạn đang nói chuyện về stress học tập. Chú ý các câu hỏi lại nha.
+Nghe và đọc hai hội thoại mẫu nha. Chú ý các câu hỏi lại và cách đáp lại.
 </teacher_script>
 
 <dialogue>
-**An:** I've been really stressed this week. I don't know what to do.
-**Phong:** Sorry? Did you say stressed?
-**An:** Yes. I have three assignments due on Friday and I can't manage.
-**Phong:** I see. Would you mind telling me more?
-**An:** I just feel like there's too much to do at once. I can't concentrate on anything.
-**Phong:** Have you tried the Pomodoro technique?
-**An:** Could you repeat that? Po-mo-do-ro?
-**Phong:** Yes! You study for 25 minutes, then take a 5-minute break. It reduces distractions and helps you focus.
-**An:** Do you mean I should repeat this all day?
-**Phong:** Exactly! Until all your assignments are done.
-**An:** Got it! I'll try that tonight. Thank you, Phong!
+| English | Vietnamese |
+|---------|------------|
+| **Mai:** Can you open the door, Tom? | **Mai:** Bạn có thể mở cửa được không Tom? |
+| **Tom:** Sorry? | **Tom:** Xin lỗi? |
+| **Mai:** Can you open the door, please? | **Mai:** Bạn mở cửa được không? |
+| **Nick:** Excuse me. Would you mind showing me the way to the post office? | **Nick:** Xin lỗi. Bạn vui lòng chỉ cho tôi đường đến bưu điện được không? |
+| **Woman:** I beg your pardon. | **Người phụ nữ:** Xin vui lòng nhắc lại. |
+| **Nick:** Would you mind showing me the way to the post office? | **Nick:** Bạn vui lòng chỉ cho tôi đường đến bưu điện được không? |
 </dialogue>
 
-<translation>
-**An:** Tuần này tao căng thẳng lắm. Tao không biết phải làm gì nữa.
-**Phong:** Sao? Mày nói căng thẳng hả?
-**An:** Ừ. Tao có ba bài tập nộp thứ Sáu mà xoay không nổi.
-**Phong:** Tao hiểu rồi. Mày có phiền kể thêm cho tao nghe không?
-**An:** Tao cứ cảm giác có quá nhiều thứ cần làm cùng lúc. Tao không tập trung được vào cái gì hết.
-**Phong:** Mày đã thử kỹ thuật Pomodoro chưa?
-**An:** Mày có thể nhắc lại không? Po-mo-do-ro?
-**Phong:** Ừ! Mày học 25 phút rồi nghỉ 5 phút. Cách này giảm sự xao lãng và giúp mày tập trung hơn.
-**An:** Ý mày là tao nên làm như vậy cả ngày hả?
-**Phong:** Đúng rồi! Cho đến khi làm xong hết tất cả bài tập.
-**An:** Hiểu rồi! Tối nay tao sẽ thử. Cảm ơn mày nha, Phong!
-</translation>
-
 <teacher_script pause="180">
-Dịch hội thoại vô vở nha. Gạch chân các câu hỏi lại và xác nhận: "Sorry?", "Could you repeat that?", "Do you mean...?", "Got it!". Ba phút.
+Dịch hai hội thoại vô vở nha. Gạch chân các câu hỏi lại: "Sorry?" và "I beg your pardon." Ba phút.
 </teacher_script>
 
-<!-- chunk: exercise-2-checking-understanding -->
+<!-- chunk: exercise-2-speaking -->
 <teacher_script pause="60">
-<eng>Exercise 2</eng> — chọn câu phản hồi phù hợp cho từng tình huống nha. 60 giây.
+<eng>Exercise 2</eng> — luyện nói theo cặp nha. Có 2 tình huống, thực hiện hội thoại tương tự như bài 1. 60 giây chuẩn bị.
 </teacher_script>
 
 <task>
-**Đề:** Choose the most appropriate response for each situation.
-**Dịch đề:** Chọn phản hồi phù hợp nhất cho mỗi tình huống.
+**Đề:** Work in pairs. Make similar conversations for the following situations.
+**Dịch đề:** Làm việc theo cặp. Thực hiện các cuộc hội thoại tương tự cho các tình huống sau.
 </task>
 
-<questions type="multiple_choice">
-**a.** Your teacher explains a grammar point very quickly and you don't follow.
-*(Thầy/cô giải thích ngữ pháp rất nhanh và em không theo kịp.)*
-- A. "Sorry? I didn't catch that. Could you say that again, please?"
-- B. "That makes sense!"
-- C. "Got it!"
+<questions type="speaking">
+**1.** You ask your friend to pass the book, but he/she can't hear what you say.
+*(Bạn nhờ bạn mình đưa cuốn sách nhưng bạn ấy không nghe được bạn nói gì.)*
 
-**b.** Your friend gives you directions to a new place and you're not sure you understood correctly.
-*(Bạn chỉ đường đến chỗ mới và em không chắc mình hiểu đúng.)*
-- A. "I beg your pardon?"
-- B. "Do you mean I should turn left at the traffic lights?"
-- C. "Would you mind repeating that?"
-
-**c.** Your classmate explains a maths solution step by step and finishes. You understood everything.
-*(Bạn cùng lớp giải thích bài toán từng bước và vừa xong. Em hiểu hết rồi.)*
-- A. "Sorry?"
-- B. "Could you say that again?"
-- C. "Got it! That makes sense now, thank you!"
+**2.** A stranger asks you the way to the nearest bus station, but you can't hear what he/she says.
+*(Một người lạ hỏi bạn đường đến bến xe buýt gần nhất nhưng bạn không thể nghe được họ nói gì.)*
 </questions>
 
 <teacher_script pause="0">
-Đáp án và giải thích nè!
+Đáp án gợi ý nè!
 </teacher_script>
 
 <answer>
-**Bài 2 - Đáp án:** a.A | b.B | c.C
+**Gợi ý đáp án:**
+
+**1.**
+- **You:** Can you pass me the book, Sarah?
+- **Sarah:** Sorry?
+- **You:** Can you pass me the book, please?
+
+**2.**
+- **Stranger:** Excuse me. Could you tell me the way to the nearest bus station?
+- **You:** I beg your pardon.
+- **Stranger:** Could you tell me the way to the nearest bus station?
 </answer>
 
 <explanation>
-**a. A — "Could you say that again, please?"** — Em không hiểu → phải hỏi lại. "Sorry, I didn't catch that" thêm lý do giải thích, lịch sự và rõ ràng. Không dùng "Got it!" khi chưa hiểu nha.
+**1.** Tình huống không nghe rõ → đáp lại bằng "Sorry?" rồi người kia nhắc lại rõ hơn.
 
-**b. B — "Do you mean I should turn left...?"** — Em nghe rồi nhưng muốn *xác nhận* lại hiểu đúng không → dùng "Do you mean...?" Không cần hỏi lại từ đầu vì em đã nghe rồi.
-
-**c. C — "Got it! That makes sense!"** — Em hiểu hết rồi → thể hiện đã nắm bài. "Got it!" = hiểu rồi, "That makes sense!" = có lý đó. Không hỏi lại khi đã hiểu hết rồi nha.
+**2.** Tình huống nghe không rõ câu hỏi → dùng "I beg your pardon." (trang trọng hơn "Sorry?") để yêu cầu nhắc lại.
 </explanation>
 
-<!-- chunk: exercise-3-fill-blanks -->
+<!-- chunk: exercise-3-reading -->
+<teacher_script pause="0">
+<eng>Exercise 3</eng> — đọc đoạn văn về mẹo để ngày đến trường trở nên vui hơn, rồi hoàn thành các câu phía dưới nha.
+</teacher_script>
+
+<reading>
+**Tips for being happy on school days**
+*(Mẹo để mỗi ngày đi học là một niềm vui)*
+
+**Do nice things to others**
+
+Praise or encourage your classmates for a fun activity. Thank your teacher for his or her interesting lesson. Making other people feel happy can bring you great happiness.
+
+**Don't delay**
+
+When you complete your homework or assignment ahead of time, you will feel less worried about it. Don't wait to study until the night before a test. Instead, study one or two hours regularly a day.
+
+**Take care of yourself**
+
+Get enough sleep and eat healthy food. Do exercise regularly and do some activities you like. Taking care of yourself can bring you good health and happiness.
+
+**Be optimistic**
+
+There will always be bad things and difficulties to overcome at school, but they don't last long. If you have an unhappy day, you should try to get through it!
+</reading>
+
+<translation>
+**Làm những điều tốt đẹp cho người khác**
+
+Khen ngợi hoặc khuyến khích các bạn cùng lớp của bạn thực hiện một hoạt động vui vẻ. Cảm ơn giáo viên của bạn vì bài học thú vị của mình. Làm cho người khác cảm thấy hạnh phúc có thể mang lại cho bạn niềm hạnh phúc lớn lao.
+
+**Đừng trì hoãn**
+
+Khi hoàn thành bài tập về nhà hoặc bài tập trước thời hạn, bạn sẽ cảm thấy bớt lo lắng hơn. Đừng đợi đến đêm trước ngày thi mới học. Thay vào đó, hãy học một hoặc hai giờ đều đặn mỗi ngày.
+
+**Chăm sóc bản thân**
+
+Ngủ đủ giấc và ăn thực phẩm lành mạnh. Hãy tập thể dục thường xuyên và thực hiện một số hoạt động bạn thích. Chăm sóc bản thân có thể mang lại cho bạn sức khỏe tốt và hạnh phúc.
+
+**Lạc quan**
+
+Sẽ luôn có những điều tồi tệ và khó khăn phải vượt qua ở trường, nhưng chúng không kéo dài lâu. Nếu bạn có một ngày không vui thì hãy cố gắng vượt qua nó nhé!
+</translation>
+
 <teacher_script pause="60">
-<eng>Exercise 3</eng> — điền từ đúng vào chỗ trống nha. Chọn: *happy, delay, happiness, overcome*. 60 giây.
+Đọc xong rồi điền từ đúng vào chỗ trống nha. Dựa vào đoạn văn vừa đọc. 60 giây.
 </teacher_script>
 
 <task>
-**Đề:** Fill in the blanks with the correct words: *happy, delay, happiness, overcome*.
-**Dịch đề:** Điền từ đúng vào chỗ trống.
+**Đề:** Read the text and complete each sentence that follows with a suitable word.
+**Dịch đề:** Đọc đoạn văn và hoàn thành mỗi câu sau bằng một từ thích hợp.
 </task>
 
 <questions type="fill_blanks">
-**1.** Staying ________ is one of the keys to good mental health.
+**1.** You should make others feel ________ by giving them encouragement or being thankful to them.
 
-**2.** Don't ________ solving your problems — face them now!
+**2.** You shouldn't ________ doing your homework or assignment or preparing for a test. This will reduce your stress.
 
-**3.** Music brings me ________ when I feel sad.
+**3.** Getting enough sleep, eating healthy food, and doing what you like can bring you good health and ________.
 
-**4.** If you ________ one difficulty, you will feel stronger.
+**4.** You should always be expecting good things to happen and try to ________ difficulties.
 </questions>
 
 <teacher_script pause="0">
@@ -177,15 +199,15 @@ Dịch hội thoại vô vở nha. Gạch chân các câu hỏi lại và xác n
 </answer>
 
 <explanation>
-**1. happy** — "vui vẻ, hạnh phúc" — tính từ (*adjective*). Sau *"Staying"* (linking verb) cần dùng tính từ: *Staying **happy***.
+**1. happy** — "vui vẻ, hạnh phúc". Thông tin: "Making other people feel **happy** can bring you great happiness."
 
-**2. delay** — "trì hoãn". Sau *"Don't"* dùng động từ nguyên thể: *Don't **delay** solving your problems*.
+**2. delay** — "trì hoãn". Thông tin: "Don't **delay**. When you complete your homework or assignment ahead of time, you will feel less worried about it."
 
-**3. happiness** — "hạnh phúc" — danh từ (*noun*). Câu cần danh từ làm tân ngữ: *Music brings me **happiness**.*
+**3. happiness** — "hạnh phúc" (danh từ). Thông tin: "Taking care of yourself can bring you good health and **happiness**."
 
-**4. overcome** — "vượt qua". Câu điều kiện loại 1: sau *"If you"* + hiện tại đơn: *If you **overcome** one difficulty...* Chú ý: "overcome" bất quy tắc: overcome – overcame – overcome.
+**4. overcome** — "vượt qua". Thông tin: "There will always be bad things and difficulties to **overcome** at school, but they don't last long."
 </explanation>
 
 <teacher_script pause="0">
-Xong bài <eng>Communication Unit 3</eng> rồi nha! Hôm nay học cách hỏi lại khi không hiểu, xác nhận hiểu đúng, và từ vựng về tình cảm, sức khỏe tinh thần. Kỹ năng hỏi lại này quan trọng lắm trong giao tiếp thực tế — đừng ngại hỏi lại khi không hiểu nha, người ta sẽ vui mà giải thích thêm cho. Giỏi lắm!
+Xong bài <eng>Communication Unit 3</eng> rồi nha! Hôm nay học cách hỏi lại khi không hiểu: "Sorry?" và "I beg your pardon." — và đọc bài về mẹo để ngày đến trường vui hơn. Về nhà ôn lại bốn mẹo: làm điều tốt, không trì hoãn, chăm sóc bản thân, lạc quan. Giỏi lắm!
 </teacher_script>

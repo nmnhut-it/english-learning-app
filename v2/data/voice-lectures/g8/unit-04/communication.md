@@ -1,233 +1,218 @@
 # UNIT 4: ETHNIC GROUPS OF VIET NAM
-## COMMUNICATION - Asking about Ethnic Groups
+## COMMUNICATION - Giving Opinions & Ethnic Groups Quiz
 
 <!-- chunk: intro -->
 <teacher_script pause="0">
-Ok Unit 4, bài <eng>Communication</eng> nha. Mở sách trang 42. Bài này luyện hỏi và trả lời về các dân tộc thiểu số Việt Nam. Ghi tựa bài rồi vào bài luôn.
+Ok Unit 4, bài <eng>Communication</eng> nha. Mở sách trang 42. Hôm nay học cách đưa ra ý kiến và tìm hiểu về các dân tộc thiểu số Việt Nam. Ghi tựa bài rồi vào bài luôn.
 </teacher_script>
 
-<!-- chunk: language-focus -->
+<!-- chunk: bai1-dialogue -->
+### Bài 1 trang 42 - Listen and read
+
 <teacher_script pause="0">
-Trước tiên học một số câu hỏi thường dùng khi hỏi về một dân tộc nào đó. Ghi vô tập nha, mấy câu này hữu ích lắm.
+Bài 1. Nghe và đọc hội thoại. Chú ý các câu đưa ra ý kiến được in đậm nha.
 </teacher_script>
 
-<grammar>
-## Useful Questions About Ethnic Groups
+<audio src="https://img.loigiaihay.com/picture/2023/0803/track-23.mp3">
+**Audio:** Communication - Giving opinions
+</audio>
 
-| Câu hỏi | Dịch |
-|---------|------|
-| What is the population of the [group]? | Dân số của người [tên dân tộc] là bao nhiêu? |
-| Where do they mainly live? | Họ chủ yếu sống ở đâu? |
-| What do they do for a living? | Họ làm gì để kiếm sống? |
-| What is their traditional culture like? | Văn hóa truyền thống của họ như thế nào? |
-| What traditional food/music/dance do they have? | Họ có món ăn/âm nhạc/điệu múa truyền thống gì? |
-| What kind of house do they live in? | Họ sống trong loại nhà gì? |
-| What do they wear on special occasions? | Họ mặc gì trong những dịp đặc biệt? |
+<task>
+**Đề:** Listen and read the conversation. Pay attention to the highlighted parts.
+**Dịch đề:** Nghe và đọc đoạn hội thoại. Hãy chú ý đến những phần được làm nổi bật.
+</task>
 
-**Mẫu hỏi - đáp:**
-> A: *What is the population of the Tay people?*
-> B: *There are about 1.9 million Tay people.*
+<dialogue>
+**Tom:** What do you think about life in the mountains?
+**Trang:** **I think** it's very interesting. People in the mountains live close to nature.
+**Tom:** What about you, Mai? What do you think?
+**Mai:** **To my way of thinking,** there are better services in the city.
+</dialogue>
 
-> A: *Where do they mainly live?*
-> B: *They mainly live in the northern highlands.*
-</grammar>
+<translation>
+**Tom:** Cậu nghĩ sao về cuộc sống ở trên núi?
+**Trang:** Mình nghĩ nó rất thú vị. Mọi người sống gần gũi với thiên nhiên.
+**Tom:** Cậu thì sao, Mai? Cậu nghĩ như thế nào?
+**Mai:** Theo mình suy nghĩ thì ở thành phố dịch vụ tốt hơn.
+</translation>
 
-<teacher_script pause="30">
-Mấy câu hỏi này dùng được cho bất kỳ dân tộc nào nha. Học thuộc mấy câu này rồi mình tha hồ hỏi thăm về văn hóa dân tộc.
-</teacher_script>
-
-<!-- chunk: reading -->
 <teacher_script pause="0">
-Bây giờ đọc thông tin về 5 dân tộc thiểu số tiêu biểu. Đọc kỹ rồi làm bài tập nha. Audio có thể nghe theo.
+Hai cách đưa ý kiến:
+- <eng>I think...</eng> = Mình nghĩ...
+- <eng>To my way of thinking,...</eng> = Theo mình suy nghĩ thì...
 </teacher_script>
+
+<!-- chunk: bai2-speaking -->
+### Bài 2 trang 42 - Practice Giving Opinions
+
+<teacher_script pause="60">
+Bài 2. Làm việc theo cặp. Tạo hội thoại tương tự để hỏi và đưa ý kiến về 2 chủ đề. 1 phút.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Make a similar conversation to ask and give opinions about these topics.
+**Dịch đề:** Làm việc theo cặp. Thực hiện một cuộc hội thoại tương tự để hỏi và đưa ra ý kiến về những chủ đề này.
+
+1. Playing traditional games *(Chơi trò chơi truyền thống)*
+2. Living close to nature *(Sống gần gũi với thiên nhiên)*
+</task>
+
+<teacher_script pause="0">
+Đáp án mẫu nè.
+</teacher_script>
+
+<answer>
+**Mẫu 1 - Playing traditional games:**
+**A:** What do you think about playing traditional games?
+*(Cậu nghĩ sao về việc chơi trò chơi truyền thống?)*
+**B:** I think it's very interesting. Children always love playing traditional games.
+*(Mình nghĩ nó rất thú vị. Trẻ em luôn thích chơi trò chơi truyền thống.)*
+**A:** What about you, C? What do you think?
+**C:** To my way of thinking, they are more exciting when we play in groups.
+*(Theo mình suy nghĩ, chúng sẽ thú vị hơn khi chơi theo nhóm.)*
+
+**Mẫu 2 - Living close to nature:**
+**A:** What do you think about living close to nature?
+*(Cậu nghĩ sao về việc sống gần gũi với thiên nhiên?)*
+**B:** I think it is a great idea because we can learn more about animals and plants.
+*(Mình nghĩ đó là ý tưởng hay vì chúng ta có thể học nhiều hơn về động vật và cây cối.)*
+**A:** What is your opinion, C?
+**C:** To my way of thinking, living close to nature helps people improve their mental health.
+*(Theo mình, sống gần gũi với thiên nhiên giúp cải thiện sức khỏe tinh thần.)*
+</answer>
+
+<!-- chunk: bai3-quiz -->
+### Bài 3 trang 43 - Quiz: Ethnic Groups of Viet Nam
+
+<teacher_script pause="120">
+Bài 3. Đố em biết! Khoanh tròn câu trả lời đúng về các dân tộc Việt Nam. Làm trong 2 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** QUIZ. How much do you know about ethnic groups in Viet Nam? Circle the correct answer.
+**Dịch đề:** ĐỐ. Bạn biết bao nhiêu về các dân tộc ở Việt Nam? Khoanh tròn câu trả lời đúng.
+</task>
+
+<questions type="multiple_choice">
+**1.** There are _______ ethnic groups in Viet Nam.
+- A. 63
+- B. 45
+- C. 54
+
+**2.** Ethnic minority groups form about _______ of the total population of Viet Nam.
+- A. 7%
+- B. 13%
+- C. 25%
+
+**3.** They mainly live _______.
+- A. in the lowlands
+- B. in the mountains
+- C. in the Mekong Delta
+
+**4.** The Jrai decorate houses for the dead with a lot of _______.
+- A. wood statues
+- B. flowers
+- C. colourful pictures
+
+**5.** The Khmer mostly earn their living from weaving and _______.
+- A. farming
+- B. hunting
+- C. fishing
+</questions>
+
+<teacher_script pause="0">
+Ok đáp án nè.
+</teacher_script>
+
+<answer>
+**Bài 3 - Đáp án:** 1.C | 2.B | 3.B | 4.A | 5.C
+
+**1.C** — Việt Nam có **54** dân tộc anh em.
+
+**2.B** — Các dân tộc thiểu số chiếm khoảng **13%** tổng dân số Việt Nam.
+
+**3.B** — Các dân tộc thiểu số chủ yếu sống **ở vùng núi** (*in the mountains*).
+
+**4.A** — Người Gia Rai trang trí nhà của người đã khuất bằng rất nhiều **tượng gỗ** (*wood statues*).
+
+**5.C** — Người Khmer chủ yếu kiếm sống bằng nghề dệt và **đánh bắt cá** (*fishing*).
+</answer>
+
+<!-- chunk: bai4-speaking -->
+### Bài 4 trang 43 - Q&A about the Jrai People
+
+<teacher_script pause="120">
+Bài 4. Đọc thông tin về người Gia Rai rồi thay phiên hỏi và trả lời với bạn. 2 phút nha.
+</teacher_script>
+
+<task>
+**Đề:** Work in pairs. Read the information below about the Jrai. Take turns to ask and answer about the information.
+**Dịch đề:** Làm việc theo cặp. Đọc thông tin dưới đây về người Gia Rai. Thay phiên nhau hỏi và trả lời về thông tin bên dưới.
+</task>
 
 <reading>
-🎧 [Track 23](https://img.loigiaihay.com/picture/2023/0803/track-23.mp3)
+**THE JRAI** *(Người Gia Rai)*
 
-## The Tay People *(Người Tày)*
-The Tay are the largest ethnic minority group in Vietnam, with a population of about 1.9 million. They mainly live in the northern highland provinces such as Lang Son, Cao Bang, and Bac Kan. Most Tay people are rice farmers. They live in traditional stilt houses (*nhà sàn*). Their most famous musical instrument is the *dan tinh*, a string instrument with a round gourd body. The Tay are known for their *then* singing festivals.
-
-## The Hmong People *(Người Hmông)*
-The Hmong have a population of about 1.4 million and live mainly in the mountain highlands of the north, such as Ha Giang, Lao Cai, and Yen Bai. They are known for farming on terraced fields and raising livestock. The Hmong are especially famous for their colourful and elaborately embroidered traditional costumes. Weaving and embroidery (*thêu thùa*) are important traditional crafts for Hmong women.
-
-## The Cham People *(Người Chăm)*
-The Cham live mainly in the south-central coastal provinces (Ninh Thuan, Binh Thuan) and in An Giang in the Mekong Delta. Their population is about 180,000. The Cham are famous for their ancient towers (*tháp Chăm*) — beautiful brick structures that are UNESCO heritage sites. They are skilled in traditional weaving and pottery (*làm gốm*). Fishing and trading are also important to their livelihood.
-
-## The Ede People *(Người Ê Đê)*
-The Ede people (about 400,000) live mainly in Dak Lak province in the Central Highlands. They traditionally live in *longhouses* — very long stilt houses that can house an entire extended family. The Ede have a matriarchal society (*xã hội mẫu hệ*), where women hold the main authority. The *Rong house* (*nhà Rông*) serves as the communal center of the village. Gong music (*nhạc cồng chiêng*) is central to their culture.
-
-## The Khmer People *(Người Khmer)*
-The Khmer are the fourth largest ethnic minority in Vietnam, with about 1.3 million people living mainly in the Mekong Delta provinces. They follow Theravada Buddhism and their pagodas (*chùa*) are beautifully decorated. The Khmer have rich festival traditions — the most famous is the *Ok Om Bok* (Moon Worship Festival) in October. Traditional Khmer dance and music are colourful and vibrant.
+- **Population:** 513,930 (2019), the largest minority group in the Central Highlands *(dân số: 513.930 người, dân tộc thiểu số lớn nhất Tây Nguyên)*
+- **Living place:** mainly in Gia Lai *(chủ yếu sống ở Gia Lai)*
+- **Houses:** stilt houses *(nhà sàn)*
+- **Economy:** growing crops, weaving, planting industrial trees (coffee, cacao, rubber, ...), raising buffalos, and elephants *(trồng trọt, dệt vải, trồng cây công nghiệp, chăn nuôi trâu và voi)*
+- **Traditional culture:** Rich folk dances, songs, games, and musical instruments *(giàu điệu múa dân gian, bài hát, trò chơi và nhạc cụ)*
+- **Dominant role in the family:** women *(người phụ nữ nắm quyền)*
 </reading>
 
-<teacher_script pause="180">
-Đọc và dịch đoạn văn về 5 dân tộc. Ghi tóm tắt vô vở: tên dân tộc, dân số, nơi ở, nghề nghiệp, văn hóa đặc trưng. Cho 3 phút nha.
-</teacher_script>
-
-<!-- chunk: exercise-1 -->
 <teacher_script pause="0">
-Bài 1 — đúng (T) hay sai (F)? Dựa vào bài đọc vừa xong nha. Cho 2 phút.
-</teacher_script>
-
-<task>
-**Đề:** Read the text again and write True (T) or False (F).
-**Dịch đề:** Đọc lại bài và viết Đúng (T) hoặc Sai (F).
-</task>
-
-<questions type="true_false">
-**1.** The Tay are the largest ethnic minority group in Vietnam.
-*Người Tày là nhóm dân tộc thiểu số lớn nhất Việt Nam.*
-
-**2.** The Hmong mainly live in coastal areas of central Vietnam.
-*Người Hmông chủ yếu sống ở vùng ven biển miền Trung Việt Nam.*
-
-**3.** Cham towers are recognised as UNESCO heritage sites.
-*Tháp Chăm được UNESCO công nhận là di sản.*
-
-**4.** The Ede society is matriarchal — women hold the main authority.
-*Xã hội Ê Đê theo chế độ mẫu hệ — phụ nữ nắm quyền chính.*
-
-**5.** The Khmer follow Mahayana Buddhism.
-*Người Khmer theo Phật giáo Đại thừa.*
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè.
+Đáp án mẫu nè.
 </teacher_script>
 
 <answer>
-**Bài 1 - Đáp án:** 1.T | 2.F | 3.T | 4.T | 5.F
+**A:** What is the population of the Jrai people?
+**B:** It's 513,930 in 2019. They are the largest minority group in the Central Highlands.
+*(Dân số 513.930 người năm 2019. Đây là dân tộc thiểu số lớn nhất Tây Nguyên.)*
 
-**1.T** — Đúng. Bài đọc nói: *"The Tay are the largest ethnic minority group in Vietnam"* — người Tày có ~1,9 triệu người, lớn nhất trong các dân tộc thiểu số.
+**A:** Where do the Jrai mainly live?
+**B:** They mainly live in Gia Lai.
+*(Họ chủ yếu sống ở Gia Lai.)*
 
-**2.F** — Sai. Người Hmông sống ở **vùng núi phía Bắc** (*mountain highlands of the north*) như Hà Giang, Lào Cai — không phải vùng ven biển miền Trung.
+**A:** What kind of house do they live in?
+**B:** They live in stilt houses.
+*(Họ sống trong nhà sàn.)*
 
-**3.T** — Đúng. Bài đọc nói tháp Chăm là *"UNESCO heritage sites"* — di sản UNESCO.
+**A:** Who plays the dominant role in the Jrai family?
+**B:** Women play the dominant role in the family.
+*(Người phụ nữ đóng vai trò chính trong gia đình.)*
 
-**4.T** — Đúng. *"The Ede have a matriarchal society, where women hold the main authority"* — xã hội mẫu hệ, phụ nữ nắm quyền.
-
-**5.F** — Sai. Người Khmer theo **Phật giáo Nguyên thủy** (*Theravada Buddhism*), không phải Đại thừa (*Mahayana*). Theravada phổ biến ở Đông Nam Á lục địa (Campuchia, Thái Lan, Myanmar).
+**A:** What is their traditional culture like?
+**B:** They are rich in folk dances, songs, games, and musical instruments.
+*(Họ có nhiều điệu múa dân gian, bài hát, trò chơi và nhạc cụ truyền thống.)*
 </answer>
 
-<!-- chunk: exercise-2 -->
-<teacher_script pause="0">
-Bài 2 — trả lời câu hỏi dựa vào bài đọc. Viết câu đầy đủ nha. Cho 3 phút.
+<!-- chunk: bai5-sharing -->
+### Bài 5 trang 43 - Share Your Opinions
+
+<teacher_script pause="90">
+Bài 5. Làm việc nhóm. Chia sẻ với nhóm những thông tin về người Gia Rai mà em thấy thú vị. Dùng mẫu câu gợi ý. 1 phút 30 giây.
 </teacher_script>
 
 <task>
-**Đề:** Answer the questions based on the reading.
-**Dịch đề:** Trả lời câu hỏi dựa vào bài đọc.
+**Đề:** Work in groups. Share with your group the information about the Jrai people you find interesting.
+**Dịch đề:** Làm việc nhóm. Chia sẻ với nhóm của bạn những thông tin về người Gia Rai mà bạn thấy thú vị.
+
+*You may start sharing your opinion with:*
+- I like _______ because _______
+- I think that _______
 </task>
-
-<questions type="complete_sentences">
-**1.** What is the population of the Tay people?
-
-**2.** Where do the Hmong mainly live?
-
-**3.** What are the Cham people famous for?
-
-**4.** What is special about the Ede family structure?
-
-**5.** What is the most famous festival of the Khmer?
-</questions>
-
-<teacher_script pause="0">
-Đáp án gợi ý nè.
-</teacher_script>
 
 <answer>
-**Đáp án gợi ý:**
+**Mẫu:**
+I like the way they use bamboo trees to make the stilt house because it's very environmentally friendly.
+*(Mình thích cách họ dùng tre để làm nhà sàn vì rất thân thiện với môi trường.)*
 
-**1.** The population of the Tay people is about 1.9 million.
-*(Dân số người Tày khoảng 1,9 triệu người.)*
-
-**2.** The Hmong mainly live in the mountain highlands of the north, such as Ha Giang, Lao Cai, and Yen Bai.
-*(Người Hmông chủ yếu sống ở vùng núi phía Bắc như Hà Giang, Lào Cai, Yên Bái.)*
-
-**3.** The Cham people are famous for their ancient towers (Cham towers), traditional weaving, and pottery.
-*(Người Chăm nổi tiếng với những tháp cổ, nghề dệt và làm gốm truyền thống.)*
-
-**4.** The Ede have a matriarchal society, where women hold the main authority. They traditionally live in very long stilt houses (*longhouses*).
-*(Người Ê Đê có xã hội mẫu hệ, phụ nữ nắm quyền. Họ truyền thống sống trong nhà sàn dài.)*
-
-**5.** The most famous festival of the Khmer is the *Ok Om Bok* (Moon Worship Festival) in October.
-*(Lễ hội nổi tiếng nhất của người Khmer là Ok Om Bok — Lễ cúng trăng — vào tháng 10.)*
+I think that women playing the dominant role in the Jrai family is a progressive idea.
+*(Mình nghĩ phụ nữ đóng vai trò chính trong gia đình Gia Rai là tư tưởng tiến bộ.)*
 </answer>
-
-<!-- chunk: exercise-3 -->
-<teacher_script pause="0">
-Bài 3 — nối thông tin với đúng dân tộc. Một số thông tin có thể đúng cho cả hai dân tộc nha. Cho 2 phút.
-</teacher_script>
-
-<task>
-**Đề:** Match the descriptions (1–5) with the correct ethnic group(s): Tay, Hmong, Cham, Ede, or Both (Tay & Ede).
-**Dịch đề:** Nối mô tả với dân tộc đúng.
-</task>
-
-<questions type="matching">
-**Mô tả:**
-1. Lives in stilt houses
-2. Famous for colourful traditional costumes
-3. Has gong music as an important cultural tradition
-4. Known for ancient towers as historical monuments
-5. Both Tay and Ede live in stilt houses
-
-**Dân tộc:** Tay / Hmong / Cham / Ede / Both (Tay & Ede)
-</questions>
-
-<teacher_script pause="0">
-Đáp án nè.
-</teacher_script>
-
-<answer>
-**Bài 3 - Đáp án:** 1. Both (Tay & Ede) | 2. Hmong | 3. Ede | 4. Cham | 5. Both
-
-**1. Both (Tay & Ede)** — cả người Tày và người Ê Đê đều sống trong nhà sàn (*stilt houses*). Người Tày: nhà sàn truyền thống. Người Ê Đê: nhà sàn dài (*longhouses*).
-
-**2. Hmong** — người Hmông nổi tiếng với trang phục truyền thống rực rỡ màu sắc, thêu tay tinh xảo.
-
-**3. Ede** — nhạc cồng chiêng (*gong music*) đặc biệt quan trọng trong văn hóa Ê Đê ở Tây Nguyên.
-
-**4. Cham** — tháp Chăm (*Cham towers*) là công trình kiến trúc lịch sử nổi tiếng, được UNESCO công nhận.
-
-**5. Both** — xem câu 1.
-</answer>
-
-<!-- chunk: speaking -->
-<teacher_script pause="0">
-Phần nói nha. Bài 4 — dùng các câu hỏi đã học hỏi bạn bên cạnh về một dân tộc mà bạn biết hoặc muốn tìm hiểu. Có thể chọn: Tày, Hmông, Chăm, Ê Đê, Khmer, hoặc bất kỳ dân tộc nào. Luyện theo cặp 3 phút.
-</teacher_script>
-
-<task>
-**Đề:** Work in pairs. Ask and answer questions about an ethnic group using the question patterns on page 42.
-**Dịch đề:** Làm việc theo cặp. Hỏi và trả lời về một dân tộc sử dụng mẫu câu hỏi.
-</task>
-
-<questions type="speaking">
-**Mẫu hội thoại:**
-
-**A:** Which ethnic group do you want to talk about?
-**B:** I'd like to talk about the Hmong people.
-
-**A:** What is the population of the Hmong?
-**B:** There are about 1.4 million Hmong people.
-
-**A:** Where do they mainly live?
-**B:** They mainly live in the mountain highlands of the north.
-
-**A:** What are they famous for?
-**B:** They are famous for their colourful traditional costumes and weaving.
-
----
-
-*Luyện với dân tộc bạn chọn, dùng thông tin từ bài đọc hoặc kiến thức của bản thân.*
-</questions>
-
-<teacher_script pause="180">
-Nói chuyện với bạn bên cạnh nha. Hỏi ít nhất 4 câu về dân tộc bạn chọn. Cho 3 phút.
-</teacher_script>
 
 <!-- chunk: end -->
 <teacher_script pause="0">
-Xong bài <eng>Communication</eng> rồi nha! Hôm nay mình học được cách hỏi thông tin về các dân tộc, và biết thêm về 5 dân tộc thiểu số tiêu biểu: Tày, Hmông, Chăm, Ê Đê, Khmer. Mỗi dân tộc đều có văn hóa độc đáo và đáng tự hào. Tiết sau vào <eng>Skills 1</eng> nha. Cất tập lại.
+Xong bài <eng>Communication</eng> Unit 4 rồi nha! Nhớ 2 cách đưa ý kiến: <eng>I think...</eng> và <eng>To my way of thinking,...</eng>. Và nhớ: Việt Nam có 54 dân tộc — các dân tộc thiểu số chiếm 13% dân số, sống chủ yếu ở vùng núi. Tiết sau vào <eng>Skills 1</eng> nha. Cất tập lại!
 </teacher_script>
