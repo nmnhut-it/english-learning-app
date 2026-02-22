@@ -985,8 +985,12 @@ function renderContent(md, chunkIndex) {
     placeholder(`<div class="card dialogue-box" data-testid="dialogue">${renderMD(c)}</div>`));
   h = h.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) =>
     placeholder(`<div class="card" data-testid="translation">${renderMD(c)}</div>`));
-  h = h.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) =>
-    placeholder(`<div class="card" data-testid="reading">${renderMD(c)}</div>`));
+  h = h.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) => {
+    // Convert [Audio: URL] pattern to audio player
+    const withAudio = c.replace(/\[Audio:\s*(https?:\/\/[^\]]+)\]/gi, (_, url) =>
+      `<div class="audio-box"><audio controls src="${url}"></audio></div>`);
+    return placeholder(`<div class="card" data-testid="reading">${renderMD(withAudio)}</div>`);
+  });
   h = h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) =>
     placeholder(`<div class="card" data-testid="questions">${renderMD(c)}</div>`));
   h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>

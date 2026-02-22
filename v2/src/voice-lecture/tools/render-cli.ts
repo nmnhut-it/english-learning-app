@@ -151,12 +151,16 @@ function renderCustomTag(tag: string, content: string, attrs: string = ''): stri
         ${renderTables(renderMarkdown(content))}
       </div>`;
 
-    case 'audio':
+    case 'audio': {
+      const srcMatch = attrs.match(/src="([^"]+)"/);
+      const src = srcMatch ? srcMatch[1] : '';
+      const audioEl = src && !src.includes('TODO')
+        ? `<audio controls src="${src}"></audio>`
+        : `<div class="audio-placeholder">🔇 ${content.trim() || 'Audio chưa sẵn sàng'}</div>`;
       return `<div class="audio-section" data-testid="audio">
-        <h4>🎵 Audio</h4>
-        <audio controls></audio>
-        ${renderMarkdown(content)}
+        ${audioEl}
       </div>`;
+    }
 
     case 'content_table':
       return `<div class="content-table" data-testid="content-table">

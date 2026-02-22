@@ -244,6 +244,10 @@ export function renderMarkdown(markdown: string): string {
   // Tables
   html = renderTables(html);
 
+  // Audio links: [Audio: URL] -> HTML audio player
+  html = html.replace(/\[Audio:\s*(https?:\/\/[^\]]+)\]/gi,
+    '<div class="audio-box"><audio controls src="$1"></audio></div>');
+
   // Horizontal rules
   html = html.replace(/^---+$/gm, '<hr>');
 
@@ -371,6 +375,16 @@ export function renderFullContent(
       return `<div class="${tagClass}"
         data-question-type="${questionsConfig.type}"
         ${questionsConfig.feedback ? `data-feedback="${questionsConfig.feedback}"` : ''}>\n${renderMarkdown(inner)}\n</div>`;
+    }
+
+    // Special handling for audio tag - render as HTML audio player
+    if (tag === 'audio') {
+      const srcMatch = attrs.match(/src="([^"]+)"/);
+      const src = srcMatch ? srcMatch[1] : '';
+      if (src && !src.includes('TODO')) {
+        return `<div class="audio-box"><audio controls src="${src}"></audio></div>`;
+      }
+      return `<div class="audio-box"><div class="audio-placeholder">${renderMarkdown(inner) || 'Audio chưa sẵn sàng'}</div></div>`;
     }
 
     // Special handling for exercise tag to parse data-source and data-count
