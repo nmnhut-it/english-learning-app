@@ -88,7 +88,7 @@ Bài 2, đọc lại hội thoại rồi tìm và sửa lỗi sai trong mỗi c�
 *Mai sẽ mang đồ ăn vặt với nhiều bao bì trong chuyến đi.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Bài 3, phân loại các cụm từ vào cột "Nên làm" và "Không nên là
 **Don'ts (Không nên làm):**
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 4, hoàn thành các câu từ bài 1 nha. Chú ý câu điều kiện. 30 
 **2.** Ms Hoa says, 'If I _______ you, I _______ bring too many snacks.'
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

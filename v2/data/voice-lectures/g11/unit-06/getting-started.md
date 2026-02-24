@@ -92,7 +92,7 @@ Bài 2 nha. Viết T cho Tràng An, H cho Hội An, M cho Đồng bằng sông C
 4. Listening to don ca tai tu at floating markets → ___
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -147,7 +147,7 @@ Bài 3 <eng>Match the words to make phrases</eng>. Nối các từ để tạo c
 | 4 | ancient | d | heritage |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

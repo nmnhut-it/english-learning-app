@@ -57,7 +57,7 @@ Bài 2, nghe và đánh dấu trọng âm của các từ in đậm nha. 30 giâ
 *Cơ hội bình đẳng trong giáo dục mang lại những thay đổi quan trọng trong xã hội.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -99,7 +99,7 @@ Phần từ vựng nha. Bài 1, nối các từ với nghĩa của chúng. 45 gi
 **5.** gender (n) → e. having the same rights, opportunities, etc. as other people
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -139,7 +139,7 @@ Bài 2, hoàn thành các câu sau sử dụng các từ ở bài 1 nha. 45 giâ
 **5.** They should promote _________ income opportunities for men and women.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -218,7 +218,7 @@ Bài 1, chọn đáp án đúng nhất nha. Nhớ xem câu nào cần dùng ch�
 *Tất cả thức ăn phải được chuẩn bị trước khi khách đến.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -269,7 +269,7 @@ Bài 2, viết lại các câu sau bằng câu bị động nha. Nhớ công th�
 => Men and women _______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

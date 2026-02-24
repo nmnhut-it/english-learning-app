@@ -40,7 +40,7 @@ Phần phát âm. Khoanh tròn cách phát âm phổ biến của trợ động 
 - B. /kən/
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Phần từ vựng. Điền vào mỗi chỗ trống MỘT từ đã học trong
 **3.** Antibiotics are not used in the (5) ______ of diseases caused by viruses.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -118,7 +118,7 @@ Phần ngữ pháp. Khoanh tròn phần gạch chân sai trong mỗi câu rồi 
 **4.** I **was** (A) ill last week, and **didn't do** (B) much exercise **so far** (C) this week.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -78,7 +78,7 @@ d. Stopping the heat from escaping
 1 → 2 → 3 → 4
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -116,7 +116,7 @@ Bài 3. Nối từ để tạo cụm từ đã xuất hiện trong bài 1 nha. 3
 a. activities | b. gases | c. warming | d. levels | e. pollutants
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Bài 4. Hoàn thành câu với dạng đúng của động từ từ bài 1 nha
 **3.** As temperatures rise, polar ice caps melt faster, ______ more water to oceans.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

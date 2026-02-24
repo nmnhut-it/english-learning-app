@@ -60,7 +60,7 @@ Bài 1 <eng>Write the words or phrases under the correct pictures. Then listen, 
 Nhìn hình trong sách rồi viết từ tương ứng. 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -104,7 +104,7 @@ Bài 2 <eng>Write words or phrases from 1 in the correct columns</eng>. Viết c
 Phân loại các phương tiện ở bài 1 vào 3 cột: <eng>ride</eng> (đi), <eng>fly</eng> (bay), <eng>sail</eng> (chèo). 45 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

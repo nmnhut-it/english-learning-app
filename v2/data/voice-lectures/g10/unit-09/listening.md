@@ -106,7 +106,7 @@ Xác định đúng sai nha. 45 giây.
 **4.** Nam believes that illegal hunting can be prevented by banning wildlife trade.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -149,7 +149,7 @@ Hoàn thành ghi chú với MỘT từ cho mỗi chỗ trống nha. 45 giây.
 **4.** Avoiding products made from endangered (4) _______ parts
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

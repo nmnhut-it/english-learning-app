@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_52fde63e.webm">
 Ok lớp 9, Unit 10 bài <eng>A Closer Look 1</eng> nha. Mở sách trang 106 đi. Bài này mình học từ vựng về chủ đề hành tinh Trái Đất và phát âm về nhịp điệu trong câu.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f0c9c62f.webm">
 Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -40,7 +40,7 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" bên dư�
 <!-- chunk: exercise-1 -->
 ### Bai 1 trang 106 - Matching
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bd62e321.webm">
 Bài 1 <eng>Write a word or phrase from the box under each picture</eng> nha. Viết một từ hoặc cụm từ trong khung dưới mỗi bức tranh. Các em xem hình trong sách và điền từ phù hợp.
 </teacher_script>
 
@@ -63,11 +63,11 @@ Bài 1 <eng>Write a word or phrase from the box under each picture</eng> nha. Vi
 - *poles: các cực*
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_2622cb66.webm">
 Các em làm bài 1 nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7242caec.webm">
 Ok đáp án bài 1 nè.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Ok đáp án bài 1 nè.
 <!-- chunk: exercise-2 -->
 ### Bai 2 trang 106 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a020d412.webm">
 Bài 2 <eng>Complete each sentence with a word or phrase from 1</eng> nha. Hoàn thành mỗi câu với từ hoặc cụm từ từ bài 1. Các em dùng từ vựng ở bài 1 để điền vào chỗ trống.
 </teacher_script>
 
@@ -120,11 +120,11 @@ Bài 2 <eng>Complete each sentence with a word or phrase from 1</eng> nha. Hoàn
 *_______ tự nhiên của gấu trúc là rừng tre.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_77b682b1.webm">
 Các em làm bài 2 nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e4a71e40.webm">
 Ok đáp án bài 2 nè.
 </teacher_script>
 
@@ -147,7 +147,7 @@ Ok đáp án bài 2 nè.
 <!-- chunk: exercise-3 -->
 ### Bai 3 trang 106 - Multiple choice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7895fe22.webm">
 Bài 3 <eng>Choose the correct answer A, B, C, or D</eng> nha. Chọn câu trả lời đúng A, B, C hoặc D. Các em đọc kỹ câu hỏi và chọn từ phù hợp nhất.
 </teacher_script>
 
@@ -194,12 +194,12 @@ Bài 3 <eng>Choose the correct answer A, B, C, or D</eng> nha. Chọn câu trả
 *Một cách để _______ Đất Mẹ là trồng thêm cây xanh.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_1fcbe2db.webm">
 Các em làm bài 3 nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
-Ok đáp án bài 3 nè. Cô giải thích từng câu luôn nha.
+<teacher_script pause="0" href="audio/tts_37893f7e.webm">
+Ok đáp án bài 3 nè. Thầy giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
@@ -246,7 +246,7 @@ Một cách để **bảo vệ** Đất Mẹ là trồng thêm cây xanh.
 <!-- chunk: pronunciation-theory -->
 ### Pronunciation - Rhythm in sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5ba66ac7.webm">
 Ok bây giờ mình học phần phát âm nha. Chủ đề là <eng>Rhythm in sentences</eng> - Nhịp điệu trong câu. Các em chú ý nghe lý thuyết nè.
 </teacher_script>
 
@@ -276,7 +276,7 @@ Trong tiếng Anh, khi nói một câu, chúng ta không nhấn mạnh tất c�
 <!-- chunk: exercise-4 -->
 ### Bai 4 trang 107 - Listening
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33751576.webm">
 Bài 4 <eng>Listen to the sentences and pay attention to the bold syllables. Does the speaker place stress on them?</eng> Nghe các câu và chú ý đến các âm tiết in đậm. Người nói có nhấn trọng âm cho chúng không? Các em nghe và để ý các từ in đậm được nhấn mạnh nha.
 </teacher_script>
 
@@ -307,14 +307,14 @@ Bài 4 <eng>Listen to the sentences and pay attention to the bold syllables. Doe
 *Bảo tồn tài nguyên thiên nhiên là rất quan trọng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d08e74c4.webm">
 Đúng rồi đó các em. Người nói có nhấn mạnh các âm tiết in đậm. Các em để ý là các từ mang nghĩa chính như danh từ, động từ, tính từ thường được nhấn mạnh. Còn các từ chức năng như mạo từ, giới từ thì không nhấn. Điều này tạo ra nhịp điệu tự nhiên khi nói tiếng Anh nha.
 </teacher_script>
 
 <!-- chunk: exercise-5 -->
 ### Bai 5 trang 107 - Practice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_036ff618.webm">
 Bài 5 <eng>Circle the stressed syllables in the sentences. Listen, check, and repeat.</eng> Khoanh tròn những âm tiết được nhấn mạnh trong câu. Nghe, kiểm tra và lặp lại. Các em thử đoán xem từ nào được nhấn mạnh trước nha.
 </teacher_script>
 
@@ -345,12 +345,12 @@ Bài 5 <eng>Circle the stressed syllables in the sentences. Listen, check, and r
 **Audio:** Bai 5 - Circle stressed syllables
 </audio>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_9ed04eb1.webm">
 Các em khoanh tròn các từ được nhấn mạnh trong 5 câu trên nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
-Ok đáp án bài 5 nè. Cô đọc và các em kiểm tra xem mình khoanh đúng chưa nha.
+<teacher_script pause="0" href="audio/tts_2e99bcf1.webm">
+Ok đáp án bài 5 nè. Thầy đọc và các em kiểm tra xem mình khoanh đúng chưa nha.
 </teacher_script>
 
 <answer>
@@ -384,6 +384,6 @@ Nhớ là khi nói, các em nhấn mạnh các từ mang nghĩa chính và nói 
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_341bda1a.webm">
 Ok vậy là xong bài <eng>A Closer Look 1</eng> Unit 10 rồi nha. Hôm nay các em đã học được từ vựng về môi trường và Trái Đất như <eng>habitat, flora and fauna, nature reserves, food chain, ecological balance, global warming</eng>. Phần phát âm thì các em nhớ về nhịp điệu trong câu - nhấn mạnh các từ mang nghĩa chính và nói nhẹ các từ chức năng. Các em về nhà ôn lại từ vựng và luyện đọc các câu cho tự nhiên nha. Hẹn gặp lại các em ở bài sau!
 </teacher_script>

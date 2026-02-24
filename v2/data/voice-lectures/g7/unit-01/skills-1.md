@@ -111,7 +111,7 @@ Bài 3 trang 15 — điền vào chỗ trống với thông tin từ bài đọc
 *Trẻ em có thể làm vườn ________ mỗi ngày.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 

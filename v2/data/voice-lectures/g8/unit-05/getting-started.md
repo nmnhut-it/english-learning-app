@@ -90,7 +90,7 @@ Xong rồi nha. Giờ làm bài 2 - bài <eng>True or False</eng>. Đọc 5 câu
 *Người ta trang trí cây nêu bằng chuông nhỏ và đèn lồng để đón Năm Mới.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -174,7 +174,7 @@ Bài 4 nè - điền từ vào chỗ trống. Có 4 câu, dùng các từ: <eng>
 *Nhiều người châu Á đến chùa để _______ cầu may mắn.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

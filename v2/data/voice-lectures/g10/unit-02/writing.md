@@ -42,7 +42,7 @@ b. This makes the waste collection easier.
 c. This keeps the environment clean and safe for everyone.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -76,7 +76,7 @@ There are three things we can do to improve the environment in our school. (1) _
 (3) ________, we can improve the environment in our school in many ways and even small actions can make a big difference.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

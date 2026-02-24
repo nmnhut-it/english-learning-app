@@ -66,7 +66,7 @@ A. You should | B. What should I do | C. I advise you | D. Should I
 **Mai:** That's a good idea. (4) ________ to collect information from different sources.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

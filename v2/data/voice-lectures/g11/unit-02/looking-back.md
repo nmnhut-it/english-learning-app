@@ -28,7 +28,7 @@ B: Yes, Grandma. But my parents (2) *don't / do not* listen to me.
 B: Yes, (4) *I've / I have*.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -67,7 +67,7 @@ Phần từ vựng. Giải ô chữ dùng từ đã học trong unit nha. <eng>S
 **6.** My sister is a true ______. She has used computers and smartphones since she was young.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ Phần ngữ pháp. Chọn đáp án đúng nha. <eng>Choose the correct answers
 - A. don't have to  B. mustn't  C. should  D. have to
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

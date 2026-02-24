@@ -62,7 +62,7 @@ Bài 2, đọc và gạch chân những từ nhận trọng âm trong câu nha. 
 **5.** They should make an outline for their presentation.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -101,7 +101,7 @@ d. to make things ready to be used
 e. a way of learning that happens on the Internet
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -137,7 +137,7 @@ Bài 2, hoàn thành câu với từ trong bài 1 nha. 45 giây.
 **5.** _______ combines online videos with traditional classroom methods.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -208,7 +208,7 @@ d. whose presentations were really impressive.
 e. was quite interesting.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -244,7 +244,7 @@ Bài 2, nối 2 câu thành 1 câu dùng mệnh đề quan hệ nha. 1 phút.
 **5.** That app is easy to use. It can help improve your English pronunciation.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -124,7 +124,7 @@ Bài 2 — điền dạng danh từ hoặc động từ đúng vào chỗ trốn
 *Công việc của cô ấy được __________ bằng một giải thưởng quốc gia.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 
@@ -272,7 +272,7 @@ Bài 5 — đánh dấu trọng âm vào âm tiết đúng của mỗi từ nha.
 **5.** rec-og-ni-tion → ___________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

@@ -94,7 +94,7 @@ Bài 2 trang 39. Nghe Trang nói. Xác định câu nào Đúng (<eng>T</eng>) h
 *(Bây giờ cô ấy tự tin về vốn từ vựng tiếng Anh của mình.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -152,7 +152,7 @@ Bài 3 trang 39. Nghe lại và điền vào mỗi chỗ trống không quá HAI
 *(Cố gắng sử dụng những từ đã học và _______ thêm từ mới)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

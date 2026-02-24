@@ -364,7 +364,7 @@ Bài 5 — <eng>Environment Quiz</eng>. Trắc nghiệm kiến thức môi trư�
 *Điều nào sau đây sẽ làm giảm lượng khí thải carbon của bạn?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

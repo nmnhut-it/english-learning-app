@@ -37,7 +37,7 @@ Phần phát âm. Nghe và đánh dấu trọng âm trong các từ in đậm, r
 **5.** Do you know why so many endangered animals are disappearing?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Phần từ vựng. Chọn từ đúng để hoàn thành mỗi câu nha. 1 phú
 *Sự nóng lên _______ chủ yếu do ô nhiễm và phá rừng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Phần ngữ pháp. Chuyển các câu trực tiếp sang câu tường thuật 
 *"Khi nào bạn trình bày bài thuyết trình về môi trường, Mai?" Nam hỏi.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

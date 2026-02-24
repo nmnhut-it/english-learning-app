@@ -66,7 +66,7 @@ Bài 2 trang 56 — nghe Trang nói về thiết bị điện tử yêu thích c
 *Trong tương lai, công nghệ laser sẽ cho phép robot hút bụi ______.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Bài 3 trang 56 — nghe lại và điền vào mỗi chỗ trống MỘT từ m
 *Trang nghĩ robot hút bụi sẽ mang lại nhiều ______ hơn cho chúng ta trong tương lai.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

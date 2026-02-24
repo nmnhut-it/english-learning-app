@@ -49,7 +49,7 @@ e. Avoid products made from animal parts
 f. Introduce strict laws to prevent the cutting of natural forests
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -90,7 +90,7 @@ C. Another solution is to use electric vehicles or public transport. This will r
 D. Hi everyone. I'm here today to talk to you about the solutions to one of the most serious problems in our city - air pollution.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

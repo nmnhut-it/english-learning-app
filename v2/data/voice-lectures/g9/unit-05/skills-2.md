@@ -126,7 +126,7 @@ Bài 2 — <eng>True/False</eng> nha. Nghe bài hội thoại giữa Minh và b�
 *Minh hiểu bài rất tốt.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -186,7 +186,7 @@ Bài 3 — nghe lại và chọn đáp án đúng A, B, hoặc C nha. 1 phút.
 - C. learnt the lesson by heart
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

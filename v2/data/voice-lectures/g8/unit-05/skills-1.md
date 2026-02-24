@@ -128,7 +128,7 @@ Bài 3 - điền từ vào chỗ trống để hoàn thành đoạn tóm tắt v
 *Một mục đích của lễ hội là duy trì tình yêu với _______ truyền thống.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

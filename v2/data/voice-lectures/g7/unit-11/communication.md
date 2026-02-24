@@ -145,7 +145,7 @@ Bài 3. Hoàn thành hội thoại giữa Mark và Lan bằng các câu hỏi v�
 Các em đọc hội thoại rồi chọn câu trong khung điền vào chỗ trống nha. 1 phút đi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

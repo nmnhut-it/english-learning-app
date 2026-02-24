@@ -27,7 +27,7 @@ Bài 1 <eng>Look at the pictures. Write the correct words in the gaps</eng>. Nh�
 6. My new ________ is short.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -66,7 +66,7 @@ Bài 2 <eng>Match the words in A with the words/phrases in B</eng>. Nối từ �
 | 5. wear | e. new words |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -102,7 +102,7 @@ Bài 3 <eng>Complete the sentences with the present simple</eng>. Chia động t
 5. Mr Nam (teach) ________ history at my school.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -134,7 +134,7 @@ Bài 4 <eng>Complete the text with the correct form of the verbs in brackets</en
 Hoang lives in a small house in the centre of his village. His house (1. be) ________ near his new school. Everyday, he (2. have) ________ breakfast at 6 o'clock. Then he (3. walk) ________ to school with his friends. Hoang and his friends (4. study) ________ in grade 6 at An Son School. Hoang (5. like) ________ his new school.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -172,7 +172,7 @@ Bài 5 <eng>Put the adverb in brackets in the correct place in each sentence</en
 5. Do you sing in the shower? (sometimes)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

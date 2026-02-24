@@ -107,7 +107,7 @@ Bài 2 <eng>Read the text and tick the appropriate meanings of the highlighted w
 - B. qualities that make a person different from others (phẩm chất khác biệt)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 3 <eng>Read the text again and answer the questions</eng>. Đọc lại bà
 *Tại sao chia sẻ việc nhà củng cố sự gắn kết gia đình?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

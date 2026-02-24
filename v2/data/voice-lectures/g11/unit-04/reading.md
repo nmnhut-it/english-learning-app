@@ -71,7 +71,7 @@ C. Equality in sport for ASEAN women
 D. Korean and ASEAN students
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ c. the way in which people or groups of people behave towards each other
 d. surprising because you learn something new
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -148,7 +148,7 @@ Bài 4. Đọc lại và trả lời câu hỏi. Dùng không quá 4 từ và/ho
 **5.** Where was the talk show shown live? → ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

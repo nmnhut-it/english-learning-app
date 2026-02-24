@@ -105,7 +105,7 @@ Bài 2 <eng>Read the conversation again and answer the following questions</eng>
 Các em đọc lại hội thoại và trả lời 4 câu hỏi nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -170,7 +170,7 @@ Bài 3 <eng>Match the following words with their definitions</eng> - Nối các 
 Các em nối từ với định nghĩa nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -223,7 +223,7 @@ Bài 4 <eng>Complete the sentences with the words from 3</eng> - Hoàn thành c�
 Các em điền từ vào chỗ trống nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

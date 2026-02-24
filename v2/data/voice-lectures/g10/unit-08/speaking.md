@@ -43,7 +43,7 @@ e. We can organise our own study schedule. *(Tự sắp xếp lịch học)*
 f. We can't discuss and talk to each other face to face. *(Không thể nói chuyện trực tiếp)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

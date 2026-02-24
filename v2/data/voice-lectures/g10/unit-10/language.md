@@ -118,7 +118,7 @@ Phần từ vựng. Bài 1, nối mỗi câu bên trái với lời giải thíc
 **e.** I tell people about the positive and negative effects of tourism on the environment.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -152,7 +152,7 @@ Bài 2, hoàn thành câu bằng các từ in đậm ở bài 1 nha. 30 giây.
 **3.** Both local people and tourists should be _______ for protecting the environment.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -208,7 +208,7 @@ Bài 1, xác định câu nào có thể xảy ra thật (R) và câu nào khôn
 **4.** If it rains tomorrow, we will stay at home.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -242,7 +242,7 @@ Bài 2, chia động từ trong ngoặc đúng dạng nha. Xác định loại 1
 **4.** If people (give) _______ up flying, they (reduce) _______ their carbon footprint.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

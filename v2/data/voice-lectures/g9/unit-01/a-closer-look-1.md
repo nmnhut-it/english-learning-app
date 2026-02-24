@@ -47,7 +47,7 @@ d. delivers goods to people's houses or workplaces
 e. takes people's rubbish away
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -77,7 +77,7 @@ Bài 2 <eng>Write a word or phrase in the box under the correct picture.</eng> V
 tourist attraction | speciality | handicraft | pottery | artisan
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ artisans | handicrafts | garbage collector | electrician | specialities
 **5.** Tourists to Hoi An usually buy traditional ________ such as lanterns as souvenirs.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Bài 4 <eng>Listen and number the words you hear. Then listen again and repeat.<
 **Dịch đề:** Hãy nghe và đánh số những từ bạn nghe được. Hãy nghe và nhắc lại.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Bài 5 <eng>Listen and practise the sentences.</eng> Nghe và luyện phát âm 
 **Dịch đề:** Nghe và luyện các câu. Gạch chân từ có /æ/, khoanh tròn từ có /ɑː/, đánh dấu từ có /e/.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

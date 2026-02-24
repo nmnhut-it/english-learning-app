@@ -42,7 +42,7 @@ Bài 1 <eng>Fill in each blank with a suitable question word.</eng> Điền từ
 **5.** He can't decide ________ to give his books to.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Bài 2 <eng>Rewrite the sentences using question words + to-infinitives.</eng> V
 **5.** Could you tell me when I have to pay the water bill?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -140,7 +140,7 @@ d. to return to a place
 e. to give something to somebody younger than you
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -174,7 +174,7 @@ Bài 4 <eng>Complete each sentence using the correct form of a phrasal verb in 3
 **5.** Whenever I go to a new place, I spend time ________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

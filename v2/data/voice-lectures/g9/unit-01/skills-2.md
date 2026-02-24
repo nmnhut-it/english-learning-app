@@ -65,7 +65,7 @@ Bài 2 điền vào chỗ trống nha. 1 phút.
 **4.** He is hard-working, responsible, and ________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -97,7 +97,7 @@ Bài 3 <eng>Listen again and tick T (True) or F (False).</eng> Nghe lại và đ
 **4.** He shares information about his work and the importance of sorting rubbish.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

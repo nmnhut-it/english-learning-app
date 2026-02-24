@@ -88,7 +88,7 @@ Bài 2. Đọc hội thoại lần nữa rồi xem các câu sau đúng hay sai 
 *Ông của Nam đi ngủ sớm, tập thể dục mỗi ngày và ăn đồ ăn lành mạnh.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -123,7 +123,7 @@ Bài 3. Điền vào chỗ trống để tạo thành các cụm từ từ bài 
 **4.** ______ diet = the correct types and amounts of food that we need to stay healthy
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -157,7 +157,7 @@ Bài 4. Hoàn thành đoạn văn dựa trên hội thoại ở bài 1. Chia đ�
 In the past, Nam (1. eat) ______ fast food and often stayed up late. But he (2. start) ______ eating healthy food and (3. give) ______ up bad habits. He has changed his lifestyle since he (4. visit) ______ his grandfather, who (5. just, celebrate) ______ his 90th birthday.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

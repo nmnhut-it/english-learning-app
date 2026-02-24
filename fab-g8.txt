@@ -2,32 +2,31 @@ Checking: G8 U01 getting-started
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "trang is looking for a", "she like...
 Checking: G8 U01 a-closer-look-1
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai1_q2: "b" should be "c" | bai1_q4: "c" should be "a"...
+  🟠 HIGH (1)
+     Media - Missing MP3: track-3.mp3...
 Checking: G8 U01 a-closer-look-2
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai2_q4: "A" should be "B" | bai2_q5: "C" should be "A"...
+  🔵 LOW (3)
 Checking: G8 U01 communication
-  🟡 MEDIUM (1)
+  🔵 LOW (1)
 Checking: G8 U01 skills-1
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 21/21 sentences not found: "some teenagers enjoy spending fr...
 Checking: G8 U01 skills-2
-  🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 2/2 sentences not found: "in your opinion what activities ca...
+  🟠 HIGH (2)
+     Media - Missing MP3: track-6.mp3...
+     STRICT Reading - Unmatched Sentences: 1/2 sentences not found: "why should we spend time with our ...
 Checking: G8 U01 looking-back
   🟡 MEDIUM (1)
 Checking: G8 U02 getting-started
-  🟡 MEDIUM (1)
+  🔵 LOW (3)
 Checking: G8 U02 a-closer-look-1
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai2_q1: "b" should be "c"...
+  🟠 HIGH (1)
+     Media - Missing MP3: track-9.mp3...
 Checking: G8 U02 a-closer-look-2
   🟡 MEDIUM (1)
 Checking: G8 U02 communication
-  🔴 CRITICAL (4)
-     Reading - Fabricated Content: Visitors can get there from central Hanoi by car, bus, or ev...
-     Answers - WRONG: bai3_q3: "Hollum" should be "H" | bai3_q5: "Hollum" should b...
+  🔴 CRITICAL (1)
+     Reading - Fabricated Content: Visitors can get there from the centre of Ha Noi by car, bus...
 Checking: G8 U02 skills-1
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 24/24 sentences not found: "i feel fortunate that i am livin...
@@ -44,25 +43,25 @@ Checking: G8 U03 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: track-15.mp3...
 Checking: G8 U03 a-closer-look-2
-  🟡 MEDIUM (1)
+  🔵 LOW (1)
 Checking: G8 U03 communication
-  🔴 CRITICAL (3)
-     Reading - Fabricated Content: ### Ann
-Ann uses YouTube every day | She loves to upload her...
-     STRICT Dialogue - Unmatched Sentences: 4/4 sentences not found: "can you tell me more about the mus...
+  🔴 CRITICAL (2)
+     Reading - Fabricated Content: **Social media popular among teens**
+
+**Ann:** I think YouTu...
+     STRICT Reading - Unmatched Sentences: 3/3 sentences not found: "what social media do you use", "ho...
 Checking: G8 U03 skills-1
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "the school has badminton chess and...
 Checking: G8 U03 skills-2
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai2_q1: "A" should be "C"...
+  🟠 HIGH (1)
+     Media - Missing MP3: track-18.mp3...
 Checking: G8 U03 looking-back
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai2_q6: "bullying" should be "bullies"...
+  🟡 MEDIUM (1)
 Checking: G8 U04 getting-started
-  🔴 CRITICAL (3)
+  🔴 CRITICAL (2)
      Reading - Fabricated Content: 🎧 [Track 20](https://img | loigiaihay | com/picture/2023/08...
-     Answers - WRONG: bai2_q2: "B" should be "C"...
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "i love mua sap a popular of the th...
 Checking: G8 U04 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: unit-4-ex3.mp3...
@@ -76,7 +75,7 @@ Checking: G8 U04 skills-1
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 21/21 sentences not found: "stilt houses are popular among d...
 Checking: G8 U04 skills-2
-  🟡 MEDIUM (2)
+  🟡 MEDIUM (1)
 Checking: G8 U04 looking-back
   🟡 MEDIUM (1)
 Checking: G8 U05 getting-started
@@ -86,14 +85,10 @@ Checking: G8 U05 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: track-28.mp3...
 Checking: G8 U05 a-closer-look-2
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai2_q4: "a" should be "C" | bai4_q5: "an" should be "the"...
+  🟡 MEDIUM (1)
 Checking: G8 U05 communication
-  🔴 CRITICAL (3)
-     Reading - Fabricated Content: **Mua Lan and Shishi-mai**
-
-In Vietnam, the lion dance is ca...
-     STRICT Dialogue - Unmatched Sentences: 7/7 sentences not found: "my parents are taking me to their ...
+  🔴 CRITICAL (1)
+     Reading - Fabricated Content: The lion dance is called **shishi-mai** in Japanese | People...
 Checking: G8 U05 skills-1
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 20/20 sentences not found: "i live in a small village in nor...
@@ -114,7 +109,7 @@ Checking: G8 U06 communication
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 18/18 sentences not found: "italy is famous for pizza", "piz...
 Checking: G8 U06 skills-1
-  🟡 MEDIUM (2)
+  🟡 MEDIUM (1)
 Checking: G8 U06 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "when mai was studying online the p...
@@ -128,12 +123,9 @@ Checking: G8 U07 a-closer-look-1
 Checking: G8 U07 a-closer-look-2
   🟡 MEDIUM (1)
 Checking: G8 U07 communication
-  🔴 CRITICAL (2)
-     Reading - Fabricated Content: Every year on April 22nd, more than 190 countries celebrate ...
-     STRICT Reading - Unmatched Sentences: 5/7 sentences not found: "the first earth day started in in ...
+  🟡 MEDIUM (3)
 Checking: G8 U07 skills-1
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai3_q3: "B" should be "C" | bai3_q4: "A" should be "C" | ba...
+  🟡 MEDIUM (4)
 Checking: G8 U07 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 31/31 sentences not found: "all living things need water but...
@@ -146,7 +138,7 @@ Checking: G8 U08 getting-started
 Checking: G8 U08 a-closer-look-1
   🟡 MEDIUM (2)
 Checking: G8 U08 a-closer-look-2
-  🟡 MEDIUM (1)
+  🔵 LOW (4)
 Checking: G8 U08 communication
   🔴 CRITICAL (2)
      STRICT Dialogue - Unmatched Sentences: 4/7 sentences not found: "im calling to make a complaint abo...
@@ -166,7 +158,7 @@ Checking: G8 U09 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: track-55.mp3, track-56.mp3...
 Checking: G8 U09 a-closer-look-2
-  🟡 MEDIUM (1)
+  🔵 LOW (3)
 Checking: G8 U09 communication
   🟠 HIGH (1)
      Media - Missing MP3: track-57.mp3...
@@ -177,17 +169,17 @@ Checking: G8 U09 skills-2
      Media - Missing MP3: track-58.mp3, track-59.mp3...
      Quality - Listening (MISSING_AUDIO): No <audio src="...mp3"> tags found in listening section...
 Checking: G8 U09 looking-back
-  🔵 LOW (3)
+  🔵 LOW (2)
 Checking: G8 U10 getting-started
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "our english exam was a piece of ca...
 Checking: G8 U10 a-closer-look-1
   🟡 MEDIUM (1)
 Checking: G8 U10 a-closer-look-2
-  🔵 LOW (2)
+  🔵 LOW (1)
 Checking: G8 U10 communication
   🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 61/67 sentences not found: "a first you open facetime applic...
+     STRICT Reading - Unmatched Sentences: 47/67 sentences not found: "a first you open facetime applic...
 Checking: G8 U10 skills-1
   🟡 MEDIUM (3)
 Checking: G8 U10 skills-2
@@ -218,15 +210,15 @@ Checking: G8 U12 a-closer-look-1
 Checking: G8 U12 a-closer-look-2
   🔵 LOW (3)
 Checking: G8 U12 skills-1
-  🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 15/28 sentences not found: "example there are some condition...
+  🟠 HIGH (1)
+     STRICT Reading - Unmatched Sentences: 14/28 sentences not found: "example there are some condition...
 Checking: G8 U12 skills-2
   🟠 HIGH (2)
      Media - Missing MP3: track-78.mp3, track-79.mp3...
      Quality - Listening (MISSING_AUDIO): No <audio src="...mp3"> tags found in listening section...
 Checking: G8 U12 looking-back
-  🟡 MEDIUM (1)
+  🔵 LOW (2)
 
 ==================================================
-SUMMARY: 32 passed, 50 need review (CRITICAL/HIGH)
+SUMMARY: 37 passed, 45 need review (CRITICAL/HIGH)
 Reports: C:\Users\LAP14364-local\Documents\claude-workspace\english-learning-app\reports

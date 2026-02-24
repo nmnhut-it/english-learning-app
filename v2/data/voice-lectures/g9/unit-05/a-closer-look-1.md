@@ -96,7 +96,7 @@ Bài 2 — điền tính từ đúng vào chỗ trống. Chọn trong khung: *am
 *Tom đã có một trải nghiệm ________ khi dựng lều dưới mưa.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

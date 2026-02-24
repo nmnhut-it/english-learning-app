@@ -104,7 +104,7 @@ Bài 3, đọc lại rồi xác định đoạn nào chứa thông tin đó nha.
 **4.** An effect of illegal hunting on the ecosystem.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 4, hoàn thành câu với thông tin từ bài đọc, không quá HAI t�
 **4.** When many animals disappear, this damages the natural balance of _______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

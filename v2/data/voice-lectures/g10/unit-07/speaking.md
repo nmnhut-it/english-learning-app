@@ -44,7 +44,7 @@ b. It is Education for Disadvantaged Young People.
 c. It focuses on helping disadvantaged teenagers continue their education.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

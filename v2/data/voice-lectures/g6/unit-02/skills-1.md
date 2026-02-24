@@ -73,7 +73,7 @@ Nick
 2. What is the text about? *(Nội dung nói về cái gì?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -102,7 +102,7 @@ Bài 2 <eng>Read the text again and answer the questions</eng>. Đọc lại ema
 4. Where is Nick's bag? *(Túi của Nick ở đâu?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -140,7 +140,7 @@ a shelf *(giá/kệ)* | a lamp *(đèn)*
 a desk *(bàn)* | a tiger *(con hổ)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

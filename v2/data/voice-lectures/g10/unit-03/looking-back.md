@@ -22,7 +22,7 @@ Phần phát âm: Đánh dấu trọng âm các từ nha. 45 giây.
 perform | concert | final | singer | famous | enjoy
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -58,7 +58,7 @@ Phần từ vựng: Điền từ vào đoạn văn nha. 1 phút.
 Our class survey revealed some surprising results about the students' (1) ________ habits. Most of them did not hesitate to say that they love music because they find it relaxing. Their favourite music is K-pop and British or American pop music as they are big (2) ________ of Korean and American (3) ________. Fourteen out of twenty students play a musical (4) ________ and most of them practise between one and three hours a week. Going to (5) ________ is usually popular among teenagers, but only eight people said that they like going to such music events.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -98,7 +98,7 @@ c. and they always have deep meanings.
 d. but the judges never liked his songs.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -132,7 +132,7 @@ Phần ngữ pháp 2: Tìm và sửa lỗi sai nha. 1 phút.
 **4.** Her father made her to sing at family gatherings.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -120,7 +120,7 @@ Bài 3. Đố em biết! Khoanh tròn câu trả lời đúng về các dân t�
 - C. fishing
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

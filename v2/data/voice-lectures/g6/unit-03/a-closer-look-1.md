@@ -41,7 +41,7 @@ Bài 1 <eng>Match the adjectives to the pictures</eng>. Nối tính từ với �
 Nối các tính từ: hard-working, confident, funny, caring, active với các hình ảnh a-e.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Bài 2 <eng>Use the adjectives in the box to complete the sentences</eng>. Dùng
 *Mai ________. Cô ấy học mọi thứ nhanh chóng và dễ dàng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -169,7 +169,7 @@ Bài 4 <eng>Listen and circle the words you hear. Then repeat</eng>. Nghe và kh
 | 4. | robe | rope |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

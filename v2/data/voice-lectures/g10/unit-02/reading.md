@@ -116,7 +116,7 @@ Bài 3 <eng>Circle the correct meanings of the highlighted words</eng>. Chọn n
 - B. materials harmful to life
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -157,7 +157,7 @@ Bài 4 <eng>Read the text again and decide whether the statements are true or fa
 *Việc sử dụng chai nước tái sử dụng không được khuyến khích.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

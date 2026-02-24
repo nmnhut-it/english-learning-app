@@ -88,7 +88,7 @@ Bài 2, đọc lại hội thoại rồi xác định đúng sai nha. 45 giây.
 *Lớp của Nick hiện đang thực hiện nhiều dự án.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -123,7 +123,7 @@ Bài 3, ghép các động từ với danh từ để tạo thành cụm từ tr
 4. take → d. information
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -157,7 +157,7 @@ Bài 4, hoàn thành câu với MỘT từ từ hội thoại nha. Đây là ng�
 **4.** That way of studying, _______ gives them more control over their own learning, is quite useful.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

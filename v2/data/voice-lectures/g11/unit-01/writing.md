@@ -40,7 +40,7 @@ E. See you soon,
 F. Mai
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -89,7 +89,7 @@ Bài 2. Viết câu diễn đạt mỗi tin nhắn bên dưới. Bắt đầu b�
 => Do ______?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

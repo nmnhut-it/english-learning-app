@@ -117,7 +117,7 @@ d. to have a health problem
 e. to look at someone's body carefully to find out if there is a health problem
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Bài 2 từ vựng. Hoàn thành các câu bằng dạng đúng của từ ở b
 **5.** Nam can't sleep well. He is ______ stress.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -213,7 +213,7 @@ Bài 1 ngữ pháp. Chia động từ trong ngoặc dùng thì quá khứ đơn 
 **4.** The doctor (just, examine) ______ her. Fortunately, the treatment is working.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

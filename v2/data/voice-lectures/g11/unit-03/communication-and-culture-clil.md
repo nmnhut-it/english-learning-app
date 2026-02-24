@@ -48,7 +48,7 @@ B. I have no doubt about it
 **Long:** (2) ______. Smart technologies are very expensive. We don't have AI experts either.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -155,7 +155,7 @@ Dịch bài đọc vô vở nha. 3 phút.
 **5.** use a mobile app to help you choose the best route to cycle in the city → ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

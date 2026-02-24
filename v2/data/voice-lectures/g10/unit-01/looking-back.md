@@ -29,7 +29,7 @@ Phần phát âm: Nghe và viết <eng>/br/, /kr/</eng> hoặc <eng>/tr/</eng> t
 *Họ thường ăn súp cua vào bữa sáng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -66,7 +66,7 @@ Phần từ vựng: Hoàn thành đoạn văn với các từ trong hộp nha. 1
 In Thanh's family, everybody shares the housework. His mother (1) ________. Thanh really enjoys the food she cooks. Thanh's father is a strong man, so he (2) ________. Thanh helps with the (3) ________. He feels proud that he knows how to run a washing machine. Thanh's sister helps with (4) ________. She does it regularly, so their house is never dirty. She also (5) ________ after each meal.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -118,7 +118,7 @@ Phần ngữ pháp: Mỗi câu có MỘT lỗi sai. Tìm lỗi và sửa nha. 1 
 *Gia đình bạn làm gì vào buổi tối?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

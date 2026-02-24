@@ -6,15 +6,14 @@ Checking: G7 U01 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: 004.mp3, 005.mp3...
 Checking: G7 U01 a-closer-look-2
-  🔴 CRITICAL (1)
-     Answers - WRONG: bai3_q4: "goes" should be "go"...
+  🟡 MEDIUM (1)
 Checking: G7 U01 communication
   🔴 CRITICAL (2)
      STRICT Dialogue - Unmatched Sentences: 5/5 sentences not found: "do you like reading books", "yes v...
      STRICT Reading - Unmatched Sentences: 3/3 sentences not found: "i have one hour of free time a day...
 Checking: G7 U01 skills-1
   🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 15/15 sentences not found: "people divide hobbies into four ...
+     STRICT Reading - Unmatched Sentences: 13/15 sentences not found: "people divide hobbies into four ...
 Checking: G7 U01 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 6/6 sentences not found: "in the picture i can see two girls...
@@ -73,7 +72,7 @@ Checking: G7 U04 a-closer-look-2
   🟡 MEDIUM (1)
 Checking: G7 U04 communication
   🔴 CRITICAL (2)
-     STRICT Dialogue - Unmatched Sentences: 4/4 sentences not found: "which do you prefer pop or folk mu...
+     STRICT Dialogue - Unmatched Sentences: 3/4 sentences not found: "i prefer folk music", "it has a be...
      STRICT Reading - Unmatched Sentences: 8/8 sentences not found: "my name is susie", "im from austra...
 Checking: G7 U04 skills-1
   🔴 CRITICAL (1)
@@ -112,12 +111,12 @@ Checking: G7 U06 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: 040.mp3...
 Checking: G7 U06 a-closer-look-2
-  🟡 MEDIUM (1)
+  🔵 LOW (4)
 Checking: G7 U06 communication
   🟡 MEDIUM (3)
 Checking: G7 U06 skills-1
   🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 16/16 sentences not found: "quoc hoc hue is one of the oldes...
+     STRICT Reading - Unmatched Sentences: 14/16 sentences not found: "quoc hoc hue is one of the oldes...
 Checking: G7 U06 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 14/14 sentences not found: "what outdoor activities do they ...
@@ -144,14 +143,14 @@ Checking: G7 U08 getting-started
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "a film that tries to make the au...
 Checking: G7 U08 a-closer-look-1
-  🟡 MEDIUM (2)
+  🟡 MEDIUM (1)
 Checking: G7 U08 a-closer-look-2
   🔵 LOW (4)
 Checking: G7 U08 communication
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 3/3 sentences not found: "in our survey we interviewed three...
 Checking: G7 U08 skills-1
-  🟡 MEDIUM (4)
+  🟡 MEDIUM (3)
 Checking: G7 U08 skills-2
   🟡 MEDIUM (2)
 Checking: G7 U08 looking-back
@@ -177,7 +176,7 @@ Checking: G7 U10 getting-started
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "what is lan doing", "what does ene...
 Checking: G7 U10 a-closer-look-1
-  🟡 MEDIUM (2)
+  🟡 MEDIUM (1)
 Checking: G7 U10 a-closer-look-2
   🔵 LOW (3)
 Checking: G7 U10 communication
@@ -185,7 +184,7 @@ Checking: G7 U10 communication
      Reading - Fabricated Content: **Example:**
 Mai saves a lot of energy | She often goes to s...
 Checking: G7 U10 skills-1
-  🟡 MEDIUM (4)
+  🟡 MEDIUM (3)
 Checking: G7 U10 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 9/9 sentences not found: "we use a lot of energy at home and...
@@ -197,11 +196,11 @@ Checking: G7 U11 getting-started
 Checking: G7 U11 a-closer-look-1
   🟡 MEDIUM (1)
 Checking: G7 U11 a-closer-look-2
-  🔵 LOW (2)
+  🔵 LOW (1)
 Checking: G7 U11 communication
-  🟡 MEDIUM (3)
+  🟡 MEDIUM (2)
 Checking: G7 U11 skills-1
-  🟡 MEDIUM (3)
+  🟡 MEDIUM (2)
 Checking: G7 U11 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "i think people will like travellin...
@@ -226,5 +225,5 @@ Checking: G7 U12 looking-back
   🔵 LOW (1)
 
 ==================================================
-SUMMARY: 38 passed, 46 need review (CRITICAL/HIGH)
+SUMMARY: 39 passed, 45 need review (CRITICAL/HIGH)
 Reports: C:\Users\LAP14364-local\Documents\claude-workspace\english-learning-app\reports

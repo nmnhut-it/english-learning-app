@@ -75,7 +75,7 @@ Bài 2, đánh dấu trọng âm trong các từ in đậm rồi tập nói vớ
 **4.** Are you **reading** the **book** about **endangered animals** in the **world**?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ d. the natural environment in which a plant or an animal lives
 e. all the plants and animals in an area and the way they affect each other and the environment
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -149,7 +149,7 @@ Bài 2, hoàn thành câu với dạng đúng của từ trong bài 1 nha. 1 ph�
 **5.** Pollution can have serious effects on the balance of _______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -216,7 +216,7 @@ Bài 1, chọn từ đúng để hoàn thành câu tường thuật nha. Nhớ l
 **5.** Phong said he **handed / had handed** in his project the previous day.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -252,7 +252,7 @@ Bài 2, chuyển các câu trực tiếp sang câu tường thuật nha. Nhớ l
 **5.** "I will read more articles before writing the essay, Nam," Tom said.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

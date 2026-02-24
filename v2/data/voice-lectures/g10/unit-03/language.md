@@ -88,7 +88,7 @@ d. a person who decides on the results of a competition
 e. the people who watch, read or listen to the same thing
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Bài 2: Điền từ vào câu nha. 1 phút.
 **5.** Many famous artists decided to ________ at the charity concert.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -190,7 +190,7 @@ c. and they always have deep meanings.
 d. but the judges never liked his songs.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -224,7 +224,7 @@ Bài tập 2: Tìm lỗi sai và sửa nha. 1 phút.
 **4.** Her father made her to sing at family gatherings.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

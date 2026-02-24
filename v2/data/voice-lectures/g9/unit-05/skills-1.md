@@ -145,7 +145,7 @@ Bài 2 — trắc nghiệm dựa vào hai bài đọc nha. Chọn đáp án đú
 *(ngắm nhìn thành phố bên dưới)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -230,7 +230,7 @@ Bài 4 — <eng>Speaking</eng>, nối câu hỏi ở A với câu trả lời �
 | 5. How did you feel? | e. I remember being so embarrassed at first. But the trainers and my peers were great and they helped me a lot. |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

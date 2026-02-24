@@ -82,7 +82,7 @@ Bài 2. Đọc hội thoại lần nữa rồi tick thông tin đúng về Mark 
 **4.** has parents who don't force their children to follow in their footsteps.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -119,7 +119,7 @@ Bài 3. Tìm từ hoặc cụm từ trong hội thoại có nghĩa như sau nha.
 **4.** disagreements about things = ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Bài 4. Chọn động từ khuyết thiếu trong hội thoại để hoàn th�
 **4.** Ms Hoa thinks that children *have to/must* respect their parents and grandparents.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

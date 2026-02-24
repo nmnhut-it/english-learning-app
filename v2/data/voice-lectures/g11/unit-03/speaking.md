@@ -47,7 +47,7 @@ C. Green skyscrapers will replace old blocks of flats and offices in crowded urb
 **Living conditions:** (3) ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -88,7 +88,7 @@ b. Because technology will make public transport faster, more convenient, and mo
 c. Well, I think there will be no private vehicles in the cities.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

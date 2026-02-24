@@ -53,7 +53,7 @@ D. Thanks, but I think I'm fine
 **Trainer:** Great! Have a good workout.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -165,7 +165,7 @@ Vi rút là vi trùng nhỏ gây bệnh cho người, động vật và thực v
 | 4. How to treat/prevent? | ______ | ______ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

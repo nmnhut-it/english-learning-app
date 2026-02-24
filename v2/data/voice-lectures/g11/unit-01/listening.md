@@ -46,7 +46,7 @@ Bài 1. Chọn nghĩa đúng của từ và cụm từ gạch chân nha. <eng>Ch
 *Để giữ gìn sức khỏe, bạn nên cắt giảm lượng đường và thức ăn nhanh.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Bài 2. Nghe chương trình trò chuyện trên TV về sức khỏe thanh thi�
 *Thực phẩm có thể thay thế tập thể dục*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Bài 3. Nghe lại và tick vào đồ ăn được đề cập trong cuộc tr�
 - [ ] potato chips
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Bài 4. Nghe lại và hoàn thành câu. Dùng MỘT từ cho mỗi đáp án n
 **4.** Eating a healthy diet can't replace ______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

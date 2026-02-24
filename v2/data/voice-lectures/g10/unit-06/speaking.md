@@ -50,7 +50,7 @@ Bài 1, xác định xem các công việc sau theo truyền thống được ch
 | 8. Secretaries (Thư ký) | | |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

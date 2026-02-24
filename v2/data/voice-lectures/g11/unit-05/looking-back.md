@@ -27,7 +27,7 @@ Phần phát âm. Nghe và gạch chân các từ được nhấn mạnh nha. Sa
 **4.** Oceans may start releasing the carbon they store as global temperatures rise.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -69,7 +69,7 @@ Phần từ vựng. Chọn từ hoặc cụm từ đúng để hoàn thành câu
 *Việc đốt ______ làm tăng lượng khí thải nhà kính trong khí quyển.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ Phần ngữ pháp. Viết lại câu dùng mệnh đề phân từ hiện tại
 → The farmers cut down the local forest to create new farmland, ______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

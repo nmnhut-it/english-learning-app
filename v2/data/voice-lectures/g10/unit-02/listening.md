@@ -76,7 +76,7 @@ The Media Team will be responsible for reporting on the event. They will take ph
 *Một báo cáo sẽ được thực hiện bởi Nhóm Truyền thông.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Bài 3 <eng>Listen again and complete each gap with ONE word</eng>. Nghe lại r
 - Make (5) ________ for the club's future activities
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

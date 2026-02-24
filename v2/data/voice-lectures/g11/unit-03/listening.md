@@ -42,7 +42,7 @@ c. to talk or do things with other people
 d. the state of being alone and not watched or interrupted by other people
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -91,7 +91,7 @@ Bài 2. Nghe cuộc phỏng vấn và chọn đáp án đúng nha. Đây là cu�
 - C. Because she doesn't like her neighbourhood.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Bài 3. Nghe lại và hoàn thành bảng. Dùng không quá 3 từ nha. <eng>L
 | City dwellers don't (3) ______ with many people face to face. | There is no (4) ______ in the neighbourhood. |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -27,7 +27,7 @@ Phần phát âm. Nghe và đánh dấu chỗ nối âm phụ âm cuối-nguyên
 **4.** The apartment was expensive, but my parents could afford it.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -65,7 +65,7 @@ Phần từ vựng. Hoàn thành các câu dùng từ đã học trong unit nha.
 **4.** Smart technologies have made lives of c______ d______ more convenient.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -109,7 +109,7 @@ Phần ngữ pháp. Chọn từ đúng để hoàn thành câu nha. <eng>Choose 
 *James có vẻ ______, nhưng đôi khi hỏi câu ngớ ngẩn.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

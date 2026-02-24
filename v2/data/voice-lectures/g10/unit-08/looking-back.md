@@ -39,7 +39,7 @@ Nghe và gạch chân từ nhận trọng âm trong câu nha. 30 giây.
 **4.** My sister is looking for information for her presentation tomorrow.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -71,7 +71,7 @@ Phần từ vựng, hoàn thành câu với từ trong hộp nha. 45 giây.
 **5.** Projects help us improve our _______ skills.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -108,7 +108,7 @@ Phần ngữ pháp, hoàn thành câu với <eng>who, which, that</eng> hoặc <
 **6.** My cousin John, _______ lives in Da Nang, is coming to visit me this weekend.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

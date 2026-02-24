@@ -88,7 +88,7 @@ Bài 2 <eng>Read the conversation again and answer the following questions</eng>
 *Nam nghĩ câu lạc bộ sẽ làm gì trong tương lai?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Bài 3 <eng>Match the verbs or phrasal verbs in A with suitable nouns or noun ph
 **B:** a. a club | b. a greener lifestyle | c. awareness | d. your carbon footprint | e. the school
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -160,7 +160,7 @@ Bài 4 <eng>Complete the following sentences based on the conversation</eng>. Ho
 **3.** Nam thinks they ________ organise more activities to raise local people's awareness of environmental issues.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

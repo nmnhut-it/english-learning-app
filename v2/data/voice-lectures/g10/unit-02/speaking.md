@@ -40,7 +40,7 @@ Bài 1: Thanh thiếu niên nên hay không nên làm gì để sống xanh? Đ�
 **6.** Planting trees *(Trồng cây)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Bài 2: Nối lý do với hoạt động nha. 1 phút.
 **f.** They provide shade and fresh air. → Activity __
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

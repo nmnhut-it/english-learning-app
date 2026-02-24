@@ -55,7 +55,7 @@ Bài 1 <eng>Choose the correct answer</eng>. Chọn đáp án đúng nha. Coi k�
 *Có hai phòng ngủ trong căn hộ của An.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -91,7 +91,7 @@ Bài 2 <eng>Complete the sentences with the correct possessive forms</eng>. Hoà
 5. My ________ bedroom is next to the living room. (brother)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -151,7 +151,7 @@ Example: The dog is **on** the chair. *(Con chó ở trên ghế.)*
 7. The cat is ________ the table.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Bài 4 <eng>Look at the picture and write T (True) or F (False) for each sentenc
 5. The cap is under the pillow.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

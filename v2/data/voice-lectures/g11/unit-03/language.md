@@ -71,7 +71,7 @@ Bài 2. Nghe và đánh dấu chỗ nối âm trong các câu nha. <eng>Listen a
 **4.** The Fine Art Museum was built in the new urban area last year.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -113,7 +113,7 @@ d. a situation of too many vehicles on the road
 e. an area in a city where a large number of people live
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -149,7 +149,7 @@ Bài 2. Hoàn thành câu dùng từ ở bài 1 nha. <eng>Complete the sentences
 **5.** More people are moving away from the ______ of large cities to the suburbs.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -214,7 +214,7 @@ Bài 1. Chọn dạng đúng của động từ nha. <eng>Choose the correct for
 *Tôi không nhìn thấy tòa nhà. Nó quá xa.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -246,7 +246,7 @@ Bài 2. Tìm và sửa lỗi sai nha. <eng>Find and correct the mistakes.</eng> 
 **3.** Widening the road sounds a good solve to traffic problems in the area.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

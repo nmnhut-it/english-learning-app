@@ -102,7 +102,7 @@ Bài 2 <eng>Read the conversation again. Complete the following sentences. Use n
 Đọc lại hội thoại và điền vào chỗ trống nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -148,7 +148,7 @@ Bài 3 <eng>Based on the ideas in the conversation, match the first half of the 
 Nối cột A với cột B dựa vào nội dung hội thoại nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -191,7 +191,7 @@ e. using reusable bags when shopping *(sử dụng túi có thể tái sử dụ
 Nhìn hình trong sách và ghép với các cách bảo vệ môi trường nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

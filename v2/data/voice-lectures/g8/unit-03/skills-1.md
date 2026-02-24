@@ -105,7 +105,7 @@ Xong rồi hả? Bài 2 — đúng hay sai nha. Đọc lại hội thoại rồi
 Làm đi nha, 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -169,7 +169,7 @@ Bài 3 — trắc nghiệm hiểu bài. Đọc kỹ câu hỏi rồi chọn đá
 Làm đi nha, 3 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

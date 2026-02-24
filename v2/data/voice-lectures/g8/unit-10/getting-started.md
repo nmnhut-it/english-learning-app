@@ -36,11 +36,12 @@ Các em mở sách ra, Unit 10, bài <eng>Getting Started</eng>, ghi tựa bài.
 Bài 1 <eng>Listen and read</eng> nha. Đây là hội thoại giữa Trang và Mark về cuộc gọi video thử. Các em nghe và đọc theo.
 </teacher_script>
 
+
+<dialogue>
+
 <audio src="https://img.loigiaihay.com/picture/2023/0804/track-62.mp3">
 **Bài 1:** Listen and read.
 </audio>
-
-<dialogue>
 **Trang:** Mark, we're having a video conference with Tech Savvy next Thursday, but ...
 **Mark:** Hold on. Is that the technology club at the Japanese school?
 **Trang:** Exactly. But I'm a bit worried. I've never had a video conference call.

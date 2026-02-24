@@ -50,7 +50,7 @@ h. Renewable energy can replace fossil fuels because it is convenient and reliab
 i. The tiny pieces of black carbon released from indoor stoves can enter the human body and cause serious health problems.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -93,7 +93,7 @@ d. One idea per paragraph
 e. Call for action
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

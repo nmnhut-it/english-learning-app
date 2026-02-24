@@ -54,7 +54,7 @@ Email: communitydevelopment@webmail.com
 *Ai có thể nộp đơn ứng tuyển?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Bài 2 <eng>Listen and choose the best answer</eng>. Nghe rồi chọn đáp án
 - C. similar (tương tự)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -180,7 +180,7 @@ Bài 3 <eng>True or False</eng>. Nghe lại rồi chọn Đúng hay Sai nha. 1 p
 *Hạn chót nộp đơn là ngày 1 tháng 1.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

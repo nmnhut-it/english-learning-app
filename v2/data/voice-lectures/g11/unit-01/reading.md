@@ -110,7 +110,7 @@ Bài 2. Giải ô chữ với các từ và cụm từ trong bài đọc nha. <e
 **4.** (Section B, phrasal verb) do physical exercise
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -148,7 +148,7 @@ Bài 3. Nối các phần A-C với tiêu đề 1-5 nha. Có 2 tiêu đề thừ
 **5.** Sleep well *(Ngủ ngon)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -193,7 +193,7 @@ Choose (2) ______ exercise => start slowly => work out longer => exercise (3) __
 - Turn off (5) ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

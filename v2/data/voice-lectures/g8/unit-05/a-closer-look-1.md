@@ -89,7 +89,7 @@ Bài 2 - chọn từ đúng điền vào chỗ trống. Có 5 câu, mỗi câu c
 - C. decorations
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -75,7 +75,7 @@ Bài 2 <eng>Decide if the statements are true (T) or false (F).</eng> Xem câu p
 **4.** In Chi's city, many teens like street food more than food prepared at home.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -126,7 +126,7 @@ Bài 3 <eng>Listen again. Choose the correct answer A, B, or C.</eng> Nghe lại
 - C. parents and schools
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -155,7 +155,7 @@ Bài 4 <eng>Put the phrases from the box in the correct column.</eng> Phân lo�
 too much noise | good health service | high crime rate | beautiful buildings | easy shopping | air pollution | heavy traffic | green space
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

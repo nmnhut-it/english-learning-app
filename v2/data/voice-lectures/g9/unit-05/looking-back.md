@@ -25,7 +25,7 @@ brilliant | special | thrilling | helpless | exhilarating | embarrassing | unple
 **5.** not revising previous lessons before the exams (không ôn bài trước kỳ thi)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -66,7 +66,7 @@ went blank | exploring a site | an eco-tour | learnt it by rote | team building 
 **5.** After we joined ________, we all got closer to each other.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -120,7 +120,7 @@ Bài 3 <eng>Complete the sentences with the correct present perfect forms of the
 **5.** She (not cook) ________ for herself before, so she is not sure about what to do first.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -155,7 +155,7 @@ See you next week,
 Akiko
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

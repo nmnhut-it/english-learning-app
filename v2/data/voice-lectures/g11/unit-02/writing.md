@@ -47,7 +47,7 @@ C. Too much screen time can damage eyesight, reduce sleep time, and cause weight
 D. Teenagers may think their parents are not fair to them.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -96,7 +96,7 @@ C. First reason with examples and facts
 D. Introduction to the issue and the writer's point of view
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -27,7 +27,7 @@ Phần phát âm. Nghe và gạch chân các từ bị lược bỏ nguyên âm 
 **4.** I believe that members expressed different opinions about the issue.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -72,7 +72,7 @@ Phần từ vựng. Chọn từ đúng để hoàn thành câu nha. <eng>Choose 
 *Chương trình này khuyến khích giao lưu ______ giữa các nước ASEAN.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -109,7 +109,7 @@ Phần ngữ pháp. Tìm phần sai và sửa lại nha. <eng>Circle the underli
 **4.** I am thinking of participate in a youth competition.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

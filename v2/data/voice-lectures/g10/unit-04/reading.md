@@ -76,7 +76,7 @@ Bài 2 <eng>Read the text and choose the main idea</eng>. Chọn ý chính của
 *Câu lạc bộ tổ chức nhiều hoạt động tình nguyện mang lại lợi ích cho cả cộng đồng và học sinh.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -116,7 +116,7 @@ d. to take part in an activity
 e. collected money
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Bài 4 <eng>True or False</eng>. Đọc lại bài rồi chọn Đúng hay Sai n
 *Thành viên câu lạc bộ có thể giúp nấu bữa ăn miễn phí cho gia đình nghèo.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

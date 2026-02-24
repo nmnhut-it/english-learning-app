@@ -65,7 +65,7 @@ Nghe và hoàn thành 2 hội thoại nha. 1 phút.
 **Options:** A. Never mind | B. I'd like to apologise for | C. That's all right | D. I'm sorry to
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -155,7 +155,7 @@ Bài 1, đọc bài và hoàn thành bảng thông tin về Giờ Trái Đất. 
 - First held in Viet Nam in: (5) _______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

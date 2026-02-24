@@ -49,7 +49,7 @@ e. using English as the working language
 f. being able to present ideas clearly in front of an audience
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -93,7 +93,7 @@ E. Why do you think so
 **Mai:** OK, I agree with you, Nick.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

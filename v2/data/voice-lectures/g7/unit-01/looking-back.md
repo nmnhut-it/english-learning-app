@@ -40,7 +40,7 @@ Bài 1 trang 18 — đọc mô tả và đoán tên sở thích. Có 5 câu. Nh�
 → ___________________________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Bài 3 trang 18 — điền dạng đúng của động từ trong ngoặc vào 
 Phong __(1)__ (love) football. He __(2)__ (have) a lot of football cards. He __(3)__ (enjoy) collecting them. His parents __(4)__ (not like) football much but they always support him. His mum __(5)__ (be) a doctor and his dad __(6)__ (be) a teacher. Every Saturday, they __(7)__ (go) to watch Phong play. The match usually __(8)__ (begin) at 4 pm.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

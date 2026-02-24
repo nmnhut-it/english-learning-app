@@ -69,7 +69,7 @@ Bài 2. Làm việc theo cặp. Luyện tập nói chúc may mắn và đáp l�
 *(Giáo viên tiếng Anh của bạn sắp tới Vương quốc Anh để học cao hơn.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -174,7 +174,7 @@ Bài 4 - QUIZ. Làm việc theo nhóm. Tìm ra câu trả lời cho các câu h�
 - C. Depth
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

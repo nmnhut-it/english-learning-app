@@ -214,7 +214,7 @@ Tom's father is (3) _______ work, but he isn't in his office at the moment. It i
 Tom is usually at school at this time, but he has a bad cold today. He has nothing to do but lying (5) _______ the sofa and looking at the posters (6) _______ the wall.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_49843722.mp3">
 Ok đáp án và giải thích nè.
 </teacher_script>
 

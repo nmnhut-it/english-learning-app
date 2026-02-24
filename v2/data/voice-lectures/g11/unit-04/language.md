@@ -104,7 +104,7 @@ c. important things that are happening now
 d. something that you give or do to help make something successful
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 2. Hoàn thành câu dùng từ ở bài 1 nha. <eng>Complete the sentences
 **4.** The aim of this meeting is to discuss ______ such as climate change and pollution.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -212,7 +212,7 @@ Bài 1. Viết lại câu dùng danh động từ nha. <eng>Rewrite the followin
 → ______ was an unforgettable experience for Maria.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

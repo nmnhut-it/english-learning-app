@@ -69,7 +69,7 @@ E. Sure
 **Shop assistant:** Then I think this laptop is the best one for you. You can take a look at it. (5) ________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -167,7 +167,7 @@ d. a type of computer memory (một loại bộ nhớ máy tính)
 e. the amount of information a computer can keep (lượng thông tin máy tính có thể lưu)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -209,7 +209,7 @@ Bài 2: Xem quảng cáo rồi chọn máy tính phù hợp cho từng người 
 **Bob:** I'm a student, so I prefer something not too expensive. I have to bring my laptop to school, so it should not be too heavy, either.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -21,7 +21,7 @@ Bài 1 <eng>Match each phrase with the right picture.</eng> Nối cụm từ v�
 **3.** traditional game ____
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -95,7 +95,7 @@ Bài 2 <eng>Tick the things you hear.</eng> Đánh dấu những điều nghe đ
 5. Chatting on mobile phones (Trò chuyện trên điện thoại di động)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -147,7 +147,7 @@ Bài 3 <eng>Listen again and choose the correct answers.</eng> Nghe lại và ch
 - C. traditional games
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

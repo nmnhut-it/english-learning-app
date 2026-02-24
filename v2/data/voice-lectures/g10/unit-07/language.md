@@ -72,7 +72,7 @@ Bài 2, nghe và đánh dấu trọng âm chính trong các từ in đậm nha. 
 **4.** UNICEF aims to create **educational opportunities** for all children.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Bài 1, nối các từ in đậm với nghĩa trong hộp nha. 45 giây.
 A. intends | B. is pleased to accept | C. go into | D. encourage | E. promised
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -146,7 +146,7 @@ Bài 2, hoàn thành câu dùng dạng đúng của từ in đậm ở bài 1 nh
 **5.** We need to improve the quality of goods and services so that they can _______ new markets.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -207,7 +207,7 @@ Bài 1, chọn đáp án đúng nha. 45 giây.
 **4.** Over the past few years, Viet Nam has become one of **more popular / the most popular** destinations for foreign visitors in Southeast Asia.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -244,7 +244,7 @@ Bài 2, viết lại câu sử dụng từ trong ngoặc, giữ nguyên nghĩa n
 **4.** In the past, our country wasn't as active on the international stage as it is today. (more active)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

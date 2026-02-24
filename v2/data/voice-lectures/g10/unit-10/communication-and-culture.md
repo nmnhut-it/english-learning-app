@@ -68,7 +68,7 @@ https://img.loigiaihay.com/picture/2022/0809/078.mp3
 **Woman:** That's a great idea. Thanks!
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -163,7 +163,7 @@ Bài 1, đọc bài và điền vào bảng: loại du lịch nào có tác đ�
 **Positive impact:** (2) _______ | (3) _______ | (4) _______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -198,7 +198,7 @@ Bài 2, mỗi mô tả phù hợp với loại du lịch nào? Đánh dấu vào
 **3.** It stresses the role of the whole tourist industry.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

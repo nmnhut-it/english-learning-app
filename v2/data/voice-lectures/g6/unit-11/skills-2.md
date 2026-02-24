@@ -85,7 +85,7 @@ Bài 1 <eng>Listen to two students talking about what they will do if they becom
 Nghe bài nghe và điền từ vào bảng. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -137,7 +137,7 @@ Bài 2 <eng>Listen and tick T (True) or F (False)</eng> nha.
 Nghe lại và đánh dấu True hoặc False. 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

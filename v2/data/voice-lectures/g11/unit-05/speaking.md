@@ -46,7 +46,7 @@ e. Forests store carbon in the trees and soil, and help reduce the global temper
 f. Forests are cut down to make space for farm animals.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -94,7 +94,7 @@ D. Well, there are two main reasons
 **Mai:** (4) ______. Forests store carbon in the trees and soil, and help reduce the global temperature. That's why I think cutting down or burning forests is the most serious problem.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

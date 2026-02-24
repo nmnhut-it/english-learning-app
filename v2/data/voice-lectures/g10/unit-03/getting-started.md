@@ -82,7 +82,7 @@ Bài 2: Đọc lại rồi trả lời câu hỏi nha. 1 phút.
 *Điều gì khiến anh ấy nổi tiếng?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -123,7 +123,7 @@ c. an object used for producing music
 d. a person who admires someone very much
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -93,7 +93,7 @@ d. devices, such as fridges or TVs, used in people's homes
 e. power used for driving machines, providing heat and light
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -129,7 +129,7 @@ Bài 2 <eng>Complete the sentences using the words and phrases in 1</eng>. Đi�
 **5.** Students are reminded to pick up ________ that they see on the ground.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Bài tập ngữ pháp: Điền <eng>will</eng> hoặc <eng>be going to</eng> nh
 **5.** I forgot to phone Dad. I ________ do it right after lunch.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -259,7 +259,7 @@ Bài tập: Viết lại câu dùng câu bị động nha. 1 phút rưỡi.
 → Important environmental issues ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

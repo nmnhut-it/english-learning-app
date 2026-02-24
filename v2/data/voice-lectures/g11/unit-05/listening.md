@@ -45,7 +45,7 @@ c. tiny pieces of black dust that are produced when wood, coal, etc. is burnt
 d. a plant such as rice or fruit, grown by farmers and used as food
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -101,7 +101,7 @@ Bài 2. Nghe và chọn ý chính nha. <eng>Listen to a talk and choose the main
 - C. Black carbon emissions come from several sources and affect the earth's temperature. *(Khí thải cacbon đen đến từ nhiều nguồn và ảnh hưởng đến nhiệt độ trái đất.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Bài 3. Nghe lại và chọn đáp án đúng nha. <eng>Listen again and choose
 *Phần tiếp theo có thể nói về ______.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

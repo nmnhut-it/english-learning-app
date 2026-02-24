@@ -53,7 +53,7 @@ Phần từ vựng. Chọn từ đúng để hoàn thành đoạn hội thoại 
 - B. craft
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Phần ngữ pháp. Chia động từ trong ngoặc đúng dạng nha. Nhớ xá
 **4.** If we (have) _______ enough money, we (go) _______ on an ecotour to Finland. Instead, we're staying in Viet Nam in the summer.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

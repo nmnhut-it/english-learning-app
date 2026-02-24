@@ -71,7 +71,7 @@ Bài 1: Nghe câu rồi chọn trọng âm đúng nha. 1 phút.
 - B. in'crease (v)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Bài tập: Chia động từ đúng thì quá khứ đơn hoặc quá khứ ti�
 **4.** The children (play) ________ games while the adults (prepare) ________ lunch.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -96,7 +96,7 @@ Bài 3 <eng>Quiz: Match the sentences with the pictures. Then match them with th
 **Quốc gia:** Thailand | Japan | The USA | Russia
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Bài 4 <eng>Read how people in different countries celebrate their New Years. Th
 | 5. Thailand | e. drop ice cream on the floor |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

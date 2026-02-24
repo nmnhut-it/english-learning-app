@@ -52,7 +52,7 @@ A. Yes, I'd love to | B. I'm sorry, but I can't | C. Do you want to join me | D.
 **A:** Oh, (4) _______. I have to visit my grandparents today.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -136,7 +136,7 @@ FAO bắt đầu làm việc tại Việt Nam năm 1978. Đã cung cấp hỗ tr
 **5.** Viet Nam has participated in _______ and nutrition activities
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

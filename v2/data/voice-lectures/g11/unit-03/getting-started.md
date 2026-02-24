@@ -89,7 +89,7 @@ Bài 2. Đọc lại hội thoại và hoàn thành ghi chú, dùng không quá 
 - High-rise buildings will help solve the (4) ______ problems.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -126,7 +126,7 @@ Bài 3. Nối các từ để tạo cụm từ đã xuất hiện trong bài 1 n
 a. city | b. infrastructure | c. transport | d. vehicles | e. buildings
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -160,7 +160,7 @@ Bài 4. Hoàn thành câu với các cụm từ từ bài 1 nha. <eng>Complete t
 **3.** I ______ living in a smart city in the future.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

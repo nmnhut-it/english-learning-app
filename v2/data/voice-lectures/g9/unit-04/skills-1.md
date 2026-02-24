@@ -93,7 +93,7 @@ Bài 2 — điền từ vào bảng nha. Đọc bài và tìm các từ được
 | 4. necessary and important *(cần thiết và quan trọng)* | |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -145,7 +145,7 @@ Bài 3 — <eng>True/False</eng> nha. Đọc lại bài rồi xác định đún
 *Hiện nay cá và khoai tây chiên được bán ở nhiều nước.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

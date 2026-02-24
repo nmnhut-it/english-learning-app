@@ -65,7 +65,7 @@ Nhìn hình trong sách và mô tả bức tranh bằng tiếng Anh.
 Các em suy nghĩ và trả lời nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Bài 2 nè. <eng>Read the passage and answer the question: What is its main idea
 Các em đọc lại bài và chọn đáp án nha. 45 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -155,7 +155,7 @@ Bài 3 nè. <eng>Read the passage again and complete the fact file with no more 
 Các em đọc lại bài và điền vô bảng nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

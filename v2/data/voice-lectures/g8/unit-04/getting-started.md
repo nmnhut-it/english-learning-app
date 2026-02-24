@@ -97,7 +97,7 @@ Xong rồi làm bài 2 nha. Bài <eng>multiple choice</eng> — chọn đáp án
 *Lai đề cập đến _______ của người Tày.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 

@@ -23,7 +23,7 @@ Bài 1 <eng>Write a word or phrase for each description below.</eng> Viết từ
 **5.** This person makes things with his/her hands. ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -71,7 +71,7 @@ Bài 2 <eng>Circle the correct word or phrase to complete each sentence.</eng> K
 - B. objects
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -129,7 +129,7 @@ Bài 3 <eng>Choose the correct answer A, B, C, or D.</eng> Chọn đáp án đú
 - D. what
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -163,7 +163,7 @@ Bài 4 <eng>Rewrite each sentence so that it contains the phrasal verb in bracke
 **5.** They have a good relationship with all neighbours. (get on with)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -83,7 +83,7 @@ Bài 2, đọc lại rồi chọn câu trả lời đúng nha. 45 giây.
 - C. The WTO
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -118,7 +118,7 @@ Bài 3, tìm từ trong các đoạn văn có nghĩa tương ứng nha. 45 giây
 **4.** _______ : people or organisations that invest money (D)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 4, hoàn thành các câu với từ/cụm từ từ bài 1. Chú ý dạng
 **5.** Viet Nam has also become _______ to foreign investors.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

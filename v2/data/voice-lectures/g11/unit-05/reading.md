@@ -85,7 +85,7 @@ Dịch bài đọc vô vở nha. 3 phút.
 Chọn tiêu đề tốt nhất cho bài nha. 30 giây.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -121,7 +121,7 @@ c. a situation in which different things are equal
 d. gases or other substances that are sent into the atmosphere
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -180,7 +180,7 @@ Bài 4. Đọc lại bài và chọn đáp án đúng nha. <eng>Read the article
 *Tại sao giảm phát thải mê-tan là mục tiêu chính?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

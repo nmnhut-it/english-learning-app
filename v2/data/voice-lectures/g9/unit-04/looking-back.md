@@ -48,7 +48,7 @@ Bài 1 — trắc nghiệm từ vựng nha. Chọn nghĩa đúng của từ in �
 - D. avoid *(tránh né)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -160,7 +160,7 @@ Bài 3 — điền dạng <eng>Past Continuous</eng> đúng nha. 1 phút.
 *Cô ấy __________ về tổ tiên trong khi đốt nhang ở bàn thờ.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -234,7 +234,7 @@ Bài 4 — viết 5 câu <eng>wish</eng> dựa trên gợi ý nha. 2 phút.
 *Chúng tôi không thể tham dự Lễ hội Gióng năm nay.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

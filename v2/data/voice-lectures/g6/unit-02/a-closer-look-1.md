@@ -49,7 +49,7 @@ d. ________
 e. ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -79,7 +79,7 @@ Bài 2 <eng>Name the things in each room in 1</eng>. Kể tên các đồ vật 
 | sofa | dishwasher | fridge | shower | chest of drawers |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -200,7 +200,7 @@ Bài 5 <eng>Listen to the conversation. Underline the final s in the words and p
 **Mẹ:** Cuối tuần này hãy đến đó.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

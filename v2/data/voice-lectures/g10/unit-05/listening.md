@@ -46,7 +46,7 @@ Bài 1: Điền từ vào chỗ trống nha. 30 giây.
 *Bạn cần ________ điện thoại. Pin rất yếu.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -158,7 +158,7 @@ Bài 2: Nghe rồi điền từ vào sơ đồ nha. Mỗi chỗ trống 1 từ. 
 - Start button: To start or (3) ________ the device
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -198,7 +198,7 @@ Bài 3: Nghe lại rồi đánh dấu đúng hoặc sai cách sử dụng <eng>R
 *Sạc 5 tiếng trước khi dùng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

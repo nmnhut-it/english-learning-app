@@ -68,7 +68,7 @@ B: No, *I don't / I do not*.
 B: Yes, *I'll / I will*.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -116,7 +116,7 @@ Bài 1 từ vựng. Nối các từ để tạo cụm từ nha. <eng>Match the w
 **4.** cultural → a. characteristics | b. conflict | c. values | d. view
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Bài 2 từ vựng. Hoàn thành câu dùng đúng cụm từ ở bài 1 nha. <e
 **4.** A ______ is that men are the breadwinners in the family.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -208,7 +208,7 @@ Bài 1 ngữ pháp. Khoanh đáp án đúng nha. <eng>Circle the correct answers
 **4.** In the past, women *had to / must* do all house work. It was one of their duties.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

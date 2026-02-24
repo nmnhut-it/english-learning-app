@@ -4,7 +4,7 @@ Checking: G6 U01 getting-started
 Checking: G6 U01 a-closer-look-1
   🟡 MEDIUM (1)
 Checking: G6 U01 a-closer-look-2
-  🟡 MEDIUM (1)
+  🔵 LOW (3)
 Checking: G6 U01 communication
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 16/16 sentences not found: "are you from around here", "do y...
@@ -40,7 +40,7 @@ Checking: G6 U03 getting-started
      STRICT Dialogue - Unmatched Sentences: 18/18 sentences not found: "that was a great idea nam", "i l...
      STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "phong and nam are having a", "phon...
 Checking: G6 U03 a-closer-look-1
-  🟡 MEDIUM (3)
+  🟡 MEDIUM (2)
 Checking: G6 U03 a-closer-look-2
   🟡 MEDIUM (1)
 Checking: G6 U03 communication
@@ -75,7 +75,7 @@ Checking: G6 U04 looking-back
   🟡 MEDIUM (1)
 Checking: G6 U05 getting-started
   🔴 CRITICAL (2)
-     STRICT Dialogue - Unmatched Sentences: 14/14 sentences not found: "hello welcome to our geography c...
+     STRICT Dialogue - Unmatched Sentences: 13/14 sentences not found: "hello welcome to our geography c...
      STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "people didnt make ganh da dia", ...
 Checking: G6 U05 a-closer-look-1
   🟠 HIGH (1)
@@ -88,10 +88,10 @@ Checking: G6 U05 communication
      STRICT Reading - Unmatched Sentences: 4/4 sentences not found: "the himalayas is a mountain range"...
 Checking: G6 U05 skills-1
   🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "what is the reading about", "wha...
+     STRICT Reading - Unmatched Sentences: 10/11 sentences not found: "what is the reading about", "ha ...
 Checking: G6 U05 skills-2
   🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 25/25 sentences not found: "phu quoc is a very beautiful isl...
+     STRICT Reading - Unmatched Sentences: 24/25 sentences not found: "phu quoc is a very beautiful isl...
 Checking: G6 U05 looking-back
   🟡 MEDIUM (1)
 Checking: G6 U06 getting-started
@@ -141,20 +141,20 @@ Checking: G6 U08 getting-started
 Checking: G6 U08 a-closer-look-1
   🔵 LOW (3)
 Checking: G6 U08 a-closer-look-2
-  🟡 MEDIUM (1)
+  🔵 LOW (1)
 Checking: G6 U08 communication
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 11/11 sentences not found: "how many players are there in a ...
 Checking: G6 U08 skills-1
   🔴 CRITICAL (1)
-     STRICT Reading - Unmatched Sentences: 6/6 sentences not found: "what do you know about pele", "wha...
+     STRICT Reading - Unmatched Sentences: 5/6 sentences not found: "what is special about him", "who f...
 Checking: G6 U08 skills-2
   🟠 HIGH (1)
      STRICT Reading - Unmatched Sentences: 9/21 sentences not found: "i play volleyball at school and i...
 Checking: G6 U08 looking-back
   🟡 MEDIUM (2)
 Checking: G6 U09 getting-started
-  🟡 MEDIUM (1)
+  🔵 LOW (3)
 Checking: G6 U09 a-closer-look-1
   🟠 HIGH (1)
      Media - Missing MP3: gs-u9-a-closer-look-1-ex5.mp3...
@@ -176,7 +176,7 @@ Checking: G6 U10 getting-started
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "phongs house will be in the mounta...
 Checking: G6 U10 a-closer-look-1
-  🟡 MEDIUM (1)
+  🔵 LOW (3)
 Checking: G6 U10 a-closer-look-2
   🟡 MEDIUM (2)
 Checking: G6 U10 communication
@@ -204,11 +204,8 @@ Checking: G6 U11 a-closer-look-2
 Checking: G6 U11 communication
   🟡 MEDIUM (1)
 Checking: G6 U11 skills-1
-  🔴 CRITICAL (3)
-     Reading - Fabricated Content: **Interview: Making Our School Greener**
-
-**Interviewer:** N...
-     STRICT Dialogue - Unmatched Sentences: 15/16 sentences not found: "can you share with us some tips ...
+  🔴 CRITICAL (1)
+     STRICT Reading - Unmatched Sentences: 5/5 sentences not found: "what is the interview about", "wha...
 Checking: G6 U11 skills-2
   🔴 CRITICAL (1)
      STRICT Reading - Unmatched Sentences: 1/1 sentences not found: "giving explanations and or example...
@@ -224,7 +221,7 @@ Checking: G6 U12 a-closer-look-2
 Checking: G6 U12 communication
   🟡 MEDIUM (3)
 Checking: G6 U12 skills-1
-  🟡 MEDIUM (2)
+  🟡 MEDIUM (1)
 Checking: G6 U12 skills-2
   🔴 CRITICAL (2)
      Reading - Fabricated Content: **Dr Adams:** Sure | Robots can do quite a lot today | Home ...

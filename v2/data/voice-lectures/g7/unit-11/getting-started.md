@@ -100,7 +100,7 @@ Bài 2 nè. <eng>What are Ann and Minh talking about?</eng> - Ann và Minh đang
 Chọn xong chưa? 30 giây nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -143,7 +143,7 @@ Bài 3. <eng>Read the conversation again and tick T (True) or F (False).</eng> -
 Đọc lại hội thoại và đánh dấu True hoặc False nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -192,7 +192,7 @@ Bài 4. <eng>Find the words and phrases that describe the means of transport in 
 Tìm từ mô tả hyperloop và teleporter trong hội thoại rồi điền vô bảng nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -243,7 +243,7 @@ Bài 5. <eng>QUIZ - What vehicle is this?</eng> - Đố vui nè. Đây là phư�
 Đọc câu đố và đoán xem đó là phương tiện gì nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

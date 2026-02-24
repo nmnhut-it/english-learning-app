@@ -125,7 +125,7 @@ Bài 3 trang 17 — hỏi và trả lời về sở thích sưu tập tem. Đọ
 → ___________________________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

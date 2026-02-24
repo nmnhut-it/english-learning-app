@@ -85,7 +85,7 @@ Bài 2 — nghe và chọn đáp án đúng nha. 1 phút.
 - C. Their community activities.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

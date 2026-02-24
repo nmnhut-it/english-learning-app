@@ -99,7 +99,7 @@ Bài 2 trang 31. Đọc lại hội thoại rồi điền vào chỗ trống kh�
 **5.** Not all students in Jack's school are _______, but they all speak English.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -150,7 +150,7 @@ d. the language someone learns to speak from birth
 e. to express or represent something
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -193,7 +193,7 @@ Bài 4 trang 31. Điền từ hoặc cụm từ từ bài 3 vào chỗ trống. 
 **5.** This year our school has a(n) _______ from Britain. She will study with us for one month.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -238,7 +238,7 @@ Bài 5 trang 32. Nối từ tiếng Anh Anh với từ tiếng Anh Mỹ cùng ng
 | 5. football | e. French fries |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

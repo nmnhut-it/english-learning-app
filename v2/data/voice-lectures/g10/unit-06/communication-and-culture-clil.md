@@ -50,7 +50,7 @@ Nghe xong rồi điền vô nha. Có 4 cụm từ: <eng>I'm afraid I disagree, A
 **Mai:** (4) _______. That's why we need more women surgeons. We can be as good as men.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -135,7 +135,7 @@ Ngày nay, giống như bóng đá nam, bóng đá nữ ngày càng phổ biến
 **5.** _______ : First FIFA Women's World Cup
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

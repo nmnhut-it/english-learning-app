@@ -51,7 +51,7 @@ d. a type of train that runs on a track high above the ground
 e. the centre of a city, especially the main business area
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 3 trang 20 nha. Điền từ vào chỗ trống trong đoạn hội thoại
 *Jenny: Cuộc sống ở thành phố thật tồi tệ! Khu vực (4) ________ quá đông đúc. Phương tiện công cộng luôn chật cứng người. Một số thành phố như (5) ________ với rất nhiều tòa nhà. Một số thành phố không (6) ________ vì tỉ lệ tội phạm cao.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

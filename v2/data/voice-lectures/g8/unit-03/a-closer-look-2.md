@@ -104,7 +104,7 @@ Ok bài 1 — xác định câu nào là câu đơn nha. Đọc kỹ rồi tìm 
 Làm đi nha, 1 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -221,7 +221,7 @@ Bài 3 — chọn từ nối đúng cho mỗi câu. Đọc kỹ nghĩa hai mện
 Làm đi nha, 2 phút rưỡi.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

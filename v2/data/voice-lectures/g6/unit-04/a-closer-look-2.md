@@ -64,7 +64,7 @@ Bài 1 <eng>Complete the following sentences with the comparative form of the ad
 *Sống ở thành phố có ________ sống ở nông thôn không?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -102,7 +102,7 @@ See you soon,
 Vy
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 3 <eng>Look at the pictures of the two neighbourhoods: Binh Minh and Long S
 **Example:** Binh Minh is noisier than Long Son. *(Bình Minh ồn ào hơn Long Sơn.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

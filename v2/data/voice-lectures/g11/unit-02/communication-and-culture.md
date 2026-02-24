@@ -43,7 +43,7 @@ A. Is it OK   B. I'm afraid not   C. Certainly   D. can I
 **Lan:** OK, Mum. I'll be home before 10 p.m. then.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -132,7 +132,7 @@ Kết quả là con cái có thể không làm theo mong muốn của bố mẹ,
 - Try to force children to follow native country's (4) ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

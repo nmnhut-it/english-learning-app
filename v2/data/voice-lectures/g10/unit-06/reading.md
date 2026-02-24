@@ -50,7 +50,7 @@ Bài 1, nối các câu với hình ảnh nha. 30 giây.
 *Một số phụ nữ không thể đọc hoặc viết.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Giờ trả lời câu hỏi bài 2 nha. Khoanh tròn nghĩa đúng của các t
 - B. providing very little money
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -158,7 +158,7 @@ Bài 3, đọc lại bài văn rồi xác định các câu sau đúng <eng>True
 *Chỉ các cá nhân mới phải làm việc để hướng tới bình đẳng giới.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

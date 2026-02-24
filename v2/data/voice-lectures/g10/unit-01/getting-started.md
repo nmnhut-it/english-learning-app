@@ -95,7 +95,7 @@ Bài 2 <eng>Read the conversation again and decide whether the following stateme
 *Các con trong gia đình Minh không phải làm việc nhà nào.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Bài 3 <eng>Write the verbs or phrasal verbs that are used with the nouns or nou
 **5.** ________ the washing-up
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -171,7 +171,7 @@ Bài 4 <eng>Complete the sentences from the conversation with the correct forms 
 **2.** My mum usually (do) ________ the cooking but she (work) ________ late today.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

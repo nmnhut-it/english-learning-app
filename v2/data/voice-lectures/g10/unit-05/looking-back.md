@@ -35,7 +35,7 @@ Phần phát âm và từ vựng: Giải ô chữ dùng danh từ 3 âm tiết t
 *thiết bị hiện đại cho phép lưu trữ thông tin*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Phần ngữ pháp: Khoanh tròn đáp án đúng nha. Nhớ: thì hiện tại 
 - B. has been invented - changed
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

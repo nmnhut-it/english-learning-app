@@ -103,7 +103,7 @@ D. The waste-free city *(Thành phố không rác thải)*
 **3.** \_\_\_\_\_: Helena Wilson
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -178,7 +178,7 @@ Ok đáp án nè.
 *(Câu nào sau đây KHÔNG ĐÚNG về Helena Wilson?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

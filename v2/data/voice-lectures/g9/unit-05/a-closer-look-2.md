@@ -140,7 +140,7 @@ Bài 2 — điền <eng>Present Perfect</eng> đúng vào chỗ trống nha. 1 p
 *Họ __________ đi tour sinh thái rồi.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -209,7 +209,7 @@ Bài 3 — trắc nghiệm từ hiệu lệnh nha. Chọn từ đúng để đi�
 - D. just
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -249,7 +249,7 @@ Bài 4 — viết câu <eng>Present Perfect</eng> dựa theo danh sách việc c
 - Điều chưa làm (✗): dùng **yet** ở cuối câu
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

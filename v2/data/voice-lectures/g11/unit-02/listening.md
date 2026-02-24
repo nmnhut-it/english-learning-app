@@ -63,7 +63,7 @@ c. Mai is not allowed to colour her hair.
 d. Mai's choice in clothes and hairstyle upsets her mother.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -132,7 +132,7 @@ Bài 3. Nghe lại và trả lời câu hỏi. Dùng không quá 2 từ nha. <en
 **5.** What time do Kevin's parents take away his devices? → ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

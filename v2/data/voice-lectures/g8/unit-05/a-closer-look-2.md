@@ -253,7 +253,7 @@ Bài 3 - 5 câu nữa nha. Nhớ: **∅** = không điền gì hết, cứ để
 *_______ Người Việt Nam yêu thích việc ăn mừng các lễ hội truyền thống cùng gia đình.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

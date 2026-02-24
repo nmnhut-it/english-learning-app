@@ -40,7 +40,7 @@ cultural | open to | popular | experiencing | easier | international
 **6.** Vietnamese people have a better chance of _______ different cultures.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -85,7 +85,7 @@ Bài 2, hoàn thành sơ đồ về lợi ích khi Việt Nam tham gia tổ ch�
 → f. It is also _______ for Vietnamese people to travel abroad.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

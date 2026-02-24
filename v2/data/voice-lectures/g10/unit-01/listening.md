@@ -110,7 +110,7 @@ Bài 3 <eng>Listen to the talk show and decide whether the statements are true o
 *Các thói quen sinh hoạt giúp gia đình dành thời gian bên nhau mỗi tuần.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -151,7 +151,7 @@ Bài 4 <eng>Listen again and complete each sentence with ONE word from the recor
 *Anh trai Hiếu là bạn thân nhất. Anh ấy chia sẻ khoảnh khắc vui và ________ với bạn ấy.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

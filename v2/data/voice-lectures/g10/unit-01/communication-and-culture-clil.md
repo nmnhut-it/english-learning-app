@@ -75,7 +75,7 @@ Bài 1 <eng>Listen and complete the conversation with the expressions in the box
 **Tu:** Well, (3) ________. Teenagers should spend all their time studying instead of doing housework.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 1 <eng>Read the text and list the five family values of British people</eng
 **5.** ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

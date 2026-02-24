@@ -54,7 +54,7 @@ Nghe và hoàn thành hội thoại nha. 45 giây.
 **Mai:** Now, click 'Get' next to the 'I-Speak' icon and (4) _______ until the download is complete.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -122,7 +122,7 @@ Trong lớp, giáo viên và học sinh dùng máy tính để truy cập tài n
 **4.** How do students learn about the real world?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

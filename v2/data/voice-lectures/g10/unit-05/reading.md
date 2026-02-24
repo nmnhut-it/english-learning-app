@@ -44,7 +44,7 @@ Bài 1: Nhìn ảnh Asimo và Sophia rồi trả lời câu hỏi nha. 30 giây.
 *Bạn nghĩ chúng có thể làm gì?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -112,7 +112,7 @@ Chọn tiêu đề phù hợp nhất cho bài đọc nha. 30 giây.
 - D. AI in education (AI trong giáo dục)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -149,7 +149,7 @@ b. Uses of AI at work
 c. Uses of AI in transport
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -186,7 +186,7 @@ Bài 4: Xác định câu Đúng hay Sai nha. 1 phút.
 *AI là một trong những phát minh quan trọng nhất thế kỷ 20.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

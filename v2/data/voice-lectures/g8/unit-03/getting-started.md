@@ -104,7 +104,7 @@ Xong rồi hả? Giờ mình làm bài 2 nha — bài <eng>True or False</eng>. 
 Ok làm đi, 1 phút nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Tiếp theo bài 3 — ghép từ với định nghĩa. Đọc định nghĩa r�
 Làm đi nha, 2 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

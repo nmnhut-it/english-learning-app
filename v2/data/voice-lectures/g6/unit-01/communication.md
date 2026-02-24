@@ -99,7 +99,7 @@ Bài 3 <eng>Read and tick the questions you think are suitable to ask a new frie
 8. Where do you often go shopping? *(Bạn thường đi mua sắm ở đâu?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

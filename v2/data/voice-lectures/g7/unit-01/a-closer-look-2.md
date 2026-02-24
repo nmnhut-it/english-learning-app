@@ -109,7 +109,7 @@ Bài 2 trang 10 — điền dạng đúng của động từ trong ngoặc. Chú
 *Câu lạc bộ ________ lúc 8 giờ sáng thứ Bảy không?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 
@@ -145,7 +145,7 @@ Bài 3 trang 11 — đọc đoạn văn và điền động từ đúng dạng. 
 My family members have different hobbies. My dad (1. enjoy) ________ gardening. He (2. spend) ________ two hours in our garden every day. My mum and sister (3. not like) ________ gardening, but they love cooking. They (4. go) ________ to a cooking class every Sunday. Their lesson (5. begin) ________ at 9 a.m. I (6. not enjoy) ________ cooking, and I cannot cook very well.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

@@ -118,7 +118,7 @@ Bài 2 — viết câu <eng>Past Continuous</eng> từ các từ gợi ý nha. 1
 *Bà tôi / làm / bánh chưng truyền thống / khi tôi về đến nhà.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

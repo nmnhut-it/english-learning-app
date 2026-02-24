@@ -91,7 +91,7 @@ Bài 3: Nghe lại rồi hoàn thành bảng so sánh năm ngoái và năm nay n
 | Tickets | (3) ________ of charge | Sold in (4) ________ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

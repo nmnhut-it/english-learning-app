@@ -86,7 +86,7 @@ Bài 2, đọc lại hội thoại rồi trả lời 3 câu hỏi nha. 45 giây.
 **3.** When does Nam have to deliver the presentation?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -129,7 +129,7 @@ c. actions
 d. warming
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -162,7 +162,7 @@ Bài 4, hoàn thành câu dựa vào hội thoại nha. Đây là <eng>reported 
 **3.** She _______ I should deliver my presentation the following week.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

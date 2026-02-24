@@ -81,7 +81,7 @@ Bài 2: Trả lời câu hỏi nha. 1 phút.
 **3.** What are the benefits of community service?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -109,7 +109,7 @@ Bài 3: Hoàn thành câu dựa trên hội thoại nha. 45 giây.
 **2.** While Tam ________ (visit) the centre, he saw an advertisement.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -76,7 +76,7 @@ Bài 1 <eng>Choose the correct answer A, B, or C</eng>. Chọn đáp án đúng 
 *Bạn của tôi có một chị gái, nhưng cô ấy ________ anh/em trai.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -116,7 +116,7 @@ Bài 2 <eng>Write the correct form of the verbs</eng>. Cô Nguyệt đang phỏn
 **Miss Nguyet:** Thank you!
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -184,7 +184,7 @@ Write a sentence with one of these adverbs.
 *(Viết một câu với một trong những trạng từ này.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -238,7 +238,7 @@ Bài 4 <eng>Choose the correct answer A or B to complete each sentence</eng>. Ch
 *Mỗi năm bạn thường đi nghỉ mát khi nào?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -276,7 +276,7 @@ Bài 5 <eng>Work in pairs. Make questions, and then interview your partner</eng>
 5. you / usually / do homework / after school
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

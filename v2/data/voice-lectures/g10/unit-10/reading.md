@@ -106,7 +106,7 @@ Giải ô chữ bằng các từ trong tờ quảng cáo nha. 45 giây.
 2. (n) the way of life of a group of people or countries (Brochure b) → _______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 3, mỗi câu nói về chuyến tham quan nào? Viết a, b, c hoặc d. 4
 **4.** This tour offers educational videos about the environment. _______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

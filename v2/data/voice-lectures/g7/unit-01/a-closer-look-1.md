@@ -121,7 +121,7 @@ Bài 2 trang 8 — điền vào chỗ trống dạng V-ing của động từ tr
 *Bạn có thích ________ yoga buổi tối không?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 
@@ -243,7 +243,7 @@ Bài 5 trang 9 — nghe và ghi âm /ə/ hay /ɜː/ cho từng từ. Nghe kỹ p
 - B. /ɜː/
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

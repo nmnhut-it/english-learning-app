@@ -46,7 +46,7 @@ Bài 1 <eng>Listen to the conversation between Khang and Dr Adams and tick the p
 - move heavy things *(di chuyển những thứ nặng)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -123,7 +123,7 @@ Bài 2 <eng>Listen to the conversation again and tick T (True) or F (False)</eng
 5. Robots can do everything like humans. *(Robot có thể làm mọi thứ như con người.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

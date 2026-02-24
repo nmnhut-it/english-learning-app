@@ -93,7 +93,7 @@ d. wanting to know about something
 e. people born in the era of technology
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Bài 3. Đọc bài lần nữa và chọn tiêu đề đúng nhất nha. <eng>R
 - C. Characteristics of different generations *(Đặc điểm của các thế hệ khác nhau)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -159,7 +159,7 @@ Bài 4. Đọc lại bài và tick đặc điểm của mỗi thế hệ nha. <e
 **5.** They are known for their curiosity.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -88,7 +88,7 @@ c. removed from the competition
 d. looking for
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -126,7 +126,7 @@ Bài 3: Đọc lại rồi xem câu nào đúng sai nha. 1 phút.
 *Vietnam Idol bắt đầu một năm sau American Idol.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

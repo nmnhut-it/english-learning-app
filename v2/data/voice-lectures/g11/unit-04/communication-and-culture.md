@@ -48,7 +48,7 @@ D. It's excellent
 **Hoa:** Thank you. (4) ______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -144,7 +144,7 @@ Dịch bài đọc vô vở nha. 3 phút.
 | Activities | (3) ______ | (4) ______ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

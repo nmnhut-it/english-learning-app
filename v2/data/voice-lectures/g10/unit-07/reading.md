@@ -94,7 +94,7 @@ Giờ khoanh tròn nghĩa đúng của các từ được đánh dấu nha. 1 ph
 **4.** practical: a. connected with organisations | b. connected with ideas | c. connected with real situations
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -128,7 +128,7 @@ Bài 3, đọc lại rồi trả lời câu hỏi nha. 1 phút.
 **4.** What is the aim of the Improving Learning Achievements programme?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

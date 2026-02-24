@@ -51,7 +51,7 @@ Bài 2. Nghe hội thoại giữa Lan và Phong. Họ đang nói về gì nha?
 - C. Types of activities for ASEAN students
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Bài 3. Nghe lại và chọn đáp án đúng A, B hoặc C nha. <eng>Listen ag
 - C. ASEAN students
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

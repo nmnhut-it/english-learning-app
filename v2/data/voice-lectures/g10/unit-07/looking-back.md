@@ -38,7 +38,7 @@ Nghe và đánh dấu trọng âm chính trong các từ in đậm nha. 30 giây
 **5.** There are many **educational opportunities** for Vietnamese students now.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -69,7 +69,7 @@ As a member of various international organisations, Viet Nam can (1) _______ int
 As Viet Nam (3) _______ to develop its economy, it (4) _______ foreign investors. This will help (5) _______ our economic growth.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -104,7 +104,7 @@ Phần ngữ pháp, viết lại câu sử dụng từ trong ngoặc, giữ nguy
 **4.** No other country is a bigger financial provider to this organisation than Japan. (the biggest)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

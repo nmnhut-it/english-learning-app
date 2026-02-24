@@ -26,7 +26,7 @@ Bài 1 <eng>Write the correct words to complete the phrases</eng>. Viết từ �
 5. ________ the dishes
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -69,7 +69,7 @@ Bài 2 <eng>Fill the blanks with the verbs from the box</eng>. Điền động t
 5. My father and I ________ the plants in our garden every morning.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -101,7 +101,7 @@ Bài 3 <eng>Use the correct form of the adjectives in brackets to complete the p
 Welcome to our company. We've made the (1. smart) ________ robots in the world. It's the (2. small) ________ and the (3. light) ________ we've made but it can do many things in your house that can even fly to clean the ceilings. It can teach children all school subjects. It's also the (4. strong) ________ in our lab because it can move more than 200 kg. It's not difficult to own a robot like this because it's one of the (5. cheap) ________ robots in the world.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -141,7 +141,7 @@ Bài 4 <eng>Complete the following sentences with the superlative form of the ad
 5. What is the (hot) ________ desert in the world?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

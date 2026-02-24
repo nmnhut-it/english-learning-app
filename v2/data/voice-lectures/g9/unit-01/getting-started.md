@@ -80,7 +80,7 @@ Bài 2 <eng>Read the conversation again. Fill in each blank with no more than TW
 **5.** People in Ann's community gave her family ________ on where to buy stuff.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -120,7 +120,7 @@ d. an area outside the centre of a city
 e. the buildings, equipment, and services provided for a particular purpose
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Bài 4 <eng>Complete each sentence with a word or phrase from 3.</eng> Hoàn th�
 **5.** The local ________ encourages us to protect the environment and keep our neighbourhood clean.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -188,7 +188,7 @@ Bài 5 <eng>QUIZ. What is the place? Do the following quiz.</eng> Đoán xem đ�
 **5.** Visitors see objects from the past there. ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

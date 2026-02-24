@@ -49,7 +49,7 @@ D. Watch out
 **Nga:** Oh no, I didn't know that. (4) ______. I'll tell my dad.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Dịch bài đọc vô vở nha. 3 phút.
 **Dịch đề:** Đọc bài và đánh dấu các bức tranh chỉ ra cách giảm sự nóng lên toàn cầu.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -69,7 +69,7 @@ Bài 2. Gạch chân các từ được nhấn mạnh trong câu nha. 45 giây.
 **4.** Some environmental disasters will become more frequent.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -111,7 +111,7 @@ d. to let a substance flow out
 e. a black rock found under the ground, burnt to produce heat
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -147,7 +147,7 @@ Bài 2. Hoàn thành câu dùng từ ở bài 1 nha. 45 giây.
 **5.** The burning of ______ like coal and gas has led to an increase in CO2.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -202,7 +202,7 @@ Bài 1. Tìm và sửa lỗi sai nha. <eng>Find and correct the mistakes.</eng> 
 **3.** The students took part in green activities, were planting more than 100 trees.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -242,7 +242,7 @@ Bài 2. Viết lại câu dùng mệnh đề quá khứ phân từ nha. <eng>Rew
 → ______, carbon dioxide causes air pollution and climate change.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

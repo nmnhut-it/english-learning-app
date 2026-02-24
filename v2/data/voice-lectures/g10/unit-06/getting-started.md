@@ -82,7 +82,7 @@ Bài 2, đọc lại hội thoại rồi xác định các câu sau đúng <eng>
 *Mark nói rằng con gái không thể cứ bị giữ ở nhà trong thế giới ngày nay.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -116,7 +116,7 @@ Bài 3, ghép các từ để tạo thành cụm từ có nghĩa trong bài 1 nh
 **3.** job → c. equally
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -148,7 +148,7 @@ Bài 4, hoàn thành đoạn tóm tắt bên dưới bằng cụm động từ t
 The students are talking about future jobs. While Mark wants to work as a kindergarten teacher, Linda wants to be a surgeon. Lan dreams to be an airline pilot. Linda says that in some countries girls (1) _______ to be pilots. Mark thinks girls (2) _______ home in today's world. He says that boys and girls (3) _______ equally and given the same job opportunities.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

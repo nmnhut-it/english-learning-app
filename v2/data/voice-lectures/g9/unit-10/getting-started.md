@@ -2,12 +2,12 @@
 ## GETTING STARTED - In a science club
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e24b4ca4.webm">
 Ok lớp 9, Unit 10 nha. Chủ đề là <eng>Planet Earth</eng> - Hành tinh Trái Đất. Bài hôm nay là <eng>Getting Started</eng>, tựa bài là <eng>In a science club</eng> - Trong câu lạc bộ khoa học. Ghi tựa bài vô tập đi nha.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_92f80df7.webm">
 Giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -36,7 +36,7 @@ Giờ mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dư�
 <audio src="https://img.loigiaihay.com/picture/2024/0516/61.mp3"></audio>
 
 <!-- chunk: dialogue -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9df005c2.webm">
 Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe và đọc. Đây là hội thoại trong một buổi sinh hoạt câu lạc bộ khoa học, các bạn học sinh đang hỏi ông An về Trái Đất.
 </teacher_script>
 
@@ -70,14 +70,14 @@ Giờ mình đọc hội thoại bài 1 nha. <eng>Listen and read</eng> - Nghe v
 **Ông An:** Đúng vậy. Tuy nhiên, chúng đang bị phá hủy bởi ô nhiễm. Tất cả chúng ta nên giúp đỡ để bảo tồn chúng.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_e1a1c0de.webm">
 Dịch hội thoại vô vở nha. Có bảng song ngữ ở trên để các em tham khảo. 3 phút nha.
 </teacher_script>
 
 <!-- chunk: bai2 -->
 ### Bài 2 trang 105 - True/False
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_296e0712.webm">
 Bài 2, <eng>Read the conversation again and tick T (True) or F (False) for each sentence</eng> - Đọc lại đoạn hội thoại và đánh dấu T (Đúng) hoặc F (Sai) cho mỗi câu. Làm bài nha, 60 giây.
 </teacher_script>
 
@@ -103,7 +103,7 @@ Bài 2, <eng>Read the conversation again and tick T (True) or F (False) for each
 *Ông An cho rằng ô nhiễm đang đe dọa môi trường sống của thực vật và động vật.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7190b806.webm">
 Làm xong chưa? 60 giây nha.
 </teacher_script>
 
@@ -130,7 +130,7 @@ Ok đáp án nè.
 <!-- chunk: bai3 -->
 ### Bài 3 trang 105 - Matching
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cd1d6271.webm">
 Bài 3, <eng>Write a word or phrase from the box under the correct picture</eng> - Viết một từ hoặc cụm từ trong khung dưới bức tranh đúng. Có 6 từ và 6 hình nha.
 </teacher_script>
 
@@ -152,7 +152,7 @@ Bài 3, <eng>Write a word or phrase from the box under the correct picture</eng>
 **Hình 6:** Các hành tinh quay quanh Mặt Trời (Hệ Mặt Trời)
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_143d05b2.webm">
 Làm đi, 60 giây nha.
 </teacher_script>
 
@@ -187,7 +187,7 @@ Ok đáp án nè.
 <!-- chunk: bai4 -->
 ### Bài 4 trang 105 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_81ba82b9.webm">
 Bài 4, <eng>Complete each sentence with a word or phrase from 3</eng> - Hoàn thành mỗi câu bằng một từ hoặc cụm từ từ bài 3. Dùng 6 từ ở bài 3 để điền vào chỗ trống nha.
 </teacher_script>
 
@@ -213,7 +213,7 @@ Bài 4, <eng>Complete each sentence with a word or phrase from 3</eng> - Hoàn t
 *Một số ví dụ về _______ bao gồm núi, đồng cỏ và sa mạc.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_143d05b2.webm">
 Làm đi, 60 giây nha.
 </teacher_script>
 
@@ -245,7 +245,7 @@ Ok đáp án nè.
 <!-- chunk: bai5 -->
 ### Bài 5 trang 105 - Quiz
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f247d2a1.webm">
 Bài 5, <eng>QUIZ. Work in groups. Answer the following questions</eng> - Làm việc theo nhóm. Trả lời các câu hỏi sau. Đây là phần quiz về Trái Đất nha.
 </teacher_script>
 
@@ -271,7 +271,7 @@ Bài 5, <eng>QUIZ. Work in groups. Answer the following questions</eng> - Làm v
 *Hành tinh nào có điều kiện tương tự như Trái Đất?*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_15121c11.webm">
 Suy nghĩ và trả lời nha. 60 giây.
 </teacher_script>
 
@@ -310,6 +310,6 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26e4811c.webm">
 Ok vậy là xong bài <eng>Getting Started</eng> Unit 10 rồi nha. Hôm nay mình học về hành tinh Trái Đất - vị trí trong Hệ Mặt Trời, tại sao gọi là Hành tinh Xanh, và tầm quan trọng của môi trường sống. Các em nhớ học từ vựng và chuẩn bị cho bài tiếp theo nha. Tạm biệt các em!
 </teacher_script>

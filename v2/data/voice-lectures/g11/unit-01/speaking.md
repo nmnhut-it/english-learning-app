@@ -46,7 +46,7 @@ c. open your legs wider than your shoulders and move your arms out, creating a s
 d. jump with your feet apart and your arms spread out.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -80,7 +80,7 @@ Bài 2. Nhìn bài tập <eng>How to burn fat</eng> rồi điền từ vào ch�
 You can burn fat by doing this simple exercise routine. (1) ______, do star jumps for 20 seconds. (2) ______ take a one minute rest. (3) ______ stand on one leg for 10 seconds...
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

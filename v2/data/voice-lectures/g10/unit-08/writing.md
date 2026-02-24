@@ -38,7 +38,7 @@ Bài 1, đánh dấu những lợi ích của học kết hợp nha. 45 giây.
 5. It is not suitable for students who have no Internet connection or computers. *(Không phù hợp cho HS không có Internet)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -80,7 +80,7 @@ Bài 2, hoàn thành dàn ý với các lợi ích từ bài 1 và ý tưởng c
 **Concluding sentence:** In short, blended learning has crucial advantages including students' control over their learning and _______ development.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

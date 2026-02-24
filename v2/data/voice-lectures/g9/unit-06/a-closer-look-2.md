@@ -53,7 +53,7 @@ Bài 1 <eng>Write the correct form of the verbs in brackets.</eng> Viết dạng
 **6.** promise (learn) ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Bài 2 <eng>Underline the correct verb form for each sentence.</eng> Gạch châ
 **5.** They plan **to do / doing** research about life in Hue in the 19th century.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -124,7 +124,7 @@ make | learn | give | work | teach
 **5.** Our group agreed ________ a presentation about school uniforms in the 20th century.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -167,7 +167,7 @@ Bài 4 <eng>Choose the incorrect underlined word or phrase in each sentence.</en
 - A. Do    B. not    C. to talk    D. negative
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

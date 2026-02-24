@@ -45,7 +45,7 @@ d. work around the house such as cooking, cleaning or washing clothes
 e. food and other goods sold at a shop or a supermarket
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -94,7 +94,7 @@ Bài 2 <eng>Complete the sentences using the words in 1</eng>. Dùng từ ở b�
 *Ông Lewis là ________ của gia đình, nhưng ông vẫn giúp vợ việc nhà mỗi khi có thời gian.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Bài 2 <eng>Listen to the sentences and circle the words you hear</eng>. Nghe c�
 - c. tread
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -245,7 +245,7 @@ Bài 1 <eng>Choose the correct form of the verb in each sentence</eng>. Chọn d
 *Mẹ tôi ________ giặt quần áo hai lần một tuần.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -283,7 +283,7 @@ Mrs Lam is a housewife. Every day, she (1. do) ________ most of the housework. S
 *Bà Lâm là nội trợ. Mỗi ngày, bà làm hầu hết việc nhà. Bà nấu ăn, giặt quần áo và dọn nhà. Nhưng hôm nay là Ngày của Mẹ. Vì vậy bà Lâm không làm việc nhà. Bà đang xem chương trình TV yêu thích. Các con đang nấu ăn và chồng bà đang dọn dẹp nhà cửa. Mọi người đều cố gắng để ngày hôm nay trở thành ngày đặc biệt cho bà Lâm.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

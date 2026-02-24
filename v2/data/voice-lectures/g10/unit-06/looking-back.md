@@ -32,7 +32,7 @@ Bài 1, nghe và đánh dấu trọng âm của các từ in đậm nha. 30 giâ
 *Chúng ta cần tiếp tục đấu tranh cho quyền bình đẳng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -80,7 +80,7 @@ Bài 2, hoàn thành ô chữ bằng các từ đã học trong unit này nha. 1
 *Cha mẹ không nên _______ con trai khác con gái.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Bài 3, mỗi câu sau có một lỗi sai. Gạch dưới lỗi sai và sửa l
 **5.** Can men and women **give** equal opportunities in the workplace?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

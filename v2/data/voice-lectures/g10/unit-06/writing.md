@@ -47,7 +47,7 @@ G. Excellent eyesight and skillful hands *(Thị lực tuyệt vời và đôi t
 H. Good teamwork and communication skills *(Kỹ năng giao tiếp và làm việc nhóm tốt)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

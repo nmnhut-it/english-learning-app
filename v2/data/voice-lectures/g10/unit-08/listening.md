@@ -76,7 +76,7 @@ Trả lời 2 câu hỏi nha. 45 giây.
 **2.** What has she uploaded on Eclass?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Hoàn thành sơ đồ với không quá HAI từ nha. 1 phút.
 **5.** (5) _______ the teacher if you have any questions.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

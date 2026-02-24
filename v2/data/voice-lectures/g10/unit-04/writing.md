@@ -78,7 +78,7 @@ B. Saying when you are available for an interview and can start work (Nói khi n
 C. Mentioning the job you are applying for and where you got the information from (Đề cập công việc ứng tuyển và nguồn thông tin)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -123,7 +123,7 @@ Bài 2: Đọc tin tuyển dụng mới rồi trả lời câu hỏi nha. 30 gi�
 *Nhiệm vụ công việc là gì?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

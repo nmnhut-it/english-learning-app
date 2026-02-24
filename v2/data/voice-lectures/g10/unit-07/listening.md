@@ -116,7 +116,7 @@ Nghe xong rồi làm bài nha. 45 giây.
 **4.** Viet Nam has been selected as the first training centre for international peacekeeping activities in Southeast Asia.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ https://img.loigiaihay.com/picture/2022/0808/054.mp3
 **4.** Developing foreign relations has helped Viet Nam gain many _______ benefits.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

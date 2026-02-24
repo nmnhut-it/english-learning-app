@@ -32,7 +32,7 @@ Phần phát âm: Nghe rồi đánh dấu trọng âm cho các từ in đậm nh
 *Chúng tôi vẫn nhập khẩu quá nhiều sản phẩm có thể sản xuất trong nước.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Phần từ vựng: Điền dạng đúng của từ trong ngoặc nha. 1 phút.
 *Nhóm từ thiện nhận được ________ hào phóng từ người dân.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -118,7 +118,7 @@ Phần ngữ pháp: Chia động từ quá khứ đơn hoặc quá khứ tiếp 
 *Khi tôi ________ trung tâm cộng đồng, một diễn giả ________ bài phát biểu.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

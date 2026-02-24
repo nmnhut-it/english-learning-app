@@ -99,7 +99,7 @@ Bài 2. Khoanh tròn nghĩa đúng của các từ được tô đậm nha. <eng
 - C. good for the environment
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -140,7 +140,7 @@ Bài 3. Đọc lại bài và xác định câu đúng (T) hay sai (F) nha. <eng
 *Không gian đi bộ và xe đạp sẽ bị thay thế bằng hệ thống giao thông máy tính điều khiển.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -180,7 +180,7 @@ Bài 4. Hoàn thành sơ đồ với thông tin từ bài đọc, dùng không q
 - Eco-friendly (4) ______ will reduce greenhouse gas emissions.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

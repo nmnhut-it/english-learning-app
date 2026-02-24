@@ -79,7 +79,7 @@ Bài 2: Đọc lại hội thoại rồi trả lời câu hỏi nha. 1 phút.
 *Tại sao học bằng ứng dụng giáo dục trên smartphone lại thú vị và tiện lợi?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Bài 3: Tìm 3 danh từ và 3 tính từ trong hội thoại để nói về ph
 **Nouns:** 4. ________ | 5. ________ | 6. ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -133,7 +133,7 @@ Bài 4: Điền từ vào bản tóm tắt hội thoại nha. 1 phút.
 Phong and his father are discussing what to buy for his studies. Phong has wanted a laptop or a smartphone (1) ________ a long time because they are both very useful. Laptops (2) ________ completely changed our lives since their invention but smartphones have also (3) ________ the way we work and study. For example, it's fun (4) ________ study with educational apps on smartphones. They allow students (5) ________ (6) ________ and communicate at the same time.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

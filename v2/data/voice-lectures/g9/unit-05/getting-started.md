@@ -129,7 +129,7 @@ Bài 2 — <eng>True/False</eng> nha. Đọc lại hội thoại rồi xác đ�
 *Tom nhảy múa và hát cùng người dân địa phương tại một buổi biểu diễn cồng chiêng.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -172,7 +172,7 @@ Bài 3 — viết hoạt động dưới tranh nha. Dùng các từ trong hộp.
 **4.** ___________ **5.** ___________ **6.** ___________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

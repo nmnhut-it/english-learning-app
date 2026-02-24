@@ -89,7 +89,7 @@ Bài 2. Đọc lại hội thoại và xác định câu đúng hay sai nha. <en
 *Mai có thể đăng ký AYVP khi cô ấy đủ 18 tuổi.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -131,7 +131,7 @@ c. someone who does a job without payment
 d. having the training or experience to do a particular job
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -165,7 +165,7 @@ Bài 4. Hoàn thành câu bằng từ và cụm từ từ bài 1 nha. <eng>Compl
 **4.** Mai thanked Ms Pang for ______ her.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

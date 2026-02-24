@@ -50,7 +50,7 @@ Bài 1 <eng>Put the verb in brackets in the present continuous</eng>. Chia độ
 5. ________ they (talk) ________ about their new friends?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -88,7 +88,7 @@ Bài 2 <eng>Look at the pictures. Write sentences like the example. Use positive
 5. Phong ________. (draw a picture)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -139,7 +139,7 @@ Bài 3 <eng>Work in pairs. Look at the pictures. Ask and answer</eng>. Nhìn tra
    **B:** ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -196,7 +196,7 @@ Bài 4 <eng>Put the verbs in brackets in the present simple or present continuou
 5. He (not do) ________ his homework now. He (read) ________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

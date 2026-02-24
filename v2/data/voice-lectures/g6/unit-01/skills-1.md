@@ -73,7 +73,7 @@ Bài 1 <eng>Look at the pictures and quickly read the passage. Match 1-3 with A-
 | 3. Dream | C. a boarding school in Sydney |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Bài 2 <eng>Read the passages again and complete these sentences</eng>. Đọc l
 5. At Dream School, students learn English with ________.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -142,7 +142,7 @@ Bài 3 <eng>Answer the questions</eng>. Trả lời câu hỏi nha. 1 phút.
 4. What do Dream School students do in the afternoon? *(Học sinh trường Dream làm gì vào buổi chiều?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

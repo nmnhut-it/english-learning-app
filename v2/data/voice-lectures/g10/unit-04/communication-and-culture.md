@@ -60,7 +60,7 @@ A. excited | B. worried | C. cheerful | D. confused
 **Lan:** Yes, we went as a team. The local people were so friendly and helpful. Now we are preparing for our next volunteer trip in the summer. I'm so (4) ________ about it.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Bài 1 phần <eng>Culture</eng>: Đọc bài rồi hoàn thành sơ đồ về 
 - Offers training on (4) ________ for both teachers and students
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

@@ -95,7 +95,7 @@ Bài 2 - điền từ vào chỗ trống. Có 5 câu, dùng các từ trong khun
 *_______ tổ tiên là phong tục quan trọng trong văn hóa Việt Nam, vẫn còn được thực hành đến ngày nay.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 
@@ -142,7 +142,7 @@ Bài 3 - ôn mạo từ nha. Điền **a**, **an**, **the** hoặc **∅** vào 
 *_______ Truyền thống của người Việt rất đa dạng ở các vùng khác nhau.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3060bec5.mp3">
 Đáp án nha.
 </teacher_script>
 

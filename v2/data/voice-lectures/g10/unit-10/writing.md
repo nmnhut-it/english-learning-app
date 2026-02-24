@@ -47,7 +47,7 @@ Bài 1, nhìn ảnh về chuyến du lịch sinh thái đến các làng Hội A
 - _______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -100,7 +100,7 @@ Bài 2, viết lại câu dùng các cấu trúc cho sẵn nha. 45 giây.
 → _______ recommended _______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 

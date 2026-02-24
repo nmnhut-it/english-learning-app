@@ -52,7 +52,7 @@ Bài 1. Đọc các ý sau và xác định đó là thuận lợi hay bất l�
 *Mọi người lo lắng vì thông tin cá nhân có thể không được bảo vệ.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -117,7 +117,7 @@ C. Body paragraphs - Each presenting a main point, supported by facts or example
 D. Conclusion - A summary of the main points and the writer's opinion
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
