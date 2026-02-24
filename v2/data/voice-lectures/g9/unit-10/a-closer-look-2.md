@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 2 - Non-defining Relative Clauses
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_351b20bd.webm">
 Ok lớp 9, Unit 10 nha, bài <eng>A Closer Look 2</eng>. Hôm nay mình học về <eng>Non-defining relative clauses</eng>, tức là mệnh đề quan hệ không xác định. Mở sách trang 107 đi.
 </teacher_script>
 
 <!-- chunk: grammar-theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bd34ea07.webm">
 Nè, trước khi làm bài tập thì mình xem qua lý thuyết ngữ pháp đã nha.
 </teacher_script>
 
@@ -50,14 +50,14 @@ Nè, trước khi làm bài tập thì mình xem qua lý thuyết ngữ pháp đ
 **Lưu ý:** KHÔNG dùng **that** trong mệnh đề quan hệ không xác định!
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6a9bc34f.webm">
 Nhớ nè: Mệnh đề quan hệ không xác định thì PHẢI có dấu phẩy, và KHÔNG được dùng <eng>that</eng> nha. Còn đại từ quan hệ thì dùng <eng>who</eng> cho người, <eng>which</eng> cho vật, <eng>whose</eng> cho sở hữu. Ok giờ mình làm bài tập nha.
 </teacher_script>
 
 <!-- chunk: bai-1 -->
 ### Bài 1 trang 107 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_27d6735d.webm">
 Bài 1, <eng>Complete the sentences with correct relative pronouns</eng>, tức là hoàn thành câu với đại từ quan hệ đúng nha. Đọc kỹ từng câu rồi điền <eng>who</eng>, <eng>which</eng> hoặc <eng>whose</eng> vô chỗ trống.
 </teacher_script>
 
@@ -120,7 +120,7 @@ Ok đáp án nè.
 - Ta dùng **which** vì thay thế cho vật "the Earth Day" (Ngày Trái Đất).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_12f0c006.webm">
 Nè, câu 1, 4, 5 dùng <eng>which</eng> vì thay cho vật nha. Câu 2 dùng <eng>who</eng> vì <eng>Peter Molnar</eng> là người. Còn câu 3 chú ý nè, dùng <eng>whose</eng> vì nói về chuyến đi CỦA anh ấy, tức là sở hữu á: <eng>whose trip</eng> nghĩa là chuyến đi của anh ấy.
 </teacher_script>
 
