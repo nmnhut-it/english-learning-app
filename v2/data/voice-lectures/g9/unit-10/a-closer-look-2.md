@@ -84,7 +84,7 @@ Bài 1, <eng>Complete the sentences with correct relative pronouns</eng>, tức 
 *Mọi người thường làm những việc xanh để bảo vệ Trái đất nhân Ngày Trái đất được tổ chức vào ngày 22 tháng 4.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_1b625630.mp3">
 Các em làm bài 1 đi, 1 phút nha.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Nè, câu 1, 4, 5 dùng <eng>which</eng> vì thay cho vật nha. Câu 2 dùng <e
 <!-- chunk: bai-2 -->
 ### Bài 2 trang 107 - Identify and tick
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ce019d89.mp3">
 Bài 2, <eng>Underline the relative clauses. Tick if the relative clause can be omitted</eng>. Tức là gạch chân mệnh đề quan hệ, rồi đánh dấu tick nếu có thể lược bỏ được nha.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Bài 2, <eng>Underline the relative clauses. Tick if the relative clause can be 
 *Băng và nước ở Bắc Cực tạo nên môi trường sống cho gấu Bắc Cực, thức ăn chính của chúng là hải cẩu.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e340aa6b.mp3">
 Các em đọc kỹ từng câu, gạch chân mệnh đề quan hệ, rồi xem bỏ đi thì câu còn nghĩa không nha. 1 phút.
 </teacher_script>
 
@@ -196,14 +196,14 @@ Ok đáp án nè.
 - => Có thể lược bỏ.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba9133bb.mp3">
 Nè, câu 1, 2, 4, 5 đều là mệnh đề quan hệ KHÔNG xác định, có dấu phẩy, bỏ đi thì câu vẫn có nghĩa nên tick hết nha. Riêng câu 3 thì KHÔNG có dấu phẩy, đây là mệnh đề quan hệ XÁC ĐỊNH, bỏ đi thì câu không rõ nghĩa nên không tick.
 </teacher_script>
 
 <!-- chunk: bai-3 -->
 ### Bài 3 trang 108 - Matching
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8b9bf21e.mp3">
 Bài 3, nối câu với mệnh đề quan hệ không xác định phù hợp nha.
 </teacher_script>
 
@@ -239,7 +239,7 @@ Bài 3, nối câu với mệnh đề quan hệ không xác định phù hợp n
 *Chúng tôi rất thích thú với bài nói chuyện của ông An, _______.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0047e7af.mp3">
 Các em đọc kỹ từng câu, xem mệnh đề nào phù hợp về nghĩa rồi nối nha. 1 phút.
 </teacher_script>
 
@@ -275,14 +275,14 @@ Ok đáp án nè.
 - Dùng **who** vì thay thế cho người "Mr An".
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b5bb840a.mp3">
 Câu 1 chọn B vì Sao Hỏa còn gọi là <eng>Red Planet</eng>. Câu 2 chọn C, dùng <eng>whose</eng> nói về bán kính CỦA Trái Đất. Câu 3 chọn A vì chữ <eng>Earth</eng> có nguồn gốc tiếng Đức. Câu 4 chọn E vì Cát Bà có nhiều động thực vật đa dạng. Câu 5 chọn D, dùng <eng>who</eng> vì ông An là người.
 </teacher_script>
 
 <!-- chunk: bai-4 -->
 ### Bài 4 trang 108 - Combine sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a4f127c5.mp3">
 Bài 4, kết hợp hai câu thành một câu sử dụng mệnh đề quan hệ không xác định nha.
 </teacher_script>
 
@@ -309,7 +309,7 @@ Bài 4, kết hợp hai câu thành một câu sử dụng mệnh đề quan h�
 *Chúng ta nên bảo vệ sông hồ. Sông và hồ cung cấp cho con người nguồn nước ngọt chính.*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_a3fba9fd.mp3">
 Các em viết câu ghép vô vở nha. 1 phút 30 giây.
 </teacher_script>
 
@@ -356,14 +356,14 @@ Ok đáp án nè.
 - Mệnh đề quan hệ nằm cuối câu, dùng 1 dấu phẩy ngăn cách.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f2314514.mp3">
 Nè, câu 1 đặc biệt nha, dùng <eng>whose</eng> vì <eng>its surface</eng> nghĩa là bề mặt CỦA nó, nên đổi thành <eng>whose surface</eng>. Còn câu 2, 3, 4, 5 đều dùng <eng>which</eng> vì thay cho vật. Nhớ phải có dấu phẩy nha!
 </teacher_script>
 
 <!-- chunk: bai-5 -->
 ### Bài 5 trang 108 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a673341c.mp3">
 Bài 5, làm việc theo nhóm, lần lượt nói một địa điểm trong bảng, nhóm kia giải thích hoặc cung cấp thêm thông tin về địa điểm đó bằng mệnh đề quan hệ không xác định nha.
 </teacher_script>
 
@@ -388,11 +388,11 @@ Bài 5, làm việc theo nhóm, lần lượt nói một địa điểm trong b�
 *(Sông Nile, con sông dài nhất, chảy vào biển Địa Trung Hải.)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_99bee092.mp3">
 Các em nhìn bảng rồi đặt câu theo mẫu nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3c4a9868.mp3">
 Ok, đây là các câu mẫu nha.
 </teacher_script>
 
@@ -420,11 +420,11 @@ Mount Fansipan, which is the highest peak in Viet Nam, is also called the 'Roof 
 *(Đỉnh Fanxipan, đỉnh núi cao nhất Việt Nam, còn được gọi là 'Nóc nhà Đông Dương'.)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8acde288.mp3">
 Nè, các em thấy không, mỗi câu đều có cấu trúc: Địa điểm, <eng>which</eng> + đặc điểm 1, đặc điểm 2. Nhớ phải có dấu phẩy trước và sau mệnh đề quan hệ nha.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_390b6a4c.mp3">
 Ok, xong bài <eng>A Closer Look 2</eng> Unit 10 rồi nha. Hôm nay mình học về mệnh đề quan hệ không xác định. Nhớ nè: LUÔN có dấu phẩy, KHÔNG dùng <eng>that</eng>, và có thể bỏ đi mà câu vẫn có nghĩa. Về nhà ôn lại bài và chuẩn bị bài <eng>Communication</eng> nha. Tạm biệt các em!
 </teacher_script>
