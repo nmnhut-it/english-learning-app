@@ -3,14 +3,14 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_262b38ff.mp3">
 Chào các em. Mời các em mở sách giáo khoa trang 99. Hôm nay chúng ta qua bài <eng>Skills 2</eng>. Chúng ta sẽ nghe Mark nói về lễ hội <eng>Thanksgiving</eng> - Lễ Tạ Ơn.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e8e09879.mp3">
 Trước tiên, chúng ta cùng học từ vựng mới.
 </teacher_script>
 
@@ -36,7 +36,7 @@ Trước tiên, chúng ta cùng học từ vựng mới.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 99 - Look at the animal
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_bc0b08c4.mp3">
 Bài 1. Nhìn vào con vật trong hình và trả lời 2 câu hỏi: Con vật gì? Nó thuộc lễ hội nào? 30 giây nha.
 </teacher_script>
 
@@ -53,7 +53,7 @@ Bài 1. Nhìn vào con vật trong hình và trả lời 2 câu hỏi: Con vật
 2. It is a part of Thanksgiving. (Nó là một phần của Lễ Tạ Ơn.)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c604d72.mp3">
 Đúng rồi! Đó là con gà tây - <eng>turkey</eng>. Gà tây là biểu tượng của lễ <eng>Thanksgiving</eng> - Lễ Tạ Ơn. Vì vậy Thanksgiving còn được gọi là <eng>Turkey Day</eng> - Ngày Gà Tây.
 </teacher_script>
 
@@ -62,7 +62,7 @@ Bài 1. Nhìn vào con vật trong hình và trả lời 2 câu hỏi: Con vật
 <!-- chunk: tapescript -->
 ### Bài 2 & 3 trang 99 - Listening
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7fd7a961.mp3">
 Bây giờ các em sẽ nghe Mark nói về Thanksgiving. Đây là nội dung bài nghe.
 </teacher_script>
 
@@ -100,7 +100,7 @@ Bố mẹ tôi tình nguyện nấu và phục vụ thức ăn cho người vô 
 Chị tôi và tôi đọc sách cho người già ở viện dưỡng lão gần nhà.
 </translation>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3f2e2f19.mp3">
 Các em hãy dành 1 phút đọc trước nội dung bài nghe nhé.
 </teacher_script>
 
@@ -109,7 +109,7 @@ Các em hãy dành 1 phút đọc trước nội dung bài nghe nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 99 - Listen and check
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f1338aec.mp3">
 Bài 2. Nghe Mark nói về cách gia đình cậu ấy tổ chức lễ hội. Kiểm tra lại câu trả lời của em ở bài 1.
 </teacher_script>
 
@@ -118,7 +118,7 @@ Bài 2. Nghe Mark nói về cách gia đình cậu ấy tổ chức lễ hội. 
 **Dịch đề:** Bây giờ nghe Mark nói về cách gia đình cậu ấy tổ chức lễ hội. Kiểm tra câu trả lời ở bài 1.
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4e41ae38.mp3">
 Đúng rồi, Mark nói về lễ <eng>Thanksgiving</eng> - Lễ Tạ Ơn, hay còn gọi là <eng>Turkey Day</eng>. Vậy câu trả lời bài 1 là chính xác: con vật đó là gà tây, thuộc lễ Thanksgiving.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Bài 2. Nghe Mark nói về cách gia đình cậu ấy tổ chức lễ hội. 
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 99 - True or False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_10ee2b68.mp3">
 Bài 3 <eng>Listen again and decide if the statements are true or false</eng>. Nghe lại và xác định 6 câu sau đúng hay sai. 1 phút nha.
 </teacher_script>
 
@@ -140,7 +140,7 @@ Bài 3 <eng>Listen again and decide if the statements are true or false</eng>. N
 **6.** After the feast, they play board games. _____
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.mp3">
 Đáp án nè.
 </teacher_script>
 
@@ -158,7 +158,7 @@ Bài 3 <eng>Listen again and decide if the statements are true or false</eng>. N
 6. **T** - "After the meal, we **play board games** together." (Đúng, sau bữa ăn họ chơi trò chơi cờ bàn)
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_011ba482.mp3">
 Các em sửa bài nếu có sai nhé. Chú ý câu bẫy nha: câu 1 nói "chỉ người Mỹ" nhưng thật ra cả Canada cũng ăn mừng. Câu 2 nói thứ Năm tuần thứ ba nhưng đúng ra là tuần thứ tư.
 </teacher_script>
 
@@ -167,7 +167,7 @@ Các em sửa bài nếu có sai nhé. Chú ý câu bẫy nha: câu 1 nói "ch�
 <!-- chunk: writing_intro -->
 ### Writing
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cc511d90.mp3">
 Chuyển sang phần <eng>Writing</eng>. Chúng ta sẽ viết về một lễ hội.
 </teacher_script>
 
@@ -176,7 +176,7 @@ Chuyển sang phần <eng>Writing</eng>. Chúng ta sẽ viết về một lễ h
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 99 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ec067cf5.mp3">
 Bài 4. Nghĩ về một lễ hội mà gia đình em thường tổ chức. Điền vào chỗ trống. 1 phút nha.
 </teacher_script>
 
@@ -207,7 +207,7 @@ Bài 4. Nghĩ về một lễ hội mà gia đình em thường tổ chức. Đi
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 99 - Write an email
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_825dcca9.mp3">
 Bài 5. Viết email khoảng 70 từ để kể cho Mark về lễ hội gia đình em thường tổ chức. Dùng ghi chú ở bài 4 nha.
 </teacher_script>
 
@@ -227,7 +227,7 @@ Bài 5. Viết email khoảng 70 từ để kể cho Mark về lễ hội gia đ
 7. Kết thúc (Closing)
 </grammar>
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_16e7ae00.mp3">
 Các em có 5 phút để viết email nha.
 </teacher_script>
 
@@ -251,14 +251,14 @@ Mình thích lễ hội này vì nó vui và ý nghĩa.
 Thân,
 </translation>
 
-<teacher_script pause="0" action="photo">
+<teacher_script pause="0" action="photo" href="audio/tts_c8db25e1.mp3">
 Các em hãy chụp hình bài viết của mình và gửi cho thầy nhé.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_07003dde.mp3">
 Ok hết bài Skills 2 rồi. Nhớ các từ vựng: <eng>Thanksgiving</eng> = Lễ Tạ Ơn, <eng>feast</eng> = bữa tiệc lớn, <eng>harvest</eng> = mùa thu hoạch, <eng>volunteer</eng> = tình nguyện.
 Bài sau qua Looking Back. Hẹn gặp lại!
 </teacher_script>

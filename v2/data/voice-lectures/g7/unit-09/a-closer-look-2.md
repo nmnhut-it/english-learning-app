@@ -1,12 +1,12 @@
 # G7 UNIT-09 A CLOSER LOOK 2
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a1909bdb.mp3">
 Ok lớp 7, hôm nay học phần <eng>A Closer Look 2</eng> - ngữ pháp về câu hỏi Yes/No nha. Đây là loại câu hỏi mà người ta chỉ cần trả lời "Có" hoặc "Không". Rất quan trọng vì em dùng hàng ngày luôn. Mở sách trang 95 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d199d7d3.mp3">
 Các em mở sách ra, Unit 9, bài <eng>A Closer Look 2</eng>, ghi tựa bài. Sau đó bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -28,7 +28,7 @@ Các em mở sách ra, Unit 9, bài <eng>A Closer Look 2</eng>, ghi tựa bài. 
 </vocabulary>
 
 <!-- chunk: grammar -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6da1ae9f.mp3">
 Nghe kỹ công thức nha. Câu hỏi Yes/No luôn bắt đầu bằng trợ động từ.
 </teacher_script>
 
@@ -40,7 +40,7 @@ Nghe kỹ công thức nha. Câu hỏi Yes/No luôn bắt đầu bằng trợ đ
 
 Trợ động từ + Chủ ngữ + [động từ/...]?
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9ecc7410.mp3">
 Trợ động từ có 4 nhóm. Em nhớ kỹ nha vì mỗi nhóm dùng trong trường hợp khác nhau.
 </teacher_script>
 
@@ -50,7 +50,7 @@ Trợ động từ có 4 nhóm. Em nhớ kỹ nha vì mỗi nhóm dùng trong tr
 - **did** - dùng với động từ thường ở thì quá khứ đơn
 - **can/could, will/would, shall/should, must** - động từ khiếm khuyết
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d31d5d44.mp3">
 Mẹo phân biệt nè: Nếu câu gốc có <eng>am/is/are/was/were</eng> thì đưa nó lên đầu. Nếu câu gốc có động từ thường, thêm <eng>do/does/did</eng>. Nếu có <eng>can/will/must...</eng> thì đưa nó lên đầu luôn.
 </teacher_script>
 
@@ -59,7 +59,7 @@ Mẹo phân biệt nè: Nếu câu gốc có <eng>am/is/are/was/were</eng> thì 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 95 - Fill in auxiliary verbs
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7cf33881.mp3">
 Bài 1. Điền trợ động từ vào chỗ trống. Nhìn từ khóa thời gian và động từ trong câu để biết dùng trợ động từ nào. Ví dụ: <eng>every year</eng> = hiện tại đơn, <eng>last year</eng> = quá khứ đơn. 1 phút.
 </teacher_script>
 
@@ -106,7 +106,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 95 - Change to Yes/No questions
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_128aa592.mp3">
 Bài 2. Chuyển câu khẳng định thành câu hỏi Yes/No. Nhớ quy tắc: đưa trợ động từ lên đầu, động từ về nguyên mẫu. 90 giây.
 </teacher_script>
 
@@ -170,7 +170,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 96 - Matching
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e0962ebb.mp3">
 Bài 3. Nối câu hỏi ở cột A với câu trả lời ở cột B. Chú ý: câu hỏi với trợ động từ nào thì trả lời với trợ động từ đó. 1 phút.
 </teacher_script>
 
@@ -221,7 +221,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 96 - Complete the dialogue
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_488b5124.mp3">
 Bài 4. Mark đang hỏi Trang về Tết Trung thu. Điền câu trả lời của Trang vào chỗ trống. Đọc kỹ câu hỏi để chọn câu trả lời phù hợp. 90 giây.
 </teacher_script>
 
@@ -284,7 +284,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 96 - Game: Festival mystery
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_38c9fbb7.mp3">
 Bài 5. Trò chơi đoán lễ hội. Một người nghĩ về một lễ hội, người khác đặt câu hỏi Yes/No để đoán đó là lễ hội gì. Chỉ được hỏi câu hỏi Yes/No thôi nha. 2 phút tập nói.
 </teacher_script>
 
@@ -332,12 +332,12 @@ B: Đúng rồi!
 | **B:** Yes, it is! | B: Đúng rồi! |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e20fee55.mp3">
 Mẹo đoán lễ hội nè: Hỏi về địa điểm (Do many countries...?), hoạt động (Do people eat/wear/make...?), thời gian (Is it in December?). Dần dần sẽ đoán được!
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f47066b9.mp3">
 Ok hết bài ngữ pháp rồi. Tóm tắt câu hỏi Yes/No nè:
 - Bắt đầu bằng trợ động từ: <eng>Do/Does/Did/Am/Is/Are/Was/Were/Can/Will...</eng>
 - Trả lời ngắn: <eng>Yes, I do / No, I don't / Yes, she can / No, we didn't</eng>

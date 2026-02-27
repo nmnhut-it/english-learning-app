@@ -1,12 +1,12 @@
 # G7 UNIT-09 LOOKING BACK
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29cb79d7.mp3">
 Ok lớp 7, hôm nay ôn tập Unit 9: <eng>Festivals around the World</eng> nha. Bài <eng>Looking Back</eng> giúp em củng cố từ vựng về lễ hội và ôn lại ngữ pháp thì quá khứ đơn, hiện tại đơn, tương lai đơn. Mở sách trang 100 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e7629210.mp3">
 Ôn lại từ vựng quan trọng của Unit 9 trước nha.
 </teacher_script>
 
@@ -32,7 +32,7 @@ Ok lớp 7, hôm nay ôn tập Unit 9: <eng>Festivals around the World</eng> nha
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 100 - Circle the correct words
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7e5d381a.mp3">
 Bài 1. Khoanh tròn từ hoặc cụm từ đúng trong ngoặc. Em cần nhớ: lễ hội nào có hoạt động gì, đồ ăn gì. Ví dụ: Halloween có <eng>candy apples</eng>, Easter có <eng>painting eggs</eng>. 1 phút nha.
 </teacher_script>
 
@@ -78,7 +78,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 100 - Fill in the blanks
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_dd16077a.mp3">
 Bài 2. Điền từ hoặc cụm từ vào chỗ trống. Đọc kỹ ngữ cảnh câu để chọn từ phù hợp nha. 1 phút.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Ok đáp án nè.
 <!-- chunk: grammar -->
 ### Grammar Review
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f8826bc8.mp3">
 Ôn lại ngữ pháp nha. Để hỏi về lễ hội, em cần dùng đúng thì:
 - **Quá khứ đơn** (yesterday, last year): <eng>Did + S + V?</eng>
 - **Hiện tại đơn** (always, usually): <eng>Do/Does + S + V?</eng>
@@ -160,7 +160,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 100 - Choose the correct question
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d749ef82.mp3">
 Bài 3. Chọn câu hỏi đúng A hoặc B. Nhìn từ khóa thời gian để xác định thì: <eng>yesterday, last year</eng> = quá khứ đơn dùng <eng>Did</eng>; <eng>always</eng> = hiện tại đơn dùng <eng>Do/Does</eng>. 1 phút.
 </teacher_script>
 
@@ -226,7 +226,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 100 - Answer about yourself
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_d92eb21e.mp3">
 Bài 4. Trả lời các câu hỏi về bản thân. Em trả lời theo thực tế của mình. Nhớ dùng đúng cấu trúc: <eng>Yes, I am/do/can/did</eng> hoặc <eng>No, I'm not/don't/can't/didn't</eng>. 2 phút.
 </teacher_script>
 
@@ -252,7 +252,7 @@ Bài 4. Trả lời các câu hỏi về bản thân. Em trả lời theo thực
    *(Gia đình bạn có quây quần bên nhau vào dịp Tết không?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc5837e9.mp3">
 Ok đáp án mẫu nè.
 </teacher_script>
 
@@ -290,7 +290,7 @@ Ok đáp án mẫu nè.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fd582f34.mp3">
 Ok hết bài <eng>Looking Back</eng> Unit 9 rồi. Hôm nay em ôn lại được:
 - Từ vựng: lễ hội (<eng>festivals</eng>), đồ ăn (<eng>candy apples, turkey, moon cakes</eng>), hoạt động (<eng>lion dances, painting eggs</eng>)
 - Ngữ pháp: cách dùng <eng>Did, Do/Does, Will, Is/Are interested in</eng> để đặt câu hỏi

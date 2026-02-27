@@ -2,7 +2,7 @@
 ## COMMUNICATION - Expressing Sympathy About Bad News
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bf738b0f.mp3">
 Ok bài <eng>Communication</eng> nha. Hôm nay học cách nói chuyện khi nghe tin buồn về thiên tai — biết cách bày tỏ sự cảm thông đó. Ghi tựa bài vô tập đi. Bấm "Bắt đầu" để học từ vựng, máy đọc các em đọc theo, xong làm trắc nghiệm rồi ghi vô tập nha.
 </teacher_script>
 
@@ -17,12 +17,12 @@ Ok bài <eng>Communication</eng> nha. Hôm nay học cách nói chuyện khi ngh
 8. **I hope everyone is safe** : (phrase) tôi hy vọng mọi người đều an toàn /aɪ hoʊp ˈevriwʌn ɪz seɪf/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_05564829.mp3">
 Từ quan trọng nhất bài này là 3 câu cuối nha: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everyone is safe</eng>". Ba câu này dùng khi ai đó kể chuyện buồn cho mình nghe — mình đáp lại bằng sự đồng cảm. Học thuộc lòng ba câu này đi nha!
 </teacher_script>
 
 <!-- chunk: grammar-box -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2c494384.mp3">
 Trước khi đọc hội thoại, mình xem cách đưa tin buồn và phản ứng lại nha.
 </teacher_script>
 
@@ -42,14 +42,14 @@ Trước khi đọc hội thoại, mình xem cách đưa tin buồn và phản �
 - "**Is your family okay?**" — Gia đình bạn có ổn không?
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fb78eb2d.mp3">
 Nhớ nha: khi nghe tin buồn thì KHÔNG NÊN nói "OK" hay im lặng — phải bày tỏ sự đồng cảm. Dùng "<eng>I'm sorry to hear that</eng>" hoặc "<eng>That's awful</eng>" rồi hỏi thêm về gia đình họ. Đó là cách nói chuyện lịch sự và quan tâm nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-57.mp3"></audio>
 
 <!-- chunk: dialogue -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3982f3cd.mp3">
 Bài 1. <eng>Listen and read the dialogue below. Pay attention to the highlighted sentences.</eng> Nghe và đọc hội thoại giữa Mark và Phong nha. Chú ý các câu được đánh dấu — đó là các câu bày tỏ đồng cảm.
 </teacher_script>
 
@@ -69,12 +69,12 @@ Bài 1. <eng>Listen and read the dialogue below. Pay attention to the highlighte
 **Mark:** Thật tệ. Mong ông bà cậu vẫn ổn.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_35beebdb.mp3">
 Dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt. Thầy/cô cho 3 phút á. Chú ý 2 câu quan trọng: "<eng>I'm sorry to hear that</eng>" và "<eng>That's awful. I hope your grandparents are safe.</eng>" — đây là cách bày tỏ đồng cảm khi nghe tin buồn nha.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_50711584.mp3">
 Bài 2. <eng>Work in pairs. Practise giving and responding to bad news in the following situations.</eng> Thực hành đưa và đáp lại tin buồn theo cặp nha. Có 2 tình huống. Dùng các câu vừa học: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>". Thực hành 1 phút mỗi tình huống đi.
 </teacher_script>
 
@@ -91,7 +91,7 @@ Bài 2. <eng>Work in pairs. Practise giving and responding to bad news in the fo
 *Tình huống 2: Bạn nghe thấy có một trận động đất lớn trong thành phố. Bạn chia sẻ tin này với các bạn cùng lớp.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_afa9a48e.mp3">
 Gợi ý hội thoại mẫu nè:
 </teacher_script>
 
@@ -108,7 +108,7 @@ Gợi ý hội thoại mẫu nè:
 </answer>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e4cca173.mp3">
 Bài 3. <eng>Read the short passages below. Decide which natural disaster each person below is talking about.</eng> Đọc 3 đoạn văn ngắn — mỗi người kể về một trải nghiệm thiên tai. Xác định đó là loại thiên tai gì nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -131,7 +131,7 @@ Bài 3. <eng>Read the short passages below. Decide which natural disaster each p
 → Tom: ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_534f3e30.mp3">
 Đáp án bài 3 nè.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Bài 3. <eng>Read the short passages below. Decide which natural disaster each p
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_1ca07dd9.mp3">
 Bài 4. <eng>Choose the correct answer to each question to see how much you know about natural disasters.</eng> Trắc nghiệm về thiên tai nha — 6 câu hỏi, chọn đáp án đúng A, B hoặc C. Xem mình biết bao nhiêu về thiên tai nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -197,7 +197,7 @@ Bài 4. <eng>Choose the correct answer to each question to see how much you know
 - C. In Viet Nam
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_34d9a391.mp3">
 Đáp án bài trắc nghiệm nè.
 </teacher_script>
 
@@ -222,7 +222,7 @@ Bài 4. <eng>Choose the correct answer to each question to see how much you know
 </explanation>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c3183400.mp3">
 Bài 5. <eng>Work in pairs. Compare your answers. Then check your answers with the key on page 101.</eng> So sánh câu trả lời với bạn, rồi kiểm tra đáp án. Mỗi câu đúng được 1 điểm — xem ai được nhiều điểm hơn nha!
 </teacher_script>
 
@@ -231,6 +231,6 @@ Bài 5. <eng>Work in pairs. Compare your answers. Then check your answers with t
 **Dịch đề:** Làm việc theo cặp. So sánh câu trả lời của bạn. Sau đó kiểm tra đáp án ở trang 101. Mỗi bạn được bao nhiêu điểm?
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6f81c3e5.mp3">
 Xong bài <eng>Communication</eng> rồi nha! Nhớ 3 câu quan trọng khi nghe tin buồn: "<eng>I'm sorry to hear that</eng>", "<eng>That's awful</eng>", "<eng>I hope everyone is safe</eng>". Bài sau mình học đọc hiểu về thiên tai nha — <eng>Skills 1</eng>!
 </teacher_script>

@@ -3,14 +3,14 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_54290473.mp3">
 Chào các em. Mời các em mở sách giáo khoa trang 97. Hôm nay chúng ta qua bài <eng>Skills 1</eng>. Chúng ta sẽ đọc về lễ hội Ngày Song Sinh ở Mỹ - <eng>Twins Day Festival</eng>.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f06f88d2.mp3">
 Trước tiên, chúng ta cùng học từ vựng mới. Các em nghe và đọc theo nhé.
 </teacher_script>
 
@@ -33,7 +33,7 @@ Trước tiên, chúng ta cùng học từ vựng mới. Các em nghe và đọc
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 97 - Look at the pictures
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_52a8a95b.mp3">
 Bài 1 <eng>Look at the pictures</eng>. Các em quan sát hình và đoán xem những hoạt động nào xảy ra ở lễ hội Twins Day Festival. 30 giây nha.
 </teacher_script>
 
@@ -55,7 +55,7 @@ Bài 1 <eng>Look at the pictures</eng>. Các em quan sát hình và đoán xem n
 <!-- chunk: reading_text -->
 ### Bài 2 trang 97 - Read the email
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ee453ca3.mp3">
 Bài 2. Bây giờ các em đọc email của Mark gửi cho Nick về lễ hội Twins Day Festival nhé.
 </teacher_script>
 
@@ -101,7 +101,7 @@ Tôi đang buồn ngủ rồi, nên tạm biệt nhé.
 Thân, Mark
 </translation>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_2ecb0037.mp3">
 Các em hãy dành 2 phút đọc và hiểu nội dung email nhé.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Các em hãy dành 2 phút đọc và hiểu nội dung email nhé.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 98 - Match words with meanings
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_4204db9e.mp3">
 Bài 2 <eng>Match the words with their meanings</eng>. Nối từ trong email với nghĩa phù hợp. 1 phút nha.
 </teacher_script>
 
@@ -135,7 +135,7 @@ d. showed something as the most important part
 *(một thứ hay một điều gì đó như một phần quan trọng nhất)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.mp3">
 Đáp án nè.
 </teacher_script>
 
@@ -162,7 +162,7 @@ d. showed something as the most important part
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 98 - Complete sentences
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_2c6fd371.mp3">
 Bài 3 <eng>Complete each sentence with no more than TWO words</eng>. Đọc lại email và điền không quá HAI từ vào mỗi chỗ trống. Có 6 câu nha. 90 giây.
 </teacher_script>
 
@@ -180,7 +180,7 @@ Bài 3 <eng>Complete each sentence with no more than TWO words</eng>. Đọc l�
 **6.** In his opinion, the festival was very _______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_72c2aa41.mp3">
 Đáp án đây nè.
 </teacher_script>
 
@@ -204,7 +204,7 @@ Bài 3 <eng>Complete each sentence with no more than TWO words</eng>. Đọc l�
 6. "This is one of the most **exciting** festivals I've been to."
 </explanation>
 
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_bf42babf.mp3">
 Các em sửa bài nếu có sai nhé.
 </teacher_script>
 
@@ -213,7 +213,7 @@ Các em sửa bài nếu có sai nhé.
 <!-- chunk: speaking -->
 ### Bài 4 trang 98 - Match questions and answers
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d320eaba.mp3">
 Chuyển sang phần <eng>Speaking</eng>. Bài 4 nối câu hỏi với câu trả lời về lễ hội Hội Mùa. 1 phút nha.
 </teacher_script>
 
@@ -238,7 +238,7 @@ d. I joined the Hoi Mua Festival.
 e. They celebrate it to thank the Rice God and pray for a better new crop.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.mp3">
 Đáp án nè.
 </teacher_script>
 
@@ -260,7 +260,7 @@ e. They celebrate it to thank the Rice God and pray for a better new crop.
 <!-- chunk: speaking_practice -->
 ### Bài 5 trang 98 - Talk about a festival
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33db5928.mp3">
 Bài 5. Các em làm việc theo cặp, hỏi và trả lời về một lễ hội mà em đã tham gia, dùng các câu hỏi trong bài 4 làm gợi ý. Sau đó kể cho cả lớp nghe về lễ hội mà bạn em đã tham gia.
 </teacher_script>
 
@@ -281,14 +281,14 @@ Bài 5. Các em làm việc theo cặp, hỏi và trả lời về một lễ h�
 | Did you like the festival? Why or why not? | Yes, very much because I love watching the lion dance. |
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_579827c7.mp3">
 Em hãy nói về một lễ hội mà em đã tham gia và ghi âm gửi cho thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_613d5ae9.mp3">
 Ok hết bài Skills 1 rồi. Nhớ các từ vựng: <eng>twins</eng> = cặp song sinh, <eng>festival</eng> = lễ hội, <eng>gathering</eng> = cuộc tụ họp, <eng>parade</eng> = diễu hành.
 Bài sau qua Skills 2, chúng ta sẽ nghe về lễ hội Thanksgiving. Hẹn gặp lại!
 </teacher_script>

@@ -2,12 +2,12 @@
 ## LOOKING BACK - Review & Practice
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_473ef5ab.mp3">
 Ok lớp 8, bài cuối của Unit 9 rồi nha — <eng>Looking Back</eng>! Ôn tập toàn bộ những gì đã học: từ vựng về thiên tai, cặp động từ — danh từ, và thì quá khứ tiếp diễn. Ghi tựa bài vô tập rồi mình bắt đầu thôi nha!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_faabc695.mp3">
 Bài 1. <eng>Write the name of a natural disaster in each blank.</eng> Nhìn hình trong sách rồi viết tên loại thiên tai tương ứng bằng tiếng Anh nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -24,7 +24,7 @@ Bài 1. <eng>Write the name of a natural disaster in each blank.</eng> Nhìn hì
 **5.** Picture 5: ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -47,7 +47,7 @@ Bài 1. <eng>Write the name of a natural disaster in each blank.</eng> Nhìn hì
 </explanation>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f36ab28b.mp3">
 Bài 2. <eng>Fill in each blank with the correct form of the word in brackets.</eng> Điền vào chỗ trống với dạng đúng của từ trong ngoặc nha — có thể chuyển thành danh từ, động từ quá khứ, hoặc danh từ số nhiều. Nhớ các cặp từ đã học: <eng>destroy → destruction</eng>, <eng>predict → prediction</eng>, <eng>warn → warning / warned</eng>. Làm 1 phút đi.
 </teacher_script>
 
@@ -73,7 +73,7 @@ Bài 2. <eng>Fill in each blank with the correct form of the word in brackets.</
 *Các nhân viên cứu hộ đang cố gắng hết sức để cứu người trong vùng lũ.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -96,7 +96,7 @@ Bài 2. <eng>Fill in each blank with the correct form of the word in brackets.</
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_24b101c5.mp3">
 Bài 3. <eng>Put the verbs into the correct tense: the past simple or past continuous.</eng> Chia động từ ở thì đúng — quá khứ đơn hay quá khứ tiếp diễn nha. Nhớ: hành động đang diễn ra dùng <eng>Past Continuous</eng>, hành động xảy ra đột ngột chen ngang dùng <eng>Past Simple</eng>. Làm 1 phút đi.
 </teacher_script>
 
@@ -122,7 +122,7 @@ Bài 3. <eng>Put the verbs into the correct tense: the past simple or past conti
 *Bạn có đang nghe nhạc lúc 9 giờ tối hôm qua không?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4e8d77a6.mp3">
 Đáp án bài 3 nè. Bài này quan trọng lắm, nghe giải thích kỹ nha!
 </teacher_script>
 
@@ -145,7 +145,7 @@ Bài 3. <eng>Put the verbs into the correct tense: the past simple or past conti
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="300" action="photo">
+<teacher_script pause="300" action="photo" href="audio/tts_16468d5e.mp3">
 Bài 4. <eng>Complete the sentences about you and your family members.</eng> Hoàn thành các câu về bản thân em và các thành viên trong gia đình nha. Đề cho sẵn "<eng>At 7 p.m. yesterday</eng>" — dùng thì quá khứ tiếp diễn để kể lúc 7 giờ tối hôm qua em và mọi người đang làm gì. 5 câu, 5 phút, viết xong chụp ảnh nộp nha!
 </teacher_script>
 
@@ -164,7 +164,7 @@ At 7 p.m. yesterday, ...
 **5.** my sister / brother ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_426efee4.mp3">
 Đáp án mẫu bài 4 nè. Mỗi bạn sẽ có câu trả lời khác nhau nha, đây chỉ là gợi ý thôi.
 </teacher_script>
 
@@ -186,7 +186,7 @@ At 7 p.m. yesterday, ...
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7b66b1f4.mp3">
 Xong Unit 9 — <eng>Natural Disasters</eng> rồi nha! Chúc mừng lớp 8! Trong unit này mình đã học:
 Một là — từ vựng về các loại thiên tai: <eng>flood, storm, earthquake, tornado, volcanic eruption, landslide</eng>.
 Hai là — cặp từ động từ — danh từ: <eng>destroy → destruction, erupt → eruption, warn → warning, predict → prediction</eng>.

@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 2 - Grammar: Past Continuous Tense
 
 <!-- chunk: grammar-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8fd9986a.mp3">
 Ok bài <eng>A Closer Look 2</eng> — ngữ pháp nha. Hôm nay học thì quá khứ tiếp diễn, tiếng Anh gọi là <eng>Past Continuous Tense</eng>. Ghi tựa bài vô tập đi. Thì này rất quan trọng cho Unit 9 vì mình hay kể chuyện thiên tai xảy ra trong lúc đang làm gì đó. Ví dụ: "Tôi đang ngủ thì động đất xảy ra." — hay lắm nha!
 </teacher_script>
 
 <!-- chunk: grammar-form -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ee92cff4.mp3">
 Đầu tiên mình học cấu trúc của thì <eng>Past Continuous</eng> nha. Có 3 dạng: khẳng định, phủ định, và nghi vấn.
 </teacher_script>
 
@@ -46,7 +46,7 @@ Ok bài <eng>A Closer Look 2</eng> — ngữ pháp nha. Hôm nay học thì quá
 - S + **was/were + V-ing** + **when** + S + **V-ed**
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_518ae7ac.mp3">
 Nhớ mẹo này nha: <eng>while</eng> đi với <eng>Past Continuous</eng> (đang làm gì), còn <eng>when</eng> đi với <eng>Past Simple</eng> (hành động bất ngờ xảy ra). Hai câu này có nghĩa như nhau:
 "<eng>While I was sleeping, the storm started.</eng>"
 "<eng>I was sleeping when the storm started.</eng>"
@@ -54,7 +54,7 @@ Dễ hen!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a66c11c4.mp3">
 Bài 1. <eng>Complete the sentences by putting the verbs in brackets into the past continuous.</eng> Hoàn thành câu bằng cách chia động từ trong ngoặc ở thì quá khứ tiếp diễn. Xác định chủ ngữ rồi dùng <eng>was/were + V-ing</eng> nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -84,7 +84,7 @@ Bài 1. <eng>Complete the sentences by putting the verbs in brackets into the pa
 *— Không, không phải.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Bài 1. <eng>Complete the sentences by putting the verbs in brackets into the pa
 </explanation>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c6ad0e64.mp3">
 Bài 2. <eng>Circle the correct answer to complete each sentence.</eng> Khoanh tròn đáp án đúng nha — chọn Past Simple hay Past Continuous. Nhớ: hành động đang diễn ra = Past Continuous; hành động xảy ra đột ngột hoặc liên tiếp = Past Simple. Làm 1 phút đi.
 </teacher_script>
 
@@ -145,7 +145,7 @@ Bài 2. <eng>Circle the correct answer to complete each sentence.</eng> Khoanh t
 - B. wasn't reading / watched
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8ce1062.mp3">
 Đáp án bài 2 nè. Bài này quan trọng, nghe giải thích kỹ nha!
 </teacher_script>
 
@@ -168,7 +168,7 @@ Bài 2. <eng>Circle the correct answer to complete each sentence.</eng> Khoanh t
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6d751b7e.mp3">
 Bài 3. <eng>Look at the picture and write what each person in Lan's family was doing when the earthquake happened.</eng> Nhìn tranh và viết mỗi người trong gia đình Lan đang làm gì khi động đất xảy ra nha. Có 5 từ gợi ý: <eng>watch TV, draw, read a book, drink tea, talk on the phone</eng>. Làm 2 phút đi.
 </teacher_script>
 
@@ -189,7 +189,7 @@ Bài 3. <eng>Look at the picture and write what each person in Lan's family was 
 **4.** Lan's brother ______ when she ______.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_534f3e30.mp3">
 Đáp án bài 3 nè.
 </teacher_script>
 
@@ -210,7 +210,7 @@ Bài 3. <eng>Look at the picture and write what each person in Lan's family was 
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e64509f7.mp3">
 Bài 4. <eng>Form questions using the past continuous. Then in pairs, ask and answer the questions.</eng> Đặt câu hỏi dùng thì quá khứ tiếp diễn từ các gợi ý nha. Sau đó trả lời theo cặp. Làm 1 phút đi.
 </teacher_script>
 
@@ -234,7 +234,7 @@ Bài 4. <eng>Form questions using the past continuous. Then in pairs, ask and an
 → ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04f7c05e.mp3">
 Đáp án bài 4 nè.
 </teacher_script>
 
@@ -255,7 +255,7 @@ Bài 4. <eng>Form questions using the past continuous. Then in pairs, ask and an
 </explanation>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b424bcf0.mp3">
 Bài 5. <eng>Memory challenge. Work in groups. Take turns to say a sentence that describes what each person in the picture was doing.</eng> Thử thách trí nhớ nha! Nhìn tranh lớp học và mô tả mỗi người đang làm gì. Làm 1 phút đi.
 </teacher_script>
 
@@ -268,7 +268,7 @@ Bài 5. <eng>Memory challenge. Work in groups. Take turns to say a sentence that
 Nhìn tranh lớp học và mô tả mỗi người đang làm gì. Dùng thì Past Continuous.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_71e5dfc6.mp3">
 Gợi ý câu trả lời nè.
 </teacher_script>
 
@@ -285,6 +285,6 @@ Gợi ý câu trả lời nè.
 - Có thể dùng **while** để nối hai hành động đang diễn ra cùng lúc: "Ann and Lan **were singing** while Nam **was cleaning** the board."
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_654d1e5a.mp3">
 Xong bài <eng>A Closer Look 2</eng> rồi nha! Nhớ 3 điều chính: 1) <eng>was/were + V-ing</eng> cho hành động đang diễn ra trong quá khứ; 2) <eng>while</eng> + Past Continuous, <eng>when</eng> + Past Simple; 3) "I/he/she/it" → <eng>was</eng>, "we/you/they" → <eng>were</eng>. Bài sau học cách bày tỏ sự đồng cảm khi nghe tin buồn — <eng>Communication</eng> nha!
 </teacher_script>

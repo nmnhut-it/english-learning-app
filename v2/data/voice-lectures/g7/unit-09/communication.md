@@ -1,12 +1,12 @@
 # G7 UNIT-09 COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5206e3ce.mp3">
 Ok lớp 7, hôm nay học phần <eng>Communication</eng> nha. Mình sẽ học cách diễn đạt sự thất vọng - <eng>Expressing disappointment</eng>. Đây là kỹ năng quan trọng khi em muốn nói về điều gì đó không như mong đợi. Mở sách trang 96 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7130db31.mp3">
 Học từ vựng về cách diễn đạt sự thất vọng trước nha.
 </teacher_script>
 
@@ -18,7 +18,7 @@ Học từ vựng về cách diễn đạt sự thất vọng trước nha.
 4. **symbol** : (n) biểu tượng /ˈsɪmbəl/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fae5f1d9.mp3">
 Khi muốn nói điều gì đó thất vọng, em có thể dùng: <eng>It was disappointing</eng> (Thật thất vọng), <eng>It was a big disappointment</eng> (Đó là sự thất vọng lớn), hoặc <eng>That sounds disheartening</eng> (Nghe thật nản).
 </teacher_script>
 
@@ -27,7 +27,7 @@ Khi muốn nói điều gì đó thất vọng, em có thể dùng: <eng>It was 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 96 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e9639a23.mp3">
 Bài 1. Nghe và đọc hội thoại. Chú ý các câu thể hiện sự thất vọng.
 </teacher_script>
 
@@ -56,7 +56,7 @@ Mark: Ban nhạc đã đến muộn.
 Trang: Và các ca sĩ hát cũng không tốt lắm. **Đó là một sự thất vọng lớn.**
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7798320b.mp3">
 Hai cách diễn đạt thất vọng nè:
 - <eng>It was disappointing!</eng> = Thật đáng thất vọng!
 - <eng>It was a big disappointment.</eng> = Đó là sự thất vọng lớn.
@@ -68,7 +68,7 @@ Em có thể dùng những câu này khi muốn nói điều gì đó không nh�
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 96 - Make conversations
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_74e55412.mp3">
 Bài 2. Đọc hai tình huống và tạo hội thoại tương tự. Dùng các cách diễn đạt thất vọng đã học. 1 phút.
 </teacher_script>
 
@@ -106,7 +106,7 @@ Bài 2. Đọc hai tình huống và tạo hội thoại tương tự. Dùng cá
 | **A:** That sounds disheartening. | A: Nghe thật đáng thất vọng! |
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d8c8c85b.mp3">
 Thêm một số cách diễn đạt thất vọng nữa nè: <eng>It was dull and boring</eng> (Thật buồn chán), <eng>That sounds disheartening</eng> (Nghe thật nản), <eng>What a pity!</eng> (Thật đáng tiếc!).
 </teacher_script>
 
@@ -115,7 +115,7 @@ Thêm một số cách diễn đạt thất vọng nữa nè: <eng>It was dull a
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 97 - Festival symbols
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_db253bfa.mp3">
 Bài 3. Nghe Mark nói về biểu tượng lễ hội và điền từ vào chỗ trống. Mỗi chỗ trống chỉ điền MỘT từ. 1 phút.
 </teacher_script>
 
@@ -181,7 +181,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 97 - Match festivals with symbols
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_1e94dc2e.mp3">
 Bài 4. Nối mỗi lễ hội với biểu tượng và ý nghĩa của nó. Cần nối 3 cột: lễ hội - biểu tượng - ý nghĩa. 1 phút.
 </teacher_script>
 
@@ -225,7 +225,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 97 - Talk about festival symbols
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_f9f0ea28.mp3">
 Bài 5. Chọn một lễ hội và nói về biểu tượng và ý nghĩa của nó. Dùng mẫu câu: <eng>When we talk about..., we think of...</eng> 2 phút.
 </teacher_script>
 
@@ -254,13 +254,13 @@ When we talk about Mid-Autumn Festival, we think of the moon cake. It is the sym
 *(Nói đến Tết Trung thu, ta nghĩ ngay đến bánh trung thu. Nó là biểu tượng của mặt trăng, sự thịnh vượng và đoàn tụ gia đình.)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cc6d15f6.mp3">
 Mẹo nói nha:
 - Bắt đầu: <eng>When we talk about [lễ hội], we think of [biểu tượng].</eng>
 - Giải thích ý nghĩa: <eng>It is the symbol of [ý nghĩa].</eng>
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ac5509ad.mp3">
 Ok hết bài <eng>Communication</eng>. Hôm nay em học cách diễn đạt sự thất vọng: <eng>It was disappointing</eng>, <eng>It was a big disappointment</eng>, <eng>That sounds disheartening</eng>. Và học biểu tượng lễ hội: <eng>moon cake</eng> = Tết Trung thu (mặt trăng, đoàn tụ), <eng>black cat</eng> = Halloween (xui xẻo), <eng>Easter Bunny</eng> = Phục sinh (sự sống mới). Bài sau học <eng>Skills 1</eng>. Ôn bài nha!
 </teacher_script>

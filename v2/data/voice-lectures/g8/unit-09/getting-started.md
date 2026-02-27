@@ -2,7 +2,7 @@
 ## GETTING STARTED - Mi's Hometown Was Flooded
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0249d808.mp3">
 Ok lớp 8, Unit 9 nha — <eng>Natural Disasters</eng>, thảm họa thiên nhiên. Mở sách ra, bài <eng>Getting Started</eng>, ghi tựa bài vô tập đi. Xong rồi bấm "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc, các em đọc theo, sau đó làm bài trắc nghiệm rồi ghi từ vựng vô tập nha.
 </teacher_script>
 
@@ -29,14 +29,14 @@ Ok lớp 8, Unit 9 nha — <eng>Natural Disasters</eng>, thảm họa thiên nhi
 20. **second floor** : (n) tầng hai /ˈsekənd flɔːr/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_93d3e326.mp3">
 Ok từ vựng xong rồi nha. Bây giờ mình đọc hội thoại giữa Mi và Tom. Mi trông có vẻ buồn — Tom hỏi thăm, rồi hai đứa nói về thiên tai ở Việt Nam và Mỹ. Đọc theo máy đi, sau đó mình dịch nha.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-53.mp3"></audio>
 
 <!-- chunk: dialogue -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f3842eb6.mp3">
 Đây là hội thoại bài 1 <eng>Listen and read</eng>. Nghe và đọc theo nha. Mi đang trông buồn, Tom hỏi thăm rồi hai bạn nói chuyện về thiên tai.
 </teacher_script>
 
@@ -68,12 +68,12 @@ Ok từ vựng xong rồi nha. Bây giờ mình đọc hội thoại giữa Mi v
 **Tom:** Có, nhiều lắm. Nó làm hỏng mái nhà và nhổ bật một số cây trong sân. May mắn thay, không ai bị thương.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_a7daadc8.mp3">
 Ok dịch hội thoại vô vở nha. Ghi cả tiếng Anh lẫn tiếng Việt. Thầy/cô cho 3 phút á.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_696e9654.mp3">
 Bài 2 nha. <eng>Read the conversation again. Complete each sentence with no more than TWO words from it.</eng> Đọc lại hội thoại, điền mỗi câu với không quá HAI từ từ hội thoại. Làm 1 phút đi.
 </teacher_script>
 
@@ -99,7 +99,7 @@ Bài 2 nha. <eng>Read the conversation again. Complete each sentence with no mor
 *Lốc xoáy làm hỏng mái nhà và ______ một số cây trong sân.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e4a71e40.mp3">
 Ok đáp án bài 2 nè.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Ok đáp án bài 2 nè.
 <audio src="https://img.loigiaihay.com/picture/2023/0804/track-54.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f921905c.mp3">
 Bài 3 nha. <eng>Write the natural disasters from the box under the pictures.</eng> Viết tên thảm họa thiên nhiên từ hộp từ bên dưới các hình ảnh. Có 6 từ trong hộp: <eng>volcanic eruption, storm, earthquake, tornado, landslide, flood</eng>. Nhìn hình rồi ghép cho đúng nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -144,7 +144,7 @@ Bài 3 nha. <eng>Write the natural disasters from the box under the pictures.</e
 **6.** Hình 6: Mặt đất rung chuyển, nhà sụp đổ → ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_81a30b71.mp3">
 Đáp án bài 3 nè các em.
 </teacher_script>
 
@@ -169,7 +169,7 @@ Bài 3 nha. <eng>Write the natural disasters from the box under the pictures.</e
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_565ed7ae.mp3">
 Bài 4. <eng>Choose the correct option to complete each sentence.</eng> Mỗi câu có 2 lựa chọn, chọn từ đúng để hoàn thành câu nha. Đọc kỹ câu, hiểu nghĩa rồi chọn. Làm 1 phút đi.
 </teacher_script>
 
@@ -205,7 +205,7 @@ Bài 4. <eng>Choose the correct option to complete each sentence.</eng> Mỗi c�
 - B. storm
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc893b71.mp3">
 Ok đáp án bài 4 nè.
 </teacher_script>
 
@@ -228,7 +228,7 @@ Ok đáp án bài 4 nè.
 </explanation>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ff9cb01f.mp3">
 Bài 5, bài cuối của <eng>Getting Started</eng> nha. <eng>Work in groups. Complete the web with all of the words and phrases related to natural disasters you know.</eng> Làm việc nhóm, viết tất cả các từ và cụm từ liên quan đến thảm họa thiên nhiên mà em biết vào sơ đồ mạng. Nghĩ thêm ngoài 6 từ đã học nha — ví dụ <eng>tsunami, drought, wildfire...</eng> Làm 1 phút đi.
 </teacher_script>
 
@@ -241,7 +241,7 @@ Bài 5, bài cuối của <eng>Getting Started</eng> nha. <eng>Work in groups. C
 Viết các từ liên quan đến thiên tai mà em biết — ngoài 6 từ đã học (flood, storm, earthquake, tornado, landslide, volcanic eruption).
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6a61e25a.mp3">
 Gợi ý một số từ nè các em.
 </teacher_script>
 
@@ -265,6 +265,6 @@ Gợi ý một số từ nè các em.
 - **dust storm (bão cát):** Gió mạnh cuốn cát và bụi ở vùng sa mạc.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2a818f46.mp3">
 Xong bài <eng>Getting Started</eng> rồi nha. Bài này mình học được 20 từ về thiên tai, đọc hội thoại về lũ lụt ở Việt Nam và lốc xoáy ở Mỹ, rồi làm 5 bài tập luôn. Bài sau mình học thêm từ vựng và phát âm nha, chuẩn bị tinh thần đi!
 </teacher_script>

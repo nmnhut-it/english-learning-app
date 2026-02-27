@@ -2,7 +2,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7abaeecf.mp3">
 Ok bài <eng>Skills 2</eng> nha — nghe và viết. Hôm nay nghe chương trình radio về chuẩn bị ứng phó bão, rồi viết hướng dẫn ứng phó lũ lụt. Ghi tựa bài vô tập đi. Bấm "Bắt đầu" học từ vựng trước nha — máy đọc, các em đọc theo, xong làm trắc nghiệm rồi ghi vô tập.
 </teacher_script>
 
@@ -27,12 +27,12 @@ Ok bài <eng>Skills 2</eng> nha — nghe và viết. Hôm nay nghe chương trì
 18. **local authorities** : (n) chính quyền địa phương /ˈloʊkəl ɔːˈθɒrɪtiz/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8f102a9d.mp3">
 Từ vựng xong rồi nha. Chú ý mấy từ quan trọng: <eng>plaster</eng> = băng dán vết thương (loại băng dán nhỏ), <eng>strengthen</eng> = gia cố (làm cho vững chắc hơn), <eng>avoid</eng> = tránh (không lại gần), <eng>rubbish bin</eng> = thùng rác. Nhớ hết chưa? Giờ mình nghe chương trình radio nha!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_746fb04f.mp3">
 Bài 1. <eng>Work in pairs. Look at the picture and answer the questions.</eng> Nhìn hình bộ dụng cụ khẩn cấp và trả lời 2 câu hỏi nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -58,7 +58,7 @@ Bài 1. <eng>Work in pairs. Look at the picture and answer the questions.</eng> 
 <audio src="https://img.loigiaihay.com/picture/2023/0804/track-58.mp3"></audio>
 
 <!-- chunk: listening -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9caddef6.mp3">
 Bây giờ nghe chương trình radio đặc biệt của đài phát thanh xã An Bình về cách chuẩn bị ứng phó bão nha. Nghe kỹ để làm bài tập bên dưới.
 </teacher_script>
 
@@ -80,12 +80,12 @@ Trong cơn bão, hãy ở trong nhà. Ngay cả khi mưa và gió ngừng, hãy 
 Sau cơn bão, đừng rời khỏi nhà ngay. Lắng nghe các hướng dẫn quan trọng từ chính quyền địa phương. Họ có thể cảnh báo bạn về những vùng nguy hiểm trong khu vực của bạn và nên tránh. Tránh xa các đường dây điện bị hỏng.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17d12fbf.mp3">
 Ok nghe xong rồi nha. Bây giờ mình làm bài tập dựa trên chương trình radio đó.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d6c82afc.mp3">
 Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct column.</eng> Phân loại 6 hoạt động vào 3 giai đoạn: Trước bão, Trong lúc bão, và Sau bão nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -109,7 +109,7 @@ Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct co
 - **After a storm** (Sau bão)
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -133,7 +133,7 @@ Bài 2. <eng>Listen to a broadcast. Put the activities (1–6) in the correct co
 <audio src="https://img.loigiaihay.com/picture/2023/0804/track-59.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_237532e1.mp3">
 Bài 3. <eng>Listen again and tick T (True) or F (False) for each sentence.</eng> Nghe lại và xác định câu đúng hay sai nha. 4 câu. Làm 1 phút đi.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 3. <eng>Listen again and tick T (True) or F (False) for each sentence.</eng
 *Chính quyền địa phương có thể cảnh báo bạn về những nơi nguy hiểm.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_95743e2b.mp3">
 Đáp án bài True/False nè.
 </teacher_script>
 
@@ -174,12 +174,12 @@ Bài 3. <eng>Listen again and tick T (True) or F (False) for each sentence.</eng
 </explanation>
 
 <!-- chunk: writing -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e5b87e82.mp3">
 Bây giờ mình sang phần viết nha — <eng>Writing</eng>.
 </teacher_script>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_debf2ee7.mp3">
 Bài 4. <eng>Work in pairs. Discuss what you should do before, during and after a flood. Write your ideas in the columns.</eng> Thảo luận theo cặp về những gì nên làm trước, trong và sau lũ lụt nha. Viết ý tưởng vào 3 cột. Làm 1 phút đi.
 </teacher_script>
 
@@ -202,7 +202,7 @@ Bài 4. <eng>Work in pairs. Discuss what you should do before, during and after 
 </answer>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f3ba7c0e.mp3">
 Bài 5. <eng>Write instructions (80–100 words) about things to do before, during, and after a flood.</eng> Viết hướng dẫn về những việc cần làm trước, trong và sau lũ lụt nha — 80 đến 100 từ.
 </teacher_script>
 
@@ -249,10 +249,10 @@ Here are things you should do before, during and after a flood.
 - Chỉ trở về nhà khi chính quyền cho biết đã an toàn.
 </translation>
 
-<teacher_script pause="300" action="photo">
+<teacher_script pause="300" action="photo" href="audio/tts_74313992.mp3">
 Bây giờ các em tự viết bài hướng dẫn ứng phó lũ lụt nha — theo cấu trúc Before/During/After, 80 đến 100 từ. Dùng bài mẫu làm gợi ý nhưng viết bằng lời của mình nha, đừng chép nguyên xi. Thầy/cô cho 5 phút. Viết xong thì chụp ảnh bài và nộp nha!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_32d95051.mp3">
 Xong bài <eng>Skills 2</eng> rồi nha! Hôm nay nghe radio về chuẩn bị bão và viết hướng dẫn ứng phó lũ lụt. Bài sau là <eng>Looking Back</eng> — ôn tập toàn bộ Unit 9 nha. Cố lên, sắp xong rồi!
 </teacher_script>

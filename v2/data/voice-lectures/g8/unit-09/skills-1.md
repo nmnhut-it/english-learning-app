@@ -2,7 +2,7 @@
 ## SKILLS 1 - Reading & Speaking
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6dd2ab73.mp3">
 Ok bài <eng>Skills 1</eng> nha — hôm nay học đọc hiểu và nói. Bài đọc về hai sự kiện thiên tai: núi lửa phun trào ở Tonga và rung lắc ở Hà Nội. Mở sách ra, ghi tựa bài, rồi bấm "Bắt đầu" để học từ vựng trước. Máy đọc, các em đọc theo, làm trắc nghiệm rồi ghi vô tập nha.
 </teacher_script>
 
@@ -24,12 +24,12 @@ Ok bài <eng>Skills 1</eng> nha — hôm nay học đọc hiểu và nói. Bài 
 15. **shaking** : (n) sự rung lắc /ˈʃeɪkɪŋ/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e03ea781.mp3">
 Từ vựng xong rồi nha. Chú ý mấy từ mới quan trọng: <eng>violently</eng> = dữ dội (very strongly), <eng>tsunami</eng> = sóng thần (sóng biển khổng lồ), <eng>trembling</eng> = rung lắc nhẹ (slightly shaking), <eng>fear</eng> = nỗi sợ hãi. Nhớ mấy từ này vì cần dùng trong bài đọc nha.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d48daea3.mp3">
 Bài 1. <eng>Match the headlines (1–2) with the natural disasters (A–B).</eng> Ghép các tiêu đề báo với loại thiên tai đúng nha. Có 2 tiêu đề và 2 loại thiên tai. Làm 1 phút đi.
 </teacher_script>
 
@@ -48,7 +48,7 @@ A. volcanic eruption
 B. earthquake
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -65,7 +65,7 @@ B. earthquake
 </explanation>
 
 <!-- chunk: reading -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1db602d2.mp3">
 Bây giờ mình đọc 2 bài báo nha. Bài 1 về núi lửa phun trào ở Tonga, bài 2 về rung lắc ở Hà Nội. Đọc theo máy, chú ý các từ in đậm.
 </teacher_script>
 
@@ -89,12 +89,12 @@ Một ngọn núi lửa ở phía nam Thái Bình Dương đã phun trào dữ d
 Cư dân trong những tòa nhà cao tầng ở Hà Nội đã hoảng sợ khi họ cảm nhận được sự rung lắc nhẹ trong khoảng 30 giây tối qua. "Tôi đang xem TV khi tòa nhà của tôi bắt đầu rung lắc. Sách, đèn và những thứ khác cũng rung nữa." Chị Nguyễn Hà, một cư dân tại tòa nhà Sunshine, chia sẻ. Nhiều người sống trong tòa nhà đã chạy ra khỏi nhà trong hoảng sợ. Theo các nhà khoa học, một trận động đất mạnh ở Trung Quốc đã gây ra sự rung lắc này. May mắn là không có thiệt hại gì.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_447ccfcf.mp3">
 Đọc và dịch 2 bài báo vô vở nha. Ghi cả tiếng Anh lẫn nghĩa tiếng Việt. Thầy/cô cho 3 phút á.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f8aa53fd.mp3">
 Bài 2. <eng>Read the two news articles. Match the highlighted words with their meanings.</eng> Đọc 2 bài báo, ghép các từ in đậm với nghĩa của chúng nha. 5 từ cần ghép. Làm 1 phút đi.
 </teacher_script>
 
@@ -119,7 +119,7 @@ d. very strongly
 e. very large waves in the sea
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -142,7 +142,7 @@ e. very large waves in the sea
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_16c68589.mp3">
 Bài 3. <eng>Read the articles again and answer the questions.</eng> Đọc lại 2 bài báo và trả lời 5 câu hỏi nha. Viết câu trả lời đầy đủ. Làm 1 phút đi.
 </teacher_script>
 
@@ -168,7 +168,7 @@ Bài 3. <eng>Read the articles again and answer the questions.</eng> Đọc lạ
 *Điều gì gây ra sự rung lắc?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_534f3e30.mp3">
 Đáp án bài 3 nè.
 </teacher_script>
 
@@ -191,7 +191,7 @@ Bài 3. <eng>Read the articles again and answer the questions.</eng> Đọc lạ
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b771a490.mp3">
 Bài 4. <eng>Work in pairs. Match the questions with the answers.</eng> Ghép câu hỏi với câu trả lời về trận lũ lụt ở Phú Yên nha. 5 cặp câu hỏi — câu trả lời. Làm 1 phút đi.
 </teacher_script>
 
@@ -216,7 +216,7 @@ d. Rescue workers looked for the missing people, and volunteers gave food and dr
 e. It happened in a village in Phu Yen last week.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04f7c05e.mp3">
 Đáp án bài 4 nè.
 </teacher_script>
 
@@ -239,7 +239,7 @@ e. It happened in a village in Phu Yen last week.
 </explanation>
 
 <!-- chunk: speaking -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6a10b8ce.mp3">
 Bài 5. <eng>Work in groups. Prepare a short piece of news about the natural disaster in 4 or one you know of. Report the news to the class.</eng> Dựa vào thông tin ở bài 4 hoặc một thảm họa thiên nhiên mà em biết, viết một đoạn tin ngắn rồi báo cáo cho cả lớp nha.
 </teacher_script>
 
@@ -258,10 +258,10 @@ Five days of heavy rain caused a serious flood in a village in Phu Yen. The floo
 Năm ngày mưa to đã gây ra một trận lũ nghiêm trọng tại một ngôi làng ở Phú Yên. Trận lũ xảy ra vào tuần trước. Nhiều ngôi nhà bị ngập, hai dân làng thiệt mạng, và năm người khác mất tích. Chính quyền địa phương đã cử đội cứu hộ đi tìm những người mất tích. Tình nguyện viên từ các làng khác đã mang thức ăn và nước uống đến cho nạn nhân.
 </translation>
 
-<teacher_script pause="300" action="record">
+<teacher_script pause="300" action="record" href="audio/tts_b818b202.mp3">
 Bây giờ các em tự viết một đoạn tin ngắn về một thảm họa thiên nhiên nha. Có thể dùng thông tin từ bài 4 hoặc kể về một thiên tai mà em biết. Thầy/cô cho 5 phút, viết xong thì đọc lên nha. Bấm nút ghi âm khi sẵn sàng!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b00152f2.mp3">
 Xong bài <eng>Skills 1</eng> rồi nha! Hôm nay mình đọc về núi lửa ở Tonga, rung lắc ở Hà Nội, và lũ lụt ở Phú Yên. Bài sau học nghe và viết — <eng>Skills 2</eng> nha. Chuẩn bị tinh thần nghe radio về chuẩn bị ứng phó bão nha!
 </teacher_script>

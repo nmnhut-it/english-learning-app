@@ -2,7 +2,7 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_69543db6.mp3">
 Ok tiếp theo là bài <eng>A Closer Look 1</eng> nha. Bài này mình học thêm từ vựng về thiên tai — đặc biệt là các cặp từ động từ và danh từ tương ứng. Mở sách ra, ghi tựa bài, rồi bấm "Bắt đầu" để học từ vựng. Máy đọc, các em đọc theo, sau đó làm trắc nghiệm rồi ghi vô tập nha.
 </teacher_script>
 
@@ -23,12 +23,12 @@ Ok tiếp theo là bài <eng>A Closer Look 1</eng> nha. Bài này mình học th
 14. **property** : (n) tài sản /ˈprɒpərti/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f3c8eb51.mp3">
 Xong từ vựng rồi nha. Chú ý 4 cặp từ đặc biệt này: <eng>destroy → destruction</eng>, <eng>erupt → eruption</eng>, <eng>warn → warning</eng>, <eng>predict → prediction</eng>. Đây là cặp động từ và danh từ tương ứng — rất hay ra bài tập đó. Còn <eng>damage</eng> thì vừa là động từ vừa là danh từ, không đổi dạng luôn nha.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_55833b27.mp3">
 Bài 1. <eng>In column B, write the noun forms of the verbs in column A.</eng> Ở cột B, viết dạng danh từ của động từ ở cột A. Có 5 động từ: <eng>destroy, erupt, warn, predict, damage</eng>. Viết danh từ tương ứng nha. Làm 1 phút đi.
 </teacher_script>
 
@@ -47,7 +47,7 @@ Bài 1. <eng>In column B, write the noun forms of the verbs in column A.</eng> �
 | 5. damage | ______ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -70,7 +70,7 @@ Bài 1. <eng>In column B, write the noun forms of the verbs in column A.</eng> �
 </explanation>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_af685f07.mp3">
 Bài 2. <eng>Write a word or phrase from the box under the correct picture.</eng> Viết từ hoặc cụm từ từ hộp dưới hình ảnh đúng nha. Có 5 từ: <eng>emergency kit, victim, rescue worker, property, whistle</eng>. Nhìn hình rồi ghép. Làm 1 phút đi.
 </teacher_script>
 
@@ -89,7 +89,7 @@ Bài 2. <eng>Write a word or phrase from the box under the correct picture.</eng
 **5.** Hình 5: Người mặc áo cứu hộ đang giúp đỡ → ______
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -112,7 +112,7 @@ Bài 2. <eng>Write a word or phrase from the box under the correct picture.</eng
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_44d3799c.mp3">
 Bài 3. <eng>Fill in each blank with a word or phrase from the box.</eng> Điền vào chỗ trống với từ hoặc cụm từ trong hộp nha. Có 5 từ: <eng>warning, predict, property, damage, emergency kit</eng>. Đọc kỹ câu rồi chọn từ phù hợp. Làm 1 phút đi.
 </teacher_script>
 
@@ -140,7 +140,7 @@ Bài 3. <eng>Fill in each blank with a word or phrase from the box.</eng> Điề
 *Họ mất hết ______ vì núi lửa phun trào.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_534f3e30.mp3">
 Đáp án bài 3 nè.
 </teacher_script>
 
@@ -166,7 +166,7 @@ Bài 3. <eng>Fill in each blank with a word or phrase from the box.</eng> Điề
 <audio src="https://img.loigiaihay.com/picture/2023/0803/track-56.mp3"></audio>
 
 <!-- chunk: pronunciation -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_91b3e6ce.mp3">
 Bây giờ mình học phát âm nha. Phần này quan trọng lắm đó — quy tắc nhấn âm cho các từ tận cùng bằng <eng>-al</eng> và <eng>-ous</eng>. Nghe kỹ nha!
 </teacher_script>
 
@@ -181,12 +181,12 @@ Bây giờ mình học phát âm nha. Phần này quan trọng lắm đó — qu
 | **-ous** | Stress syllable before -ous | **DAN**-ger-ous, **HU**-mor-ous |
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2a584a07.mp3">
 Nhớ quy tắc này nha: hậu tố <eng>-al</eng> và <eng>-ous</eng> thì nhấn vào âm tiết TRƯỚC nó. Ví dụ: <eng>MU-si-cal</eng> — nhấn MU, không phải -cal. <eng>DAN-ger-ous</eng> — nhấn DAN, không phải -ous. Dễ nhớ hen!
 </teacher_script>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3bb83363.mp3">
 Bài 4. <eng>Listen and repeat the words. Pay attention to the word stress.</eng> Nghe và lặp lại các từ, chú ý trọng âm nha. Có 8 từ: <eng>musical, dangerous, humorous, national, practical, poisonous, personal, marvellous</eng>. Đọc theo máy rồi đánh dấu trọng âm. Làm 1 phút đi.
 </teacher_script>
 
@@ -206,7 +206,7 @@ Bài 4. <eng>Listen and repeat the words. Pay attention to the word stress.</eng
 **8.** marvellous
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d980ef2e.mp3">
 Đáp án phát âm nè các em.
 </teacher_script>
 
@@ -236,7 +236,7 @@ Bài 4. <eng>Listen and repeat the words. Pay attention to the word stress.</eng
 </explanation>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0aeef074.mp3">
 Bài 5. <eng>Listen and repeat the sentences. Mark the stress in the underlined words.</eng> Nghe và lặp lại các câu, đánh dấu trọng âm của các từ gạch chân nha. 5 câu, áp dụng quy tắc vừa học. Làm 1 phút đi.
 </teacher_script>
 
@@ -262,7 +262,7 @@ Bài 5. <eng>Listen and repeat the sentences. Mark the stress in the underlined 
 *Cô ấy cho chúng tôi những lời khuyên thiết thực về việc xử lý chất thải độc hại.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_85ca2deb.mp3">
 Đáp án bài 5 nè.
 </teacher_script>
 
@@ -283,6 +283,6 @@ Bài 5. <eng>Listen and repeat the sentences. Mark the stress in the underlined 
 - **Câu 5** cũng có 2 từ: <eng>practical</eng> (PRAC-ti-cal) và <eng>poisonous</eng> (POI-son-ous).
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5c8e91e8.mp3">
 Xong bài <eng>A Closer Look 1</eng> rồi nha. Hôm nay học cặp từ động từ — danh từ, 5 từ mới về thiên tai, và quy tắc nhấn âm <eng>-al/-ous</eng>. Nhớ quy tắc này áp dụng khi gặp các từ tương tự nha. Bài sau mình học ngữ pháp <eng>Past Continuous</eng> — thì quá khứ tiếp diễn đó!
 </teacher_script>
