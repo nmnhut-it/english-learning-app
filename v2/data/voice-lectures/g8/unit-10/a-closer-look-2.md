@@ -72,18 +72,18 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Bài 1 - Đáp án:** 1. at | 2. opposite | 3. under | 4. in - on | 5. in front of
+**Bài 1 - Đáp án:** 1. at | 2. opposite | 3. under | 4. on - on | 5. in front of
 
 **Giải thích:**
 1. **at the end of this street** - "at" dùng cho điểm cụ thể, "at the end" là cụm cố định nghĩa là "ở cuối"
 2. **opposite each other** - "opposite" nghĩa là "đối diện", người chơi cờ ngồi đối diện nhau
 3. **looked under the table** - "under" nghĩa là "bên dưới", cô ấy tìm dưới gầm bàn
-4. **in the street / on the pavement** - "in the street" là trong lòng đường, "on the pavement" là trên vỉa hè (bề mặt)
+4. **on the street / on the pavement** - cả hai đều dùng "on" vì đây là bề mặt, "on the pavement" là trên vỉa hè
 5. **in front of** - "in front of" nghĩa là "ở phía trước"
 </answer>
 
 <teacher_script pause="0">
-Câu 1 là <eng>at the end of this street</eng>, dùng <eng>at</eng> vì đây là điểm cụ thể. Câu 2 là <eng>opposite each other</eng>, đối diện nhau. Câu 3 là <eng>under the table</eng>, tìm dưới gầm bàn. Câu 4 có 2 chỗ trống: <eng>in the street</eng> là trong lòng đường, <eng>on the pavement</eng> là trên vỉa hè. Câu 5 là <eng>in front of</eng>, đứng phía trước. Hiểu chưa nè?
+Câu 1 là <eng>at the end of this street</eng>, dùng <eng>at</eng> vì đây là điểm cụ thể. Câu 2 là <eng>opposite each other</eng>, đối diện nhau. Câu 3 là <eng>under the table</eng>, tìm dưới gầm bàn. Câu 4 có 2 chỗ trống: <eng>on the street</eng> là trên đường, <eng>on the pavement</eng> là trên vỉa hè - cả hai đều dùng <eng>on</eng> vì là bề mặt. Câu 5 là <eng>in front of</eng>, đứng phía trước. Hiểu chưa nè?
 </teacher_script>
 
 <!-- chunk: grammar-prepositions-of-time -->

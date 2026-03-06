@@ -269,14 +269,14 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.a,d | 2.c,f,h | 3.b,e | 4.g
+**Dap an:** 1.a | 2.c,d | 3.b,e | 4.f
 </answer>
 
 <explanation>
-- **1 - a, d**: "What is it?" nối với "a phone call using Internet connection" và "transmits live images of the speakers with a webcam or camera on smart devices" - Video call là gì? Là cuộc gọi qua Internet, truyền hình ảnh trực tiếp qua webcam.
-- **2 - c, f, h**: "What are its advantages?" nối với "saves time because people needn't travel to meet", "can be useful for family members and business partners", và "can see and hear each other in real time" - Lợi ích: tiết kiệm thời gian, hữu ích cho gia đình và đối tác, nhìn và nghe nhau theo thời gian thực.
-- **3 - b, e**: "What are its disadvantages?" nối với "needs a high-speed Internet access" và "may spend too much time chatting with each other" - Nhược điểm: cần mạng nhanh và có thể mất nhiều thời gian nói chuyện.
-- **4 - g**: "Will people use it in the future?" nối với "will still be a common tool of communication" - Trong tương lai, video call vẫn sẽ là công cụ giao tiếp phổ biến.
+- **1 - a**: "What is it?" nối với "a phone call using Internet connection" - Video call là cuộc gọi điện thoại qua kết nối Internet.
+- **2 - c, d**: "What are its advantages?" nối với "saves time because people needn't travel to meet" (tiết kiệm thời gian vì không cần di chuyển) và "transmits live images of the speakers with a webcam or camera on smart devices" (truyền hình ảnh trực tiếp qua webcam).
+- **3 - b, e**: "What are its disadvantages?" nối với "needs a high-speed Internet access" (cần mạng tốc độ cao) và "may spend too much time chatting with each other" (có thể tốn quá nhiều thời gian chat).
+- **4 - f**: "Will people use it in the future?" nối với "can be useful for family members and business partners" - Video call vẫn sẽ hữu ích cho gia đình và đối tác kinh doanh trong tương lai.
 </explanation>
 
 <!-- chunk: bai5 -->

@@ -46,6 +46,18 @@ Ok lớp 8, bài <eng>A Closer Look 2</eng> Unit 12 nha. Hôm nay mình học ng
 | this | that |
 | tomorrow | the next day |
 | yesterday | the day before |
+
+**Ngoài "asked", cũng dùng được:**
+- `wanted to know + Wh + S + V` — nghĩa tương tự, trang trọng hơn một chút.
+- Ví dụ: She **wanted to know** where aliens lived. = She **asked** where aliens lived.
+
+**Động từ tường thuật — asked vs told/said:**
+| Tình huống | Động từ |
+|------------|---------|
+| Chuyển câu **hỏi** | `asked` / `wanted to know` |
+| Chuyển câu **trả lời / phát biểu** | `told + O (that)` / `said (that)` |
+- Ví dụ: Mai **told** An that it was science fiction. ✓ (câu trả lời)
+- `answered` KHÔNG dùng với cấu trúc "answered + O + that" trong tiếng Anh chuẩn.
 </grammar>
 
 <teacher_script pause="0">
@@ -238,18 +250,18 @@ Mai told An that she was reading ...
 Mai told An that she was reading Aliens and she was almost done.
 
 2. An asked Mai what kind of book it was.
-Mai answered An that it was science fiction.
+Mai told An that it was science fiction.
 
 3. An asked Mai what it was about.
-Mai told An it was about three aliens who try to take over Earth.
+Mai told An it was about three aliens who tried to take over Earth.
 </answer>
 
 <explanation>
 **Câu 1 (Wh-question):** "What are you reading?" → An asked Mai **what she was reading**. "are reading" → "was reading" (lùi thì), "you" → "she" (đổi đại từ). Mai nói "I'm reading" → "she was reading" + "I'm almost done" → "she was almost done".
 
-**Câu 2 (Wh-question):** "What kind of book is it?" → An asked Mai **what kind of book it was**. "is" → "was". Dùng "asked" cho câu hỏi. Mai trả lời "It's science fiction" → "it was science fiction". Dùng "answered" cho câu trả lời.
+**Câu 2 (Wh-question):** "What kind of book is it?" → An asked Mai **what kind of book it was**. "is" → "was". Dùng "asked" cho câu hỏi. Mai trả lời "It's science fiction" → "it was science fiction". Dùng **"told + O (that)"** cho câu trả lời/phát biểu — KHÔNG dùng "answered + O + that" nha.
 
-**Câu 3 (Wh-question):** "What's it about?" → An asked Mai **what it was about**. "is" → "was". Mai nói "It's about three aliens" → "it was about three aliens who try to take over Earth."
+**Câu 3 (Wh-question):** "What's it about?" → An asked Mai **what it was about**. "is" → "was". Mai nói "It's about three aliens who **try** to take over Earth" → "it was about three aliens who **tried** to take over Earth." — "try" cũng lùi thì thành "tried" trong mệnh đề quan hệ vì toàn bộ câu đang ở lời nói gián tiếp.
 </explanation>
 
 <!-- chunk: exercise-5 -->
