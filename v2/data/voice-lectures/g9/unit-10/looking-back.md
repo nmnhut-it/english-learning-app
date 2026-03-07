@@ -36,7 +36,7 @@ Cac em nghi xem co nhung loai moi truong song nao, va trong moi truong do co gi.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -88,11 +88,11 @@ Doc doan van va dien tu thich hop vao cho trong. 1 phut ruoi nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne. Co giai thich chi tiet luan.
+Ok đáp án nè. Co giai thich chi tiet luan.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. Climate change | 2. food chain | 3. ecological balance | 4. nature reserves | 5. habitat loss
+**Đáp án:** 1. Climate change | 2. food chain | 3. ecological balance | 4. nature reserves | 5. habitat loss
 </answer>
 
 <explanation>
@@ -190,11 +190,11 @@ Doc ky cac cau va noi voi menh de quan he phu hop. 1 phut ruoi nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne. Giai thich tung cau luan.
+Ok đáp án nè. Giai thich tung cau luan.
 </teacher_script>
 
 <answer>
-**Dap an:** 1 - E | 2 - B | 3 - A | 4 - D | 5 - C
+**Đáp án:** 1 - E | 2 - B | 3 - A | 4 - D | 5 - C
 </answer>
 
 <explanation>
@@ -256,11 +256,11 @@ Viet cau hoan chinh vao vo. Nho dung dau phay de tach menh de quan he khong xac 
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne. Giai thich chi tiet tung cau luan.
+Ok đáp án nè. Giai thich chi tiet tung cau luan.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Đáp án:**
 1. Boreal forests, which are also called Taiga, cover vast areas in Canada, Alaska, and Russia.
 2. Polar bears, whose natural habitat is the Arctic, are endangered animals.
 3. Julie Arblaster, who is an Australian scientist, focuses on studying climate change.

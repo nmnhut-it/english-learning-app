@@ -65,7 +65,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Đáp án:**
 
 **A:** What type of house do you think it is?
 
@@ -170,7 +170,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1 - a, c, e, g, h | 2 - b, d, f
+**Đáp án:** 1 - a, c, e, g, h | 2 - b, d, f
 </answer>
 
 <explanation>
@@ -231,7 +231,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.B | 2.C | 3.B | 4.B
+**Đáp án:** 1.B | 2.C | 3.B | 4.B
 </answer>
 
 <explanation>
@@ -302,7 +302,7 @@ Ok đây là mẫu trả lời nè.
 </teacher_script>
 
 <answer>
-**Dap an mau:**
+**Đáp án mẫu:**
 
 **A:** What type of future house do you think it will be?
 
@@ -385,7 +385,7 @@ Ok đây là mẫu trả lời nè.
 </teacher_script>
 
 <answer>
-**Dap an mau:**
+**Đáp án mẫu:**
 
 My future house will be a very big and beautiful villa. It'll be on the hill. There will be ten rooms with smart appliances in each room. They will help us do all the housework easily and quickly.
 

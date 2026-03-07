@@ -162,7 +162,7 @@ Cac em suy nghi va viet hoi thoai trong 1 phut nha. Dung cac mau cau da hoc.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an mau ne.
+Ok đáp án mẫu nè.
 </teacher_script>
 
 <answer>
@@ -263,11 +263,11 @@ Cac em lam bai trong 1 phut nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1-c | 2-d | 3-b | 4-a
+**Đáp án:** 1-c | 2-d | 3-b | 4-a
 
 **1 - c.** Polar regions: extremely cold, dry, covered in snow and ice
 *(Vung cuc: cuc lanh, kho, phu day bang tuyet)*

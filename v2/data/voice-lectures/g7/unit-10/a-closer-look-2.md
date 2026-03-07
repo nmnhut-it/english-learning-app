@@ -99,7 +99,7 @@ Bai 1 trang 107 nha. <eng>Work in pairs. Tell your partner what the people in th
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an nha. Cac em nhin hinh roi mo ta bang thi hien tai tiep dien.
+Ok đáp án nha. Cac em nhin hinh roi mo ta bang thi hien tai tiep dien.
 </teacher_script>
 
 <answer>
@@ -165,7 +165,7 @@ Bai 2 trang 107 nha. <eng>Complete the sentences, using the present continuous f
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an nha. Minh giai thich tung cau.
+Ok đáp án nha. Minh giai thich tung cau.
 </teacher_script>
 
 <answer>
@@ -231,7 +231,7 @@ Bai 3 trang 108 nha. <eng>Circle the correct form of the verb in each sentence.<
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an nha. Bai nay quan trong lam, phan biet 2 thi ne.
+Ok đáp án nha. Bai nay quan trong lam, phan biet 2 thi ne.
 </teacher_script>
 
 <answer>
@@ -297,7 +297,7 @@ Bai 4 trang 108 nha. <eng>Write sentences about what the people are doing or not
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an nha.
+Ok đáp án nha.
 </teacher_script>
 
 <answer>

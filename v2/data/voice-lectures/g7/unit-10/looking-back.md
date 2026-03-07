@@ -35,7 +35,7 @@ Cac em doc ky cot A va cot B, roi noi tu tinh tu voi danh tu phu hop. 45 giay nh
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne.
+Ok đáp án nè.
 </teacher_script>
 
 <answer>
@@ -85,7 +85,7 @@ Doc ky tung cau roi dien cum tu phu hop tu bai 1 vao cho trong. 1 phut nha.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne. Co giai thich tung cau luon.
+Ok đáp án nè. Co giai thich tung cau luon.
 </teacher_script>
 
 <answer>
@@ -116,7 +116,7 @@ Ok dap an ne. Co giai thich tung cau luon.
 
 **Cau 5:** She has **hot water** day and night because she has solar panels on the roof of her house.
 *(Co ay co nuoc nong ca ngay lan dem vi co ay co tam pin mat troi tren mai nha.)*
-→ Solar panels (tam pin mat troi) dung de lam nong nuoc, nen dap an la "hot water".
+→ Solar panels (tam pin mat troi) dung de lam nong nuoc, nên đáp án là "hot water".
 </answer>
 
 ---
@@ -199,7 +199,7 @@ Doc tung cau, tim dau hieu nhan biet thi, roi chia dong tu trong ngoac cho dung.
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne. Co giai thich tung cau.
+Ok đáp án nè. Co giai thich tung cau.
 </teacher_script>
 
 <answer>
@@ -264,7 +264,7 @@ Doc tung cau, tim loi sai ve ngu phap roi sua lai. Chu y cac dau hieu cua thi hi
 </teacher_script>
 
 <teacher_script pause="0">
-Ok dap an ne. Co giai thich tung cau.
+Ok đáp án nè. Co giai thich tung cau.
 </teacher_script>
 
 <answer>

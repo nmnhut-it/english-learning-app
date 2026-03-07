@@ -58,7 +58,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:**
+**Đáp án:**
 1. carrier pigeon (bồ câu đưa thư)
 2. smartwatch (đồng hồ thông minh)
 3. translation machine (máy dịch)
@@ -147,7 +147,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. 8:20 | 2. first | 3. Modern | 4. 10:15 | 5. Cinema
+**Đáp án:** 1. 8:20 | 2. first | 3. Modern | 4. 10:15 | 5. Cinema
 </answer>
 
 <explanation>
@@ -215,7 +215,7 @@ Ok đáp án nè, mình giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.A | 2.C | 3.A | 4.B | 5.C
+**Đáp án:** 1.A | 2.C | 3.A | 4.B | 5.C
 </answer>
 
 <explanation>
@@ -269,7 +269,7 @@ Ok đáp án nè.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.a | 2.c,d | 3.b,e | 4.f
+**Đáp án:** 1.a | 2.c,d | 3.b,e | 4.f
 </answer>
 
 <explanation>

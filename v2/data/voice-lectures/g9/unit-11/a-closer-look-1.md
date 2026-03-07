@@ -88,7 +88,7 @@ Ok đáp án bài 1 nè. Cô giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Dap an:** 1.d | 2.c | 3.a | 4.e | 5.b | 6.f
+**Đáp án:** 1.d | 2.c | 3.a | 4.e | 5.b | 6.f
 </answer>
 
 <explanation>
@@ -153,7 +153,7 @@ Ok đáp án bài 2 nè. Cô giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. copper | 2. plastic | 3. steel | 4. rubber | 5. cardboard
+**Đáp án:** 1. copper | 2. plastic | 3. steel | 4. rubber | 5. cardboard
 </answer>
 
 <explanation>
@@ -207,7 +207,7 @@ Ok đáp án bài 3 nè. Cô giải thích từng câu luôn nghen.
 </teacher_script>
 
 <answer>
-**Dap an:** 1. rubber | 2. steel | 3. printers | 4. cardboard | 5. camcorders
+**Đáp án:** 1. rubber | 2. steel | 3. printers | 4. cardboard | 5. camcorders
 </answer>
 
 <explanation>
