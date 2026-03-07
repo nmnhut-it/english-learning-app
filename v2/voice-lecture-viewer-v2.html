@@ -1920,6 +1920,9 @@ async function load() {
 
   try {
     const res = await fetch(CONFIG.contentUrl);
+    if (!res.ok) {
+      throw new Error(`Bài học chưa có nội dung (${res.status})`);
+    }
     const md = await res.text();
     const lesson = parseLesson(md);
 
@@ -1940,7 +1943,16 @@ async function load() {
     updateMainNavButton(true, 'Bắt đầu bài học');
 
   } catch (e) {
-    document.getElementById('content').innerHTML = `<div class="card" style="color:#ef4444">Error: ${e.message}</div>`;
+    const isNetwork = e.message === 'Failed to fetch';
+    const msg = isNetwork ? 'Lỗi kết nối — kiểm tra internet rồi thử lại.' : e.message;
+    document.getElementById('content').innerHTML = `
+      <div class="card" style="text-align:center;padding:24px">
+        <div style="font-size:2rem;margin-bottom:12px">⚠️</div>
+        <div style="color:#ef4444;font-weight:600;margin-bottom:8px">${msg}</div>
+        <div style="color:#64748b;font-size:.85rem;margin-bottom:20px">Nội dung: ${CONFIG.contentUrl}</div>
+        <button onclick="location.reload()" style="padding:10px 24px;background:#0ea5e9;color:#fff;border:none;border-radius:8px;font-weight:600;cursor:pointer;margin-right:8px">Thử lại</button>
+        <button onclick="history.back()" style="padding:10px 24px;background:#f1f5f9;color:#0f172a;border:none;border-radius:8px;font-weight:600;cursor:pointer">Quay lại</button>
+      </div>`;
     updateMainNavButton(false, 'Lỗi tải nội dung');
   }
 }
