@@ -516,6 +516,19 @@
       </div>
       <div class="unit">
         <div class="unit-title">
+          <span>Review 3 (Units 7–9)</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
+        <div class="sections">
+          <button class="section-btn" data-review="3" data-grade="7" data-section="language">Language</button>
+          <button class="section-btn" data-review="3" data-grade="7" data-section="skills">Skills</button>
+        </div>
+      </div>
+      <div class="unit">
+        <div class="unit-title">
           <span>Unit 10: Energy Sources</span>
           <button class="copy-all-btn" onclick="copyAllLinks(this)">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
@@ -736,6 +749,19 @@
       </div>
       <div class="unit">
         <div class="unit-title">
+          <span>Review 3 (Units 7–9)</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
+        <div class="sections">
+          <button class="section-btn" data-review="3" data-grade="8" data-section="language">Language</button>
+          <button class="section-btn" data-review="3" data-grade="8" data-section="skills">Skills</button>
+        </div>
+      </div>
+      <div class="unit">
+        <div class="unit-title">
           <span>Unit 10: Communication</span>
           <button class="copy-all-btn" onclick="copyAllLinks(this)">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
@@ -764,7 +790,7 @@
           <button class="section-btn" data-section="getting-started" data-grade="8" data-unit="11">GS</button>
           <button class="section-btn" data-section="a-closer-look-1" data-grade="8" data-unit="11">AC1</button>
           <button class="section-btn" data-section="a-closer-look-2" data-grade="8" data-unit="11">AC2</button>
-          <button class="section-btn disabled">CM</button>
+          <button class="section-btn" data-section="communication" data-grade="8" data-unit="11">CM</button>
           <button class="section-btn" data-section="skills-1" data-grade="8" data-unit="11">S1</button>
           <button class="section-btn" data-section="skills-2" data-grade="8" data-unit="11">S2</button>
           <button class="section-btn" data-section="looking-back" data-grade="8" data-unit="11">LB</button>
@@ -786,6 +812,19 @@
           <button class="section-btn" data-section="skills-1" data-grade="8" data-unit="12">S1</button>
           <button class="section-btn" data-section="skills-2" data-grade="8" data-unit="12">S2</button>
           <button class="section-btn" data-section="looking-back" data-grade="8" data-unit="12">LB</button>
+        </div>
+      </div>
+      <div class="unit">
+        <div class="unit-title">
+          <span>Review 4 (Units 10–12)</span>
+          <button class="copy-all-btn" onclick="copyAllLinks(this)">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
+            Copy All
+          </button>
+        </div>
+        <div class="sections">
+          <button class="section-btn" data-review="4" data-grade="8" data-section="language">Language</button>
+          <button class="section-btn" data-review="4" data-grade="8" data-section="skills">Skills</button>
         </div>
       </div>
     </div>
@@ -1538,6 +1577,9 @@
       if (data.topic) {
         // Grammar topic
         path = `grammar/${data.topic}.md`;
+      } else if (data.review) {
+        // Review section: g{grade}/review-{N}/{section}.md
+        path = `g${data.grade}/review-${data.review}/${data.section}.md`;
       } else {
         // Grade/unit/section - pad single digit units with 0
         const unitNum = String(data.unit).padStart(2, '0');
