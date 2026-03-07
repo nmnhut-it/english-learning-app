@@ -1918,12 +1918,27 @@ async function load() {
     return;
   }
 
+  // Build candidate URLs: try primary first, then toggle /v2/ in path as fallback
+  function buildCandidateUrls(url) {
+    const candidates = [url];
+    const withV2 = url.replace(/(githubusercontent\.com\/[^/]+\/[^/]+\/[^/]+\/)(?!v2\/)/, '$1v2/');
+    const withoutV2 = url.replace(/(githubusercontent\.com\/[^/]+\/[^/]+\/[^/]+\/)v2\//, '$1');
+    if (withV2 !== url) candidates.push(withV2);
+    if (withoutV2 !== url) candidates.push(withoutV2);
+    return candidates;
+  }
+
   try {
-    const res = await fetch(CONFIG.contentUrl);
-    if (!res.ok) {
-      throw new Error(`Bài học chưa có nội dung (${res.status})`);
+    let md = null;
+    let lastStatus = null;
+    for (const url of buildCandidateUrls(CONFIG.contentUrl)) {
+      const res = await fetch(url);
+      if (res.ok) { md = await res.text(); break; }
+      lastStatus = res.status;
     }
-    const md = await res.text();
+    if (md === null) {
+      throw new Error(lastStatus === 404 ? `Bài học chưa có nội dung (404)` : `Lỗi tải nội dung (${lastStatus})`);
+    }
     const lesson = parseLesson(md);
 
     state.title = lesson.title;
@@ -1943,8 +1958,7 @@ async function load() {
     updateMainNavButton(true, 'Bắt đầu bài học');
 
   } catch (e) {
-    const isNetwork = e.message === 'Failed to fetch';
-    const msg = isNetwork ? 'Lỗi kết nối — kiểm tra internet rồi thử lại.' : e.message;
+    const msg = e.message === 'Failed to fetch' ? 'Lỗi kết nối — kiểm tra internet rồi thử lại.' : e.message;
     document.getElementById('content').innerHTML = `
       <div class="card" style="text-align:center;padding:24px">
         <div style="font-size:2rem;margin-bottom:12px">⚠️</div>
