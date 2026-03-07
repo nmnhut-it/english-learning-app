@@ -9,20 +9,22 @@ Ok Unit 11, bài <eng>A Closer Look 2</eng> — phần ngữ pháp nha. Hôm nay
 <grammar>
 ## Mạo từ: A / AN / THE
 
-### Dùng A / AN (mạo từ bất định):
-- Trước danh từ đếm được số ít **lần đầu nhắc đến** (chưa xác định)
-- Chỉ nghề nghiệp: *She is **a** teacher.*
-- **A** + phụ âm: *a book, a reusable bag*
-- **AN** + nguyên âm (a, e, i, o, u): *an apple, an orange, an old bottle*
+| | **A / AN** *(bất định)* | **THE** *(xác định)* |
+|---|---|---|
+| **Dùng khi** | Lần đầu nhắc đến, chưa biết cái nào | Đã nhắc rồi / biết rõ cái nào rồi |
+| **Ví dụ** | *I saw **a** dog.* | *The dog was big.* |
+| **Thứ duy nhất** | — | *the sun, the moon, the earth* |
+| **Nghề nghiệp** | *She is **a** teacher.* | — |
 
-### Dùng THE (mạo từ xác định):
-- Khi đã nhắc đến rồi, biết là cái nào rồi
-- Chỉ thứ duy nhất trên đời: *the sun, the moon, the earth*
-- Sau tính từ: *the poor, the rich*
+**Mẹo nhớ:** A/AN = lần đầu gặp, chưa biết cái nào → THE = biết rồi, cái đó cụ thể rồi.
 
-### Phát âm THE:
-- **The** + phụ âm → đọc là /đờ/: *the book*
-- **The** + nguyên âm → đọc là /đì/: *the air, the environment*
+**A hay AN?**
+- **A** + phụ âm: *a book, a reusable bag, a useful tip* *(u đọc /juː/ → phụ âm!)*
+- **AN** + nguyên âm (a, e, i, o, u): *an apple, an old bottle, an environment project*
+
+**Phát âm THE:**
+- **The** + phụ âm → /đờ/: *the book*
+- **The** + nguyên âm → /đì/: *the air, the environment*
 </grammar>
 
 <teacher_script pause="0">
@@ -120,19 +122,24 @@ Ok xong mạo từ rồi. Bây giờ học câu điều kiện loại 1 — <eng
 <grammar>
 ## Câu điều kiện loại 1 (First Conditional)
 
-**Ý nghĩa:** Điều có thể xảy ra trong tương lai — "Nếu ... thì ..."
+**Dùng khi nào:** Nói về điều có **khả năng xảy ra thật sự** trong tương lai — "Nếu ... thì ..."
 
 **Công thức:**
-> **If** + S + V (hiện tại đơn) , S + **will/can** + V (nguyên thể)
+
+| Vế | Cấu trúc | Ví dụ |
+|---|---|---|
+| Điều kiện | **If** + S + V (hiện tại đơn) | *If it **rains**,* |
+| Kết quả | S + **will/can** + V (nguyên thể) | *I **will** stay at home.* |
+| *(Đảo vế)* | S + **will** + V , **if** + S + V | *I will stay at home **if** it rains.* |
 
 **Ví dụ:**
-- *If it **rains**, I **will** stay at home.* — Nếu trời mưa, tôi sẽ ở nhà.
 - *If you **recycle**, you **will** help the environment.* — Nếu bạn tái chế, bạn sẽ giúp ích cho môi trường.
+- *We **will save** energy if we **reuse** things.* — Chúng ta sẽ tiết kiệm năng lượng nếu tái sử dụng đồ vật.
 
 **Lưu ý:**
-- Mệnh đề *If* dùng thì **hiện tại đơn** (không dùng *will*!)
+- Mệnh đề *If* dùng thì **hiện tại đơn** — KHÔNG dùng *will* trong mệnh đề *if*!
 - Mệnh đề kết quả dùng **will/can + V nguyên thể**
-- Có thể đảo vế: *I will stay at home if it rains.*
+- Đảo vế được, nhưng khi *if* đứng sau thì **không có dấu phẩy**
 </grammar>
 
 <teacher_script pause="0">

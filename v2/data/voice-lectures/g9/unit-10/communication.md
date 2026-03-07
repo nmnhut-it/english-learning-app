@@ -170,14 +170,14 @@ Ok dap an mau ne.
 
 <dialogue>
 **You:** Have you watched a movie about planet Earth?
-**Your friend:** Not yet. I don't feel like watching it.
+**Your friend:** Not yet. I don't feel like reading it.
 **You:** Why don't you give it a go? You will like it.
 **Your friend:** OK, I'll think about that.
 </dialogue>
 
 <translation>
 **Ban:** Ban da xem mot bo phim ve hanh tinh Trai Dat chua?
-**Ban cua ban:** Chua. Toi khong cam thay thich xem no.
+**Ban cua ban:** Chua. Toi khong cam thay thich doc no.
 **Ban:** Tai sao ban khong thu? Ban se thich no.
 **Ban cua ban:** Duoc roi, toi se suy nghi ve dieu do.
 </translation>
@@ -327,7 +327,7 @@ Day la bang so sanh mau giua Dai duong va Rung nha.
 | **Habitat type** *(Kieu moi truong)* | Water bodies *(Vung nuoc)* | Landform habitats *(Moi truong song dang dia hinh)* |
 | **Specific types** *(Cac loai cu the)* | Pacific, Atlantic, Indian, Southern, Arctic Oceans *(Thai Binh Duong, Dai Tay Duong, An Do Duong, Nam, Bac Bang Duong)* | Tropical rainforests, temperate forests, boreal forests, deciduous forests *(Rung mua nhiet doi, rung on doi, rung phuong bac, rung rung la)* |
 | **Importance** *(Tam quan trong)* | Regulate Earth's climate, absorb carbon dioxide, provide oxygen, habitat for marine species *(Dieu hoa khi hau Trai Dat, hap thu carbon dioxide, cung cap oxy, moi truong song cho cac loai sinh vat bien)* | Absorb carbon dioxide, produce oxygen, habitat for terrestrial species, regulate climate, prevent soil erosion *(Hap thu CO2, tao ra O2, moi truong song cho cac loai song tren can, dieu hoa khi hau, chong xoi mon dat)* |
-| **Plants/animals** *(Thuc vat/dong vat)* | Fish, whales, dolphins, sharks, sea turtles, coral reefs, plankton, etc. *(Ca, ca voi, ca heo, ca map, rua bien, ran san ho, sinh vat phu du, v.v.)* | Trees (oak, maple, pine), mammals (bears, deer, monkeys), birds (eagles, owls, parrots), insects, amphibians, etc. *(Cay coi (soi, phong, thong), dong vat co vu (gau, huou, khi), chim, con trung, dong vat luong cu, v.v.)* |
+| **Plants/animals** *(Thuc vat/dong vat)* | Fish, whales, dolphins, sharks, sea turtles, coral reefs, plankton, etc. *(Ca, ca voi, ca heo, ca map, rua bien, ran san ho, sinh vat phu du, v.v.)* | Trees (oak, maple, pine), mammals (bears, deer, monkeys), birds (eagles, owls, parrots), insects (butterflies, ants, beetles), amphibians (frogs, salamanders), etc. *(Cay coi (soi, phong, thong), dong vat co vu (gau, huou, khi), chim (dai bang, cu, vet), con trung (buom, kien, bo canh cung), dong vat luong cu (ech, ky nhong), v.v.)* |
 </answer>
 
 <teacher_script pause="90">
@@ -357,7 +357,7 @@ Day la bai mau day du nha.
 <answer>
 **Sample report:**
 
-While oceans are water bodies, forests are landform habitats. They share a critical role in sustaining life on Earth - they both provide oxygen to Earth, absorb carbon dioxide and regulate climate. Each has its own unique characteristics and importance. Forest habitats include tropical forests, temperate forests, and boreal forest; whereas ocean habitats include the Pacific, Atlantic, Indian, Southern, and Arctic Oceans.
+While oceans are water bodies, forests are landform habitats. They share a critical role in sustaining life on Earth—they both provide oxygen to Earth, absorb carbon dioxide and regulate climate. Each has its own unique characteristics and importance. Forest habitats include tropical forests, temperate forests, and boreal forest; whereas ocean habitats include the Pacific, Atlantic, Indian, Southern, and Arctic Oceans.
 
 Oceans are home to a diversity of marine life, from the smallest plankton to the largest whales. Coral reefs, found in tropical waters, are vibrant "underwater cities". Meanwhile, forests are teeming with biodiversity, with a treasure trove of flora and fauna, including trees, mammals, birds, insects, amphibians (frogs, salamanders), etc.
 

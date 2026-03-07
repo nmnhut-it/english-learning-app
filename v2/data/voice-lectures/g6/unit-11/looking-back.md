@@ -95,20 +95,20 @@ Bài 3 trang 56. Điền dạng đúng của động từ — câu điều kiệ
 </task>
 
 <questions type="fill_blanks">
-**1.** If we ________ (build) more parks, the air ________ (be) cleaner.
-*Nếu chúng ta xây thêm nhiều công viên, không khí sẽ trong lành hơn.*
+**1.** If they ________ (build) an airport here, it ________ (be) very noisy.
+*Nếu họ xây sân bay ở đây, nơi này sẽ rất ồn ào.*
 
-**2.** We ________ (save) energy if we ________ (reuse) things.
-*Chúng ta sẽ tiết kiệm năng lượng nếu chúng ta tái sử dụng đồ vật.*
+**2.** People ________ (save) the environment if they ________ (reuse) old items.
+*Mọi người sẽ bảo vệ môi trường nếu họ tái sử dụng đồ cũ.*
 
-**3.** If more people ________ (grow) trees, the world ________ (be) more beautiful.
-*Nếu nhiều người trồng cây hơn, thế giới sẽ đẹp hơn.*
+**3.** If we ________ (grow) trees, our school ________ (be) greener.
+*Nếu chúng ta trồng cây, trường chúng ta sẽ xanh hơn.*
 
-**4.** If we ________ (not have) clean water, life ________ (be) difficult.
-*Nếu chúng ta không có nước sạch, cuộc sống sẽ khó khăn.*
+**4.** If we ________ (not have) enough food, we ________ (be) hungry.
+*Nếu chúng ta không có đủ thức ăn, chúng ta sẽ bị đói.*
 
-**5.** The oceans ________ (be) cleaner if people ________ (not throw) rubbish into the sea.
-*Các đại dương sẽ sạch hơn nếu mọi người không vứt rác xuống biển.*
+**5.** If we ________ (be) hungry, we ________ (be) tired.
+*Nếu chúng ta bị đói, chúng ta sẽ mệt mỏi.*
 </questions>
 
 <teacher_script pause="0">
@@ -116,15 +116,15 @@ Bài 3 trang 56. Điền dạng đúng của động từ — câu điều kiệ
 </teacher_script>
 
 <answer>
-**Bài 3 - Đáp án:** 1. build / will be | 2. will save / reuse | 3. grow / will be | 4. don't have / will be | 5. will be / don't throw
+**Bài 3 - Đáp án:** 1. build / will be | 2. will save / reuse | 3. grow / will be | 4. don't have / will be | 5. are / will be
 </answer>
 
 <explanation>
 1. **build** (mệnh đề *if* → hiện tại đơn) / **will be** (kết quả).
-2. **will save** (kết quả đứng trước) / **reuse** (mệnh đề *if* → hiện tại đơn). Chú ý vế đảo!
-3. **grow** (mệnh đề *if*) / **will be** (kết quả).
-4. **don't have** (mệnh đề *if* phủ định → don't/doesn't + V) / **will be** (kết quả).
-5. **will be** (kết quả đứng trước) / **don't throw** (mệnh đề *if* phủ định). Chú ý vế đảo!
+2. **will save** (kết quả đứng trước) / **reuse** (mệnh đề *if* → hiện tại đơn). Chú ý vế kết quả đứng trước!
+3. **grow** (mệnh đề *if* → hiện tại đơn) / **will be** (kết quả).
+4. **don't have** (mệnh đề *if* phủ định → don't + V) / **will be** (kết quả).
+5. **are** (mệnh đề *if* → hiện tại đơn của *be* → *are*) / **will be** (kết quả). Lưu ý: *be* trong mệnh đề *if* chia *am/is/are*, không dùng *will*!
 </explanation>
 
 <!-- chunk: exercise-4 -->

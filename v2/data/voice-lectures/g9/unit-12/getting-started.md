@@ -255,6 +255,9 @@ Bài 5 trang 126 — trò chơi <eng>Guess my job</eng> — Đoán nghề nghi�
 
 **Group member:** This person works in a classroom, teaching students various subjects.
 **Student D:** A teacher.
+
+**Group member:** This person works in a hospital or clinic. They diagnose illnesses, prescribe medications and perform surgery.
+**Student E:** A doctor.
 </dialogue>
 
 <!-- chunk: end -->

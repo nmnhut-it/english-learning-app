@@ -43,17 +43,33 @@ Công thức: <eng>What + (a/an) + tính từ + danh từ + !</eng>. Quan trọn
 </teacher_script>
 
 <grammar>
-**1. Danh từ số ít đếm được:**
-What + a/an + tính từ + danh từ số ít!
-Ví dụ: What a handsome boy! (Cậu bé đẹp trai quá!)
+## Câu cảm thán với What (Exclamatory Sentences)
 
-**2. Danh từ số nhiều đếm được:**
-What + tính từ + danh từ số nhiều! (KHÔNG có a/an)
-Ví dụ: What noisy boys! (Mấy cậu bé ồn ào quá!)
+**Dùng khi nào:** Bày tỏ cảm xúc mạnh — thán phục, ngạc nhiên, vui, buồn.
 
-**3. Danh từ không đếm được:**
-What + tính từ + danh từ không đếm được! (KHÔNG có a/an)
-Ví dụ: What fresh air! (Không khí trong lành quá!)
+**Công thức theo loại danh từ:**
+
+| Loại danh từ | Công thức | Ví dụ | Dịch |
+|-------------|-----------|-------|------|
+| Số ít đếm được | What + **a/an** + adj + noun! | *What a nice city!* | Thành phố đẹp quá! |
+| Số nhiều | What + adj + noun! | *What tall buildings!* | Những tòa nhà cao quá! |
+| Không đếm được | What + adj + noun! | *What bad weather!* | Thời tiết tệ quá! |
+
+**Cách nhận biết loại danh từ:**
+- **Số ít đếm được** → có thể đếm 1, 2, 3... và chỉ 1 cái → dùng **a/an**
+  → *a city, a boy, a place, a sky, a photo*
+- **Số nhiều** → kết thúc bằng **-s/-es** → KHÔNG dùng a/an
+  → *buildings, boys, beaches, photos, children, people*
+- **Không đếm được** → không thể đếm từng cái → KHÔNG dùng a/an
+  → *weather, air, food, water, music, traffic*
+
+**Lỗi thường gặp:**
+- ❌ *What a tall buildings!* → buildings là số nhiều, BỎ "a"
+- ❌ *What tall building!* → building là số ít, THÊM "a"
+- ❌ *What weather bad!* → tính từ phải đứng TRƯỚC danh từ
+- ✅ *What a nice city! / What tall buildings! / What great weather!*
+
+**Mẹo:** Hỏi "Cái này đếm được không? Chỉ 1 cái không?" → Có → dùng **a/an**. Còn lại (số nhiều hoặc không đếm được) → không dùng.
 </grammar>
 
 <teacher_script pause="0" href="audio/tts_45a97285.webm">

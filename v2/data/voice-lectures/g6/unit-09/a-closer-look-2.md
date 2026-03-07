@@ -14,24 +14,35 @@ Ok lớp 6, hôm nay học phần <eng>A Closer Look 2</eng> - phần ngữ phá
 
 **A CLOSER LOOK 2**
 
-**Tính từ sở hữu (Possessive Adjectives)**
+<grammar>
+## Tính từ sở hữu (Possessive Adjectives)
 
-<teacher_script pause="0" href="audio/tts_eca89ef9.webm">
-Tính từ sở hữu chỉ đứng trước danh từ. Ví dụ: <eng>my house</eng> - nhà của tôi. Chữ <eng>my</eng> đứng trước <eng>house</eng> nên nó là tính từ sở hữu.
-</teacher_script>
+**Công thức:** Tính từ sở hữu + Danh từ
 
-**Các tính từ sở hữu:**
-- I → my /mai/ (của tôi)
-- you → your /jɔː/ (của bạn)
-- he → his /hɪz/ (của anh ấy)
-- she → her /hɜː/ (của cô ấy)
-- it → its /ɪts/ (của nó)
-- we → our /aʊə/ (của chúng tôi)
-- they → their /ðeə/ (của họ)
-- Khang → Khang's (của Khang)
+| Chủ ngữ | Tính từ sở hữu | Phát âm | Nghĩa | Ví dụ |
+|---------|----------------|---------|-------|-------|
+| I | **my** | /maɪ/ | của tôi | *my house* (nhà của tôi) |
+| you | **your** | /jɔː/ | của bạn | *your bag* (túi của bạn) |
+| he | **his** | /hɪz/ | của anh ấy | *his bike* (xe của anh ấy) |
+| she | **her** | /hɜː/ | của cô ấy | *her dress* (váy của cô ấy) |
+| it | **its** | /ɪts/ | của nó | *its tail* (đuôi của nó) |
+| we | **our** | /aʊə/ | của chúng tôi | *our school* (trường của chúng tôi) |
+| they | **their** | /ðeə/ | của họ | *their city* (thành phố của họ) |
+| Khang | **Khang's** | | của Khang | *Khang's pen* (bút của Khang) |
+
+**Dùng khi nào:** Khi muốn nói vật/người thuộc về ai đó.
+
+**Quy tắc quan trọng:** Tính từ sở hữu LUÔN đứng TRƯỚC danh từ — không bao giờ đứng một mình.
+- ✅ *my house* / *her dress* / *their city*
+- ❌ *house my* / *dress her*
+
+**Lưu ý — `its` ≠ `it's`:**
+- **its** = tính từ sở hữu → *Its beaches are clean.* (Bãi biển của nó sạch.)
+- **it's** = it is → *It's sunny today.* (Hôm nay trời nắng.)
+</grammar>
 
 <teacher_script pause="0" href="audio/tts_df26c219.webm">
-Mẹo nhớ nè: Tính từ sở hữu giống như cái mũ, luôn đội lên đầu danh từ. <eng>My book</eng>, <eng>your pen</eng>, <eng>his bag</eng> - luôn có danh từ đi sau.
+Mẹo nhớ nè: Tính từ sở hữu giống như cái mũ, luôn đội lên đầu danh từ. <eng>My book</eng>, <eng>your pen</eng>, <eng>his bag</eng> - luôn có danh từ đi sau. Và nhớ: <eng>its</eng> (không có dấu phẩy) là tính từ sở hữu, còn <eng>it's</eng> (có dấu phẩy) là <eng>it is</eng> - hai cái này khác nhau hoàn toàn nha!
 </teacher_script>
 
 <!-- chunk: exercise_1 -->
@@ -137,23 +148,38 @@ Ok đáp án nè.
 Giờ qua phần khó hơn nè: Đại từ sở hữu - <eng>Possessive Pronouns</eng>. Khác với tính từ sở hữu, đại từ sở hữu ĐỨNG MỘT MÌNH, không cần danh từ đi sau.
 </teacher_script>
 
-**Đại từ sở hữu (Possessive Pronouns)**
+<grammar>
+## Đại từ sở hữu (Possessive Pronouns)
 
-<teacher_script pause="0" href="audio/tts_421ff67a.webm">
-Đại từ sở hữu đứng một mình, không đứng trước danh từ. Nó mang nghĩa "cái của ai đó". Ví dụ: <eng>This is my house. Yours is next to mine.</eng> Ở đây <eng>yours</eng> và <eng>mine</eng> đứng một mình, nghĩa là "nhà của bạn" và "nhà của tôi".
-</teacher_script>
+**Công thức:** S + be + Đại từ sở hữu *(đứng một mình — không có danh từ đi sau)*
 
-**Các đại từ sở hữu:**
-- I → mine /maɪn/ (cái của tôi)
-- you → yours /jɔːz/ (cái của bạn)
-- he → his /hɪz/ (cái của anh ấy)
-- she → hers /hɜːz/ (cái của cô ấy)
-- it → its /ɪts/ (cái của nó)
-- we → ours /aʊəz/ (cái của chúng tôi)
-- they → theirs /ðeəz/ (cái của họ)
+| Chủ ngữ | Đại từ sở hữu | Phát âm | Nghĩa | Ví dụ |
+|---------|--------------|---------|-------|-------|
+| I | **mine** | /maɪn/ | cái của tôi | *This book is mine.* |
+| you | **yours** | /jɔːz/ | cái của bạn | *That bag is yours.* |
+| he | **his** | /hɪz/ | cái của anh ấy | *The bike is his.* |
+| she | **hers** | /hɜːz/ | cái của cô ấy | *The dress is hers.* |
+| it | **its** | /ɪts/ | cái của nó | *(hiếm dùng)* |
+| we | **ours** | /aʊəz/ | cái của chúng tôi | *The house is ours.* |
+| they | **theirs** | /ðeəz/ | cái của họ | *That city is theirs.* |
+
+**Dùng khi nào:** Thay cho "tính từ sở hữu + danh từ" để tránh lặp từ.
+- *This is **my** book. That is **yours**.* → yours = your book
+- ***Her** city is big. **Mine** is small.* → mine = my city
+
+**So sánh tính từ sở hữu vs đại từ sở hữu:**
+| | Tính từ sở hữu | Đại từ sở hữu |
+|--|----------------|--------------|
+| Vị trí | Đứng **TRƯỚC** danh từ | Đứng **MỘT MÌNH** |
+| Ví dụ | *my book* | *It's **mine**.* |
+| Nhận biết | Có danh từ đi sau | Không có danh từ đi sau |
+
+**Mẹo nhớ:** mine → yours → hers → ours → theirs đều thêm đuôi (ne/s). Riêng **his** thì giống nhau ở cả hai dạng!
+- Tính từ: *his bike* → Đại từ: *The bike is his.* (cùng một chữ **his**)
+</grammar>
 
 <teacher_script pause="0" href="audio/tts_52f19441.webm">
-Mẹo phân biệt nè: Tính từ sở hữu + danh từ (<eng>my book</eng>). Đại từ sở hữu đứng một mình (<eng>It's mine</eng>). Em thấy <eng>mine, yours, hers, ours, theirs</eng> đều có thêm chữ "s" hoặc "ne" so với tính từ sở hữu.
+Mẹo phân biệt nè: Nhìn xem có danh từ đi sau không. Có danh từ → tính từ sở hữu (<eng>my book</eng>). Không có danh từ → đại từ sở hữu (<eng>It's mine</eng>). Và nhớ: <eng>his</eng> thì dùng cho cả hai trường hợp - không cần đổi!
 </teacher_script>
 
 <!-- chunk: exercise_3 -->

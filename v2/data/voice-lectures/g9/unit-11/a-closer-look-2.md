@@ -166,8 +166,8 @@ Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến
 </teacher_script>
 
 <task>
-**Đề:** Find and correct the error in each sentence.
-**Dịch đề:** Tìm và sửa lỗi sai trong mỗi câu.
+**Đề:** Find a mistake in the underlined parts in each sentence below and correct it.
+**Dịch đề:** Tìm lỗi sai ở phần gạch chân trong mỗi câu dưới đây và sửa lại.
 </task>
 
 <questions type="fill_blanks">
@@ -276,41 +276,54 @@ B: I recommend (eat) ________ more fruits and vegetables.
 
 <!-- chunk: exercise-5 -->
 <teacher_script pause="0">
-Bài 5 nha — luyện nói roleplay. Đọc tình huống và dùng *suggest/recommend/advise* để đưa lời khuyên. Đây là hội thoại mẫu — đọc theo và luyện nói với bạn học nha.
+Bài 5 nha — làm việc theo cặp. Nói với bạn những gì bạn nên làm trong các tình huống sau, dùng *suggest/advise/recommend + V-ing* hoặc mệnh đề với *should*. Đọc ví dụ mẫu trước nha.
 </teacher_script>
 
 <task>
-**Đề:** Role-play giving advice about electronic devices. Use suggest, recommend, or advise.
-**Dịch đề:** Đóng vai đưa lời khuyên về thiết bị điện tử. Dùng suggest, recommend hoặc advise.
+**Đề:** Work in pairs. Tell your partner what he/she should do in the following situations, using suggest / advise / recommend + V-ing OR clauses with should.
+**Dịch đề:** Làm việc theo cặp. Nói với bạn của bạn những gì anh ấy/cô ấy nên làm trong các tình huống sau, sử dụng suggest / advise / recommend + V-ing hoặc mệnh đề với should.
 </task>
 
 <questions type="speaking">
-**Tình huống 1:**
-- A: I'm considering buying a new smartphone. It's very expensive. What should I do?
-- B: *(suggest trying / recommend that you buy a tablet instead — cheaper)*
+**Example:**
+A: Oh no! My laptop has broken. What should I do?
+B: I recommend bringing it to a computer repair centre. / I recommend that you (should) bring it to a computer repair centre.
+*Tôi khuyên bạn nên mang nó đến trung tâm sửa chữa máy tính.*
 
-**Tình huống 2:**
-- A: I like to read books but I don't want them to take up space in my room.
-- B: *(recommend reading e-books / suggest that you get an e-reader)*
+**1.** His / Her laptop has broken down.
+*Laptop của anh ấy/cô ấy bị hỏng.*
 
-**Tình huống 3:**
-- A: I feel tired and my eyes hurt after hours of using my phone.
-- B: *(suggest taking a break every 30 minutes / advise using night mode)*
+**2.** He / She is considering buying a new smartphone.
+*Anh ấy/Cô ấy đang cân nhắc việc mua một chiếc điện thoại thông minh mới.*
+
+**3.** He / She likes to read a lot of books but he / she doesn't want them to take up too much space.
+*Anh ấy/Cô ấy thích đọc nhiều sách nhưng không muốn chúng chiếm quá nhiều diện tích.*
+
+**4.** He / She is feeling tired.
+*Anh ấy/cô ấy đang cảm thấy mệt mỏi.*
 
 ---
-**Hội thoại mẫu:**
-A: I'm considering buying a new smartphone. What should I do?
-B: I recommend you buy a tablet instead. It's cheaper and has a larger screen.
+**Gợi ý trả lời:**
 
-A: I like to read books but don't want them to take up space.
-B: I recommend you read e-books instead. You can store thousands of books on one device!
+**1.**
+A: Oh no! My laptop has broken. What should I do?
+B: I recommend bringing it to a computer repair centre. / I recommend that you (should) bring it to a computer repair centre.
 
-A: I'm feeling tired of staring at screens.
-B: I suggest you take a break every 30 minutes. It's called the 20-20-20 rule!
+**2.**
+A: I'm thinking about buying a new smartphone.
+B: I advise comparing different models before making a decision. / I advise that you should compare different models before making a decision.
+
+**3.**
+A: I love reading, but I'm running out of space for my books.
+B: I recommend trying an e-reader like a Kindle. / I recommend that you should try an e-reader like a Kindle.
+
+**4.**
+A: I'm feeling so tired lately.
+B: I suggest getting more rest and going to bed early. / I suggest that you should get more rest and go to bed early.
 </questions>
 
 <teacher_script pause="180">
-Luyện nói theo cặp nha — một bạn hỏi, một bạn đưa lời khuyên dùng *suggest/recommend/advise*. Có 3 phút — cố gắng dùng cả hai cấu trúc nha: *suggest + V-ing* và *suggest that + S + should + V*.
+Luyện nói theo cặp nha — một bạn nêu tình huống, một bạn đưa lời khuyên dùng *suggest/recommend/advise*. Có 3 phút — cố gắng dùng cả hai cấu trúc nha: *V-ing* và *mệnh đề với should*.
 </teacher_script>
 
 <!-- chunk: end -->

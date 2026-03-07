@@ -163,9 +163,8 @@ Ok đáp án nè.
 </answer>
 
 <explanation>
-**Giải thích:**
-- **Câu 1:** Chọn C vì ngay đầu bài nghe thầy An nói: <eng>"habitats affect their flora and fauna, but the flora and fauna also affect their habitats"</eng> - chủ đề là ảnh hưởng của thực vật và động vật đến môi trường sống.
-- **Câu 2:** Chọn B vì thầy An nói: <eng>"We should preserve habitats"</eng> - Chúng ta nên bảo tồn môi trường sống.
+**1. C** - Chọn C vì ngay đầu bài nghe thầy An nói: <eng>"habitats affect their flora and fauna, but the flora and fauna also affect their habitats"</eng> → chủ đề là ảnh hưởng của thực vật và động vật đến môi trường sống.
+**2. B** - Chọn B vì thầy An nói: <eng>"We should preserve habitats"</eng> → Chúng ta nên bảo tồn môi trường sống.
 </explanation>
 
 <teacher_script pause="0">

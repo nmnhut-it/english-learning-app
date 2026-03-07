@@ -14,33 +14,18 @@ Ok lớp 6, Unit 10 <eng>A Closer Look 2</eng> nha. Phần này học ngữ phá
 <grammar>
 ## Future Simple (Thì Tương lai đơn)
 
-### Cách dùng:
-Dùng để nói về hành động sẽ xảy ra trong tương lai.
-
 ### Công thức:
 
-**Khẳng định (+):**
-| Chủ ngữ | will | Động từ nguyên mẫu |
-|---------|------|-------------------|
-| I/We/You/They/He/She/It | will | V |
+| Loại câu | Cấu trúc | Ví dụ |
+|----------|----------|-------|
+| (+) Khẳng định | S + **will** + V | I **will** go to school tomorrow. *(Tôi sẽ đi học ngày mai.)* |
+| (-) Phủ định | S + **won't** + V | I **won't** go to school tomorrow. *(Tôi sẽ không đi học ngày mai.)* |
+| (?) Nghi vấn | **Will** + S + V? | **Will** you go to school tomorrow? *(Bạn có đi học ngày mai không?)* |
 
-Ví dụ: I **will** go to school tomorrow. *(Tôi sẽ đi học ngày mai.)*
+Trả lời ngắn: Yes, I **will**. / No, I **won't**.
 
-**Phủ định (-):**
-| Chủ ngữ | will not | Động từ nguyên mẫu |
-|---------|----------|-------------------|
-| I/We/You/They/He/She/It | will not (won't) | V |
-
-Ví dụ: I **won't** go to school tomorrow. *(Tôi sẽ không đi học ngày mai.)*
-
-**Nghi vấn (?):**
-| Will | Chủ ngữ | Động từ nguyên mẫu |
-|------|---------|-------------------|
-| Will | I/we/you/they/he/she/it | V? |
-
-Ví dụ: **Will** you go to school tomorrow? *(Bạn sẽ đi học ngày mai chứ?)*
-
-Trả lời ngắn: Yes, I will. / No, I won't.
+### Dùng khi nào:
+Dùng để nói về hành động sẽ xảy ra trong tương lai khi ta **chắc chắn** hoặc **dự đoán**.
 
 ### Dấu hiệu nhận biết:
 - tomorrow (ngày mai)
@@ -50,10 +35,14 @@ Trả lời ngắn: Yes, I will. / No, I won't.
 - tonight (tối nay)
 - later (sau này)
 
-### Mẹo nhớ:
-- **WILL** = SẼ (tương lai)
-- **WON'T** = SẼ KHÔNG (phủ định tương lai)
-- will + V nguyên mẫu (không chia, không thêm s/es/ed gì hết!)
+### Lưu ý / Mẹo:
+- **will** = tự tin dự đoán tương lai *(chắc chắn hơn might)*
+- **won't** = will not *(viết tắt)*
+- Sau **will / won't** luôn dùng V nguyên mẫu, KHÔNG chia:
+  - ✅ I **will go** | ✅ She **will come**
+  - ❌ I **will goes** | ❌ She **will came**
+- KHÔNG kết hợp will với modal verb khác:
+  - ❌ I **will can** fly → ✅ I **will** fly
 </grammar>
 
 <teacher_script pause="0" href="audio/tts_9dfe8c91.webm">
@@ -245,21 +234,29 @@ Trước khi làm Bài 4, học thêm về <eng>might</eng> nha. <eng>Might</eng
 </teacher_script>
 
 <grammar>
-## Might (Có thể)
+## Might (Có thể - chưa chắc chắn)
 
-**Might** dùng để diễn tả điều gì đó có thể xảy ra trong tương lai nhưng chưa chắc chắn.
+### Công thức:
 
-**Công thức:**
-- Khẳng định: S + might + V (nguyên mẫu)
-- Phủ định: S + might not + V (nguyên mẫu)
+| Loại câu | Cấu trúc | Ví dụ |
+|----------|----------|-------|
+| (+) Khẳng định | S + **might** + V | We **might** go on holiday to the Moon. *(Chúng ta có thể đi nghỉ trên Mặt trăng.)* |
+| (-) Phủ định | S + **might not** + V | They **might not** talk to us. *(Họ có thể không nói chuyện với chúng ta.)* |
 
-**Ví dụ:**
-- We **might** go on holiday to the Moon. *(Chúng ta có thể đi nghỉ trên Mặt trăng.)*
-- They **might not** talk to us. *(Họ có thể không nói chuyện với chúng ta.)*
+### So sánh will và might:
 
-**So sánh:**
-- **will** = sẽ (chắc chắn hơn)
-- **might** = có thể (chưa chắc chắn)
+| | **will** | **might** |
+|---|---------|----------|
+| **Nghĩa** | sẽ | có thể |
+| **Độ chắc chắn** | tự tin, chắc hơn | không chắc (~50%) |
+| **Dùng khi** | chắc chắn xảy ra | chưa chắc, có thể xảy ra hoặc không |
+| **Ví dụ** | I **will** go tomorrow. *(Tôi SẼ đi ngày mai.)* | I **might** go tomorrow. *(Tôi CÓ THỂ đi ngày mai.)* |
+
+### Lưu ý:
+- **might** KHÔNG thêm s/es dù chủ ngữ là gì: ❌ "mights" → ✅ **might**
+- Sau **might / might not** luôn dùng V nguyên mẫu, KHÔNG dùng "to":
+  - ❌ I might **to go** → ✅ I **might go**
+- **might not** = "có thể không" *(khác với won't = "chắc chắn không")*
 </grammar>
 
 <!-- chunk: bai-4 -->

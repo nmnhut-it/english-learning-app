@@ -273,7 +273,7 @@ Ok hết bài ôn tập Unit 10 rồi. Tổng kết nè:
 - <eng>might not + V</eng>: có thể không (không chắc chắn)
 
 **Mẹo nhớ:**
-- <eng>Will/Won't</eng> = chắc chắn 100%
+- <eng>Will/Won't</eng> = tự tin dự đoán, chắc chắn hơn might
 - <eng>Might/Might not</eng> = không chắc, khoảng 50%
 
 Em ôn kỹ để kiểm tra nha. Bye bye!

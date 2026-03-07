@@ -229,8 +229,8 @@ export class VoiceLectureController implements VoiceLectureControllerInterface {
         this.audioService.speakSegments(tsData.segments).then(onAudioEnd);
       });
     } else {
-      // Use speakSegments for dual-language TTS support
-      this.audioService.speakSegments(tsData.segments).then(onAudioEnd);
+      // No audio file attached — skip TTS, proceed silently
+      onAudioEnd();
     }
   }
 

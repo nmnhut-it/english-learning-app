@@ -1,0 +1,1265 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - link "loigiaihay.com" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img [ref=e7]
+      - navigation [ref=e8]:
+        - list [ref=e9]:
+          - listitem [ref=e10]:
+            - link "Lớp 12" [ref=e11] [cursor=pointer]:
+              - /url: /lop-12.html
+          - listitem [ref=e12]:
+            - link "Lớp 11" [ref=e13] [cursor=pointer]:
+              - /url: /lop-11.html
+          - listitem [ref=e14]:
+            - link "Lớp 10" [ref=e15] [cursor=pointer]:
+              - /url: /lop-10.html
+          - listitem [ref=e16]:
+            - link "Lớp 9" [ref=e17] [cursor=pointer]:
+              - /url: /lop-9.html
+          - listitem [ref=e18]:
+            - link "Lớp 8" [ref=e19] [cursor=pointer]:
+              - /url: /lop-8.html
+          - listitem [ref=e20]:
+            - link "Lớp 7" [ref=e21] [cursor=pointer]:
+              - /url: /lop-7.html
+          - listitem [ref=e22]:
+            - link "Lớp 6" [ref=e23] [cursor=pointer]:
+              - /url: /lop-6.html
+          - listitem [ref=e24]:
+            - link "Lớp 5" [ref=e25] [cursor=pointer]:
+              - /url: /lop-5.html
+          - listitem [ref=e26]:
+            - link "Lớp 4" [ref=e27] [cursor=pointer]:
+              - /url: /lop-4.html
+          - listitem [ref=e28]:
+            - link "Lớp 3" [ref=e29] [cursor=pointer]:
+              - /url: /lop-3.html
+          - listitem [ref=e30]:
+            - link "Lớp 2" [ref=e31] [cursor=pointer]:
+              - /url: /lop-2.html
+          - listitem [ref=e32]:
+            - link "Lớp 1" [ref=e33] [cursor=pointer]:
+              - /url: /lop-1.html
+          - listitem [ref=e34]:
+            - link "Công cụ" [ref=e35] [cursor=pointer]:
+              - /url: /congcu.html
+      - generic [ref=e36]:
+        - textbox "tìm kiếm" [ref=e39]
+        - generic [ref=e41]:
+          - textbox "Tìm kiếm" [ref=e42]
+          - button [ref=e43]:
+            - img [ref=e44]
+    - generic [ref=e47]:
+      - list [ref=e49]:
+        - listitem [ref=e50]:
+          - 'generic "Unit 1: Hobbies" [ref=e51] [cursor=pointer]':
+            - img [ref=e52]
+            - generic [ref=e53]: "Unit 1: Hobbies"
+          - list [ref=e54]:
+            - listitem [ref=e55]:
+              - link "Từ vựng" [ref=e56] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-tu-vung-a109314.html
+            - listitem [ref=e57]:
+              - link "Luyện tập từ vựng" [ref=e58] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-1-tieng-anh-7-global-success-a108001.html
+            - listitem [ref=e59]:
+              - 'link "Ngữ pháp: Thì hiện tại đơn" [ref=e60] [cursor=pointer]':
+                - /url: /grammar-unit-1-tieng-anh-7-global-success-a117923.html
+            - listitem [ref=e61]:
+              - link "Getting Started" [ref=e62] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-getting-started-a106464.html
+            - listitem [ref=e63]:
+              - link "A Closer Look 1" [ref=e64] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-a-closer-look-1-a106471.html
+            - listitem [ref=e65]:
+              - link "A Closer Look 2" [ref=e66] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-a-closer-look-2-a106474.html
+            - listitem [ref=e67]:
+              - link "Communication" [ref=e68] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-communication-a106490.html
+            - listitem [ref=e69]:
+              - link "Skills 1" [ref=e70] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-skills-1-a106497.html
+            - listitem [ref=e71]:
+              - link "Skills 2" [ref=e72] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-skills-2-a106507.html
+            - listitem [ref=e73]:
+              - link "Looking back" [ref=e74] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-looking-back-a106516.html
+            - listitem [ref=e75]:
+              - link "Project" [ref=e76] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-1-project-a106523.html
+        - listitem [ref=e77]:
+          - 'generic "Unit 2: Healthy Living" [ref=e78] [cursor=pointer]':
+            - img [ref=e79]
+            - generic [ref=e80]: "Unit 2: Healthy Living"
+          - list [ref=e81]:
+            - listitem [ref=e82]:
+              - link "Từ vựng" [ref=e83] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-tu-vung-a109357.html
+            - listitem [ref=e84]:
+              - link "Luyện tập từ vựng" [ref=e85] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-2-tieng-anh-7-global-success-a110546.html
+            - listitem [ref=e86]:
+              - 'link "Ngữ pháp: Câu đơn" [ref=e87] [cursor=pointer]':
+                - /url: /grammar-unit-2-tieng-anh-7-global-success-a117944.html
+            - listitem [ref=e88]:
+              - link "Getting Started" [ref=e89] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-getting-started-a106562.html
+            - listitem [ref=e90]:
+              - link "A Closer Look 1" [ref=e91] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-a-closer-look-1-a106563.html
+            - listitem [ref=e92]:
+              - link "A Closer Look 2" [ref=e93] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-a-closer-look-2-a106564.html
+            - listitem [ref=e94]:
+              - link "Communication" [ref=e95] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-communication-a106573.html
+            - listitem [ref=e96]:
+              - link "Skills 1" [ref=e97] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-skills-1-a106581.html
+            - listitem [ref=e98]:
+              - link "Skills 2" [ref=e99] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-skills-2-a106605.html
+            - listitem [ref=e100]:
+              - link "Looking back" [ref=e101] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-looking-back-a106628.html
+            - listitem [ref=e102]:
+              - link "Project" [ref=e103] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-2-project-a106629.html
+        - listitem [ref=e104]:
+          - 'generic "Unit 3: Community Service" [ref=e105] [cursor=pointer]':
+            - img [ref=e106]
+            - generic [ref=e107]: "Unit 3: Community Service"
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - link "Từ vựng" [ref=e110] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-tu-vung-a109370.html
+            - listitem [ref=e111]:
+              - link "Luyện tập từ vựng" [ref=e112] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-3-tieng-anh-7-global-success-a110548.html
+            - listitem [ref=e113]:
+              - 'link "Ngữ pháp: Thì quá khứ đơn" [ref=e114] [cursor=pointer]':
+                - /url: /grammar-unit-3-tieng-anh-7-global-success-a117953.html
+            - listitem [ref=e115]:
+              - link "Getting Started" [ref=e116] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-getting-started-a107618.html
+            - listitem [ref=e117]:
+              - link "A Closer Look 1" [ref=e118] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-a-closer-look-1-a107629.html
+            - listitem [ref=e119]:
+              - link "A Closer Look 2" [ref=e120] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-a-closer-look-2-a107631.html
+            - listitem [ref=e121]:
+              - link "Communication" [ref=e122] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-communication-a107636.html
+            - listitem [ref=e123]:
+              - link "Skills 1" [ref=e124] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-skills-1-a107642.html
+            - listitem [ref=e125]:
+              - link "Skills 2" [ref=e126] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-skills-2-a107645.html
+            - listitem [ref=e127]:
+              - link "Looking back" [ref=e128] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-looking-back-a107647.html
+            - listitem [ref=e129]:
+              - link "Project" [ref=e130] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-3-project-a107651.html
+        - listitem [ref=e131]:
+          - generic "Review 1" [ref=e132] [cursor=pointer]:
+            - img [ref=e133]
+            - generic [ref=e134]: Review 1
+          - list [ref=e135]:
+            - listitem [ref=e136]:
+              - link "Language" [ref=e137] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-1-language-a107652.html
+            - listitem [ref=e138]:
+              - link "Skills" [ref=e139] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-1-skills-a107672.html
+        - listitem [ref=e140]:
+          - 'generic "Unit 4: Music and Arts" [ref=e141] [cursor=pointer]':
+            - img [ref=e142]
+            - generic [ref=e143]: "Unit 4: Music and Arts"
+          - list [ref=e144]:
+            - listitem [ref=e145]:
+              - link "Từ vựng" [ref=e146] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-tu-vung-a109386.html
+            - listitem [ref=e147]:
+              - link "Luyện tập từ vựng" [ref=e148] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-4-tieng-anh-7-global-success-a110549.html
+            - listitem [ref=e149]:
+              - 'link "Ngữ pháp: So sánh với like, different from, as...as" [ref=e150] [cursor=pointer]':
+                - /url: /grammar-unit-4-tieng-anh-7-global-success-a117967.html
+            - listitem [ref=e151]:
+              - link "Getting Started" [ref=e152] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-getting-started-a107675.html
+            - listitem [ref=e153]:
+              - link "A Closer Look 1" [ref=e154] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-a-closer-look-1-a107680.html
+            - listitem [ref=e155]:
+              - link "A Closer Look 2" [ref=e156] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-a-closer-look-2-a107730.html
+            - listitem [ref=e157]:
+              - link "Communication" [ref=e158] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-communication-a107734.html
+            - listitem [ref=e159]:
+              - link "Skills 1" [ref=e160] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-skills-1-a107753.html
+            - listitem [ref=e161]:
+              - link "Skills 2" [ref=e162] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-skills-2-a107771.html
+            - listitem [ref=e163]:
+              - link "Looking back" [ref=e164] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-looking-back-a107777.html
+            - listitem [ref=e165]:
+              - link "Project" [ref=e166] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-4-project-a107781.html
+        - listitem [ref=e167]:
+          - 'generic "Unit 5: Food and Drink" [ref=e168] [cursor=pointer]':
+            - img [ref=e169]
+            - generic [ref=e170]: "Unit 5: Food and Drink"
+          - list [ref=e171]:
+            - listitem [ref=e172]:
+              - link "Từ vựng" [ref=e173] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-tu-vung-a109496.html
+            - listitem [ref=e174]:
+              - link "Luyện tập từ vựng" [ref=e175] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-5-tieng-anh-7-global-success-a110550.html
+            - listitem [ref=e176]:
+              - 'link "Ngữ pháp: some, a lot of/ lots of" [ref=e177] [cursor=pointer]':
+                - /url: /grammar-unit-5-tieng-anh-7-global-success-a117971.html
+            - listitem [ref=e178]:
+              - link "Getting Started" [ref=e179] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-getting-started-a107785.html
+            - listitem [ref=e180]:
+              - link "A Closer Look 1" [ref=e181] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-a-closer-look-1-a107799.html
+            - listitem [ref=e182]:
+              - link "A Closer Look 2" [ref=e183] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-a-closer-look-2-a107813.html
+            - listitem [ref=e184]:
+              - link "Communication" [ref=e185] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-communication-a107824.html
+            - listitem [ref=e186]:
+              - link "Skills 1" [ref=e187] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-skills-1-a108574.html
+            - listitem [ref=e188]:
+              - link "Skills 2" [ref=e189] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-skills-2-a108575.html
+            - listitem [ref=e190]:
+              - link "Looking back" [ref=e191] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-looking-back-a108576.html
+            - listitem [ref=e192]:
+              - link "Project" [ref=e193] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-5-project-a108577.html
+        - listitem [ref=e194]:
+          - 'generic "Unit 6: A Visit to a School" [ref=e195] [cursor=pointer]':
+            - img [ref=e196]
+            - generic [ref=e197]: "Unit 6: A Visit to a School"
+          - list [ref=e198]:
+            - listitem [ref=e199]:
+              - link "Từ vựng" [ref=e200] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-tu-vung-a109508.html
+            - listitem [ref=e201]:
+              - link "Luyện tập từ vựng" [ref=e202] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-6-tieng-anh-7-global-success-a110551.html
+            - listitem [ref=e203]:
+              - 'link "Ngữ pháp: Giới từ thời gian & địa điểm (in, on, at)" [ref=e204] [cursor=pointer]':
+                - /url: /grammar-unit-6-tieng-anh-7-global-success-a117981.html
+            - listitem [ref=e205]:
+              - link "Getting Started" [ref=e206] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-getting-started-a108578.html
+            - listitem [ref=e207]:
+              - link "A Closer Look 1" [ref=e208] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-a-closer-look-1-a108579.html
+            - listitem [ref=e209]:
+              - link "A Closer Look 2" [ref=e210] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-a-closer-look-2-a108580.html
+            - listitem [ref=e211]:
+              - link "Communication" [ref=e212] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-communication-a108591.html
+            - listitem [ref=e213]:
+              - link "Skills 1" [ref=e214] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-skills-1-a108592.html
+            - listitem [ref=e215]:
+              - link "Skills 2" [ref=e216] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-skills-2-a108593.html
+            - listitem [ref=e217]:
+              - link "Looking back" [ref=e218] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-looking-back-a108594.html
+            - listitem [ref=e219]:
+              - link "Project" [ref=e220] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-6-project-a108595.html
+        - listitem [ref=e221]:
+          - generic "Review 2" [ref=e222] [cursor=pointer]:
+            - img [ref=e223]
+            - generic [ref=e224]: Review 2
+          - list [ref=e225]:
+            - listitem [ref=e226]:
+              - link "Language" [ref=e227] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-2-language-a108597.html
+            - listitem [ref=e228]:
+              - link "Skills" [ref=e229] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-2-skills-a108598.html
+        - listitem [ref=e230]:
+          - 'generic "Unit 7: Traffic" [ref=e231] [cursor=pointer]':
+            - img [ref=e232]
+            - generic [ref=e233]: "Unit 7: Traffic"
+          - list [ref=e234]:
+            - listitem [ref=e235]:
+              - link "Từ vựng" [ref=e236] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-tu-vung-a109518.html
+            - listitem [ref=e237]:
+              - 'link "Ngữ pháp: \"it\" chỉ khoảng cách & should/ shouldn''t" [ref=e238] [cursor=pointer]':
+                - /url: /grammar-unit-7-tieng-anh-7-global-success-a122107.html
+            - listitem [ref=e239]:
+              - link "Luyện tập từ vựng" [ref=e240] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-7-tieng-anh-7-global-success-a110608.html
+            - listitem [ref=e241]:
+              - link "Getting Started" [ref=e242] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-getting-started-a108621.html
+            - listitem [ref=e243]:
+              - link "A Closer Look 1" [ref=e244] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-a-closer-look-1-a108623.html
+            - listitem [ref=e245]:
+              - link "A Closer Look 2" [ref=e246] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-a-closer-look-2-a108659.html
+            - listitem [ref=e247]:
+              - link "Communication" [ref=e248] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-communication-a108660.html
+            - listitem [ref=e249]:
+              - link "Skills 1" [ref=e250] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-skills-1-a108661.html
+            - listitem [ref=e251]:
+              - link "Skills 2" [ref=e252] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-skills-2-a108662.html
+            - listitem [ref=e253]:
+              - link "Looking back" [ref=e254] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-looking-back-a108663.html
+            - listitem [ref=e255]:
+              - link "Project" [ref=e256] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-7-project-a108664.html
+        - listitem [ref=e257]:
+          - 'generic "Unit 8: Films" [ref=e258] [cursor=pointer]':
+            - img [ref=e259]
+            - generic [ref=e260]: "Unit 8: Films"
+          - list [ref=e261]:
+            - listitem [ref=e262]:
+              - link "Từ vựng" [ref=e263] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-tu-vung-a109779.html
+            - listitem [ref=e264]:
+              - link "Luyện tập từ vựng" [ref=e265] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-8-tieng-anh-7-global-success-a110610.html
+            - listitem [ref=e266]:
+              - 'link "Ngữ pháp: although/ though & however" [ref=e267] [cursor=pointer]':
+                - /url: /grammar-unit-8-tieng-anh-7-global-success-a122299.html
+            - listitem [ref=e268]:
+              - link "Getting Started" [ref=e269] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-getting-started-a108693.html
+            - listitem [ref=e270]:
+              - link "A Closer Look 1" [ref=e271] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-a-closer-look-1-a108697.html
+            - listitem [ref=e272]:
+              - link "A Closer Look 2" [ref=e273] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-a-closer-look-2-a108701.html
+            - listitem [ref=e274]:
+              - link "Communication" [ref=e275] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-communication-a108700.html
+            - listitem [ref=e276]:
+              - link "Skills 1" [ref=e277] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-skills-1-a108729.html
+            - listitem [ref=e278]:
+              - link "Looking back" [ref=e279] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-looking-back-a108732.html
+            - listitem [ref=e280]:
+              - link "Project" [ref=e281] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-project-a108741.html
+            - listitem [ref=e282]:
+              - link "Skills 2" [ref=e283] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-8-skills-2-a108730.html
+        - listitem [ref=e284]:
+          - 'generic "Unit 9: Festivals around the world" [ref=e285] [cursor=pointer]':
+            - img [ref=e286]
+            - generic [ref=e287]: "Unit 9: Festivals around the world"
+          - list [ref=e288]:
+            - listitem [ref=e289]:
+              - link "Từ vựng" [ref=e290] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-tu-vung-a109803.html
+            - listitem [ref=e291]:
+              - link "Luyện tập từ vựng" [ref=e292] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-9-tieng-anh-7-global-success-a110612.html
+            - listitem [ref=e293]:
+              - 'link "Ngữ pháp: Yes/ No questions" [ref=e294] [cursor=pointer]':
+                - /url: /grammar-unit-9-tieng-anh-7-global-success-a122300.html
+            - listitem [ref=e295]:
+              - link "Getting Started" [ref=e296] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-getting-started-a108742.html
+            - listitem [ref=e297]:
+              - link "A Closer Look 1" [ref=e298] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-a-closer-look-1-a108743.html
+            - listitem [ref=e299]:
+              - link "A Closer Look 2" [ref=e300] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-a-closer-look-2-a108744.html
+            - listitem [ref=e301]:
+              - link "Communication" [ref=e302] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-communication-a108755.html
+            - listitem [ref=e303]:
+              - link "Skills 1" [ref=e304] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-skills-1-a108761.html
+            - listitem [ref=e305]:
+              - link "Skills 2" [ref=e306] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-skills-2-a108762.html
+            - listitem [ref=e307]:
+              - link "Looking back" [ref=e308] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-looking-back-a108763.html
+            - listitem [ref=e309]:
+              - link "Project" [ref=e310] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-9-project-a108764.html
+        - listitem [ref=e311]:
+          - generic "Review 3" [ref=e312] [cursor=pointer]:
+            - img [ref=e313]
+            - generic [ref=e314]: Review 3
+          - list [ref=e315]:
+            - listitem [ref=e316]:
+              - link "Language" [ref=e317] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-3-language-a108811.html
+            - listitem [ref=e318]:
+              - link "Skills" [ref=e319] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-3-skills-a108817.html
+        - listitem [ref=e320]:
+          - 'generic "Unit 10: Energy sources" [ref=e321] [cursor=pointer]':
+            - img [ref=e322]
+            - generic [ref=e323]: "Unit 10: Energy sources"
+          - list [ref=e324]:
+            - listitem [ref=e325]:
+              - link "Từ vựng" [ref=e326] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-tu-vung-a109869.html
+            - listitem [ref=e327]:
+              - link "Luyện tập từ vựng" [ref=e328] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-10-tieng-anh-7-global-success-a110614.html
+            - listitem [ref=e329]:
+              - 'link "Ngữ pháp: Thì hiện tại tiếp diễn" [ref=e330] [cursor=pointer]':
+                - /url: /grammar-unit-10-tieng-anh-7-global-success-a122301.html
+            - listitem [ref=e331]:
+              - link "Getting Started" [ref=e332] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-getting-started-a108819.html
+            - listitem [ref=e333]:
+              - link "A Closer Look 1" [ref=e334] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-a-closer-look-1-a108820.html
+            - listitem [ref=e335]:
+              - link "A Closer Look 2" [ref=e336] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-a-closer-look-2-a108824.html
+            - listitem [ref=e337]:
+              - link "Communication" [ref=e338] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-communication-a108825.html
+            - listitem [ref=e339]:
+              - link "Skills 1" [ref=e340] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-skills-1-a108826.html
+            - listitem [ref=e341]:
+              - link "Skills 2" [ref=e342] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-skills-2-a108895.html
+            - listitem [ref=e343]:
+              - link "Looking back" [ref=e344] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-looking-back-a108896.html
+            - listitem [ref=e345]:
+              - link "Project" [ref=e346] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-project-a116230.html
+        - listitem [ref=e347]:
+          - 'generic "Unit 11: Travelling in the future" [ref=e348] [cursor=pointer]':
+            - img [ref=e349]
+            - generic [ref=e350]: "Unit 11: Travelling in the future"
+          - list [ref=e351]:
+            - listitem [ref=e352]:
+              - link "Từ vựng" [ref=e353] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-tu-vung-a109947.html
+            - listitem [ref=e354]:
+              - link "Luyện tập từ vựng" [ref=e355] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-11-tieng-anh-7-global-success-a110616.html
+            - listitem [ref=e356]:
+              - 'link "Ngữ pháp: Thì tương lai đơn & Đại từ sở hữu" [ref=e357] [cursor=pointer]':
+                - /url: /grammar-unit-11-tieng-anh-7-global-success-a122302.html
+            - listitem [ref=e358]:
+              - link "Getting Started" [ref=e359] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-getting-started-a108897.html
+            - listitem [ref=e360]:
+              - link "A Closer Look 1" [ref=e361] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-a-closer-look-1-a108898.html
+            - listitem [ref=e362]:
+              - link "A Closer Look 2" [ref=e363] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-a-closer-look-2-a108900.html
+            - listitem [ref=e364]:
+              - link "Communication" [ref=e365] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-communication-a108901.html
+            - listitem [ref=e366]:
+              - link "Skills 1" [ref=e367] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-skills-1-a108903.html
+            - listitem [ref=e368]:
+              - link "Skills 2" [ref=e369] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-skills-2-a108904.html
+            - listitem [ref=e370]:
+              - link "Looking back" [ref=e371] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-looking-back-a108905.html
+            - listitem [ref=e372]:
+              - link "Project" [ref=e373] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-11-project-a116234.html
+        - listitem [ref=e374]:
+          - 'generic "Unit 12: English-speaking countries" [ref=e375] [cursor=pointer]':
+            - img [ref=e376]
+            - generic [ref=e377]: "Unit 12: English-speaking countries"
+          - list [ref=e378]:
+            - listitem [ref=e379]:
+              - link "Từ vựng" [ref=e380] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-tu-vung-a109952.html
+            - listitem [ref=e381]:
+              - link "Luyện tập từ vựng" [ref=e382] [cursor=pointer]:
+                - /url: /luyen-tap-tu-vung-unit-12-tieng-anh-7-global-success-a110617.html
+            - listitem [ref=e383]:
+              - 'link "Ngữ pháp: Mạo từ" [ref=e384] [cursor=pointer]':
+                - /url: /grammar-unit-12-tieng-anh-7-global-success-a122303.html
+            - listitem [ref=e385]:
+              - link "Getting Started" [ref=e386] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-getting-started-a108935.html
+            - listitem [ref=e387]:
+              - link "A Closer Look 1" [ref=e388] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-a-closer-look-1-a108936.html
+            - listitem [ref=e389]:
+              - link "A Closer Look 2" [ref=e390] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-a-closer-look-2-a108961.html
+            - listitem [ref=e391]:
+              - link "Communication" [ref=e392] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-communication-a109044.html
+            - listitem [ref=e393]:
+              - link "Skills 1" [ref=e394] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-skills-1-a109185.html
+            - listitem [ref=e395]:
+              - link "Skills 2" [ref=e396] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-skills-2-a109187.html
+            - listitem [ref=e397]:
+              - link "Looking back" [ref=e398] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-looking-back-a109188.html
+            - listitem [ref=e399]:
+              - link "Project" [ref=e400] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-12-project-a109189.html
+        - listitem [ref=e401]:
+          - generic "Review 4" [ref=e402] [cursor=pointer]:
+            - img [ref=e403]
+            - generic [ref=e404]: Review 4
+          - list [ref=e405]:
+            - listitem [ref=e406]:
+              - link "Language" [ref=e407] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-4-language-a109190.html
+            - listitem [ref=e408]:
+              - link "Skills" [ref=e409] [cursor=pointer]:
+                - /url: /tieng-anh-7-review-4-skills-a109191.html
+      - generic [ref=e410]:
+        - generic [ref=e412]:
+          - link [ref=e413] [cursor=pointer]:
+            - /url: https://tuyensinh247.com/Hoc-truc-tuyen-online-lop-7-cac-mon-toan-van-cung-cac-thay-co-gioi-r246.html?utm_source=LGH&utm_medium=banner&utm_campaign=lop7&utm_id=246&utm_term=quynhanh&utm_content=banner
+          - link [ref=e414] [cursor=pointer]:
+            - /url: javascript:closeTopBanner()
+            - img [ref=e415]
+        - generic [ref=e416]:
+          - generic [ref=e417]:
+            - img [ref=e418]
+            - link "Tiếng Anh 7 Global Success, giải Tiếng Anh 7 Kết nối tri thức hay nhất" [ref=e419] [cursor=pointer]:
+              - /url: /tieng-anh-lop-7-global-success-c139.html
+            - img [ref=e420]
+            - text: Review 3
+          - generic [ref=e422]:
+            - generic [ref=e423]:
+              - heading "Tiếng Anh 7 Review 3 Skills" [level=1] [ref=e424]:
+                - link "Tiếng Anh 7 Review 3 Skills" [ref=e425] [cursor=pointer]:
+                  - /url: /tieng-anh-7-review-3-skills-a108817.html
+              - generic [ref=e426]:
+                - heading "1. Read the passage. Match the headings in the box with the paragraphs.2. Read the passage again and answer the questions. 3. Work in groups. Interview your group members. Take notes of their answers and report to the class. 4. Listen to Trang talking about watching films with her family. Fill in each blank with ONE word. 5. Write a paragraph of about 70 words about your favourite means of transport. You may use the following questions as cues." [level=2] [ref=e427]:
+                  - strong [ref=e428]: 1. Read the passage. Match the headings in the box with the paragraphs.2. Read the passage again and answer the questions. 3. Work in groups. Interview your group members. Take notes of their answers and report to the class. 4. Listen to Trang talking about watching films with her family. Fill in each blank with ONE word. 5. Write a paragraph of about 70 words about your favourite means of transport. You may use the following questions as cues.
+                - generic [ref=e438]:
+                  - generic [ref=e439]:
+                    - button "Play" [ref=e440] [cursor=pointer]:
+                      - img
+                      - generic [ref=e441]: Play
+                    - generic [ref=e443]:
+                      - slider "Seek" [ref=e444]: "0"
+                      - progressbar [ref=e445]: "% buffered"
+                      - generic: 00:00
+                    - generic "Current time" [ref=e446]: 00:00
+                    - generic "Duration" [ref=e447]: ⁄01:00
+                    - generic [ref=e448]:
+                      - button "Unmute" [pressed] [ref=e449] [cursor=pointer]:
+                        - img
+                        - generic [ref=e450]: Unmute
+                      - slider "Volume" [ref=e451]: "0"
+                  - button "Play" [ref=e455] [cursor=pointer]:
+                    - img
+                    - generic [ref=e456]: Play
+                - generic [ref=e457]:
+                  - text: Lựa chọn câu để xem lời giải nhanh hơn
+                  - list [ref=e459]:
+                    - listitem [ref=e460]:
+                      - link "Bài 1" [ref=e461] [cursor=pointer]:
+                        - /url: javascript:scrollToSubQuestion('sub-question-1')
+                    - listitem [ref=e462]:
+                      - link "Bài 2" [ref=e463] [cursor=pointer]:
+                        - /url: javascript:scrollToSubQuestion('sub-question-2')
+                    - listitem [ref=e464]:
+                      - link "Bài 3" [ref=e465] [cursor=pointer]:
+                        - /url: javascript:scrollToSubQuestion('sub-question-3')
+                    - listitem [ref=e466]:
+                      - link "Bài 4" [ref=e467] [cursor=pointer]:
+                        - /url: javascript:scrollToSubQuestion('sub-question-4')
+                    - listitem [ref=e468]:
+                      - link "Bài 5" [ref=e469] [cursor=pointer]:
+                        - /url: javascript:scrollToSubQuestion('sub-question-5')
+                  - generic [ref=e470]:
+                    - paragraph [ref=e471]:
+                      - strong [ref=e472]: Bài 1
+                    - generic [ref=e473]:
+                      - paragraph [ref=e474]:
+                        - strong [ref=e475]: Video hướng dẫn giải
+                      - iframe [ref=e477]:
+                        - generic "YouTube Video Player" [ref=f235e3]:
+                          - generic [ref=f235e5]:
+                            - link "Photo image of Lời giải hay - Loigiaihay" [ref=f235e8] [cursor=pointer]:
+                              - /url: https://www.youtube.com/channel/UCkMcHVF7v9DiW2OeMvNoj-A?embeds_referring_euri=https%3A%2F%2Floigiaihay.com%2F&embeds_referring_origin=https%3A%2F%2Floigiaihay.com
+                            - link "Skills - Review 3 - Tiếng Anh 7 Global Success" [ref=f235e11] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=e8kF60BkkqM
+                            - button "More" [ref=f235e13] [cursor=pointer]:
+                              - generic [ref=f235e14]:
+                                - img
+                          - button "Play" [ref=f235e17] [cursor=pointer]:
+                            - img
+                    - paragraph [ref=e478]:
+                      - strong [ref=e480]: Reading
+                    - paragraph [ref=e481]:
+                      - strong [ref=e482]: 1. Read the passage. Match the headings in the box with the paragraphs.
+                    - paragraph [ref=e483]:
+                      - emphasis [ref=e485]: (Đọc đoạn văn. Nối các tiêu đề trong hộp với các đoạn văn.)
+                    - table [ref=e487]:
+                      - rowgroup [ref=e490]:
+                        - row "A. Food after the festival B. General information about the festival C. Activities at the festival" [ref=e491]:
+                          - cell "A. Food after the festival B. General information about the festival C. Activities at the festival" [ref=e492]:
+                            - paragraph [ref=e493]: A. Food after the festival
+                            - paragraph [ref=e494]: B. General information about the festival
+                            - paragraph [ref=e495]: C. Activities at the festival
+                    - paragraph [ref=e496]: 1. _____________
+                    - paragraph [ref=e497]: La Tomatina is an unusual festival. It's a fun fight with tomatoes. People hold it in Buñol, Spain on the last Wednesday of every August.
+                    - paragraph [ref=e498]: 2. _____________
+                    - paragraph [ref=e499]: In the town square, there is a high pole with a ham on top of it. People climb the pole and get the ham. At 11 a.m., a jet of water shoots from the water cannons, and people start throwing tomatoes. People throw bags of tomatoes at the crowd. They then throw tomatoes at one another. After one hour, there is another jet of water, and people stop throwing. The whole square now is red with rivers of tomato juice.
+                    - paragraph [ref=e500]: 3. _____________
+                    - paragraph [ref=e501]: After the fight, many people go to restaurants to try paella. It is a traditional Spanish rice dish. It has rice, chicken, seafood, and herbs.
+                    - paragraph [ref=e502]:
+                      - strong [ref=e503]: "Lời giải chi tiết:"
+                    - table [ref=e504]:
+                      - rowgroup [ref=e505]:
+                        - row "1. B 2. C 3. A" [ref=e506]:
+                          - cell "1. B" [ref=e507]:
+                            - paragraph [ref=e508]: 1. B
+                          - cell "2. C" [ref=e509]:
+                            - paragraph [ref=e510]: 2. C
+                          - cell "3. A" [ref=e511]:
+                            - paragraph [ref=e512]: 3. A
+                    - paragraph [ref=e513]:
+                      - strong [ref=e514]: 1. General information about the festival
+                    - paragraph [ref=e515]:
+                      - emphasis [ref=e517]: (Thông tin chung về lễ hội)
+                    - paragraph [ref=e518]: La Tomatina is an unusual festival. It's a fun fight with tomatoes. People hold it in Buñol, Spain on the last Wednesday of every August.
+                    - paragraph [ref=e519]:
+                      - emphasis [ref=e521]: (La Tomatina là một lễ hội lạ thường. Đó là một cuộc chiến thú vị với cà chua. Mọi người tổ chức nó ở Buñol, Tây Ban Nha vào thứ Tư cuối cùng của tháng Tám hàng năm.)
+                    - paragraph [ref=e522]:
+                      - strong [ref=e523]: "Giải thích:"
+                      - text: The paragraph mentions many information related to the festival such as name, place, and time to celebrate the festival => B. General information about the festival.
+                    - paragraph [ref=e524]:
+                      - emphasis [ref=e526]: (Đoạn văn đề cập đến nhiều thông tin liên quan đến lễ hội như tên, địa điểm, thời gian tổ chức lễ hội=> B. Thông tin chung về lễ hội.)
+                    - paragraph [ref=e527]:
+                      - strong [ref=e528]: 2. Activities at the festival
+                    - paragraph [ref=e529]:
+                      - emphasis [ref=e530]: (Các hoạt động tại lễ hội)
+                    - paragraph [ref=e531]: In the town square, there is a high pole with a ham on top of it. People climb the pole and get the ham. At 11 a.m., a jet of water shoots from the water cannons, and people start throwing tomatoes. People throw bags of tomatoes at the crowd. They then throw tomatoes at one another. After one hour, there is another jet of water, and people stop throwing. The whole square now is red with rivers of tomato juice.
+                    - paragraph [ref=e532]:
+                      - emphasis [ref=e534]: (Trong quảng trường của thị trấn, có một cái cột cao với một cái giăm bông trên đầu nó. Mọi người trèo lên cột và lấy cái giăm bông đó. Lúc 11 giờ sáng, một dòng nước bắn ra từ vòi rồng, và mọi người bắt đầu ném cà chua. Mọi người ném những túi cà chua vào đám đông. Sau đó, họ ném cà chua vào nhau. Sau một giờ, có một dòng nước nữa được bắn ra, mọi người ngừng ném. Cả quảng trường bây giờ đỏ rực như dòng sông nước ép cà chua.)
+                    - paragraph [ref=e535]:
+                      - strong [ref=e536]: "Giải thích:"
+                      - text: The paragraph mentions some activities at the festival like climbing the pole and getting the ham, throwing tomatoes at the crowd, and one another, …=> C. Activities at the festival
+                    - paragraph [ref=e537]:
+                      - emphasis [ref=e539]: (Đoạn văn đề cập đến một số hoạt động tại lễ hội như leo cột và lấy giăm bông, ném cà chua vào đám đông và vào nhau, …=> C. Các hoạt động tại lễ hội)
+                    - paragraph [ref=e540]:
+                      - strong [ref=e541]: 3. Food after the festival
+                    - paragraph [ref=e542]:
+                      - emphasis [ref=e544]: (Món ăn sau lễ hội)
+                    - paragraph [ref=e545]: After the fight, many people go to restaurants to try paella. It is a traditional Spanish rice dish. It has rice, chicken, seafood, and herbs.
+                    - paragraph [ref=e546]:
+                      - emphasis [ref=e548]: (Sau cuộc chiến, nhiều người đến các nhà hàng để ăn thử món paella. Nó là một món cơm truyền thống của Tây Ban Nha. Nó có cơm, gà, hải sản và rau thơm.)
+                    - paragraph [ref=e549]:
+                      - strong [ref=e550]: "Giải thích:"
+                      - text: The paragraph mentions a food called paella. People enjoy this food after the fight =>A. Food after the festival
+                    - paragraph [ref=e551]:
+                      - emphasis [ref=e553]: (Đoạn văn đề cập đến một món ăn có tên là “paella”. Mọi người thưởng thức món ăn này sau cuộc chiến=> A. Món ăn sau lễ hội)
+                    - generic [ref=e554]:
+                      - insertion
+                  - generic [ref=e560]:
+                    - paragraph [ref=e561]:
+                      - strong [ref=e562]: Bài 2
+                    - generic [ref=e563]:
+                      - paragraph [ref=e564]:
+                        - strong [ref=e565]: Video hướng dẫn giải
+                      - iframe [ref=e567]:
+                        - generic "YouTube Video Player" [ref=f236e3]:
+                          - generic [ref=f236e5]:
+                            - link "Photo image of Lời giải hay - Loigiaihay" [ref=f236e8] [cursor=pointer]:
+                              - /url: https://www.youtube.com/channel/UCkMcHVF7v9DiW2OeMvNoj-A?embeds_referring_euri=https%3A%2F%2Floigiaihay.com%2F&embeds_referring_origin=https%3A%2F%2Floigiaihay.com
+                            - link "Skills - Review 3 - Tiếng Anh 7 Global Success" [ref=f236e11] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=e8kF60BkkqM
+                            - button "More" [ref=f236e13] [cursor=pointer]:
+                              - generic [ref=f236e14]:
+                                - img
+                          - button "Play" [ref=f236e17] [cursor=pointer]:
+                            - img
+                    - paragraph [ref=e568]:
+                      - strong [ref=e569]: 2. Read the passage again and answer the questions.
+                    - paragraph [ref=e570]:
+                      - emphasis [ref=e572]: (Đọc lại đoạn văn và trả lời các câu hỏi.)
+                    - paragraph [ref=e573]: 1. When and where do people hold La Tomatina?
+                    - paragraph [ref=e574]: 2. What is on the top of the pole?
+                    - paragraph [ref=e575]: 3. What signals the start and end of the festival?
+                    - paragraph [ref=e576]: 4. How long is the fight?
+                    - paragraph [ref=e577]: 5. What is paella?
+                    - paragraph [ref=e578]:
+                      - strong [ref=e579]: "Lời giải chi tiết:"
+                    - paragraph [ref=e580]:
+                      - strong [ref=e581]: "1."
+                      - text: When and where do people hold La Tomatina?
+                    - paragraph [ref=e582]:
+                      - emphasis [ref=e584]: (Mọi người tổ chức lễ hội La Tomatina khi nào và ở đâu?)
+                    - paragraph [ref=e585]:
+                      - strong [ref=e586]: "- In Buñol, Spain on the last Wednesday of every August."
+                    - paragraph [ref=e587]:
+                      - emphasis [ref=e589]: (Ở Buñol, Tây Ban Nha vào thứ Tư cuối cùng của tháng Tám.)
+                    - paragraph [ref=e590]:
+                      - strong [ref=e592]: "Thông tin:"
+                      - text: People hold it in Buñol, Spain on the last Wednesday of every August.
+                    - paragraph [ref=e593]:
+                      - emphasis [ref=e595]: (Mọi người tổ chức nó ở Buñol, Tây Ban Nha vào thứ Tư cuối cùng của tháng Tám hàng năm.)
+                    - paragraph [ref=e596]:
+                      - strong [ref=e597]: "2."
+                      - text: What is on the top of the pole?
+                    - paragraph [ref=e598]:
+                      - emphasis [ref=e600]: (Cái gì ở trên đỉnh cột?)
+                    - paragraph [ref=e601]:
+                      - generic [ref=e602]:
+                        - text: "-"
+                        - strong [ref=e603]: A ham
+                        - text: .
+                    - paragraph [ref=e604]:
+                      - emphasis [ref=e606]: (Giăm bông.)
+                    - paragraph [ref=e607]:
+                      - strong [ref=e608]:
+                        - generic [ref=e609]:
+                          - strong [ref=e610]: Thông tin
+                          - text: ":"
+                      - text: … there is a high pole with a ham on top of it.
+                    - paragraph [ref=e611]:
+                      - emphasis [ref=e613]: (có một cái cột cao với một cái giăm bông trên đầu nó.)
+                    - paragraph [ref=e614]:
+                      - strong [ref=e615]: "3."
+                      - text: What signals the start and end of the festival?
+                    - paragraph [ref=e616]:
+                      - emphasis [ref=e617]:
+                        - generic [ref=e618]: (Điều gì báo hiệu sự bắt đầu và kết thúc của lễ hội?)
+                    - paragraph [ref=e619]:
+                      - strong [ref=e620]: "- A jet of water shoots from the water cannons."
+                    - paragraph [ref=e621]:
+                      - emphasis [ref=e623]: (Một dòng nước bắn ra từ vòi rồng.)
+                    - paragraph [ref=e624]:
+                      - strong [ref=e626]:
+                        - strong [ref=e627]: Thông tin
+                        - text: ":"
+                      - text: … At 11 a.m., a jet of water shoots from the water cannons… / After one hour, there is another jet of water, and people stop throwing …
+                    - paragraph [ref=e628]:
+                      - emphasis [ref=e630]: (Lúc 11 giờ sáng, một dòng nước bắn ra từ vòi rồng … / Sau một giờ, có một dòng nước nữa được bắn ra, mọi người ngừng ném.)
+                    - paragraph [ref=e631]:
+                      - strong [ref=e632]: "4."
+                      - text: How long is the fight?
+                    - paragraph [ref=e633]:
+                      - emphasis [ref=e635]: (Cuộc chiến kéo dài bao lâu?)
+                    - paragraph [ref=e636]: "- One hour."
+                    - paragraph [ref=e637]:
+                      - emphasis [ref=e639]: (Một giờ.)
+                    - paragraph [ref=e640]:
+                      - strong [ref=e641]:
+                        - generic [ref=e642]:
+                          - strong [ref=e643]: Thông tin
+                          - text: ":"
+                      - text: After one hour, … and people stop throwing.
+                    - paragraph [ref=e644]:
+                      - emphasis [ref=e646]: (Sau một giờ, … và mọi người ngừng ném.)
+                    - paragraph [ref=e647]:
+                      - generic [ref=e648]:
+                        - strong [ref=e649]: "5."
+                        - text: What is paella?
+                    - paragraph [ref=e650]:
+                      - emphasis [ref=e652]: (Paella là gì?)
+                    - paragraph [ref=e653]: "- It is a traditional Spanish rice dish. It has rice, chicken, seafood, and herbs."
+                    - paragraph [ref=e654]:
+                      - emphasis [ref=e656]: (Là một món cơm truyền thống của Tây Ban Nha. Nó có cơm, gà, hải sản và rau thơm.)
+                    - paragraph [ref=e657]:
+                      - generic [ref=e658]:
+                        - strong [ref=e659]:
+                          - strong [ref=e660]: Thông tin
+                          - text: ":"
+                        - text: …
+                      - text: many people go to restaurants to try paella. It is a traditional Spanish rice dish. It has rice, chicken, seafood, and herbs.
+                    - paragraph [ref=e661]:
+                      - emphasis [ref=e663]: (… nhiều người đến các nhà hàng để ăn thử món paella. Nó là một món cơm truyền thống của Tây Ban Nha. Nó có cơm, gà, hải sản và rau thơm.)
+                    - generic [ref=e669]:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - iframe
+                          - generic:
+                            - iframe
+                  - generic [ref=e670]:
+                    - paragraph [ref=e671]:
+                      - strong [ref=e672]: Bài 3
+                    - generic [ref=e673]:
+                      - paragraph [ref=e674]:
+                        - strong [ref=e675]: Video hướng dẫn giải
+                      - iframe [ref=e677]:
+                        - generic "YouTube Video Player" [ref=f237e3]:
+                          - generic [ref=f237e5]:
+                            - link "Photo image of Lời giải hay - Loigiaihay" [ref=f237e8] [cursor=pointer]:
+                              - /url: https://www.youtube.com/channel/UCkMcHVF7v9DiW2OeMvNoj-A?embeds_referring_euri=https%3A%2F%2Floigiaihay.com%2F&embeds_referring_origin=https%3A%2F%2Floigiaihay.com
+                            - link "Skills - Review 3 - Tiếng Anh 7 Global Success" [ref=f237e11] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=e8kF60BkkqM
+                            - button "More" [ref=f237e13] [cursor=pointer]:
+                              - generic [ref=f237e14]:
+                                - img
+                          - button "Play" [ref=f237e17] [cursor=pointer]:
+                            - img
+                    - paragraph [ref=e678]:
+                      - strong [ref=e680]: Speaking
+                    - paragraph [ref=e681]:
+                      - strong [ref=e682]: 3. Work in groups. Interview your group members. Take notes of their answers and report to the class.
+                    - paragraph [ref=e683]:
+                      - emphasis [ref=e685]: (Làm việc nhóm. Phỏng vấn các thành viên trong nhóm của bạn. Ghi lại câu trả lời của họ và báo cáo trước lớp.)
+                    - paragraph [ref=e686]: 1. How far is it from your house to your school?
+                    - paragraph [ref=e687]: 2. How do you go to school?
+                    - paragraph [ref=e688]: 3. What is good about walking?
+                    - paragraph [ref=e689]: 4. What is good about public transport?
+                    - paragraph [ref=e690]:
+                      - strong [ref=e691]: "Lời giải chi tiết:"
+                    - paragraph [ref=e692]:
+                      - strong [ref=e694]: "1."
+                      - strong [ref=e695]: "A:"
+                      - text: How far is it from your house to your school?
+                    - paragraph [ref=e696]:
+                      - emphasis [ref=e698]: (Từ nhà đến trường của bạn bao xa?)
+                    - paragraph [ref=e699]:
+                      - strong [ref=e700]: "B:"
+                      - text: It is about 2 km from my house to my school.
+                    - paragraph [ref=e701]:
+                      - emphasis [ref=e703]: (Từ nhà mình đến trường khoảng 2 km.)
+                    - paragraph [ref=e704]:
+                      - strong [ref=e705]: "2. A:"
+                      - text: How do you go to school?
+                    - paragraph [ref=e706]:
+                      - emphasis [ref=e708]: (Bạn đến trường bằng phương tiện gì?)
+                    - paragraph [ref=e709]:
+                      - strong [ref=e710]: "B:"
+                      - text: I go to school by bike.
+                    - paragraph [ref=e711]:
+                      - emphasis [ref=e713]: (Mình đến trường bằng xe đạp.)
+                    - paragraph [ref=e714]:
+                      - strong [ref=e716]: "3."
+                      - strong [ref=e717]: "A:"
+                      - text: What is good about walking?
+                    - paragraph [ref=e718]:
+                      - emphasis [ref=e720]: (Đi bộ có lợi ích gì?)
+                    - paragraph [ref=e721]:
+                      - strong [ref=e722]: "B:"
+                      - text: Walking can help us improve our health and stay in shape.
+                    - paragraph [ref=e723]:
+                      - emphasis [ref=e725]: (Đi bộ có thể giúp chúng ta cải thiện sức khỏe và giữ dáng.)
+                    - paragraph [ref=e726]:
+                      - strong [ref=e727]: "4. A:"
+                      - text: What is good about public transport?
+                    - paragraph [ref=e728]:
+                      - emphasis [ref=e730]: (Giao thông công cộng có lợi ích gì?)
+                    - paragraph [ref=e731]:
+                      - strong [ref=e733]: "B:"
+                      - text: Public transport helps reduce air pollution.
+                    - paragraph [ref=e734]:
+                      - emphasis [ref=e736]: (Giao thông công cộng giúp giảm ô nhiễm không khí.)
+                  - generic [ref=e737]:
+                    - paragraph [ref=e738]:
+                      - strong [ref=e739]: Bài 4
+                    - generic [ref=e740]:
+                      - paragraph [ref=e741]:
+                        - strong [ref=e742]: Video hướng dẫn giải
+                      - iframe [ref=e744]:
+                        - generic "YouTube Video Player" [ref=f238e3]:
+                          - generic [ref=f238e5]:
+                            - link "Photo image of Lời giải hay - Loigiaihay" [ref=f238e8] [cursor=pointer]:
+                              - /url: https://www.youtube.com/channel/UCkMcHVF7v9DiW2OeMvNoj-A?embeds_referring_euri=https%3A%2F%2Floigiaihay.com%2F&embeds_referring_origin=https%3A%2F%2Floigiaihay.com
+                            - link "Skills - Review 3 - Tiếng Anh 7 Global Success" [ref=f238e11] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=e8kF60BkkqM
+                            - button "More" [ref=f238e13] [cursor=pointer]:
+                              - generic [ref=f238e14]:
+                                - img
+                          - button "Play" [ref=f238e17] [cursor=pointer]:
+                            - img
+                    - paragraph [ref=e745]:
+                      - strong [ref=e747]: Listening
+                    - paragraph [ref=e748]:
+                      - strong [ref=e749]: 4. Listen to Trang talking about watching films with her family. Fill in each blank with ONE word.
+                    - paragraph [ref=e750]:
+                      - emphasis [ref=e752]: (Nghe Trang kể chuyện xem phim cùng gia đình. Điền vào mỗi chỗ trống với MỘT từ.)
+                    - paragraph [ref=e753]:
+                      - emphasis [ref=e755]
+                    - paragraph [ref=e757]: 1. Trang's family mostly watches films at _______.
+                    - paragraph [ref=e758]: 2. Watching films together improves their _______.
+                    - paragraph [ref=e759]: 3. They can spend quality _______ together.
+                    - paragraph [ref=e760]: 4. After watching a film, they talk about its _______ and what they like about the film.
+                    - paragraph [ref=e761]: 5. Watching films in English is good for her _______ skills.
+                    - paragraph [ref=e762]:
+                      - strong [ref=e763]: "Phương pháp giải:"
+                    - paragraph [ref=e764]:
+                      - strong [ref=e765]: "Bài nghe:"
+                    - paragraph [ref=e766]: My family usually watches films together at weekends. Sometimes we go to the cinema, but most of the time we watch films at home. It's a cheap entertainment activity because we don't have to buy tickets. It also improves our relationship because it brings us closer. My parents spend quality time with us, and we don't use our phones. Besides, after watching a film, we talk about its lessons and share what we like about it. This is a good way to learn about life and the world. Finally, watching films, especially those in English, helps us improve our language skills. So why don't you start watching films with your family? You can see the good things it brings.
+                    - paragraph [ref=e767]:
+                      - strong [ref=e768]:
+                        - emphasis [ref=e769]: "Tạm dịch:"
+                    - paragraph [ref=e770]:
+                      - emphasis [ref=e771]: Gia đình mình thường cùng nhau xem phim vào mỗi cuối tuần. Đôi khi chúng mình cũng đến rạp chiếu phim, nhưng phần đa thời gian gia đình mình đều xem phim tại gia. Đó là một hoạt động giải trí ít tốn kém bởi vì chúng mình không cần phải mua vé. Nó cũng giúp thúc đẩy mối quan hệ giữa các thành viên bởi vì nó mang gia đình mình lại gần nhau hơn. Bố mẹ dành ra khoảng thời gian quý báu với tụi mình và chúng mình đều không sử dụng điện thoại. Bên cạnh đó, sau khi xem phim, gia đình mình cũng nói về những bài học rút ra từ bộ phim và chia sẻ những điều chúng mình thích về nó. Đây là một cách hiệu quả để chúng mình có thể tìm hiểu thêm về cuộc sống và thế giới. Cuối cùng, xem phim, đặc biệt là những bộ phim tiếng Anh, cũng giúp chúng mình cải thiện khả năng ngôn ngữ. Vậy nên tại sao các bạn không bắt đầu thưởng thức những bộ phim cùng gia đình nhỉ? Các bạn có thể thấy những lợi ích mà nó mang lại.
+                    - paragraph [ref=e772]:
+                      - strong [ref=e773]: "Lời giải chi tiết:"
+                    - table [ref=e774]:
+                      - rowgroup [ref=e775]:
+                        - row "1. home 2. relationship 3. time 4. lessons 5. language" [ref=e776]:
+                          - cell "1. home" [ref=e777]:
+                            - paragraph [ref=e778]: 1. home
+                          - cell "2. relationship" [ref=e779]:
+                            - paragraph [ref=e780]: 2. relationship
+                          - cell "3. time" [ref=e781]:
+                            - paragraph [ref=e782]: 3. time
+                          - cell "4. lessons" [ref=e783]:
+                            - paragraph [ref=e784]: 4. lessons
+                          - cell "5. language" [ref=e785]:
+                            - paragraph [ref=e786]: 5. language
+                    - paragraph [ref=e787]:
+                      - text: 1. Trang's family mostly watches films at
+                      - strong [ref=e788]: home
+                      - text: .
+                    - paragraph [ref=e789]:
+                      - emphasis [ref=e791]: (Gia đình Trang hầu hết đều xem phim tại nhà.)
+                    - paragraph [ref=e792]:
+                      - text: 2. Watching films together improves their
+                      - strong [ref=e793]: relationship
+                      - text: .
+                    - paragraph [ref=e794]:
+                      - emphasis [ref=e796]: (Xem phim cùng nhau giúp cải thiện mối liên kết giữa họ.)
+                    - paragraph [ref=e797]:
+                      - text: 3. They can spend quality
+                      - strong [ref=e798]: time
+                      - text: together.
+                    - paragraph [ref=e799]:
+                      - emphasis [ref=e800]: (Họ có thể dành quãng thời gian quý báu bên nhau.)
+                    - paragraph [ref=e801]:
+                      - text: 4. After watching a film, they talk about its
+                      - strong [ref=e802]: lessons
+                      - text: and what they like about the film.
+                    - paragraph [ref=e803]:
+                      - emphasis [ref=e805]: (Sau khi xem một bộ phim, họ cùng nói về những bài học rút ra được và những điều mà họ thích về bộ phim.)
+                    - paragraph [ref=e806]:
+                      - text: 5. Watching films in English is good for her
+                      - strong [ref=e807]: language
+                      - text: skills.
+                    - paragraph [ref=e808]:
+                      - emphasis [ref=e810]: (Việc xem những bộ phim tiếng Anh có lợi cho những kĩ năng ngôn ngữ của cô ấy.)
+                  - generic [ref=e811]:
+                    - paragraph [ref=e812]:
+                      - strong [ref=e813]: Bài 5
+                    - generic [ref=e814]:
+                      - paragraph [ref=e815]:
+                        - strong [ref=e816]: Video hướng dẫn giải
+                      - iframe [ref=e818]:
+                        - generic "YouTube Video Player" [ref=f239e3]:
+                          - generic [ref=f239e5]:
+                            - link "Photo image of Lời giải hay - Loigiaihay" [ref=f239e8] [cursor=pointer]:
+                              - /url: https://www.youtube.com/channel/UCkMcHVF7v9DiW2OeMvNoj-A?embeds_referring_euri=https%3A%2F%2Floigiaihay.com%2F&embeds_referring_origin=https%3A%2F%2Floigiaihay.com
+                            - link "Skills - Review 3 - Tiếng Anh 7 Global Success" [ref=f239e11] [cursor=pointer]:
+                              - /url: https://www.youtube.com/watch?v=e8kF60BkkqM
+                            - button "More" [ref=f239e13] [cursor=pointer]:
+                              - generic [ref=f239e14]:
+                                - img
+                          - button "Play" [ref=f239e17] [cursor=pointer]:
+                            - img
+                    - paragraph [ref=e819]:
+                      - strong [ref=e821]: Writing
+                    - paragraph [ref=e822]:
+                      - strong [ref=e823]: 5. Write a paragraph of about 70 words about your favourite means of transport. You may use the following questions as cues.
+                    - paragraph [ref=e824]:
+                      - emphasis [ref=e826]: (Viết đoạn văn khoảng 70 từ kể về phương tiện giao thông mà bạn yêu thích. Bạn có thể sử dụng các câu hỏi sau đây như một gợi ý.)
+                    - paragraph [ref=e827]: 1. What is your favourite means of transport?
+                    - paragraph [ref=e828]:
+                      - emphasis [ref=e831]: (Phương tiện giao thông yêu thích của bạn là gì?)
+                    - paragraph [ref=e832]: 2. Why is it your favourite means of transport?
+                    - paragraph [ref=e833]:
+                      - emphasis [ref=e836]: (Tại sao nó là phương tiện giao thông yêu thích của bạn?)
+                    - paragraph [ref=e837]: My favourite means of transport is _____________
+                    - paragraph [ref=e838]: _________________________________________
+                    - paragraph [ref=e839]:
+                      - strong [ref=e840]: "Lời giải chi tiết:"
+                    - paragraph [ref=e841]: My favourite means of transport is bus. I take a bus to go to school on a daily basis. Buses are environmentally friendly and they help reduce the number of private vehicles. As a result, we can join hands to mitigate the negative influence of air pollution and traffic jams caused by excessive number vehicles on roads. Besides, travelling by bus is cheap and convenient. I do believe that people should use buses more often.
+                    - paragraph [ref=e842]:
+                      - strong [ref=e843]: "Tạm dịch:"
+                    - paragraph [ref=e844]:
+                      - emphasis [ref=e845]: Phương tiện giao thông yêu thích của mình là xe buýt. Mình bắt xe buýt để đi học hàng ngày. Xe buýt thân thiện với môi trường và chúng giúp giảm lượng phương tiện cá nhân. Nhờ đó, chúng ta có thể chung tay giảm thiểu ảnh hưởng tiêu cực của ô nhiễm không khí và ùn tắc giao thông do quá nhiều phương tiện lưu thông trên đường. Bên cạnh đó, đi lại bằng xe buýt lại còn rẻ và tiện lợi. Mình tin rằng mọi người nên dùng xe buýt nhiều hơn.
+                - generic [ref=e848]:
+                  - generic [ref=e849]:
+                    - link [ref=e850] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?type=homework&utm_source=lgh
+                      - img [ref=e851]
+                    - link [ref=e852] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?utm_source=lgh
+                      - img [ref=e853]
+                  - generic [ref=e854]:
+                    - link "Nhờ AI dịch nội dung Tiếng Anh sang Tiếng Việt" [ref=e855] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?type=translate&utm_source=lgh
+                      - generic [ref=e856]: Nhờ AI dịch nội dung Tiếng Anh sang Tiếng Việt
+                    - link "AI dịch file tài liệu tiếng Anh trong 30s" [ref=e857] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?type=translate&slug=file
+                      - generic [ref=e858]: AI dịch file tài liệu tiếng Anh trong 30s
+                    - link "Nhờ AI dịch và tóm tắt nội dung bài học này" [ref=e859] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?type=sumup&utm_source=lgh&link=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&text=Nh%E1%BB%9D+AI+d%E1%BB%8Bch+v%C3%A0+t%C3%B3m+t%E1%BA%AFt+n%E1%BB%99i+dung+b%C3%A0i+h%E1%BB%8Dc+n%C3%A0y
+                      - generic [ref=e860]: Nhờ AI dịch và tóm tắt nội dung bài học này
+                    - link "Grammar Unit 1 Tiếng Anh 12 Global Success | Tiếng Anh 12 - Global Success" [ref=e861] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?utm_source=lgh&xpat=kuNAMeEOKlW.5120ce9ea10f71f820871025ea19da95&text=Grammar%20Unit%201%20Ti%E1%BA%BFng%20Anh%2012%20Global%20Success%20%7C%20Ti%E1%BA%BFng%20Anh%2012%20-%20Global%20Success
+                      - generic [ref=e862]: Grammar Unit 1 Tiếng Anh 12 Global Success | Tiếng Anh 12 - Global Success
+                    - link "Tiếng Anh 12 Unit 1 Getting Started | Tiếng Anh 12 - Global Success" [ref=e863] [cursor=pointer]:
+                      - /url: https://ai-hay.vn/?utm_source=lgh&xpat=kuNAMeEOKlW.08ce2d5b6d898f3854ac1865bbd035bc&text=Ti%E1%BA%BFng%20Anh%2012%20Unit%201%20Getting%20Started%20%7C%20Ti%E1%BA%BFng%20Anh%2012%20-%20Global%20Success
+                      - generic [ref=e864]: Tiếng Anh 12 Unit 1 Getting Started | Tiếng Anh 12 - Global Success
+                - generic:
+                  - generic [ref=e865]:
+                    - generic [ref=e866]:
+                      - link "Bình luận" [ref=e867] [cursor=pointer]:
+                        - /url: "#top_facebook_comment"
+                        - img [ref=e868]
+                        - text: Bình luận
+                      - generic [ref=e869]: Chia sẻ
+                    - link "Chia sẻ" [ref=e871] [cursor=pointer]:
+                      - /url: javascript:;
+                      - text: Chia sẻ
+                  - generic [ref=e874]:
+                    - generic [ref=e875]: "Bình chọn:"
+                    - generic [ref=e876]:
+                      - link "1 sao" [ref=e878] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - link "2 sao" [ref=e879] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - link "3 sao" [ref=e880] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - link "4 sao" [ref=e881] [cursor=pointer]:
+                        - /url: javascript:void(0)
+                      - link "5 sao" [ref=e882] [cursor=pointer]:
+                        - /url: javascript:void(0)
+              - link "Bài tiếp theo" [ref=e886] [cursor=pointer]:
+                - /url: /tieng-anh-7-unit-10-tu-vung-a109869.html
+                - text: Bài tiếp theo
+                - img [ref=e887]
+              - list [ref=e889]:
+                - listitem [ref=e890]:
+                  - link "Tiếng Anh 7 Review 3 Language" [ref=e891] [cursor=pointer]:
+                    - /url: /tieng-anh-7-review-3-language-a108811.html
+                  - paragraph [ref=e892]: 1. a Choose the word in which the underlined part is pronounced differently. b Choose the word which has a different stress pattern from that of the others.2. Write the phrases from the box under the road signs. 3. Fill in each blank with a suitable word from the box. 4. Which of the underlined parts in each question is incorrect? Find and correct it. 5. Rewrite the sentences so that they have the same meanings as the original ones. Use the words given in brackets.
+              - insertion [ref=e894]
+              - paragraph [ref=e896]:
+                - link "Luyện Bài Tập Trắc nghiệm Tiếng Anh 7 - Global Success - Xem ngay" [ref=e897] [cursor=pointer]:
+                  - /url: /v2/tu-luyen-trac-nghiem-tieng-anh-7-global-success-c958.html
+                  - strong [ref=e898]: Luyện Bài Tập Trắc nghiệm Tiếng Anh 7 - Global Success - Xem ngay
+              - link "Báo lỗi - Góp ý" [ref=e901] [cursor=pointer]:
+                - /url: "#feed-back-box"
+              - generic [ref=e902]:
+                - heading "Tham Gia Group Dành Cho Lớp 7 Chia Sẻ, Trao Đổi Tài Liệu Miễn Phí" [level=3] [ref=e903]
+                - paragraph [ref=e904]:
+                  - link [ref=e905] [cursor=pointer]:
+                    - /url: https://www.facebook.com/groups/2013.tuyensinh247
+              - generic [ref=e906]:
+                - paragraph [ref=e907]:
+                  - generic [ref=e908]:
+                    - strong [ref=e910]: ">> Học trực tuyến lớp 7 trên Tuyensinh247.com."
+                    - text: "Đầy đủ khoá học các bộ sách: Kết nối tri thức với cuộc sống; Chân trời sáng tạo; Cánh diều. Cam kết giúp học sinh lớp 7 học tốt, hoàn trả học phí nếu học không hiệu quả."
+                    - strong [ref=e911]
+                  - strong [ref=e912]:
+                    - text: "PH/HS tham khảo chi tiết khoá học tại:"
+                    - strong [ref=e914]:
+                      - link "Link" [ref=e915] [cursor=pointer]:
+                        - /url: https://tuyensinh247.com/Hoc-truc-tuyen-online-lop-7-cac-mon-toan-van-cung-cac-thay-co-gioi-r246.html?utm_source=Sitevetinh&utm_medium=banner&utm_campaign=lop7&utm_id=246&utm_term=quynhanh&utm_content=banner-html
+                - table [ref=e916]:
+                  - rowgroup [ref=e917]:
+                    - row [ref=e918]:
+                      - cell [ref=e919]:
+                        - link [ref=e920] [cursor=pointer]:
+                          - /url: https://tuyensinh247.com/hoc-truc-tuyen-mon-toan-lop-7-c241.html?year=2026&utm_source=banner-html
+                      - cell [ref=e921]:
+                        - link [ref=e922] [cursor=pointer]:
+                          - /url: https://tuyensinh247.com/hoc-truc-tuyen-mon-van-lop-7-c242.html?year=2026&utm_source=banner-html
+                      - cell [ref=e923]:
+                        - link [ref=e924] [cursor=pointer]:
+                          - /url: https://tuyensinh247.com/hoc-truc-tuyen-mon-anh-lop-7-c267.html?year=2026&utm_source=banner-html
+                    - row [ref=e925]:
+                      - cell [ref=e926]:
+                        - link [ref=e927] [cursor=pointer]:
+                          - /url: https://tuyensinh247.com/hoc-truc-tuyen-mon-khtn-lop-7-c361.html?year=2026&utm_source=banner-html
+                      - cell [ref=e928]:
+                        - link [ref=e929] [cursor=pointer]:
+                          - /url: https://tuyensinh247.com/hoc-truc-tuyen-mon-lich-su-va-dia-li-lop-7-c362.html?year=2026&utm_source=banner-html
+                      - cell [ref=e930]:
+                        - link [ref=e931] [cursor=pointer]:
+                          - /url: https://tuyensinh247.com/hoc-truc-tuyen-mon-tin-lop-7-c363.html?year=2026&utm_source=banner-html
+            - generic [ref=e934]:
+              - generic [ref=e935]:
+                - generic [ref=e936]:
+                  - generic [ref=e937]: BÌNH LUẬN
+                  - combobox [ref=e938]:
+                    - option "Mới nhất" [selected]
+                    - option "Cũ nhất"
+                - generic [ref=e939]:
+                  - textbox "Họ và tên" [ref=e940]
+                  - textbox "Email" [ref=e941]
+                  - textbox "Nội dung bình luận" [ref=e942]
+                  - generic [ref=e943]:
+                    - button "Gửi bình luận" [ref=e945] [cursor=pointer]
+                    - generic [ref=e946]: "*Bình luận sẽ hiển thị sau khi được duyệt"
+              - main [ref=e947]:
+                - generic [ref=e948]: Hãy trở thành người đầu tiên bình luận!
+            - generic [ref=e949]:
+              - paragraph [ref=e950]:
+                - strong [ref=e951]: Các bài khác cùng chuyên mục
+              - list [ref=e952]:
+                - listitem [ref=e953]:
+                  - link "Grammar Unit 12 Tiếng Anh 7 Global Success" [ref=e954] [cursor=pointer]:
+                    - /url: /grammar-unit-12-tieng-anh-7-global-success-a122303.html
+                - listitem [ref=e955]:
+                  - link "Grammar Unit 11 Tiếng Anh 7 Global Success" [ref=e956] [cursor=pointer]:
+                    - /url: /grammar-unit-11-tieng-anh-7-global-success-a122302.html
+                - listitem [ref=e957]:
+                  - link "Grammar Unit 10 Tiếng Anh 7 Global Success" [ref=e958] [cursor=pointer]:
+                    - /url: /grammar-unit-10-tieng-anh-7-global-success-a122301.html
+                - listitem [ref=e959]:
+                  - link "Grammar Unit 9 Tiếng Anh 7 Global Success" [ref=e960] [cursor=pointer]:
+                    - /url: /grammar-unit-9-tieng-anh-7-global-success-a122300.html
+                - listitem [ref=e961]:
+                  - link "Grammar Unit 8 Tiếng Anh 7 Global Success" [ref=e962] [cursor=pointer]:
+                    - /url: /grammar-unit-8-tieng-anh-7-global-success-a122299.html
+        - generic [ref=e963]:
+          - generic [ref=e964]:
+            - link "TẢI APP ĐỂ XEM OFFLINE" [ref=e967] [cursor=pointer]:
+              - /url: "#"
+            - generic [ref=e969]:
+              - link "App Loigiaihay trên google play store" [ref=e970] [cursor=pointer]:
+                - /url: https://goo.gl/lYsjxK
+                - img "App Loigiaihay trên google play store" [ref=e971]
+              - link "App Loigiaihay trên apple store" [ref=e972] [cursor=pointer]:
+                - /url: https://apps.apple.com/vn/app/loigiaihay-com-l%E1%BB%9Di-gi%E1%BA%A3i-hay/id1209891610
+                - img "App Loigiaihay trên apple store" [ref=e973]
+          - generic [ref=e975]:
+            - generic [ref=e983]:
+              - iframe [ref=e984]:
+                - iframe [ref=f266e2]:
+                  
+              - link [ref=e985] [cursor=pointer]:
+                - /url: http://adx.admicro.vn/?utm_source=Admicro&utm_medium=loigiaihay.com&utm_campaign=adxzone
+            - generic [ref=e988]:
+              - generic [ref=e989]:
+                - generic [ref=e990]:
+                  - link [ref=e992] [cursor=pointer]:
+                    - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000331632&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhhmDQXkwuXvRsjH%2Bm6FLsegUokE6alVKbmu7LOwlnUiLg26kGNtz1tExOI7bRmy0MZdHM%2BFfnpKusYc4I4WfnRAOttQ3igjAavqz2s1E17Kg3TowokIhwyhkrvSpZMwmUNba26WT6eO1%2FVeG8405s%2Fl9HG14DmuUbu%2BWBbJ0ED6yl2aPasEP2h5kou7Cfn%2B5Up2QkjjM90Pi55kf5APKwXpUMqkdHOGrQuPgQxp92DIxdMnjMJxOaC6%2B%2F3ySheMH6Jl9JASXAiMqkooccgYXyyExBh8VTFwwwGLLa7WObyZAVIRUV%2FzhfZJhXPzOMNtuNR4SGLHrR3EMj%2FTuDiHElckWEYfxAd%2BY8kt8qmUIcXHysgkT0vl8HP%2BP9J45ZgvyBKpcValppB0gwV23IosXnibb4wUvPRsNhz23ub9wPl&rm_referer=0
+                  - generic [ref=e993]:
+                    - heading "5 công cụ tạo tiêu đề và mô tả quảng cáo cho thương hiệu 2026" [level=3] [ref=e994]:
+                      - link "5 công cụ tạo tiêu đề và mô tả quảng cáo cho thương hiệu 2026" [ref=e995] [cursor=pointer]:
+                        - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000331632&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhhmDQXkwuXvRsjH%2Bm6FLsegUokE6alVKbmu7LOwlnUiLg26kGNtz1tExOI7bRmy0MZdHM%2BFfnpKusYc4I4WfnRAOttQ3igjAavqz2s1E17Kg3TowokIhwyhkrvSpZMwmUNba26WT6eO1%2FVeG8405s%2Fl9HG14DmuUbu%2BWBbJ0ED6yl2aPasEP2h5kou7Cfn%2B5Up2QkjjM90Pi55kf5APKwXpUMqkdHOGrQuPgQxp92DIxdMnjMJxOaC6%2B%2F3ySheMH6Jl9JASXAiMqkooccgYXyyExBh8VTFwwwGLLa7WObyZAVIRUV%2FzhfZJhXPzOMNtuNR4SGLHrR3EMj%2FTuDiHElckWEYfxAd%2BY8kt8qmUIcXHysgkT0vl8HP%2BP9J45ZgvyBKpcValppB0gwV23IosXnibb4wUvPRsNhz23ub9wPl&rm_referer=0
+                    - link "SmartAds tổng hợp 5 công cụ tạo headline quảng cáo bằng AI giúp tiết kiệm thời gian và tối ưu." [ref=e996] [cursor=pointer]:
+                      - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000331632&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhhmDQXkwuXvRsjH%2Bm6FLsegUokE6alVKbmu7LOwlnUiLg26kGNtz1tExOI7bRmy0MZdHM%2BFfnpKusYc4I4WfnRAOttQ3igjAavqz2s1E17Kg3TowokIhwyhkrvSpZMwmUNba26WT6eO1%2FVeG8405s%2Fl9HG14DmuUbu%2BWBbJ0ED6yl2aPasEP2h5kou7Cfn%2B5Up2QkjjM90Pi55kf5APKwXpUMqkdHOGrQuPgQxp92DIxdMnjMJxOaC6%2B%2F3ySheMH6Jl9JASXAiMqkooccgYXyyExBh8VTFwwwGLLa7WObyZAVIRUV%2FzhfZJhXPzOMNtuNR4SGLHrR3EMj%2FTuDiHElckWEYfxAd%2BY8kt8qmUIcXHysgkT0vl8HP%2BP9J45ZgvyBKpcValppB0gwV23IosXnibb4wUvPRsNhz23ub9wPl&rm_referer=0
+                - generic [ref=e997]:
+                  - link [ref=e999] [cursor=pointer]:
+                    - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2Fsmartads-updates-chinh-thuc-ra-mat-tinh-nang-targeting-theo-cam-xuc-sentiment-targeting--Fi4tFVdbfFNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yZ6yJ8rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2Fsmartads-updates-chinh-thuc-ra-mat-tinh-nang-targeting-theo-cam-xuc-sentiment-targeting--Fi4tFVdbfFNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yZ6yJ8rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000330368&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhgnTEdkwuXvRsjHx5QbF%2Bdt%2BIP1Y7e9ghnpwGnmaAfTN4oqxfKzv9tvQvUCyAcP%2FvAfP9KlL6uF6zECV%2F5dXXBz6gAq7OcIrmuqNI7tcZAs4%2Br8INiSyYVKXPqtnaYXjvmZhvk%2FRhjXj5a68DmRi%2BT70Px9OPWsIYLJMz35PQ4%2FXjqADDzM%2BkFSbnOs85t4RftbAnnZqvI8VupcF65HKZvdAfxP4sRC%2B0wM2yjCYZykV5yn3FlZhAfK4HaHO8iSqQcNTio5u%2FUtVbz497Mh8MyX8EdpwF3fnskW0yZ5gB4VkIzB1ITMwAR8VXRQG7nYyAF9H0tobL9I9B%2FTkanHr4qfVxHiOQzXUC6KE8TmYZUouoOTnu71mX0ltCpIrOrj4KjaWuEef%2BKIXUfZXhoSP5VrQ%3D%3D&rm_referer=0
+                  - generic [ref=e1000]:
+                    - heading "SmartAds chính thức ra mắt tính năng Targeting theo 'cảm xúc'" [level=3] [ref=e1001]:
+                      - link "SmartAds chính thức ra mắt tính năng Targeting theo 'cảm xúc'" [ref=e1002] [cursor=pointer]:
+                        - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2Fsmartads-updates-chinh-thuc-ra-mat-tinh-nang-targeting-theo-cam-xuc-sentiment-targeting--Fi4tFVdbfFNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yZ6yJ8rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2Fsmartads-updates-chinh-thuc-ra-mat-tinh-nang-targeting-theo-cam-xuc-sentiment-targeting--Fi4tFVdbfFNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yZ6yJ8rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000330368&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhgnTEdkwuXvRsjHx5QbF%2Bdt%2BIP1Y7e9ghnpwGnmaAfTN4oqxfKzv9tvQvUCyAcP%2FvAfP9KlL6uF6zECV%2F5dXXBz6gAq7OcIrmuqNI7tcZAs4%2Br8INiSyYVKXPqtnaYXjvmZhvk%2FRhjXj5a68DmRi%2BT70Px9OPWsIYLJMz35PQ4%2FXjqADDzM%2BkFSbnOs85t4RftbAnnZqvI8VupcF65HKZvdAfxP4sRC%2B0wM2yjCYZykV5yn3FlZhAfK4HaHO8iSqQcNTio5u%2FUtVbz497Mh8MyX8EdpwF3fnskW0yZ5gB4VkIzB1ITMwAR8VXRQG7nYyAF9H0tobL9I9B%2FTkanHr4qfVxHiOQzXUC6KE8TmYZUouoOTnu71mX0ltCpIrOrj4KjaWuEef%2BKIXUfZXhoSP5VrQ%3D%3D&rm_referer=0
+                    - link "Đây là bước mở rộng quan trọng trong hệ sinh thái contextual targeting." [ref=e1003] [cursor=pointer]:
+                      - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2Fsmartads-updates-chinh-thuc-ra-mat-tinh-nang-targeting-theo-cam-xuc-sentiment-targeting--Fi4tFVdbfFNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yZ6yJ8rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2Fsmartads-updates-chinh-thuc-ra-mat-tinh-nang-targeting-theo-cam-xuc-sentiment-targeting--Fi4tFVdbfFNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yZ6yJ8rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000330368&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhgnTEdkwuXvRsjHx5QbF%2Bdt%2BIP1Y7e9ghnpwGnmaAfTN4oqxfKzv9tvQvUCyAcP%2FvAfP9KlL6uF6zECV%2F5dXXBz6gAq7OcIrmuqNI7tcZAs4%2Br8INiSyYVKXPqtnaYXjvmZhvk%2FRhjXj5a68DmRi%2BT70Px9OPWsIYLJMz35PQ4%2FXjqADDzM%2BkFSbnOs85t4RftbAnnZqvI8VupcF65HKZvdAfxP4sRC%2B0wM2yjCYZykV5yn3FlZhAfK4HaHO8iSqQcNTio5u%2FUtVbz497Mh8MyX8EdpwF3fnskW0yZ5gB4VkIzB1ITMwAR8VXRQG7nYyAF9H0tobL9I9B%2FTkanHr4qfVxHiOQzXUC6KE8TmYZUouoOTnu71mX0ltCpIrOrj4KjaWuEef%2BKIXUfZXhoSP5VrQ%3D%3D&rm_referer=0
+                - generic [ref=e1004]:
+                  - link [ref=e1006] [cursor=pointer]:
+                    - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000331632&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhhmDQXkwuXvRsjH%2Bm6FLsegUokE6alVKbmu7LOwlnUiLg26kGNtz1tExOI7bRmy0MZdHM%2BFfnpKusYc4I4WfnRAOttQ3igjAavqz2s1E17Kg3TowokIhwyhkrvSpZMwmUNba26WT6eO1%2FVeG8405s%2Fl9HG14DmuUbu%2BWBbJ0ED6yl2aPasEP2h5kou7Cfn%2B5Up2QkjjM90Pi55kf5APKwXpUMqkdHOGrQuPgQxp92DIxdMnjMJxOaC6%2B%2F3ySheMH6Jl9JASXAiMqkooccgYXyyExBh8VTFwwwGLLa7WObyZAVIRUV%2FzhfZJhXPzOMNtuNR4SGLHrR3EMj%2FTuDiHElckWEYfxAd%2BY8kt8qmUIcXHysgkT0vl8HP%2BP9J45ZgvyBKpcValppB0gwV23IosXnibb4wUvPRsNhz23ub9wPl&rm_referer=0
+                  - generic [ref=e1007]:
+                    - heading "5 công cụ tạo tiêu đề và mô tả quảng cáo cho thương hiệu 2026" [level=3] [ref=e1008]:
+                      - link "5 công cụ tạo tiêu đề và mô tả quảng cáo cho thương hiệu 2026" [ref=e1009] [cursor=pointer]:
+                        - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000331632&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhhmDQXkwuXvRsjH%2Bm6FLsegUokE6alVKbmu7LOwlnUiLg26kGNtz1tExOI7bRmy0MZdHM%2BFfnpKusYc4I4WfnRAOttQ3igjAavqz2s1E17Kg3TowokIhwyhkrvSpZMwmUNba26WT6eO1%2FVeG8405s%2Fl9HG14DmuUbu%2BWBbJ0ED6yl2aPasEP2h5kou7Cfn%2B5Up2QkjjM90Pi55kf5APKwXpUMqkdHOGrQuPgQxp92DIxdMnjMJxOaC6%2B%2F3ySheMH6Jl9JASXAiMqkooccgYXyyExBh8VTFwwwGLLa7WObyZAVIRUV%2FzhfZJhXPzOMNtuNR4SGLHrR3EMj%2FTuDiHElckWEYfxAd%2BY8kt8qmUIcXHysgkT0vl8HP%2BP9J45ZgvyBKpcValppB0gwV23IosXnibb4wUvPRsNhz23ub9wPl&rm_referer=0
+                    - link "SmartAds tổng hợp 5 công cụ tạo headline quảng cáo bằng AI giúp tiết kiệm thời gian và tối ưu." [ref=e1010] [cursor=pointer]:
+                      - /url: https://t.eclick.vn/web_click_t?beacon=zizkzkzhzrzizmzrzlzjzozhzgzjzqzgzozkzhzqzqzozgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzjzgzlzrzfzgzg2pzhzjzjzjzjznzizhznzk2pzhzjzjzjzgzgzizlzgzhzozizkzizdzhzgzgzdzrzjzdzhzgzkzozl2f24212722272h1x1uznzm2e2j281uzdzizkzkzhzrzizmzrzgzrzd21202a&link=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&target_url=https%3A%2F%2Fsmartads.tech%2Fblog%2Fdetail%2F5-cong-cu-giup-tao-tieu-de-va-mo-ta-quang-cao-cho-thuong-hieu-moi-nhat-2026-Fi4tFVdbdVNcWQ%3D%3D.html%3Fsma%3DR0z9POxoodjv2ZDECO0wM5yY7id2rk8wOKlwENXGcNLo7wYkpxSo8XEAGGiM5pisFBRiFfCJw_mpedTbhlYHWg&algo=0&cid=2000041247&cat=&bid=2000331632&gid=2000041247&ts=1772815859&url=https%3A%2F%2Floigiaihay.com%2Ftieng-anh-7-review-3-skills-a108817.html&urlref=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html&hostname=loigiaihay.com&tsv=1772815860&res=1280x720&zone_format=500&loc=29-1-vn&lp=29&lz=1&lc=vn&fosp_aid=6vidnkntgb45wzmb.1772815838.des&fosp_uid=6vidnkntgb45wzmb.1772815838.des&orig_aid=6vidnkntgb45wzmb.1772815838.des&gender=&rand=548289408&method=1&egg_c=&egg_b=&egg_i=&egg_t=&device=1&os=&v=4&sign=7JIJMQYUn6%2BqN1smaaetInJT1lg%2BNr2NkHumPQAJ%2F0x0ITrzzMPMagq6%2BvsX5mmX4UjvnQByrJF84hptcaUMIAVD4Iyqe2e9wWcMq%2FMvejg2QTv527XJv5vo3u9bKU3Kgq3oMX6tCD4ODCMO4JfQ79kmxZsiHqKVVRZXUGPDianJ%2FH8XhQRplAsJ7a%2FNvxiljmqZTGzpwVUBBZnzahHDdKWs8Mnlq1fTXqtUrqc2TMSBNjuARtOap6zg9imFBHdArFVwfBWfEecIiEX%2Bod%2BXITnoz%2BDhz%2Bo1RKb3PxkWXv2zj%2By14WO5Jg4RvEdx7FpBPFr6JmhhmDQXkwuXvRsjH%2Bm6FLsegUokE6alVKbmu7LOwlnUiLg26kGNtz1tExOI7bRmy0MZdHM%2BFfnpKusYc4I4WfnRAOttQ3igjAavqz2s1E17Kg3TowokIhwyhkrvSpZMwmUNba26WT6eO1%2FVeG8405s%2Fl9HG14DmuUbu%2BWBbJ0ED6yl2aPasEP2h5kou7Cfn%2B5Up2QkjjM90Pi55kf5APKwXpUMqkdHOGrQuPgQxp92DIxdMnjMJxOaC6%2B%2F3ySheMH6Jl9JASXAiMqkooccgYXyyExBh8VTFwwwGLLa7WObyZAVIRUV%2FzhfZJhXPzOMNtuNR4SGLHrR3EMj%2FTuDiHElckWEYfxAd%2BY8kt8qmUIcXHysgkT0vl8HP%2BP9J45ZgvyBKpcValppB0gwV23IosXnibb4wUvPRsNhz23ub9wPl&rm_referer=0
+              - link [ref=e1011] [cursor=pointer]:
+                - /url: https://smartads.tech/
+          - generic [ref=e1012]:
+            - link "Bài giải mới nhất" [ref=e1015] [cursor=pointer]:
+              - /url: "#"
+            - list [ref=e1017]:
+              - listitem [ref=e1018]:
+                - link "Grammar Unit 12 Tiếng Anh 7 Global Success" [ref=e1019] [cursor=pointer]:
+                  - /url: /grammar-unit-12-tieng-anh-7-global-success-a122303.html
+              - listitem [ref=e1020]:
+                - link "Grammar Unit 11 Tiếng Anh 7 Global Success" [ref=e1021] [cursor=pointer]:
+                  - /url: /grammar-unit-11-tieng-anh-7-global-success-a122302.html
+              - listitem [ref=e1022]:
+                - link "Grammar Unit 10 Tiếng Anh 7 Global Success" [ref=e1023] [cursor=pointer]:
+                  - /url: /grammar-unit-10-tieng-anh-7-global-success-a122301.html
+              - listitem [ref=e1024]:
+                - link "Grammar Unit 9 Tiếng Anh 7 Global Success" [ref=e1025] [cursor=pointer]:
+                  - /url: /grammar-unit-9-tieng-anh-7-global-success-a122300.html
+              - listitem [ref=e1026]:
+                - link "Grammar Unit 8 Tiếng Anh 7 Global Success" [ref=e1027] [cursor=pointer]:
+                  - /url: /grammar-unit-8-tieng-anh-7-global-success-a122299.html
+          - insertion [ref=e1029]:
+            - generic [ref=e1032]:
+              - heading "Đây là những chủ đề liên quan đến bài viết mà bạn có thể quan tâm" [level=2] [ref=e1034]: Khám phá thêm
+              - link "sách" [ref=e1035] [cursor=pointer]:
+                - generic "sách" [ref=e1036]
+                - img [ref=e1038]
+              - link "Sách" [ref=e1040] [cursor=pointer]:
+                - generic "Sách" [ref=e1041]
+                - img [ref=e1043]
+              - link "khoá học" [ref=e1045] [cursor=pointer]:
+                - generic "khoá học" [ref=e1046]
+                - img [ref=e1048]
+    - generic [ref=e1051]:
+      - generic [ref=e1052]:
+        - navigation [ref=e1053]:
+          - link "Liên hệ" [ref=e1054] [cursor=pointer]:
+            - /url: /lienhe.html
+          - link "Chính sách" [ref=e1055] [cursor=pointer]:
+            - /url: https://loigiaihay.com/policy/vi.html
+        - generic [ref=e1056]:
+          - paragraph [ref=e1057]:
+            - text: Copyright ©
+            - strong [ref=e1058]: 2021 loigiaihay.com
+          - link "DMCA.com Protection Status" [ref=e1059] [cursor=pointer]:
+            - /url: https://www.dmca.com/Protection/Status.aspx?ID=58bfe12e-47c6-4ce9-b0d3-8b2f7abac883&refurl=https://loigiaihay.com/tieng-anh-7-review-3-skills-a108817.html
+            - img "DMCA.com Protection Status" [ref=e1060]
+      - generic [ref=e1061]:
+        - link [ref=e1062] [cursor=pointer]:
+          - /url: https://www.facebook.com/Loigiaihay/?ref=br_rs
+        - link [ref=e1063] [cursor=pointer]:
+          - /url: https://www.youtube.com/channel/UCkMcHVF7v9DiW2OeMvNoj-A
+      - generic [ref=e1064]:
+        - link "App Loigiaihay trên apple store" [ref=e1065] [cursor=pointer]:
+          - /url: https://apps.apple.com/vn/app/loigiaihay-com-l%E1%BB%9Di-gi%E1%BA%A3i-hay/id1209891610
+          - img "App Loigiaihay trên apple store" [ref=e1066]
+        - link "App Loigiaihay trên google play store" [ref=e1067] [cursor=pointer]:
+          - /url: https://goo.gl/lYsjxK
+          - img "App Loigiaihay trên google play store" [ref=e1068]
+    - link:
+      - /url: https://hoidap247.com?ref=link
+      - img [ref=e1071] [cursor=pointer]
+  - iframe

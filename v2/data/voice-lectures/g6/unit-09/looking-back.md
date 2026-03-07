@@ -70,16 +70,36 @@ Ok đáp án nè.
 Bài 2 trang 34. Điền từ vựng về địa danh thành phố. Nhớ các từ đã học: <eng>tower</eng> = tháp, <eng>beach</eng> = bãi biển, <eng>palace</eng> = cung điện. 1 phút.
 </teacher_script>
 
-1. towers - tháp
-2. river bank - bờ sông
-3. beach - bãi biển
-4. night market - chợ đêm
-5. palace - cung điện
-6. postcard - bưu thiếp
+<task>
+**Đề:** Write the words in the box under their picture.
+**Dịch đề:** Viết các từ vào ô dưới ảnh tương ứng.
+</task>
+
+**Word bank:** *towers | beach | river bank | postcard | palace | night market*
+
+<questions type="matching">
+*(Nhìn 6 hình ảnh và điền từ phù hợp)*
+1. _______ (hình những tòa tháp)
+2. _______ (hình bờ sông)
+3. _______ (hình bãi biển)
+4. _______ (hình chợ đêm)
+5. _______ (hình cung điện)
+6. _______ (hình bưu thiếp)
+</questions>
 
 <teacher_script pause="0" href="audio/tts_db3f84d3.webm">
 Đáp án nè. Những từ này rất hay dùng khi mô tả thành phố. <eng>Tower</eng> là tháp như Big Ben. <eng>Beach</eng> là bãi biển như ở Sydney. <eng>Palace</eng> là cung điện như ở London. <eng>Night market</eng> là chợ đêm - đặc sản của các thành phố châu Á như Hà Nội, Bangkok.
 </teacher_script>
+
+<answer>
+**Bài 2 - Đáp án:**
+1. towers *(tháp)*
+2. river bank *(bờ sông)*
+3. beach *(bãi biển)*
+4. night market *(chợ đêm)*
+5. palace *(cung điện)*
+6. postcard *(bưu thiếp)*
+</answer>
 
 <!-- chunk: grammar_review -->
 <teacher_script pause="0" href="audio/tts_6e7fc14f.webm">

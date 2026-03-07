@@ -9,17 +9,26 @@ Ok Unit 12, bài <eng>A Closer Look 2</eng> — ngữ pháp nha. Hôm nay học 
 <grammar>
 ## So sánh NHẤT (Superlative) — tính từ ngắn
 
-Chúng ta dùng so sánh nhất để so sánh **ba hoặc nhiều hơn** người/vật.
+**Dùng khi nào:** So sánh **3 người/vật trở lên** — "cái này ... nhất trong tất cả"
 
-**Cấu trúc:** S + is/are + **the** + adj + **-est** + of/in + N
+**Công thức:**
+| Dạng | Cấu trúc | Ví dụ |
+|---|---|---|
+| (+) | S + is/are + **the** + adj**-est** + of/in + N | *A3 is the **tallest** of the three robots.* |
 
-### Quy tắc chính tả:
+**Quy tắc chính tả:**
 | Dạng thường | So sánh nhất | Quy tắc |
 |---|---|---|
 | fast | **the fastest** | + est |
 | large | **the largest** | kết thúc -e → + st |
 | hot | **the hottest** | 1 nguyên âm + 1 phụ âm → nhân đôi + est |
 | noisy | **the noisiest** | kết thúc -y → đổi y thành i + est |
+
+**Dấu hiệu:** *of all, of the three, in the class, in the world* → dùng so sánh nhất
+
+**Mẹo phân biệt:**
+- *than* → so sánh HƠN: *A3 is taller **than** H9.*
+- *of/in* → so sánh NHẤT: *A3 is the tallest **of** the three.*
 </grammar>
 
 <teacher_script pause="0">

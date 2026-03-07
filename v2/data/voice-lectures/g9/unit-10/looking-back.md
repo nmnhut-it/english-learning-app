@@ -265,7 +265,7 @@ Ok dap an ne. Giai thich chi tiet tung cau luan.
 2. Polar bears, whose natural habitat is the Arctic, are endangered animals.
 3. Julie Arblaster, who is an Australian scientist, focuses on studying climate change.
 4. Antarctica, which is surrounded by the Southern Ocean, is Earth's least populated continent.
-5. The natural world is the world of living things, which include plants and animals.
+5. The natural world is the world of living things, which includes plants and animals.
 </answer>
 
 <explanation>
@@ -287,7 +287,7 @@ Ok dap an ne. Giai thich chi tiet tung cau luan.
 *(Nam Cuc, duoc bao quanh boi Nam Dai Duong, la luc dia it dan cu nhat tren Trai Dat.)*
 => Dung dai tu quan he "which" thay cho chu ngu chi vat "Antarctica: Nam Cuc"; menh de quan he trong cau khong xac dinh nen ta dung hai dau phay ngan cach voi menh de chinh.
 
-**5.** The natural world is the world of living things, **which include plants and animals**.
+**5.** The natural world is the world of living things, **which includes plants and animals**.
 *(The gioi tu nhien la the gioi cua cac sinh vat, bao gom thuc vat va dong vat.)*
 => Dung dai tu quan he "which" thay cho tan ngu chi vat "living things: sinh vat song"; menh de quan he trong cau khong xac dinh nen ta dung dau phay ngan cach voi menh de chinh.
 </explanation>

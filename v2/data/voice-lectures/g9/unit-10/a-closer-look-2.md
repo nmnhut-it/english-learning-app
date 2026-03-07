@@ -404,7 +404,7 @@ The Nile, which is the longest river, flows into the Mediterranean Sea.
 *(Sông Nile, con sông dài nhất, chảy vào biển Địa Trung Hải.)*
 
 **2. Pacific Ocean:**
-The Pacific Ocean, which covers 30% of the planet's surface, is the largest ocean.
+The Pacific Ocean, which covers 30% of the planet surface, is the largest ocean.
 *(Thái Bình Dương, chiếm 30% bề mặt hành tinh, là đại dương lớn nhất.)*
 
 **3. Viet Nam:**
