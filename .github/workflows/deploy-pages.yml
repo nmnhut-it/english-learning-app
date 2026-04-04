@@ -38,6 +38,14 @@ jobs:
           cp v2/voice-lecture-index.html _site/index.html
           # Copy voice lecture content
           cp -r v2/data _site/data
+          # Copy unit index pages
+          cp -r v2/units _site/units
+          # Copy audio files
+          cp -r v2/audio _site/audio
+          # Copy exercise game files
+          [ -d v2/tieu-hoc ] && cp -r v2/tieu-hoc _site/tieu-hoc || true
+          # Ensure no Jekyll processing
+          touch _site/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
