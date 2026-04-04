@@ -2,14 +2,14 @@
 ## Skills — Reading, Speaking, Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4430c5e4.mp3">
 Ok lớp 9, tiếp theo là phần <eng>Skills</eng> của <eng>Review 3</eng> nha. Mình ôn 4 kỹ năng: đọc hiểu, nói, nghe, và viết. Chủ đề xoay quanh Units 7–9 — học tiếng Anh, kỳ quan thiên nhiên, và ngôn ngữ toàn cầu. Bắt đầu thôi!
 </teacher_script>
 
 <!-- chunk: reading -->
 ### Phần 1 — Reading: How to Learn English
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e159685d.mp3">
 Bài 1 — đọc hiểu về cách học tiếng Anh hiệu quả. Đọc đoạn văn, rồi chọn đáp án đúng A, B, C hoặc D cho mỗi câu hỏi. Đọc kỹ đoạn văn trước nha.
 </teacher_script>
 
@@ -21,7 +21,7 @@ If you want to learn English more quickly, lots of reading is important. When yo
 When you read, try to figure out the meaning of a new word from the words around it. Even if you are not always correct, it is good to practise thinking about what a new word might mean. You may need to learn the meaning of a word or phrase. The more words you understand, the better you will be able to read. A dictionary - hard copy or online version - can help you find the meanings of words which are new to you. You should keep a list of new words, their definitions, and a sentence for each word which shows how to properly use it. You can keep this vocabulary list in a notebook you always have with you. This helps you to revise what you have learnt wherever you are.
 </reading>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_87c72b10.mp3">
 Đọc xong rồi thì chọn đáp án cho 5 câu hỏi bên dưới. 1 phút rưỡi nha.
 </teacher_script>
 
@@ -67,7 +67,7 @@ When you read, try to figure out the meaning of a new word from the words around
 *Lời khuyên của tác giả dành cho người học tiếng Anh là _______.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5383563c.mp3">
 Ok đáp án nè. Giải thích từng câu luôn nha.
 </teacher_script>
 
@@ -90,7 +90,7 @@ Ok đáp án nè. Giải thích từng câu luôn nha.
 <!-- chunk: speaking -->
 ### Phần 2 — Speaking: Natural Wonders
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0d4b0fbd.mp3">
 Bài 2 — nói theo cặp. Nhìn vào danh sách các kỳ quan thiên nhiên dưới đây, xếp hạng từ thú vị nhất đến kém thú vị nhất, rồi nói về nơi mình muốn đến thăm và lý do. Xem danh sách đi.
 </teacher_script>
 
@@ -120,14 +120,14 @@ The place I would like to visit most is Mount Everest. Because I want to go on a
 *(Nơi tôi muốn đến thăm nhất là đỉnh Everest. Bởi vì tôi muốn thực hiện chuyến phiêu lưu leo núi và đứng trên đỉnh Everest. Hơn thế nữa, nơi đây còn có khung cảnh ngoạn mục với những đỉnh núi phủ tuyết và sông băng rộng lớn, tạo nên một cảnh quan hùng vĩ làm say đắm tâm hồn. Tham quan Everest cũng mang lại cảm giác phiêu lưu đầy cảm hứng và cơ hội khám phá vẻ đẹp của thế giới tự nhiên.)*
 </questions>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_1feca5dd.mp3">
 Xếp hạng 5 kỳ quan và nói với bạn về nơi mình muốn đến nhất. 2 phút nha — nhớ giải thích lý do nha.
 </teacher_script>
 
 <!-- chunk: listening -->
 ### Phần 3 — Listening: Protecting the Galápagos Islands
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5223f712.mp3">
 Bài 3 — nghe và điền vào chỗ trống, mỗi chỗ không quá <eng>TWO words</eng>. Chủ đề là bảo vệ quần đảo Galápagos. Đọc trước các câu hỏi để biết cần nghe thông tin gì nha.
 </teacher_script>
 
@@ -170,7 +170,7 @@ The Galápagos Islands - a World Heritage Site - are located in the Pacific Ocea
 By doing these, visitors can help protect the unique species of the islands and help preserve this natural wonder of the world.
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5383563c.mp3">
 Ok đáp án nè. Giải thích từng câu luôn nha.
 </teacher_script>
 
@@ -193,7 +193,7 @@ Ok đáp án nè. Giải thích từng câu luôn nha.
 <!-- chunk: writing -->
 ### Phần 4 — Writing: Make Sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0521bfcc.mp3">
 Bài 4 — đặt câu từ các từ và cụm từ cho sẵn. Mỗi câu cần thêm từ, chia động từ đúng thì, và điền giới từ hoặc từ còn thiếu nha. Đọc kỹ từng dòng trước khi viết.
 </teacher_script>
 
@@ -214,11 +214,11 @@ Bài 4 — đặt câu từ các từ và cụm từ cho sẵn. Mỗi câu cần
 **5.** Many / foreign tourist / like Viet Nam / because / accommodation and food / affordable /.
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_59141ef7.mp3">
 Viết 5 câu hoàn chỉnh vào tập. 1 phút rưỡi nha — chú ý chia động từ và thêm từ còn thiếu cho đúng.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5383563c.mp3">
 Ok đáp án nè. Giải thích từng câu luôn nha.
 </teacher_script>
 
@@ -243,11 +243,11 @@ Ok đáp án nè. Giải thích từng câu luôn nha.
 **5.** "Many foreign **tourists** like Vietnam because accommodation and food **are** affordable." — "Many + danh từ số nhiều" → "tourists". Mệnh đề "because" có chủ ngữ "accommodation and food" là số nhiều → "**are** affordable". Động từ chính "like" không chia (số nhiều).
 </explanation>
 
-<teacher_script pause="300" action="photo">
+<teacher_script pause="300" action="photo" href="audio/tts_b82ea91e.mp3">
 Viết 5 câu vào tập nha. 5 phút. Nhớ kiểm tra: chủ ngữ → động từ cho đúng số ít/số nhiều, chia thì đúng, thêm giới từ còn thiếu. Xong rồi chụp hình nộp nha.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e062b09b.mp3">
 Xong phần <eng>Skills</eng> của <eng>Review 3</eng> rồi nha! Hôm nay mình ôn: **đọc hiểu** về cách học tiếng Anh, **nói** về các kỳ quan thiên nhiên, **nghe** về bảo vệ quần đảo Galápagos, và **viết** câu hoàn chỉnh từ từ gợi ý. Ôn kỹ Units 7–8–9 nha — nhớ mấy điểm ngữ pháp: mệnh đề quan hệ "which", câu hỏi Wh-, và chủ ngữ số nhiều phải đi với động từ số nhiều. Gặp lại ở bài tiếp theo!
 </teacher_script>

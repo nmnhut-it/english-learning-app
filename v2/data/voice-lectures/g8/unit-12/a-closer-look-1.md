@@ -161,7 +161,7 @@ Bài 3, <eng>Complete the following sentences with the words from the box</eng> 
 *Dải Ngân Hà là _______ bao gồm cả hệ Mặt Trời của chúng ta.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_675e7c26.mp3">
 Đáp án nè, giải thích từng câu luôn.
 </teacher_script>
 

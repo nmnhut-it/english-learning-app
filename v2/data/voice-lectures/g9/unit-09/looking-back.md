@@ -3,7 +3,7 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eaa18d82.mp3">
 Ok lớp 9, hôm nay ôn tập Unit 9 về <eng>English in the World</eng> nha. Bài này ôn lại từ vựng về ngôn ngữ và ngữ pháp mệnh đề quan hệ. Mở sách trang 100 đi.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 9, hôm nay ôn tập Unit 9 về <eng>English in the World</eng> nha. 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 100 - Vocabulary
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b65deba4.mp3">
 Bài 1. Điền từ thích hợp từ ngân hàng từ. Nhớ lại các từ về <eng>World Englishes</eng> đã học nha. 1 phút.
 </teacher_script>
 
@@ -39,7 +39,7 @@ Bài 1. Điền từ thích hợp từ ngân hàng từ. Nhớ lại các từ v
 **Bài 1 - Đáp án:** 1. mean | 2. concentric | 3. bilingual | 4. fluent | 5. immigrants
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d7056fd2.mp3">
 Giải thích nha:
 - Câu 1: <eng>mean</eng> = có nghĩa là - "What does this word mean?" = "Từ này có nghĩa gì?"
 - Câu 2: <eng>concentric circles</eng> = vòng tròn đồng tâm - mô hình 3 vòng tròn của Kachru về World Englishes
@@ -53,7 +53,7 @@ Giải thích nha:
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 40 - Grammar: Relative Clauses
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_3f43c1f6.mp3">
 Bài 2. Nối câu dùng mệnh đề quan hệ. Nhớ: <eng>who</eng> = người, <eng>which</eng> = vật, <eng>whose</eng> = sở hữu. 90 giây.
 </teacher_script>
 
@@ -75,7 +75,7 @@ Bài 2. Nối câu dùng mệnh đề quan hệ. Nhớ: <eng>who</eng> = ngườ
 3. The boy **whose father is a teacher** is smart.
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4437a5cd.mp3">
 Giải thích cách làm nha:
 - Câu 1: <eng>her</eng> = <eng>the girl</eng> → thay bằng <eng>who</eng> → "The girl <eng>who you met yesterday</eng> is my sister."
 - Câu 2: <eng>it</eng> = <eng>the book</eng> → thay bằng <eng>which</eng> → "This is the book <eng>which I bought in London</eng>."
@@ -87,7 +87,7 @@ Mẹo: Tìm từ lặp lại, xác định người/vật/sở hữu, rồi thay
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_974da033.mp3">
 Ok hết bài ôn tập Unit 9. Tóm tắt nha:
 
 **Từ vựng:**

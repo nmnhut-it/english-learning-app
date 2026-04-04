@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6f9c3d5a.mp3">
 Ok lớp 8, Unit 10 bài <eng>A Closer Look 2</eng> nha. Bài này mình học ngữ pháp về giới từ chỉ nơi chốn, giới từ chỉ thời gian, và đại từ sở hữu. Mở sách trang 107 đi.
 </teacher_script>
 
 <!-- chunk: grammar-prepositions-of-place -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4df3b6b2.mp3">
 Đầu tiên là giới từ chỉ nơi chốn nè. Các em ghi vô tập nha.
 </teacher_script>
 
@@ -30,14 +30,14 @@ Ok lớp 8, Unit 10 bài <eng>A Closer Look 2</eng> nha. Bài này mình học n
 - **ON** = trên bề mặt, tiếp xúc (on the floor, on the wall, on the pavement)
 </grammar>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_1fec0b5b.mp3">
 Nhớ nha: <eng>AT</eng> là điểm nhỏ cụ thể, <eng>IN</eng> là bên trong không gian, <eng>ON</eng> là trên bề mặt. Ghi xong thì làm bài 1 nha.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
 ### Bài 1 trang 107 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_db3f1dcf.mp3">
 Bài 1 <eng>Complete the sentences with at, in, in front of, on, opposite, or under</eng>. Điền giới từ chỉ nơi chốn vào chỗ trống nha.
 </teacher_script>
 
@@ -63,7 +63,7 @@ Bài 1 <eng>Complete the sentences with at, in, in front of, on, opposite, or un
 *Ann đứng _______ mình trong hàng để lên xe buýt.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_9aa71681.mp3">
 Làm trong 1 phút nha. Nhớ xem giới từ nào phù hợp với ngữ cảnh.
 </teacher_script>
 
@@ -82,12 +82,12 @@ Ok đáp án nè.
 5. **in front of** - "in front of" nghĩa là "ở phía trước"
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0d1550b9.mp3">
 Câu 1 là <eng>at the end of this street</eng>, dùng <eng>at</eng> vì đây là điểm cụ thể. Câu 2 là <eng>opposite each other</eng>, đối diện nhau. Câu 3 là <eng>under the table</eng>, tìm dưới gầm bàn. Câu 4 có 2 chỗ trống: <eng>on the street</eng> là trên đường, <eng>on the pavement</eng> là trên vỉa hè - cả hai đều dùng <eng>on</eng> vì là bề mặt. Câu 5 là <eng>in front of</eng>, đứng phía trước. Hiểu chưa nè?
 </teacher_script>
 
 <!-- chunk: grammar-prepositions-of-time -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f1674a2b.mp3">
 Tiếp theo là giới từ chỉ thời gian nha. Phần này quan trọng lắm, ghi vô tập đi.
 </teacher_script>
 
@@ -108,14 +108,14 @@ Tiếp theo là giới từ chỉ thời gian nha. Phần này quan trọng lắ
 - **BY** + mốc thời gian = "trước lúc đó/tính tới lúc đó đã xong" - I will be back **by** Monday.
 </grammar>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6c6b3da6.mp3">
 Nhớ phân biệt nha: <eng>IN</eng> là trong vòng bao lâu nữa, <eng>FOR</eng> là kéo dài bao lâu, <eng>BY</eng> là trước mốc thời gian nào đó. Ghi xong làm bài 2 nha.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
 ### Bài 2 trang 107 - Multiple choice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8ae3c89b.mp3">
 Bài 2 <eng>Circle the correct preposition in each sentence</eng>. Khoanh tròn giới từ đúng nha.
 </teacher_script>
 
@@ -156,7 +156,7 @@ Bài 2 <eng>Circle the correct preposition in each sentence</eng>. Khoanh tròn 
 *Mình nghĩ rào cản ngôn ngữ sẽ biến mất _______ 30 năm nữa.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_838a5f35.mp3">
 Làm trong 1 phút nha. Nhớ xem giới từ nào phù hợp với loại thời gian.
 </teacher_script>
 
@@ -175,14 +175,14 @@ Ok đáp án nè.
 5. **in** 30 years - "in" + khoảng thời gian = trong 30 năm nữa (tương lai)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b15a53b3.mp3">
 Câu 1 là <eng>by</eng> vì phải sẵn sàng TRƯỚC 10 giờ, 10:15 có hẹn rồi. Câu 2 là <eng>in</eng> vì dùng cho tháng năm. Câu 3 là <eng>for</eng> vì kéo dài 2 tuần. Câu 4 là <eng>on</eng> vì dùng cho ngày trong tuần. Câu 5 là <eng>in</eng> vì "trong 30 năm nữa" là tương lai. Ok chưa nè?
 </teacher_script>
 
 <!-- chunk: exercise-3 -->
 ### Bài 3 trang 107 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a19ec5b3.mp3">
 Bài 3 <eng>Complete the text with the prepositions from the box</eng>. Điền giới từ vào đoạn văn nha. Mỗi giới từ chỉ dùng 1 lần thôi.
 </teacher_script>
 
@@ -197,7 +197,7 @@ Bài 3 <eng>Complete the text with the prepositions from the box</eng>. Điền 
 I think smartphones will change a lot (1) _______ the near future. They will be much thinner. (2) _______ 2035, we might be able to roll a phone like a sheet of paper. They will become much smarter, too. They will be able to charge their battery automatically when we are (3) _______ home. They might check the latest news (4) _______ the Internet. We won't have to wait (5) _______ a long time for these super smartphones.
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_5fbdf9a4.mp3">
 Đọc kỹ đoạn văn và điền giới từ phù hợp nha. 1 phút rưỡi.
 </teacher_script>
 
@@ -217,14 +217,14 @@ I think smartphones will change a lot **in** the near future. They will be much 
 Tôi nghĩ điện thoại thông minh sẽ thay đổi rất nhiều **trong** tương lai gần. Chúng sẽ mỏng hơn rất nhiều. **Đến** năm 2035, chúng ta có thể cuộn điện thoại lại như một tờ giấy. Chúng cũng sẽ trở nên thông minh hơn nhiều. Chúng sẽ có thể tự động sạc pin khi chúng ta **ở** nhà. Chúng có thể kiểm tra tin tức mới nhất **trên** mạng Internet. Chúng ta sẽ không phải chờ đợi **trong** một thời gian dài để có những chiếc điện thoại thông minh siêu việt này.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3dbec165.mp3">
 Câu 1 là <eng>in the near future</eng>, trong tương lai gần. Câu 2 là <eng>By 2035</eng>, tính đến năm 2035. Câu 3 là <eng>at home</eng>, ở nhà - đây là cụm cố định. Câu 4 là <eng>on the Internet</eng>, trên mạng - cũng là cụm cố định. Câu 5 là <eng>for a long time</eng>, trong một thời gian dài. Hiểu hết chưa nè?
 </teacher_script>
 
 <!-- chunk: exercise-4 -->
 ### Bài 4 trang 107 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_79217ee2.mp3">
 Bài 4 <eng>Work in pairs. Tell each other whether you agree or disagree with the following ideas.</eng> Làm theo cặp, nói cho nhau biết bạn đồng ý hay không đồng ý với các ý kiến sau nha.
 </teacher_script>
 
@@ -241,7 +241,7 @@ Bài 4 <eng>Work in pairs. Tell each other whether you agree or disagree with th
 *Đến năm 2050, cách mà con người giao tiếp với nhau sẽ khác so với hiện tại.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9defd850.mp3">
 Đây là bài nói nha. Đọc mẫu trả lời rồi tự nói theo ý mình đi.
 </teacher_script>
 
@@ -257,12 +257,12 @@ Bài 4 <eng>Work in pairs. Tell each other whether you agree or disagree with th
 *Tôi đồng ý với ý kiến này. Trong tương lai, chúng ta không cần đến thăm họ hàng hay bạn bè để biết tình hình của họ. Chúng ta có thể cho họ biết tình hình của mình ngay lập tức. Nhiều năm trước thì chúng ta phải đi lại rất lâu mới thăm được họ, nhưng trong tương lai ta có thể gặp họ hàng và bạn bè thông qua cuộc gọi video. Hơn nữa, chúng ta có thể kết bạn mới thông qua nhắn tin và mạng xã hội.*
 </answer>
 
-<teacher_script pause="120" action="record">
+<teacher_script pause="120" action="record" href="audio/tts_8037cfe2.mp3">
 Đọc mẫu xong rồi, giờ tự nói ý kiến của mình nha. Bấm nút ghi âm và nói. 2 phút.
 </teacher_script>
 
 <!-- chunk: grammar-possessive-pronouns -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_46a7b4a1.mp3">
 Tiếp theo là phần đại từ sở hữu nha. Phần này cũng quan trọng lắm, ghi vô tập đi.
 </teacher_script>
 
@@ -292,14 +292,14 @@ Tiếp theo là phần đại từ sở hữu nha. Phần này cũng quan trọn
 - Đại từ sở hữu đứng một mình, thay thế cả cụm (mine = my book)
 </grammar>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f4757c92.mp3">
 Nhớ nha: Tính từ sở hữu đứng TRƯỚC danh từ như <eng>my book</eng>, còn đại từ sở hữu đứng MỘT MÌNH như <eng>mine</eng>. Và cấu trúc <eng>one of my friends</eng> chuyển thành <eng>a friend of mine</eng>. Ghi xong làm bài 5 nha.
 </teacher_script>
 
 <!-- chunk: exercise-5 -->
 ### Bài 5 trang 108 - Sentence transformation
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c6fe5b6c.mp3">
 Bài 5 <eng>Complete the second sentence so that it has the same meaning as the first sentence</eng>. Hoàn thành câu thứ hai sao cho nghĩa giống câu thứ nhất nha.
 </teacher_script>
 
@@ -330,7 +330,7 @@ Last year, _________________ won scholarships to the US.
 *Năm ngoái, hai trong số những bạn cùng lớp của chúng tôi đã giành được học bổng đi Mỹ.*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_409114e9.mp3">
 Nhớ cấu trúc chuyển đổi nha: <eng>one of my friends</eng> thành <eng>a friend of mine</eng>. Làm trong 1 phút rưỡi.
 </teacher_script>
 
@@ -354,11 +354,11 @@ Ok đáp án nè.
 5. two of our classmates → two classmates of ours (our → ours)
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d750a130.mp3">
 Câu 1: <eng>one of her cousins</eng> chuyển thành <eng>a cousin of hers</eng>, <eng>her</eng> thành <eng>hers</eng>. Câu 2: <eng>one of his tablets</eng> thành <eng>a tablet of his</eng>, <eng>his</eng> giữ nguyên vì tính từ và đại từ sở hữu giống nhau. Câu 3: ngược lại, <eng>a pencil of yours</eng> thành <eng>one of your pencils</eng>, <eng>yours</eng> thành <eng>your</eng> và danh từ số nhiều. Câu 4: <eng>one of their relatives</eng> thành <eng>a relative of theirs</eng>. Câu 5: <eng>two of our classmates</eng> thành <eng>two classmates of ours</eng>. Hiểu hết chưa nè?
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_59914078.mp3">
 Ok bài <eng>A Closer Look 2</eng> Unit 10 xong rồi nha. Hôm nay mình học được 3 điểm ngữ pháp quan trọng: giới từ chỉ nơi chốn (<eng>at, in, on, in front of, opposite, behind, under</eng>), giới từ chỉ thời gian (<eng>in, for, by, on</eng>), và đại từ sở hữu (<eng>mine, yours, his, hers, its, ours, theirs</eng>). Về nhà ôn lại và chuẩn bị bài tiếp theo nha. Tạm biệt các em!
 </teacher_script>

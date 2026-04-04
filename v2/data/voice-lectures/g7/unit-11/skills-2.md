@@ -2,12 +2,12 @@
 ## SKILLS 2 - Listening and Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cbdebcf7.mp3">
 Ok lớp 7, Unit 11 <eng>Skills 2</eng> nha. Bài này tụi mình học nghe và viết về chủ đề phương tiện giao thông trong tương lai. Mở sách trang 120 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ece564a3.mp3">
 Trước tiên học từ vựng mới nha. Bấm nút bên dưới để học từ vựng, máy đọc và các em đọc theo. Xong rồi làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -23,7 +23,7 @@ Trước tiên học từ vựng mới nha. Bấm nút bên dưới để học 
 </vocabulary>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0461bb25.mp3">
 Bài 1 <eng>Circle the words or phrases that you think are used to describe the future means of transport.</eng> Khoanh tròn những từ hoặc cụm từ mà em cho là dùng để mô tả các phương tiện giao thông trong tương lai nha.
 </teacher_script>
 
@@ -42,7 +42,7 @@ Bài 1 <eng>Circle the words or phrases that you think are used to describe the 
 - D. running on petrol *(chạy bằng dầu)*
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_7424ba58.mp3">
 Đọc các đáp án rồi khoanh tròn những từ mô tả phương tiện giao thông tương lai nha. 45 giây.
 </teacher_script>
 
@@ -62,7 +62,7 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: listening-audio -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ad4109b5.mp3">
 Giờ nghe bài nghe nha. Thầy Hà đang thảo luận với học sinh về phương tiện giao thông trong tương lai. Nghe kỹ để làm bài 2 và bài 3.
 </teacher_script>
 
@@ -71,7 +71,7 @@ Giờ nghe bài nghe nha. Thầy Hà đang thảo luận với học sinh về p
 </audio>
 
 <!-- chunk: tapescript -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cbd1b5ed.mp3">
 Đây là nội dung bài nghe. Đọc và dịch nha.
 </teacher_script>
 
@@ -107,12 +107,12 @@ Giờ nghe bài nghe nha. Thầy Hà đang thảo luận với học sinh về p
 **Lan:** Em nghĩ con người sẽ sử dụng tàu chạy bằng năng lượng mặt trời để di chuyển trên biển ạ. Chúng sẽ thân thiện với môi trường và cũng thoải mái nữa...
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_7df85c69.mp3">
 Dịch bài nghe vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_90818d2e.mp3">
 Bài 2 <eng>Listen to a talk between Mr Ha and his students. How many means of transport are they talking about?</eng> Nghe buổi nói chuyện giữa thầy Hà và các học sinh. Họ đang nói về bao nhiêu phương tiện giao thông nha.
 </teacher_script>
 
@@ -130,7 +130,7 @@ Bài 2 <eng>Listen to a talk between Mr Ha and his students. How many means of t
 - C. 4
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_4c358ce1.mp3">
 Nghe lại và chọn đáp án đúng nha. 1 phút.
 </teacher_script>
 
@@ -153,7 +153,7 @@ Vậy đáp án là C. 4 phương tiện nha.
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6dba0426.mp3">
 Bài 3 <eng>Listen to the talk again and complete each sentence with ONE word.</eng> Nghe lại bài nói và hoàn thành mỗi câu với MỘT từ nha.
 </teacher_script>
 
@@ -182,12 +182,12 @@ Bài 3 <eng>Listen to the talk again and complete each sentence with ONE word.</
 *Tàu chạy bằng năng lượng mặt trời sẽ thân thiện với môi trường và thoải mái.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_bb831e0f.mp3">
 Nghe lại và điền từ còn thiếu vô nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
-Ok đáp án nè. Cô giải thích từng câu luôn.
+<teacher_script pause="0" href="audio/tts_fbc44697.mp3">
+Ok đáp án nè. Thầy giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
@@ -207,7 +207,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6f33bddb.mp3">
 Phần <eng>Writing</eng> nè. Bài 4 <eng>Work in pairs. Choose one future means of transport in 3 and tick the words and phrases that describe its advantages.</eng> Làm việc theo cặp, chọn một phương tiện giao thông tương lai rồi đánh dấu vào các từ mô tả ưu điểm của nó nha.
 </teacher_script>
 
@@ -234,11 +234,11 @@ Phần <eng>Writing</eng> nè. Bài 4 <eng>Work in pairs. Choose one future mean
 | fast *(nhanh)* | |
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b9c70e03.mp3">
 Chọn 1 phương tiện giao thông tương lai rồi đánh dấu các ưu điểm của nó nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1ce9108b.mp3">
 Ok đáp án gợi ý nè. Cô chọn <eng>bullet trains</eng> làm ví dụ nha.
 </teacher_script>
 
@@ -267,7 +267,7 @@ Ok đáp án gợi ý nè. Cô chọn <eng>bullet trains</eng> làm ví dụ nha
 </explanation>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c91d2e24.mp3">
 Bài 5 <eng>Now write a paragraph of about 70 words about the advantages of the means of transport you've chosen.</eng> Viết một đoạn văn khoảng 70 từ về ưu điểm của phương tiện giao thông mà em đã chọn nha.
 </teacher_script>
 
@@ -295,7 +295,7 @@ I think people will like travelling by __________ in the future because it has m
   *Ví dụ: It helps reducing the huge amount of transport.* (Nó giúp giảm lượng phương tiện lớn.)
 </grammar>
 
-<teacher_script pause="300" action="photo">
+<teacher_script pause="300" action="photo" href="audio/tts_a27c831d.mp3">
 Viết đoạn văn khoảng 70 từ nha. Dùng cấu trúc <eng>I think people will like travelling by...</eng> rồi nêu các ưu điểm. 5 phút. Xong rồi chụp hình bài viết gửi lên.
 </teacher_script>
 
@@ -310,6 +310,6 @@ Tôi nghĩ mọi người sẽ thích đi du lịch bằng tàu cao tốc trong 
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e5f3ea03.mp3">
 Ok xong bài <eng>Skills 2</eng> Unit 11 rồi nha. Các em đã học được cách nghe và viết về phương tiện giao thông trong tương lai. Nhớ ôn lại từ vựng và luyện viết thêm ở nhà nha. Về nhà ôn bài và chuẩn bị bài <eng>Looking Back</eng> hen. Tạm biệt các em!
 </teacher_script>

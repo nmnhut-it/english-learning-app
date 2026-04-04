@@ -318,7 +318,7 @@ Câu 5: <eng>single-use products</eng> - sản phẩm dùng một lần.
 
 ### Bài 5 trang 73 - Environment Quiz
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_2168fd96.mp3">
 Bài 5 — <eng>Environment Quiz</eng>. Trắc nghiệm kiến thức môi trường nha. Đọc câu hỏi rồi chọn đáp án đúng. 1 phút nha.
 </teacher_script>
 

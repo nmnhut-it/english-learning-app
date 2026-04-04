@@ -201,7 +201,7 @@ Bài 4 — thảo luận theo cặp nha. Chọn một hình thức mua sắm và
 3. Shopping at an open-air market *(Mua sắm ở chợ ngoài trời)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_89a0b7ee.mp3">
 Ghi chú ưu và nhược điểm vô tập nha — chuẩn bị cho bài viết bài 5 tiếp theo.
 </teacher_script>
 

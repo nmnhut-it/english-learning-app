@@ -2,7 +2,7 @@
 ## SKILLS 1 - Đọc & Nói
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_18614a92.mp3">
 Ok lớp 9, bài <eng>Skills 1</eng> Unit 12 nha — hôm nay luyện đọc và nói. Chủ đề là nghề nghiệp trong thế giới đang thay đổi. Mở sách trang 133 đi. Ghi tựa bài, rồi bấm "Bắt đầu" học từ vựng trước nha.
 </teacher_script>
 
@@ -19,12 +19,12 @@ Ok lớp 9, bài <eng>Skills 1</eng> Unit 12 nha — hôm nay luyện đọc và
 10. **replace** : (v) thay thế /rɪˈpleɪs/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f264062a.mp3">
 Từ vựng xong rồi nha. Giờ qua bài 1 — nhìn hình và trả lời câu hỏi về các nghề nghiệp.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_95dce91f.mp3">
 Bài 1 trang 133 — nhìn vào các công việc trong hình và trả lời 3 câu hỏi. Làm nhanh trong 1 phút nha.
 </teacher_script>
 
@@ -44,7 +44,7 @@ Bài 1 trang 133 — nhìn vào các công việc trong hình và trả lời 3 
 *Công việc nào phụ thuộc nhiều vào công nghệ?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7242caec.mp3">
 Ok đáp án bài 1 nè.
 </teacher_script>
 
@@ -64,7 +64,7 @@ Ok đáp án bài 1 nè.
 </explanation>
 
 <!-- chunk: reading -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_421a4e0f.mp3">
 Bài 2 trang 133 — đọc bài báo về thế giới việc làm đang thay đổi. Đọc kỹ nha vì có bài tập theo sau.
 </teacher_script>
 
@@ -94,12 +94,12 @@ Khi bước sang tuổi 15, bạn nên bắt đầu suy nghĩ nghiêm túc về 
 Trong tương lai, có thể còn có nhiều thay đổi hơn nữa trong thế giới việc làm. Bạn nên làm việc nhóm tốt, không ngừng học hỏi và có kỹ năng máy tính tốt. Làm được như vậy, bạn có thể tự tin bước đi trên con đường sự nghiệp của mình.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_41ca9ad9.mp3">
 Đọc lại bài và dịch vô vở. 3 phút nha. Chú ý 3 đoạn giữa — mỗi đoạn nói về một khía cạnh khác nhau của thế giới việc làm.
 </teacher_script>
 
 <!-- chunk: exercise-2a -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_31c70004.mp3">
 Bài 2a trang 134 — mỗi câu A, B, C phù hợp với đoạn số mấy (1, 2, hoặc 3)? Đánh dấu vào ô đúng. Làm 1 phút nha.
 </teacher_script>
 
@@ -119,7 +119,7 @@ C. The kinds of jobs people are doing are changing.
 *Các loại công việc mọi người đang làm đang thay đổi.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_084aec5f.mp3">
 Ok đáp án 2a nè.
 </teacher_script>
 
@@ -136,7 +136,7 @@ Ok đáp án 2a nè.
 </explanation>
 
 <!-- chunk: exercise-2b -->
-<teacher_script pause="30">
+<teacher_script pause="30" href="audio/tts_52112bda.mp3">
 Bài 2b — chọn tiêu đề phù hợp nhất cho bài báo. 3 lựa chọn A, B, C. Làm nhanh nha.
 </teacher_script>
 
@@ -154,7 +154,7 @@ Bài 2b — chọn tiêu đề phù hợp nhất cho bài báo. 3 lựa chọn A
 *Tiêu đề nào phù hợp nhất với nội dung bài báo?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.mp3">
 Đáp án nè.
 </teacher_script>
 
@@ -170,7 +170,7 @@ B và C sai vì bài không chỉ nói cách chọn nghề hay đưa ra quyết 
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5efa5519.mp3">
 Bài 3 trang 134 — đọc lại bài và đánh dấu T (Đúng) hoặc F (Sai) cho 5 câu. Làm 1 phút nha.
 </teacher_script>
 
@@ -196,7 +196,7 @@ Bài 3 trang 134 — đọc lại bài và đánh dấu T (Đúng) hoặc F (Sai
 *Sẽ có ít thay đổi hơn trong thế giới việc làm trong tương lai.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9257c365.mp3">
 Ok đáp án bài 3 nè.
 </teacher_script>
 
@@ -217,7 +217,7 @@ Ok đáp án bài 3 nè.
 </explanation>
 
 <!-- chunk: speaking-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_96e5a98c.mp3">
 Bài 4 trang 134 — hoàn thành hội thoại giữa Ben và Hoa. Có 4 câu trong hộp, điền vào chỗ trống (1)-(4) cho đúng. Làm 1 phút nha.
 </teacher_script>
 
@@ -252,7 +252,7 @@ Bài 4 trang 134 — hoàn thành hội thoại giữa Ben và Hoa. Có 4 câu t
 **Hoa:** Thanks. I hope I'll be such a successful hairdresser that I'll have my own hair salon some day.
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04f7c05e.mp3">
 Đáp án bài 4 nè.
 </teacher_script>
 
@@ -271,7 +271,7 @@ Bài 4 trang 134 — hoàn thành hội thoại giữa Ben và Hoa. Có 4 câu t
 </explanation>
 
 <!-- chunk: speaking-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9d57ab8f.mp3">
 Bài 5 trang 135 — làm việc theo cặp. Thực hành hội thoại tương tự về nghề bạn muốn làm trong tương lai, rồi báo cáo với lớp. Đây là khung báo cáo nha.
 </teacher_script>
 
@@ -294,6 +294,6 @@ My partner is… She/He wants to be a … because … She/He'll need to learn ma
 4. What personal qualities do you have for this job?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_881e83cd.mp3">
 Tốt lắm nha! Vậy là xong bài <eng>Skills 1</eng> Unit 12. Hôm nay đọc bài về thế giới việc làm đang thay đổi, làm bài tập đúng sai, và luyện nói về nghề nghiệp tương lai. Nhớ: thế giới việc làm đang thay đổi — cần kỹ năng máy tính, teamwork, và học suốt đời nha. Ôn bài hen!
 </teacher_script>

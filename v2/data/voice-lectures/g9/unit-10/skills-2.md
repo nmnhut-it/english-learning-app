@@ -3,14 +3,14 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_27da7dbb.mp3">
 Ok lớp 9, hôm nay học <eng>Skills 2</eng> - Nghe và Viết nha. Bài nghe về ảnh hưởng của thực vật và động vật lên môi trường sống, rồi em sẽ viết bài tóm tắt cuộc trò chuyện. Mở sách trang 113 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b2ba7922.mp3">
 Trước khi nghe, học từ vựng đi. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó các em làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -35,7 +35,7 @@ Trước khi nghe, học từ vựng đi. Bấm nút "Bắt đầu" bên dưới
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 113 - Look and answer
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a8d7476d.mp3">
 Bài 1, nhìn tranh và trả lời các câu hỏi nha. Có 2 bức tranh về con hải ly và cái đập.
 </teacher_script>
 
@@ -55,7 +55,7 @@ Bài 1, nhìn tranh và trả lời các câu hỏi nha. Có 2 bức tranh về 
 *Bạn nhìn thấy gì trong hình B?*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_76efa9f8.mp3">
 Nhìn tranh và trả lời 3 câu hỏi. 1 phút nha.
 </teacher_script>
 
@@ -66,7 +66,7 @@ Nhìn tranh và trả lời 3 câu hỏi. 1 phút nha.
 3. I see a dam in picture B. *(Tôi nhìn thấy một cái đập trong hình B.)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_20ded607.mp3">
 Giải thích nha:
 - Hình A là con <eng>beaver</eng> - hải ly, đang bơi và cầm thanh gỗ
 - Hình B là cái <eng>dam</eng> - đập do hải ly xây
@@ -78,7 +78,7 @@ Giải thích nha:
 <!-- chunk: tapescript -->
 ### Bài nghe - Tapescript
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_345ec2d6.mp3">
 Đây là bài nghe. Đọc và dịch nha. Thầy An nói về ảnh hưởng của thực vật và động vật lên môi trường sống.
 </teacher_script>
 
@@ -110,7 +110,7 @@ Giải thích nha:
 **Thầy An:** Chúng ta nên bảo tồn môi trường sống bằng cách không mang thực vật và động vật từ những nơi khác đến. Chúng ta không nên chặt phá rừng vì điều đó sẽ phá hủy môi trường sống của nhiều loài, hoặc sử dụng thuốc trừ sâu gây ô nhiễm môi trường....
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_6906afe7.mp3">
 Dịch bài nghe vô vở. 3 phút nha.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Dịch bài nghe vô vở. 3 phút nha.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 113 - Multiple Choice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bb23813b.mp3">
 Bài 2. Nghe và chọn đáp án đúng A, B, hoặc C nha.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Bài 2. Nghe và chọn đáp án đúng A, B, hoặc C nha.
 *C. Sử dụng thuốc trừ sâu.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c57821bc.mp3">
 Nghe và chọn đáp án. 1 phút nha.
 </teacher_script>
 
@@ -167,7 +167,7 @@ Ok đáp án nè.
 **2. B** - Chọn B vì thầy An nói: <eng>"We should preserve habitats"</eng> → Chúng ta nên bảo tồn môi trường sống.
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5b4b4aee.mp3">
 Giải thích nha:
 - Câu 1 chọn C vì thầy An nói về ảnh hưởng của thực vật và động vật đến môi trường sống, không phải ngược lại
 - Câu 2 chọn B vì thầy An khuyên nên <eng>preserve habitats</eng> - bảo tồn môi trường sống. A và C đều là những điều KHÔNG nên làm!
@@ -180,7 +180,7 @@ Giải thích nha:
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 113 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c38ab7f8.mp3">
 Bài 3. Nghe lại và điền vào chỗ trống MỘT từ nha.
 </teacher_script>
 
@@ -206,7 +206,7 @@ Bài 3. Nghe lại và điền vào chỗ trống MỘT từ nha.
 - Stop using (6) _______. *(Ngừng sử dụng _______.)*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_d805498b.mp3">
 Điền 6 từ vào chỗ trống. 1 phút 30 giây nha.
 </teacher_script>
 
@@ -234,7 +234,7 @@ Ok đáp án nè.
 - **(6) pesticides** - <eng>use pesticides which pollute</eng> = sử dụng THUỐC TRỪ SÂU gây ô nhiễm
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_af4ccadb.mp3">
 Giải thích từng đáp án nha:
 - Số 1 là <eng>harm</eng> - gây hại, đối nghĩa với <eng>help</eng>
 - Số 2 là <eng>take</eng> - <eng>take over</eng> nghĩa là chiếm lĩnh, lấn át
@@ -249,7 +249,7 @@ Giải thích từng đáp án nha:
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 113 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_324b656f.mp3">
 Bài 4. Làm việc theo cặp, hỏi và trả lời các câu hỏi. Đây là bước chuẩn bị cho bài viết nha.
 </teacher_script>
 
@@ -272,7 +272,7 @@ Bài 4. Làm việc theo cặp, hỏi và trả lời các câu hỏi. Đây là
 *Con người nên làm gì?*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_52d66563.mp3">
 Trả lời 4 câu hỏi bằng tiếng Anh. 1 phút 30 giây nha.
 </teacher_script>
 
@@ -287,7 +287,7 @@ Trả lời 4 câu hỏi bằng tiếng Anh. 1 phút 30 giây nha.
 4. Humans should preserve habitats by not bringing plants and animals from different places. *(Con người nên bảo tồn môi trường sống bằng cách không mang thực vật và động vật từ những nơi khác đến.)*
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6d2603ef.mp3">
 Tóm tắt 4 ý chính để chuẩn bị viết nha:
 1. Chủ đề: ảnh hưởng của thực vật và động vật lên môi trường sống
 2. Thực vật: có thể giúp (làm đẹp) hoặc hại (chiếm tài nguyên)
@@ -300,7 +300,7 @@ Tóm tắt 4 ý chính để chuẩn bị viết nha:
 <!-- chunk: writing_task -->
 ### Bài 5 trang 113 - Writing
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d89047ee.mp3">
 Bài 5. Viết bài tóm tắt 100-120 từ về những điểm chính của cuộc trò chuyện nha.
 </teacher_script>
 
@@ -313,14 +313,14 @@ Mr An talked about the effects of plants and animals on their habitat and the th
 *(Thầy An nói về tác động của thực vật, động vật đến môi trường sống của chúng và những việc con người nên làm. Thứ nhất, thực vật giúp....)*
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9cc00b0c.mp3">
 Mẹo viết nha:
 - Dùng từ nối: <eng>Firstly, Secondly, Finally, However, He concluded that</eng>
 - Chia 3 phần: ảnh hưởng từ thực vật, ảnh hưởng từ động vật, con người nên làm gì
 - Đếm từ: 100-120 từ = khoảng 8-10 câu
 </teacher_script>
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_7ea4bbb3.mp3">
 Viết bài tóm tắt. 5 phút nha.
 </teacher_script>
 
@@ -346,7 +346,7 @@ Nhưng chúng có thể gây lũ lụt cho nơi ở của các loài thực vậ
 Ông kết luận rằng con người nên bảo tồn môi trường sống, ngừng phá hủy môi trường sống của nhiều loài và ngừng sử dụng thuốc trừ sâu.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29410826.mp3">
 Phân tích bài mẫu nha:
 - Câu mở: giới thiệu chủ đề - thầy An nói về gì
 - Phần 1: <eng>Firstly</eng> - ảnh hưởng từ thực vật (giúp làm đẹp, hại chiếm tài nguyên)
@@ -356,14 +356,14 @@ Phân tích bài mẫu nha:
 Cấu trúc: Mở bài (1 câu) + Thân bài (chia 3 ý) + Kết luận = khoảng 100-120 từ
 </teacher_script>
 
-<teacher_script pause="0" action="photo">
+<teacher_script pause="0" action="photo" href="audio/tts_9596b20a.mp3">
 Chụp hình bài viết và gửi thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7c6137b9.mp3">
 Ok hết bài <eng>Skills 2</eng> Unit 10. Hôm nay em học được:
 - Từ vựng: <eng>habitat, flora, fauna, beaver, dam, preserve, pesticide</eng>
 - Nghe hiểu về ảnh hưởng của thực vật và động vật lên môi trường sống

@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d684d2b2.mp3">
 Ok lớp 7, Unit 11 nha, bài <eng>A Closer Look 2</eng> trang 117. Bài này mình học ngữ pháp về thì tương lai đơn với <eng>will</eng> và <eng>won't</eng>, rồi học thêm đại từ sở hữu nha. Mở sách ra đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_32c45738.mp3">
 Trước khi vào bài, mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi vô tập.
 </teacher_script>
 
@@ -23,7 +23,7 @@ Trước khi vào bài, mình học từ vựng trước nha. Bấm nút "Bắt 
 </vocabulary>
 
 <!-- chunk: grammar-will -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fc58b6d9.mp3">
 Ok, giờ mình học ngữ pháp nha. Thì tương lai đơn, tiếng Anh gọi là <eng>The Future Simple</eng> với <eng>will</eng>. Thì này dùng để diễn tả hành động sẽ xảy ra trong tương lai, đưa ra dự đoán, lời hứa, hoặc quyết định ngay lúc nói. Ghi vô tập nha.
 </teacher_script>
 
@@ -56,12 +56,12 @@ Ok, giờ mình học ngữ pháp nha. Thì tương lai đơn, tiếng Anh gọi
 - **Will** electric cars **be** popular? - Yes, they will. / No, they won't.
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a8494e92.mp3">
 Nhớ cấu trúc này nha: Khẳng định là S cộng will cộng V nguyên thể. Phủ định thì thay will bằng won't. Câu hỏi thì đảo will lên trước chủ ngữ. Mẹo nhớ nha: will đi với TẤT CẢ các ngôi, không thay đổi gì hết, dễ hơn thì hiện tại nhiều! Giờ làm bài tập đi.
 </teacher_script>
 
 <!-- chunk: bai1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c65d629f.mp3">
 Bài 1 trang 117 nha. <eng>Complete the sentences with will or won't.</eng> Hoàn thành các câu với <eng>will</eng> hoặc <eng>won't</eng>. Đọc kỹ nghĩa của câu rồi chọn nha. Nhớ: will là "sẽ", won't là "sẽ không".
 </teacher_script>
 
@@ -87,11 +87,11 @@ Bài 1 trang 117 nha. <eng>Complete the sentences with will or won't.</eng> Hoà
 *Tàu cao tốc _______ sớm trở thành phương tiện giao thông phổ biến ở Việt Nam vì chúng xanh và an toàn.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a8448249.mp3">
 1 phút nha. Đọc kỹ nghĩa câu rồi điền will hoặc won't.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_813d346a.mp3">
 Ok đáp án nè. Mình giải thích từng câu nha.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Ok đáp án nè. Mình giải thích từng câu nha.
 </explanation>
 
 <!-- chunk: bai2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_10e6e235.mp3">
 Bài 2 trang 117 nha. <eng>Rearrange the words and phrases to make sentences.</eng> Sắp xếp lại các từ và cụm từ để tạo thành câu. Nhớ cấu trúc: Khẳng định là S + will + V. Phủ định là S + won't + V. Câu hỏi là Will + S + V?
 </teacher_script>
 
@@ -146,11 +146,11 @@ Bài 2 trang 117 nha. <eng>Rearrange the words and phrases to make sentences.</e
 **5.** have / enough parking places / we / will / in ten years / ?
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b848c083.mp3">
 1 phút nha. Sắp xếp các từ thành câu hoàn chỉnh.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3d22a7df.mp3">
 Ok đáp án nè. Mình giải thích từng câu.
 </teacher_script>
 
@@ -195,7 +195,7 @@ Ok đáp án nè. Mình giải thích từng câu.
 </explanation>
 
 <!-- chunk: bai3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6e4f2959.mp3">
 Bài 3 trang 117 nha. <eng>Use the correct form of the verbs in brackets to complete the conversation.</eng> Sử dụng dạng đúng của các động từ trong ngoặc để hoàn thành cuộc hội thoại. Đây là hội thoại giữa <eng>Alice</eng> và <eng>Tom</eng> nói về máy dịch chuyển <eng>teleporter</eng>. Chia động từ với will hoặc won't nha.
 </teacher_script>
 
@@ -218,11 +218,11 @@ Bài 3 trang 117 nha. <eng>Use the correct form of the verbs in brackets to comp
 **Tom:** How wonderful! There (5. not be) _______ traffic jams any more, right?
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_d9510f32.mp3">
 1 phút nha. Đọc hội thoại rồi điền dạng đúng của động từ.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -257,7 +257,7 @@ Ok đáp án nè.
 - Có máy dịch chuyển thì hết kẹt xe luôn!
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5caa4de1.mp3">
 Đây là bản dịch hội thoại nha.
 </teacher_script>
 
@@ -276,7 +276,7 @@ Ok đáp án nè.
 </translation>
 
 <!-- chunk: bai4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9b30a419.mp3">
 Bài 4 trang 117 nha. <eng>Work in pairs. Look at the pictures and tell your partner if you will or won't travel by these means of transport. Give reasons.</eng> Làm việc theo cặp. Nhìn vào hình ảnh và nói với bạn của em xem em sẽ hoặc sẽ không đi du lịch bằng các phương tiện giao thông này. Đưa ra lý do. Đây là bài nói nha.
 </teacher_script>
 
@@ -297,11 +297,11 @@ B: I won't travel by car in another 20 years because it pollutes the air.
 *(Nhìn hình trong sách và nói về các phương tiện giao thông)*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_384d01d8.mp3">
 1 phút rưỡi nha. Nói câu với will hoặc won't và cho lý do.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7e9bd685.mp3">
 Ok, đây là câu trả lời mẫu nha.
 </teacher_script>
 
@@ -315,12 +315,12 @@ B: I won't travel by petrol-powered cars because they are not eco-friendly.
 *(Tôi sẽ không đi bằng ô tô chạy bằng xăng vì chúng không thân thiện với môi trường.)*
 </answer>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_ad38cb71.mp3">
 Các em tự nói 2 câu với will và won't về phương tiện giao thông nha. Bấm nút ghi âm bên dưới để ghi lại câu trả lời của mình.
 </teacher_script>
 
 <!-- chunk: grammar-possessive -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0bc0440c.mp3">
 Ok, giờ mình học ngữ pháp phần 2 nha. Đại từ sở hữu, tiếng Anh gọi là <eng>Possessive Pronouns</eng>. Đại từ sở hữu dùng để thay thế cho "tính từ sở hữu cộng danh từ" để tránh lặp lại. Ghi vô tập nha.
 </teacher_script>
 
@@ -355,12 +355,12 @@ Ok, giờ mình học ngữ pháp phần 2 nha. Đại từ sở hữu, tiếng 
 - Ngoại trừ: my => mine (không phải mys!), his => his (giống nhau luôn!)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b746016b.mp3">
 Nhớ nha: Tính từ sở hữu thì đi kèm danh từ, còn đại từ sở hữu thì dùng một mình thay cho cả cụm. Ví dụ: <eng>my book</eng> là tính từ sở hữu cộng danh từ, <eng>mine</eng> là đại từ sở hữu thay cho <eng>my book</eng>. Mẹo: Thấy các em hay nhầm my với mine. Nhớ: my + DANH TỪ, mine DÙNG MỘT MÌNH. Giờ làm bài tập đi.
 </teacher_script>
 
 <!-- chunk: bai5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_00a13260.mp3">
 Bài 5 trang 117 nha. <eng>Replace the underlined phrases with possessive pronouns.</eng> Thay thế các cụm từ được gạch chân bằng đại từ sở hữu. Đọc kỹ câu rồi tìm cụm nào cần thay thế nha.
 </teacher_script>
 
@@ -389,11 +389,11 @@ This is your bicycle. That bicycle is **her bicycle** => hers
 *Ô tô của anh ấy là ô tô bay. Ô tô của chúng tôi bằng điện.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_24baee97.mp3">
 1 phút nha. Tìm cụm gạch chân rồi thay bằng đại từ sở hữu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3d22a7df.mp3">
 Ok đáp án nè. Mình giải thích từng câu.
 </teacher_script>
 
@@ -434,6 +434,6 @@ Ok đáp án nè. Mình giải thích từng câu.
 </explanation>
 
 <!-- chunk: summary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a306bf66.mp3">
 Ok, tóm tắt bài học nha. Hôm nay mình học 2 phần ngữ pháp. Phần 1 là thì tương lai đơn với will: Khẳng định là S cộng will cộng V nguyên thể. Phủ định là S cộng won't cộng V nguyên thể. Câu hỏi là Will cộng S cộng V nguyên thể? Nhớ: will đi với tất cả các ngôi, không đổi gì hết. Phần 2 là đại từ sở hữu: mine, yours, his, hers, its, ours, theirs. Đại từ sở hữu thay thế cho tính từ sở hữu cộng danh từ. Nhớ: tính từ sở hữu đi kèm danh từ, đại từ sở hữu dùng một mình. Làm bài xong thì ghi vào vở, học thuộc công thức nha. Hẹn gặp lại các em ở bài sau. Bye bye!
 </teacher_script>

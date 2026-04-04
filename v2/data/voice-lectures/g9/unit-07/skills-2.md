@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3d4397a9.mp3">
 Ok lớp 9, Unit 7 nha — <eng>Natural Wonders of the World</eng>. Hôm nay mình học bài <eng>Skills 2</eng> — nghe về rừng nhiệt đới Amazon và viết về một kỳ quan thiên nhiên. Mở sách ra, ghi tựa bài vô tập đi.
 </teacher_script>
 
@@ -25,14 +25,14 @@ Ok lớp 9, Unit 7 nha — <eng>Natural Wonders of the World</eng>. Hôm nay mì
 14. **establish** : (v) thành lập /ɪˈstæblɪʃ/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_074c964c.mp3">
 Xong từ vựng rồi nha. Làm bài trắc nghiệm từ vựng đi, sau đó ghi từ vô tập. Nhớ ghi cả nghĩa tiếng Việt nha.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
 ### Bài 1 trang 79 - Write a word from the box under the correct picture
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_7564c93e.mp3">
 Bài 1 nha. <eng>Write a word from the box under the correct picture</eng> — viết từ vô bên dưới hình đúng. Ba từ: <eng>rainforest, flora, fauna</eng>. Nhìn hình trong sách rồi điền vô nha. 45 giây thôi.
 </teacher_script>
 
@@ -44,7 +44,7 @@ Bài 1 nha. <eng>Write a word from the box under the correct picture</eng> — v
 |---|
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7242caec.mp3">
 Ok đáp án bài 1 nè.
 </teacher_script>
 
@@ -61,7 +61,7 @@ Ok đáp án bài 1 nè.
 <!-- chunk: exercise-2 -->
 ### Bài 2 trang 79 - Listen and tick
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_58ffdbbb.mp3">
 Bài 2 nha. <eng>Listen to the passage and tick the things you hear</eng> — nghe đoạn văn rồi đánh dấu những thứ em nghe được. Đây là bài nghe về rừng Amazon — nghe kỹ nha.
 </teacher_script>
 
@@ -89,7 +89,7 @@ Rừng nhiệt đới Amazon là một khu vực hùng vĩ. Đây là khu rừng
 - Protecting wildlife *(Bảo vệ động vật hoang dã)*
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6aec9e51.mp3">
 Ok đáp án bài 2 nè. Những thứ em nghe được trong đoạn văn là:
 </teacher_script>
 
@@ -118,7 +118,7 @@ Ok đáp án bài 2 nè. Những thứ em nghe được trong đoạn văn là:
 <!-- chunk: exercise-3 -->
 ### Bài 3 trang 79 - Listen again and choose the correct answers
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_568a91f8.mp3">
 Bài 3 nha. <eng>Listen again and choose the correct answers</eng> — nghe lại và chọn câu trả lời đúng. 4 câu trắc nghiệm nha. Có 1 phút.
 </teacher_script>
 
@@ -157,7 +157,7 @@ Bài 3 nha. <eng>Listen again and choose the correct answers</eng> — nghe lạ
 - C. marine life *(sinh vật biển)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9257c365.mp3">
 Ok đáp án bài 3 nè.
 </teacher_script>
 
@@ -178,7 +178,7 @@ Ok đáp án bài 3 nè.
 <!-- chunk: exercise-4 -->
 ### Bài 4 trang 79 - Speaking (Brainstorm & discuss)
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_c1c588d1.mp3">
 Bài 4 nha. <eng>Work in pairs. Brainstorm ideas about a natural wonder / beautiful landscape in your area. Ask and answer about it, using the following prompts.</eng> — Làm việc theo cặp, lên ý tưởng về một kỳ quan thiên nhiên hoặc cảnh đẹp ở khu vực của em. Hỏi và trả lời theo các gợi ý. Có 1 phút rưỡi chuẩn bị nha.
 </teacher_script>
 
@@ -193,14 +193,14 @@ Bài 4 nha. <eng>Work in pairs. Brainstorm ideas about a natural wonder / beauti
 - Ways to protect it *(Các cách để bảo vệ nó)*
 </task>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_933610b2.mp3">
 Ok, bây giờ em hãy nói về kỳ quan thiên nhiên hoặc cảnh đẹp ở khu vực của em theo các gợi ý trên rồi ghi âm gửi cho thầy/cô nha.
 </teacher_script>
 
 <!-- chunk: exercise-5 -->
 ### Bài 5 trang 79 - Writing
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_16c22ee9.mp3">
 Bài 5 nha. <eng>Write a paragraph (100-120 words) about the natural wonder / beautiful landscape you have talked about in 4.</eng> — Viết đoạn văn khoảng 100-120 từ về kỳ quan thiên nhiên hoặc cảnh đẹp mà em vừa nói ở bài 4. Bắt đầu bằng: *"There is a beautiful _______ near my home."* Có 5 phút nha — viết xong thì chụp hình gửi cho thầy/cô.
 </teacher_script>
 
@@ -215,11 +215,11 @@ There is a beautiful _______ near my home.
 *(Có một _______ đẹp gần nhà tôi.)*
 </task>
 
-<teacher_script pause="0" action="photo">
+<teacher_script pause="0" action="photo" href="audio/tts_9b47fe4c.mp3">
 Viết xong rồi chụp hình bài gửi lên nha.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7693ddf9.mp3">
 Xong bài <eng>Skills 2</eng> Unit 7 rồi nha! Hôm nay mình nghe về rừng Amazon — lá phổi xanh của thế giới, và học cách viết đoạn văn về kỳ quan thiên nhiên. Nhớ ôn lại từ vựng và hoàn thành bài viết ở nhà nha. Học tốt nha!
 </teacher_script>

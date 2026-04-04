@@ -2,7 +2,7 @@
 ## A CLOSER LOOK 2 - Ngữ pháp
 
 <!-- chunk: grammar-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_89aab990.mp3">
 Ok lớp 9, bài <eng>A Closer Look 2</eng> Unit 11 nha — hôm nay học ngữ pháp về cách dùng <eng>suggest</eng>. Cái này hay lắm — *suggest* dùng khác với *want* và *decide* đó. Ghi tựa bài vô tập rồi tập trung nha!
 </teacher_script>
 
@@ -42,12 +42,12 @@ Dùng khi đề xuất người khác làm gì — không chia động từ theo
 **Mẹo nhớ:** *SUGGEST, RECOMMEND, ADVISE* — tất cả đều nghĩa là **khuyên/đề xuất**!
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bae594cc.mp3">
 Nhớ rõ chưa nha? *Suggest* có hai cách dùng: *suggest + V-ing* hoặc *suggest + that + S + should + V*. Động từ sau *that* KHÔNG chia — luôn là dạng nguyên mẫu. Giờ làm bài tập thôi nha!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6274796a.mp3">
 Bài 1 nha — chọn dạng đúng. Đọc kỹ câu và chọn đáp án đúng nha. Có 1 phút.
 </teacher_script>
 
@@ -93,7 +93,7 @@ Bài 1 nha — chọn dạng đúng. Đọc kỹ câu và chọn đáp án đún
 *Cô ấy khuyên nên tham gia lớp học yoga để cải thiện tính linh hoạt và thư giãn.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -114,7 +114,7 @@ Bài 1 nha — chọn dạng đúng. Đọc kỹ câu và chọn đáp án đún
 </explanation>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a78286ed.mp3">
 Bài 2 nha — điền từ vô chỗ trống với dạng đúng của động từ trong ngoặc. Có 1 phút.
 </teacher_script>
 
@@ -140,7 +140,7 @@ Bài 2 nha — điền từ vô chỗ trống với dạng đúng của động 
 *Bạn cùng lớp của tôi khuyên tôi nên sửa máy tính càng sớm càng tốt.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -161,7 +161,7 @@ Bài 2 nha — điền từ vô chỗ trống với dạng đúng của động 
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_12589a3d.mp3">
 Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến *suggest/recommend/advise* — tìm và sửa nha. Có 1 phút.
 </teacher_script>
 
@@ -192,7 +192,7 @@ Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến
 *→ Lỗi sai ở đâu? Sửa thế nào?*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_534f3e30.mp3">
 Đáp án bài 3 nè.
 </teacher_script>
 
@@ -218,7 +218,7 @@ Bài 3 nha — sửa lỗi sai. Mỗi câu có một lỗi sai liên quan đến
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6acfda4f.mp3">
 Bài 4 nha — điền dạng đúng của động từ vào chỗ trống. Sau đó luyện nói theo cặp. Có 1 phút.
 </teacher_script>
 
@@ -254,7 +254,7 @@ B: I recommend (eat) ________ more fruits and vegetables.
 *A: Chúng ta nên làm gì để cải thiện sức khỏe? B: Tôi khuyên bạn nên ăn nhiều trái cây và rau quả hơn.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04f7c05e.mp3">
 Đáp án bài 4 nè.
 </teacher_script>
 
@@ -275,7 +275,7 @@ B: I recommend (eat) ________ more fruits and vegetables.
 </explanation>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b49dba56.mp3">
 Bài 5 nha — làm việc theo cặp. Nói với bạn những gì bạn nên làm trong các tình huống sau, dùng *suggest/advise/recommend + V-ing* hoặc mệnh đề với *should*. Đọc ví dụ mẫu trước nha.
 </teacher_script>
 
@@ -322,11 +322,11 @@ A: I'm feeling so tired lately.
 B: I suggest getting more rest and going to bed early. / I suggest that you should get more rest and go to bed early.
 </questions>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_f972e3fd.mp3">
 Luyện nói theo cặp nha — một bạn nêu tình huống, một bạn đưa lời khuyên dùng *suggest/recommend/advise*. Có 3 phút — cố gắng dùng cả hai cấu trúc nha: *V-ing* và *mệnh đề với should*.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f736c6f.mp3">
 Xong <eng>A Closer Look 2</eng> Unit 11 rồi nha! Hôm nay mình học cấu trúc *suggest + V-ing* và *suggest + that + S + should + V*. Nhớ điểm quan trọng: sau *that*, động từ KHÔNG chia theo chủ ngữ — luôn dùng base form. Và phủ định là *suggest not + V-ing*. *Recommend* giống *suggest*, còn *advise* có thể dùng cả V-ing và to-V nha. Về nhà ôn lại bài 1 đến 4 luôn!
 </teacher_script>

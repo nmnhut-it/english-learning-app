@@ -2,7 +2,7 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8a498347.mp3">
 Ok lop 7, hom nay minh on tap lai Unit 10 <eng>Looking Back</eng> nha. Bai nay on lai tu vung va ngu phap ve Energy Sources - Nguon Nang Luong. Mo sach trang 112 di.
 </teacher_script>
 
@@ -11,7 +11,7 @@ Ok lop 7, hom nay minh on tap lai Unit 10 <eng>Looking Back</eng> nha. Bai nay o
 <!-- chunk: bai1 -->
 ### Bai 1 trang 112 - Matching
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_76c4ac1f.mp3">
 Bai 1 <eng>Match the adjectives in A with the nouns in B to make phrases</eng>. Noi tinh tu cot A voi danh tu cot B de tao cum tu nha.
 </teacher_script>
 
@@ -30,11 +30,11 @@ Bai 1 <eng>Match the adjectives in A with the nouns in B to make phrases</eng>. 
 | 5. low | e. energy |
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_e56dd0dc.mp3">
 Cac em doc ky cot A va cot B, roi noi tu tinh tu voi danh tu phu hop. 45 giay nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -54,7 +54,7 @@ Ok đáp án nè.
 <!-- chunk: bai2 -->
 ### Bai 2 trang 112 - Fill in the blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0e2af330.mp3">
 Bai 2 <eng>Complete the sentences, using the phrases in 1</eng>. Hoan thanh cac cau, su dung cac cum tu o bai 1 nha.
 </teacher_script>
 
@@ -80,11 +80,11 @@ Bai 2 <eng>Complete the sentences, using the phrases in 1</eng>. Hoan thanh cac 
 *Co ay co ________ ca ngay lan dem vi co ay co tam pin mat troi tren mai nha.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_75fecf01.mp3">
 Doc ky tung cau roi dien cum tu phu hop tu bai 1 vao cho trong. 1 phut nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ac422b4c.mp3">
 Ok đáp án nè. Co giai thich tung cau luon.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Ok đáp án nè. Co giai thich tung cau luon.
 <!-- chunk: grammar-review -->
 ### On tap ngu phap: Present Simple vs Present Continuous
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8bb8aab4.mp3">
 Truoc khi lam bai 3 va 4, minh on lai ngu phap ve thi hien tai don va hien tai tiep dien nha.
 </teacher_script>
 
@@ -159,7 +159,7 @@ Truoc khi lam bai 3 va 4, minh on lai ngu phap ve thi hien tai don va hien tai t
 - Dau hieu nhan biet: now, at the moment, at present, Look!, Listen!...
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ef688d57.mp3">
 Nho nha: Hien tai don cho thoi quen, lap di lap lai. Hien tai tiep dien cho hanh dong dang xay ra ngay bay gio. Gio minh lam bai 3.
 </teacher_script>
 
@@ -168,7 +168,7 @@ Nho nha: Hien tai don cho thoi quen, lap di lap lai. Hien tai tiep dien cho hanh
 <!-- chunk: bai3 -->
 ### Bai 3 trang 112 - Present Simple or Present Continuous
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8afec4f9.mp3">
 Bai 3 <eng>Complete the sentences by using the correct form of the present continuous or present simple of the verbs in brackets</eng>. Hoan thanh cau bang cach dung dung dang cua thi hien tai tiep dien hoac hien tai don nha.
 </teacher_script>
 
@@ -194,11 +194,11 @@ Bai 3 <eng>Complete the sentences by using the correct form of the present conti
 *Toi so rang toi khong co thoi gian de giup luc nay. Toi (viet) ________ mot bai luan.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_876c8195.mp3">
 Doc tung cau, tim dau hieu nhan biet thi, roi chia dong tu trong ngoac cho dung. 1 phut nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eaff13b6.mp3">
 Ok đáp án nè. Co giai thich tung cau.
 </teacher_script>
 
@@ -233,7 +233,7 @@ Ok đáp án nè. Co giai thich tung cau.
 <!-- chunk: bai4 -->
 ### Bai 4 trang 112 - Find and correct mistakes
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f580d604.mp3">
 Bai 4 <eng>Find ONE mistake in each sentence and correct it</eng>. Tim MOT loi sai trong moi cau va sua lai nha.
 </teacher_script>
 
@@ -259,11 +259,11 @@ Bai 4 <eng>Find ONE mistake in each sentence and correct it</eng>. Tim MOT loi s
 *Chung toi tim kiem mot nguon nang luong re, sach va hieu qua bay gio.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6cb58d1b.mp3">
 Doc tung cau, tim loi sai ve ngu phap roi sua lai. Chu y cac dau hieu cua thi hien tai tiep dien nha. 1 phut.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_eaff13b6.mp3">
 Ok đáp án nè. Co giai thich tung cau.
 </teacher_script>
 
@@ -308,7 +308,7 @@ We **are looking** for a cheap, clean and effective source of energy now.
 <!-- chunk: summary -->
 ### Tom tat Unit 10
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_226801d6.mp3">
 Ok cac em, minh vua on xong Unit 10 <eng>Energy Sources</eng> roi. Tom tat lai nha:
 
 **Tu vung chinh:**

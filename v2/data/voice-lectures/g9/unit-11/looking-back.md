@@ -2,12 +2,12 @@
 ## LOOKING BACK - Ôn tập
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cba1073a.mp3">
 Ok lớp 9, bài cuối Unit 11 rồi nha — <eng>Looking Back</eng>. Hôm nay ôn lại toàn bộ từ vựng về thiết bị điện tử và ngữ pháp *suggest/recommend/advise* của cả unit. Tập trung nha — bài này dùng hết kiến thức đã học luôn đó!
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_ca4b406d.mp3">
 Bài 1 trang 122 nha — nhìn hình và viết tên thiết bị điện tử. Có 1 phút nha.
 </teacher_script>
 
@@ -25,7 +25,7 @@ Bài 1 trang 122 nha — nhìn hình và viết tên thiết bị điện tử. 
 **6.** [Hình máy quay phim] → ________
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -48,7 +48,7 @@ Bài 1 trang 122 nha — nhìn hình và viết tên thiết bị điện tử. 
 </explanation>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_423b4767.mp3">
 Bài 2 trang 122 nha — điền từ vào chỗ trống. Dùng các từ trong ô: <eng>3D printer, copper, plastic, e-reader, smartwatch</eng>. Có 1 phút.
 </teacher_script>
 
@@ -76,7 +76,7 @@ Bài 2 trang 122 nha — điền từ vào chỗ trống. Dùng các từ trong 
 *Nếu tôi cần một bộ phận thay thế cho máy móc, tôi có thể sử dụng ________ để tạo một bộ phận mới phù hợp hoàn hảo.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -97,7 +97,7 @@ Bài 2 trang 122 nha — điền từ vào chỗ trống. Dùng các từ trong 
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b21cf9e5.mp3">
 Bài 3 trang 122 nha — trắc nghiệm ngữ pháp. Chọn A, B, C hoặc D. Có 1 phút.
 </teacher_script>
 
@@ -143,7 +143,7 @@ Bài 3 trang 122 nha — trắc nghiệm ngữ pháp. Chọn A, B, C hoặc D. C
 *Các huấn luyện viên khuyên chúng tôi nên tạo một nhóm Facebook.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_534f3e30.mp3">
 Đáp án bài 3 nè.
 </teacher_script>
 
@@ -164,7 +164,7 @@ Bài 3 trang 122 nha — trắc nghiệm ngữ pháp. Chọn A, B, C hoặc D. C
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b4ac625c.mp3">
 Bài 4 trang 122 nha — điền dạng đúng của động từ trong ngoặc. Có 1 phút.
 </teacher_script>
 
@@ -190,7 +190,7 @@ Bài 4 trang 122 nha — điền dạng đúng của động từ trong ngoặc.
 *Chính phủ khuyến cáo đi du lịch bằng xe buýt để giảm ô nhiễm môi trường.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04f7c05e.mp3">
 Đáp án bài 4 nè.
 </teacher_script>
 
@@ -211,7 +211,7 @@ Bài 4 trang 122 nha — điền dạng đúng của động từ trong ngoặc.
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_9db808e1.mp3">
 Xong <eng>Looking Back</eng> Unit 11 rồi nha — ôn tập xong toàn bộ Unit 11 luôn! Tổng kết nha:
 
 **Từ vựng thiết bị điện tử:**

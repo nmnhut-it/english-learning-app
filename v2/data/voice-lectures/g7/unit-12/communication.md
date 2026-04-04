@@ -2,12 +2,12 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c1772c1c.mp3">
 Ok lớp 7, hôm nay mình học phần <eng>Communication</eng> Unit 12 nha. Bài này mình sẽ học cách bày tỏ sự ngạc nhiên và tìm hiểu các sự thật thú vị về các nước nói tiếng Anh.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_20028f3f.mp3">
 Học từ vựng trước nha.
 </teacher_script>
 
@@ -32,7 +32,7 @@ Học từ vựng trước nha.
 <!-- chunk: everyday_english -->
 ### Everyday English - Expressing amazement
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d68fa4d9.mp3">
 Phần <eng>Everyday English</eng>. Hôm nay mình học cách bày tỏ sự ngạc nhiên nha. Khi nghe điều gì bất ngờ, mình nói <eng>"Wow... I didn't know that!"</eng> hoặc <eng>"Amazing!"</eng>. Nghe hội thoại mẫu trước.
 </teacher_script>
 
@@ -56,14 +56,14 @@ Phần <eng>Everyday English</eng>. Hôm nay mình học cách bày tỏ sự ng
 **Tom:** Thật tuyệt vời!
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1e45160a.mp3">
 Vậy khi nghe điều gì ngạc nhiên, các em có thể nói: <eng>"Wow... I didn't know that!"</eng>, <eng>"Amazing!"</eng>, hoặc <eng>"Really?"</eng> nha.
 </teacher_script>
 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 42 - Practice Dialogues
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_57c194bc.mp3">
 Bài 2. Làm hội thoại tương tự với các tình huống sau, sử dụng biểu cảm ngạc nhiên nha. 1 phút.
 </teacher_script>
 
@@ -94,7 +94,7 @@ Nam: **Really?... I didn't know that!**
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 42 - Matching Facts to Countries
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b8ffa5ef.mp3">
 Bài 3. Thảo luận nhóm và nối tên quốc gia với sự thật tương ứng nha. 1 phút.
 </teacher_script>
 
@@ -111,7 +111,7 @@ Bài 3. Thảo luận nhóm và nối tên quốc gia với sự thật tương 
 **5.** This is a small island country in the Pacific Ocean. *(Đây là một quốc đảo nhỏ ở Thái Bình Dương.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c527e43f.mp3">
 Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
@@ -127,7 +127,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 42 - Facts about English-speaking Countries
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_20ec3914.mp3">
 Bài 4. Đọc các sự thật về các nước nói tiếng Anh, rồi đánh dấu xem em đã biết hay chưa nha. Sau đó đóng vai hỏi đáp. 1 phút.
 </teacher_script>
 
@@ -166,7 +166,7 @@ Bài 4. Đọc các sự thật về các nước nói tiếng Anh, rồi đánh
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 42 - Group Sharing
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_34034639.mp3">
 Bài 5. Chia sẻ với nhóm một số sự thật thú vị về các nước nói tiếng Anh nha. 1 phút.
 </teacher_script>
 
@@ -186,6 +186,6 @@ Bài 5. Chia sẻ với nhóm một số sự thật thú vị về các nước
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0ab8f369.mp3">
 Bài <eng>Communication</eng> Unit 12 kết thúc rồi nha. Nhớ cách bày tỏ sự ngạc nhiên: <eng>"Wow... I didn't know that!"</eng> và <eng>"Amazing!"</eng> hen. Ôn bài kỹ nha!
 </teacher_script>

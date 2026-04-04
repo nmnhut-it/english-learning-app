@@ -3,7 +3,7 @@
 ## COMMUNICATION
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_024bb961.mp3">
 Ok lớp 9, mở sách trang 36 nha. Hôm nay học bài <eng>Communication</eng>. Bài này có hai phần: <eng>Everyday English</eng> về cách chúc may mắn và đáp lại, và phần tìm hiểu về tiếng Anh qua các sự thật thú vị và trò chơi đố vui.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 9, mở sách trang 36 nha. Hôm nay học bài <eng>Communication</eng
 <!-- chunk: everyday_english -->
 ### Everyday English: Saying good luck and responding
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c174eb15.mp3">
 Đầu tiên, học phần <eng>Saying good luck and responding</eng> - chúc may mắn và đáp lại. Nghe và đọc 2 đoạn hội thoại, chú ý các phần được đánh dấu nha.
 </teacher_script>
 
@@ -40,7 +40,7 @@ Ok lớp 9, mở sách trang 36 nha. Hôm nay học bài <eng>Communication</eng
 - Thank you so much. *(Cảm ơn bạn rất nhiều.)*
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e8580223.mp3">
 Nhớ nha: <eng>Good luck with + something</eng> - chúc may mắn với việc gì đó cụ thể. Cách đáp lịch sự nhất là <eng>Thanks. I'll try my best.</eng>
 </teacher_script>
 
@@ -49,7 +49,7 @@ Nhớ nha: <eng>Good luck with + something</eng> - chúc may mắn với việc 
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 36 - Practise saying good luck
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_8e5b21c4.mp3">
 Bài 2. Làm việc theo cặp. Luyện tập nói chúc may mắn và đáp lại trong các tình huống sau. 1 phút nha.
 </teacher_script>
 
@@ -87,7 +87,7 @@ Ok đáp án nè.
 | **Your teacher:** Thank you so much. | **Thầy/Cô:** Cảm ơn em rất nhiều. |
 </dialogue>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_da19b980.mp3">
 Thực hành 1 tình huống và ghi âm gửi thầy nha.
 </teacher_script>
 
@@ -96,7 +96,7 @@ Thực hành 1 tình huống và ghi âm gửi thầy nha.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 36 - Interesting facts about English
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0cdf5af4.mp3">
 Chuyển sang phần <eng>Interesting facts about English</eng>. Bài 3 - các em đọc các sự thật thú vị về tiếng Anh và sắp xếp chúng từ thú vị nhất đến ít thú vị nhất. Làm theo cặp nha. 1 phút.
 </teacher_script>
 
@@ -129,7 +129,7 @@ Chuyển sang phần <eng>Interesting facts about English</eng>. Bài 3 - các e
 5. "Queueing" và "cooeeing" là hai từ có năm nguyên âm liên tiếp (năm nguyên âm đứng liên tiếp nhau).
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b0d751ce.mp3">
 Sắp xếp theo sở thích cá nhân nên không có đáp án cố định nha. Quan trọng là các em hiểu và thảo luận được tại sao mình thấy fact đó thú vị.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Sắp xếp theo sở thích cá nhân nên không có đáp án cố định nh
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 37 - Quiz about English
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_1ac8e863.mp3">
 Bài 4 - QUIZ. Làm việc theo nhóm. Tìm ra câu trả lời cho các câu hỏi trong bài đố. 2 phút nha.
 </teacher_script>
 
@@ -204,7 +204,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 37 - Share answers
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8d17434e.mp3">
 Bài 5. Các nhóm chia sẻ câu trả lời với cả lớp. Nhóm nào có nhiều câu trả lời đúng nhất?
 </teacher_script>
 
@@ -216,6 +216,6 @@ Bài 5. Các nhóm chia sẻ câu trả lời với cả lớp. Nhóm nào có n
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a0180ef5.mp3">
 Bài <eng>Communication</eng> Unit 9 xong rồi nha. Nhớ: chúc may mắn dùng <eng>Good luck with + việc gì đó</eng>, đáp lại bằng <eng>Thanks. I'll try my best.</eng> Và 2 điều thú vị: tiếng Trung có nhiều người bản ngữ nhất, nhưng tiếng Anh là ngôn ngữ quốc tế số 1. Ôn bài hen!
 </teacher_script>

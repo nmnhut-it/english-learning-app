@@ -3,14 +3,14 @@
 ## A CLOSER LOOK 1 - Vocabulary & Pronunciation
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1c530a53.mp3">
 Ok lớp 9, hôm nay học <eng>A Closer Look 1</eng> - từ vựng về ngôn ngữ và sự khác biệt giữa tiếng Anh Anh (<eng>British English - BrE</eng>) và tiếng Anh Mỹ (<eng>American English - AmE</eng>). Đây là kiến thức quan trọng vì khi xem phim, nghe nhạc em sẽ gặp cả hai loại. Mở sách trang 33 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_666b66fd.mp3">
 Học từ vựng về ngôn ngữ trước nha.
 </teacher_script>
 
@@ -24,7 +24,7 @@ Học từ vựng về ngôn ngữ trước nha.
 7. **mother tongue** : (n) tiếng mẹ đẻ /ˈmʌðə tʌŋ/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d7d30b76.mp3">
 Phân biệt nha:
 - <eng>Accent</eng>: cách phát âm khác nhau - ví dụ giọng Bắc, giọng Nam trong tiếng Việt
 - <eng>Dialect</eng>: phương ngữ - khác cả từ vựng và ngữ pháp, ví dụ "chi" (gì) ở miền Trung
@@ -36,7 +36,7 @@ Phân biệt nha:
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 33 - Match words with definitions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7d88b7b7.mp3">
 Bài 1 trang 33. Nối từ với định nghĩa. 1 phút.
 </teacher_script>
 
@@ -47,7 +47,7 @@ Bài 1 trang 33. Nối từ với định nghĩa. 1 phút.
 4. mother tongue - d. the first language you learn as a baby
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.mp3">
 Đáp án nè.
 </teacher_script>
 
@@ -55,7 +55,7 @@ Bài 1 trang 33. Nối từ với định nghĩa. 1 phút.
 **Bài 1 - Đáp án:** 1.a | 2.b | 3.c | 4.d
 </answer>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ae54e4ea.mp3">
 Giải thích nha:
 - <eng>Accent</eng> = cách phát âm → định nghĩa a (cách từ được phát âm)
 - <eng>Bilingual</eng> = bi (2) + lingual (ngôn ngữ) → định nghĩa b (nói 2 ngôn ngữ)
@@ -66,7 +66,7 @@ Giải thích nha:
 ---
 
 <!-- chunk: pronunciation_intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0da29872.mp3">
 Chuyển sang phần Phát âm nha. Đây là phần thú vị - học sự khác biệt giữa tiếng Anh Anh và Mỹ.
 </teacher_script>
 
@@ -80,7 +80,7 @@ Chuyển sang phần Phát âm nha. Đây là phần thú vị - học sự khá
 - **Âm /ɑː/ vs /æ/:** Ví dụ: *answer* (BrE /ˈɑːnsə/ - AmE /ˈænsər/), *dance* (BrE /dɑːns/ - AmE /dæns/)
 </pronunciation_theory>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a0f741e8.mp3">
 Mẹo nhớ nha:
 - **Chính tả Anh** thường dài hơn: <eng>colour, centre</eng> có "u" và "re"
 - **Chính tả Mỹ** ngắn gọn hơn: <eng>color, center</eng> bỏ "u", đổi "re" thành "er"
@@ -98,7 +98,7 @@ Cả hai đều đúng, chỉ khác vùng miền!
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 33 - Listen and practice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6553e9eb.mp3">
 Nghe và luyện phát âm cả 2 kiểu nha.
 </teacher_script>
 
@@ -109,14 +109,14 @@ Nghe và luyện phát âm cả 2 kiểu nha.
 3. centre (BrE) - center (AmE)
 </task>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_70bcdbf0.mp3">
 Luyện đọc theo cả hai cách nha. Khi nghe phim Hollywood thường là giọng Mỹ, còn Harry Potter là giọng Anh. 1 phút luyện tập.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7b854405.mp3">
 Ok hết bài <eng>A Closer Look 1</eng>. Hôm nay em học được:
 - Từ vựng: <eng>accent, dialect, bilingual, mother tongue</eng>
 - Khác biệt Anh-Mỹ về chính tả: <eng>colour/color, centre/center</eng>

@@ -2,14 +2,14 @@
 ## LOOKING BACK - Review
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dc5f0190.mp3">
 Ok lớp 9, bài <eng>Looking Back</eng> Unit 10 nha. Bài này mình ôn lại từ vựng về môi trường sống và ngữ pháp mệnh đề quan hệ không xác định. Mở sách trang 112 đi.
 </teacher_script>
 
 <!-- chunk: bai1 -->
 ### Bai 1 trang 112 - Fill in the table
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f9645487.mp3">
 Bài 1 <eng>Fill in the table with words and phrases about habitats</eng>. Điền vào bảng những từ và cụm từ về môi trường sống nha.
 </teacher_script>
 
@@ -31,11 +31,11 @@ Bài 1 <eng>Fill in the table with words and phrases about habitats</eng>. Đi�
 | _______ | _______ |
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5e178bdc.mp3">
 Cac em nghi xem co nhung loai moi truong song nao, va trong moi truong do co gi. 1 phut nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -63,7 +63,7 @@ Ok đáp án nè.
 <!-- chunk: bai2 -->
 ### Bai 2 trang 112 - Complete the passage
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fde182ce.mp3">
 Bai 2 <eng>Complete the passage, using the words and phrases in the box</eng>. Hoan thanh doan van bang cach su dung cac tu va cum tu trong hop nha.
 </teacher_script>
 
@@ -83,11 +83,11 @@ Bai 2 <eng>Complete the passage, using the words and phrases in the box</eng>. H
 Earth's habitats are various and many are threatened. Each habitat includes living things, non-living things, and the surrounding environment. The relations of all living things and their environment in a habitat make up the habitat's ecology. (1) _______ or changes in population of plants and animals can cause changes to the natural (2) _______ and the ecology. That means to maintain a(n) (3) _______, we shouldn't cause changes to the climate and the plants and animals of any habitat. In many countries, people have built (4) _______ to keep endangered plants and animals safe. People should also avoid activities that may cause pollution and (5) _______.
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_0dc55061.mp3">
 Doc doan van va dien tu thich hop vao cho trong. 1 phut ruoi nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ca38af32.mp3">
 Ok đáp án nè. Co giai thich chi tiet luan.
 </teacher_script>
 
@@ -119,7 +119,7 @@ Moi truong song tren trai dat rat da dang va nhieu noi dang bi de doa. Moi moi t
 <!-- chunk: grammar-theory -->
 ### Grammar Review - Non-defining Relative Clauses
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f1b34e36.mp3">
 Truoc khi lam bai 3 va 4, minh on lai ngu phap ve menh de quan he khong xac dinh nha.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Menh de quan he khong xac dinh dung sau dau phay, khi luoc bo di thi cau van co 
 <!-- chunk: bai3 -->
 ### Bai 3 trang 112 - Matching
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3a1be4dd.mp3">
 Bai 3 <eng>Complete each sentence (1-5) with a non-defining relative clause (A-E)</eng>. Hoan thanh moi cau (1-5) bang menh de quan he khong xac dinh (A-E) nha.
 </teacher_script>
 
@@ -185,11 +185,11 @@ Bai 3 <eng>Complete each sentence (1-5) with a non-defining relative clause (A-E
 *(James Hutton, _______, la mot trong nhung nha khoa hoc dau tien nghien cuu ve dia chat.)*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_695b9753.mp3">
 Doc ky cac cau va noi voi menh de quan he phu hop. 1 phut ruoi nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7fb1fe47.mp3">
 Ok đáp án nè. Giai thich tung cau luan.
 </teacher_script>
 
@@ -224,7 +224,7 @@ Ok đáp án nè. Giai thich tung cau luan.
 <!-- chunk: bai4 -->
 ### Bai 4 trang 112 - Combine sentences
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0a42ca98.mp3">
 Bai 4 <eng>Combine the two sentences into one, using a non-defining relative clause</eng>. Ket hop hai cau thanh mot, su dung menh de quan he khong xac dinh nha.
 </teacher_script>
 
@@ -251,11 +251,11 @@ Bai 4 <eng>Combine the two sentences into one, using a non-defining relative cla
 *(The gioi tu nhien la the gioi cua sinh vat song. Sinh vat song bao gom thuc vat va dong vat.)*
 </questions>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_e003a0c1.mp3">
 Viet cau hoan chinh vao vo. Nho dung dau phay de tach menh de quan he khong xac dinh. 2 phut nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c84dab5f.mp3">
 Ok đáp án nè. Giai thich chi tiet tung cau luan.
 </teacher_script>
 
@@ -293,7 +293,7 @@ Ok đáp án nè. Giai thich chi tiet tung cau luan.
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c2c219ba.mp3">
 Ok vay la xong bai <eng>Looking Back</eng> Unit 10 roi nha. Tong ket lai:
 
 **Tu vung:** Cac em da on lai tu vung ve moi truong song nhu poles (vung cuc), forests (rung), oceans (dai duong), deserts (sa mac), va cac tu nhu climate change (bien doi khi hau), food chain (chuoi thuc an), ecological balance (can bang sinh thai), nature reserves (khu bao ton), habitat loss (mat moi truong song).

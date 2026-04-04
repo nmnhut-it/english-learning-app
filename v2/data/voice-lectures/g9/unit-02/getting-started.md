@@ -91,7 +91,7 @@ Bài 2 <eng>Read the conversation again and decide if the following statements a
 </questions>
 
 <teacher_script pause="0">
-Ok đáp án nè. Cô giải thích từng câu luôn nha.
+Ok đáp án nè. Thầy giải thích từng câu luôn nha.
 </teacher_script>
 
 <answer>
@@ -189,7 +189,7 @@ Bài 4 <eng>Choose the correct answer A, B, C, or D.</eng> Chọn đáp án đú
 </questions>
 
 <teacher_script pause="0">
-Ok đáp án nè. Cô giải thích từng câu nha.
+Ok đáp án nè. Thầy giải thích từng câu nha.
 </teacher_script>
 
 <answer>

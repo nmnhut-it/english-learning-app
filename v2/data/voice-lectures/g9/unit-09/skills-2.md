@@ -3,7 +3,7 @@
 ## SKILLS 2 - Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0505d89d.mp3">
 Ok lớp 9, hôm nay học <eng>Skills 2</eng> - Nghe và Viết nha. Bài nghe về cách bạn Trang học tiếng Anh hiệu quả, rồi em sẽ viết về phương pháp học của mình. Đây là bài rất thực tế - em có thể áp dụng ngay các mẹo học tiếng Anh! Mở sách trang 39 đi.
 </teacher_script>
 
@@ -12,7 +12,7 @@ Ok lớp 9, hôm nay học <eng>Skills 2</eng> - Nghe và Viết nha. Bài nghe 
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 39 - Look and discuss
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_4872e0df.mp3">
 Bài 1 trang 39. Nhìn vào hai bức tranh trong sách và thảo luận theo cặp nha. 45 giây.
 </teacher_script>
 
@@ -27,7 +27,7 @@ Bài 1 trang 39. Nhìn vào hai bức tranh trong sách và thảo luận theo c
 *(Những hoạt động này có thể giúp các em học tiếng Anh như thế nào?)*
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d61fd029.mp3">
 Gợi ý nha:
 - Tranh a: cô gái đang tra từ trong từ điển → giúp hiểu nghĩa, ngữ cảnh và luyện phát âm.
 - Tranh b: cô gái đang chép từ vào sổ tay → giúp ghi nhớ nghĩa và cách viết của từ.
@@ -38,7 +38,7 @@ Gợi ý nha:
 <!-- chunk: tapescript -->
 ### Bài 2 trang 39 - Listen to Trang
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6b5ad009.mp3">
 Giờ nghe bạn Trang chia sẻ về cách học từ vựng tiếng Anh nha. Chú ý các phương pháp của bạn ấy.
 </teacher_script>
 
@@ -56,7 +56,7 @@ I've learnt English for six years and I usually find it challenging to learn its
 Tôi đã học tiếng Anh trong sáu năm và tôi thường thấy khó khăn khi học từ vựng. Sau đây là một số mẹo tôi đã thử để cải thiện việc học từ vựng của mình. Đầu tiên, tôi dành thời gian đọc nhiều loại sách tiếng Anh khác nhau, từ truyện ngắn đến tiểu thuyết. Khi nhìn thấy một từ mới, tôi cố gắng đoán nghĩa của nó từ câu. Thứ hai, tôi sử dụng một cuốn từ điển tốt. Mẹ tôi đã mua cho tôi một cuốn từ điển Anh-Anh cách đây ba năm. Bất cứ khi nào tôi không tìm thấy nghĩa của một từ mới, tôi sẽ tra cứu, kiểm tra nghĩa và cách phát âm của nó trong từ điển. Từ điển cũng giúp tôi hiểu rõ hơn khi nào nên sử dụng từ đó. Thứ ba, tôi đã tự tạo sổ tay từ vựng của riêng mình. Tôi có thói quen chép tất cả các từ mới vào sổ tay. Bằng cách này, tôi có thể biết mình đã học được bao nhiêu từ và có thể ôn lại các từ một cách dễ dàng. Cuối cùng, tôi tận dụng mọi cơ hội để nói chuyện với mọi người bằng tiếng Anh. Tôi cố gắng sử dụng những từ đã học và học thêm nhiều từ mới từ những cuộc trò chuyện này. Tôi đã làm những điều này thường xuyên và bây giờ tôi khá tự tin về vốn từ vựng tiếng Anh của mình.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_10e253ef.mp3">
 Tóm tắt 4 phương pháp của Trang nha:
 1. Đọc sách tiếng Anh (từ truyện ngắn đến tiểu thuyết) — đoán nghĩa từ trong câu
 2. Dùng từ điển Anh-Anh — tra nghĩa VÀ phát âm, hiểu khi nào dùng từ
@@ -71,7 +71,7 @@ Tóm tắt 4 phương pháp của Trang nha:
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 39 - True or False
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_e4ed8245.mp3">
 Bài 2 trang 39. Nghe Trang nói. Xác định câu nào Đúng (<eng>T</eng>) hay Sai (<eng>F</eng>). 1 phút nha.
 </teacher_script>
 
@@ -118,7 +118,7 @@ Ok đáp án nè.
 **Audio:** Listen again and fill in each blank.
 </audio>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a4738b01.mp3">
 Bài 3 trang 39. Nghe lại và điền vào mỗi chỗ trống không quá HAI từ. 1 phút nha.
 </teacher_script>
 
@@ -178,7 +178,7 @@ Ok đáp án nè.
 <!-- chunk: writing_prep -->
 ### Bài 4 trang 39 - Discussion
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0b3e7100.mp3">
 Bài 4 trang 39. Thảo luận theo cặp về câu hỏi sau. 1 phút nha.
 </teacher_script>
 
@@ -195,7 +195,7 @@ Bài 4 trang 39. Thảo luận theo cặp về câu hỏi sau. 1 phút nha.
 *(Bạn đã làm gì để cải thiện nó?)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_92135040.mp3">
 Gợi ý nha:
 - Thử thách: phát âm, ngữ pháp, từ vựng, kỹ năng nghe, kỹ năng nói...
 - Cách cải thiện: dùng từ điển, xem phim, luyện nói với bạn bè, ghi sổ tay...
@@ -206,7 +206,7 @@ Gợi ý nha:
 <!-- chunk: writing_task -->
 ### Bài 5 trang 39 - Write paragraph
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_23cc7afb.mp3">
 Bài 5 trang 39. Viết đoạn văn 100-120 từ về thử thách lớn nhất khi học tiếng Anh và cách em cải thiện. 5 phút nha.
 </teacher_script>
 
@@ -218,7 +218,7 @@ You can start your paragraph as follows:
 *When learning English, I find _______ the most challenging, and I have done several things to improve it. Firstly,*
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_23417217.mp3">
 Mẹo viết nha:
 - Câu mở: *"When learning English, I find [thử thách] the most challenging..."*
 - Dùng từ nối: <eng>Firstly, Secondly, Finally</eng> để liệt kê 3-4 việc đã làm
@@ -226,14 +226,14 @@ Mẹo viết nha:
 - Viết 100-120 từ = khoảng 8-10 câu
 </teacher_script>
 
-<teacher_script pause="0" action="photo">
+<teacher_script pause="0" action="photo" href="audio/tts_713d40b4.mp3">
 Chụp ảnh bài viết của em gửi thầy nha.
 </teacher_script>
 
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f5de275f.mp3">
 Ok hết bài <eng>Skills 2</eng>. Hôm nay em học được:
 - Phương pháp học tiếng Anh của Trang: đọc sách, dùng từ điển, ghi sổ tay, luyện nói
 - Cách viết đoạn văn về phương pháp học: dùng từ nối + giải thích lý do

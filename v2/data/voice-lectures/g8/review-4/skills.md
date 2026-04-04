@@ -2,14 +2,14 @@
 ## Skills — Reading, Speaking, Listening & Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_33cd4883.mp3">
 Ok lớp 8, phần <eng>Skills</eng> của <eng>Review 4</eng> nha. Hôm nay ôn 4 kỹ năng với chủ đề: thông báo sự kiện, thiết bị học tập, hệ Mặt Trời, và phương tiện giao tiếp yêu thích. Bắt đầu thôi!
 </teacher_script>
 
 <!-- chunk: reading -->
 ### Phần 1 — Reading: Notices
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_76cdb98c.mp3">
 Bài 1 — đọc 3 thông báo (A, B, C) rồi đánh dấu ✓ vào ô đúng. Đọc kỹ từng thông báo rồi so sánh với 5 câu hỏi nha.
 </teacher_script>
 
@@ -35,7 +35,7 @@ Time: 2 p.m., April 8 | Place: School library
 **Phone 094738224** for more information.
 </reading>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_f658dc68.mp3">
 Bài 1 — đọc 3 thông báo rồi đánh dấu đúng vào bảng. Xem 5 câu hỏi và so sánh với từng thông báo. 1 phút rưỡi nha.
 </teacher_script>
 
@@ -54,7 +54,7 @@ Bài 1 — đọc 3 thông báo rồi đánh dấu đúng vào bảng. Xem 5 câ
 | **5.** Interested people call for more details. | | | |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_df209caf.mp3">
 Đáp án nè, giải thích từng câu.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Bài 1 — đọc 3 thông báo rồi đánh dấu đúng vào bảng. Xem 5 câ
 <!-- chunk: speaking -->
 ### Phần 2 — Speaking: Device/App for Studying
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d79fd492.mp3">
 Bài 2 — nói theo cặp về một thiết bị hoặc ứng dụng em dùng để học. Hỏi và trả lời 4 câu hỏi gợi ý, rồi tường thuật lại câu trả lời của bạn cho cả lớp nghe.
 </teacher_script>
 
@@ -129,14 +129,14 @@ Bài 2 — nói theo cặp về một thiết bị hoặc ứng dụng em dùng 
 "I asked my partner what app he used. He told me he used a dictionary app every day. He said it helped him look up words quickly. However, he admitted he sometimes relied on it too much."
 </questions>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_85e17e28.mp3">
 Thực hành theo cặp nha — hỏi và trả lời về app hoặc thiết bị em hay dùng khi học. Nhớ tường thuật lại câu trả lời của bạn dùng "he/she told me..., he/she said...". 2 phút nha.
 </teacher_script>
 
 <!-- chunk: listening -->
 ### Phần 3 — Listening: The Solar System
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_570c957c.mp3">
 Bài 3 — nghe Mark nói về hệ Mặt Trời, điền vào chỗ trống không quá **2 từ**. Đọc trước 5 câu hỏi để biết cần nghe thông tin gì nha.
 </teacher_script>
 
@@ -171,7 +171,7 @@ The Sun is a star which has eight planets that move around it. Many of these pla
 - rings: vành đai (quanh hành tinh)
 </reading>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_dfae559b.mp3">
 Đáp án nè.
 </teacher_script>
 
@@ -194,7 +194,7 @@ The Sun is a star which has eight planets that move around it. Many of these pla
 <!-- chunk: writing -->
 ### Phần 4 — Writing
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bbe5e394.mp3">
 Bài 4 — viết đoạn văn 80–100 từ về **phương tiện giao tiếp yêu thích** của em. Dùng 4 câu hỏi gợi ý để lên ý tưởng trước khi viết nha.
 </teacher_script>
 
@@ -227,7 +227,7 @@ Bài 4 — viết đoạn văn 80–100 từ về **phương tiện giao tiếp 
 4. Future: "I think I will continue to use it because..."
 </reading>
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_f1614c63.mp3">
 Viết đoạn văn vô tập nha — 80 đến 100 từ. 5 phút. Trả lời đủ 4 câu hỏi gợi ý trong đoạn văn nha.
 </teacher_script>
 
@@ -245,6 +245,6 @@ My favourite means of communication is texting on my phone. I use it many times 
 </reading>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_af000e0a.mp3">
 Xong <eng>Review 4</eng> rồi nha — và cũng là xong học kỳ 2 lớp 8 luôn! Nhớ ôn kỹ: **giới từ thời gian và địa điểm**, **đại từ sở hữu**, **câu tường thuật trần thuật và hỏi**. Chúc lớp ôn thi tốt — gặp lại nha!
 </teacher_script>

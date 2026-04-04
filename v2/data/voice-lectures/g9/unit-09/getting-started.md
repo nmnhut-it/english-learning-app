@@ -3,14 +3,14 @@
 ## GETTING STARTED - English Club
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_80579235.mp3">
 Ok lớp 9, hôm nay học Unit 9: <eng>English in the World</eng> nha. Đây là bài rất thú vị vì học về tiếng Anh toàn cầu - tại sao tiếng Anh lại phổ biến nhất thế giới và sự khác biệt giữa tiếng Anh Anh (<eng>British English</eng>) và tiếng Anh Mỹ (<eng>American English</eng>). Mở sách trang 30 đi.
 </teacher_script>
 
 ---
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e4632da6.mp3">
 Học từ vựng trước nha. Bài này có nhiều từ về ngôn ngữ: <eng>native speaker</eng> là người bản ngữ, <eng>mother tongue</eng> là tiếng mẹ đẻ, <eng>immigrant</eng> là người nhập cư. Quan trọng cho bài đọc sau này.
 </teacher_script>
 
@@ -25,7 +25,7 @@ Học từ vựng trước nha. Bài này có nhiều từ về ngôn ngữ: <en
 8. **trousers** : (n) quần dài (Anh) /ˈtraʊzəz/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_069a0392.mp3">
 Mẹo phân biệt nha:
 - <eng>Native speaker</eng>: người nói tiếng đó từ nhỏ, như tiếng mẹ đẻ
 - <eng>Mother tongue</eng> = <eng>first language</eng>: ngôn ngữ đầu tiên học được
@@ -37,7 +37,7 @@ Mẹo phân biệt nha:
 <!-- chunk: dialogue -->
 ### Bài 1 trang 30 - Listen and read
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc33015d.mp3">
 Nghe hội thoại giữa cô giáo, học sinh Việt Nam và Jack - học sinh trao đổi từ Mỹ nha. Chú ý sự khác biệt từ vựng Anh-Mỹ: <eng>pants</eng> (Mỹ) = <eng>trousers</eng> (Anh) = quần dài.
 </teacher_script>
 
@@ -82,7 +82,7 @@ Nghe hội thoại giữa cô giáo, học sinh Việt Nam và Jack - học sinh
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 31 - Fill in each blank
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_4271376c.mp3">
 Bài 2 trang 31. Đọc lại hội thoại rồi điền vào chỗ trống không quá HAI từ từ hội thoại. 1 phút nha.
 </teacher_script>
 
@@ -125,7 +125,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 31 - Match words with definitions
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0fa64b27.mp3">
 Bài 3 trang 31. Nối từ và cụm từ với định nghĩa đúng nha. 1 phút.
 </teacher_script>
 
@@ -171,7 +171,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 31 - Fill in blanks with vocabulary
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a76c9b06.mp3">
 Bài 4 trang 31. Điền từ hoặc cụm từ từ bài 3 vào chỗ trống. 1 phút nha.
 </teacher_script>
 
@@ -219,7 +219,7 @@ Ok đáp án nè.
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 32 - British vs American English Quiz
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_b8e5b65f.mp3">
 Bài 5 trang 32. Nối từ tiếng Anh Anh với từ tiếng Anh Mỹ cùng nghĩa. Ai nhanh nhất? 1 phút nha!
 </teacher_script>
 
@@ -257,7 +257,7 @@ Ok đáp án nè.
 ---
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_47043c73.mp3">
 Ok hết bài <eng>Getting Started</eng> Unit 9 rồi nha. Hôm nay em học được:
 - Từ vựng về ngôn ngữ: <eng>exchange student, immigrant, first language, vocabulary</eng>
 - Sự khác biệt Anh-Mỹ: <eng>pants</eng> (Mỹ) = <eng>trousers</eng> (Anh), <eng>flat</eng> = <eng>apartment</eng>, <eng>football</eng> = <eng>soccer</eng>

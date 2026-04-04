@@ -150,7 +150,7 @@ Bài 3 — tìm lỗi sai và sửa lại. Mỗi câu có một phần gạch ch
 Tìm lỗi và sửa bài 3 — 1 phút. Nhớ bảng lùi thì: <eng>is→was, will→would, can→could</eng>. Và thời gian: <eng>next year → the following year</eng> nha!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c9b107b4.mp3">
 Đáp án bài 3 nè!
 </teacher_script>
 

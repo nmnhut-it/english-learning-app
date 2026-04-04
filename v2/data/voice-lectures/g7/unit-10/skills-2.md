@@ -2,12 +2,12 @@
 ## SKILLS 2 - Listening and Writing
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_501fd0ed.mp3">
 Ok lớp 7, Unit 10 <eng>Skills 2</eng> nha. Bài này tụi mình học nghe và viết về chủ đề tiết kiệm năng lượng. Mở sách trang 111 đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ece564a3.mp3">
 Trước tiên học từ vựng mới nha. Bấm nút bên dưới để học từ vựng, máy đọc và các em đọc theo. Xong rồi làm bài trắc nghiệm từ vựng rồi ghi từ vựng vô tập.
 </teacher_script>
 
@@ -20,7 +20,7 @@ Trước tiên học từ vựng mới nha. Bấm nút bên dưới để học 
 </vocabulary>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4d9b91cc.mp3">
 Bài 1 <eng>Work in pairs. Answer the questions.</eng> Làm việc theo cặp, trả lời các câu hỏi nha.
 </teacher_script>
 
@@ -38,7 +38,7 @@ Bài 1 <eng>Work in pairs. Answer the questions.</eng> Làm việc theo cặp, t
 *Bạn thường làm gì để tiết kiệm năng lượng?*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_f04564f5.mp3">
 Suy nghĩ 1 phút rồi trả lời nha. Có thể trả lời như: <eng>I use solar energy and hydro energy at home.</eng> Nghĩa là mình dùng năng lượng mặt trời và thủy điện ở nhà. Hoặc <eng>I use energy-saving light bulbs to save energy.</eng> Nghĩa là mình dùng bóng đèn tiết kiệm năng lượng.
 </teacher_script>
 
@@ -52,7 +52,7 @@ Suy nghĩ 1 phút rồi trả lời nha. Có thể trả lời như: <eng>I use 
 </answer>
 
 <!-- chunk: listening-audio -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0db41e5b.mp3">
 Giờ nghe bài nghe nha. Thầy Lâm đang thảo luận với học sinh về cách tiết kiệm năng lượng tại nhà. Nghe kỹ để làm bài 2 và bài 3.
 </teacher_script>
 
@@ -61,7 +61,7 @@ Giờ nghe bài nghe nha. Thầy Lâm đang thảo luận với học sinh về 
 </audio>
 
 <!-- chunk: tapescript -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cbd1b5ed.mp3">
 Đây là nội dung bài nghe. Đọc và dịch nha.
 </teacher_script>
 
@@ -93,12 +93,12 @@ Giờ nghe bài nghe nha. Thầy Lâm đang thảo luận với học sinh về 
 **Thầy Lâm:** Nghe thú vị đó. Thế còn em thì sao,...?
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_7df85c69.mp3">
 Dịch bài nghe vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a07403e6.mp3">
 Bài 2 <eng>Listen and circle the phrases you hear.</eng> Nghe và khoanh tròn các cụm từ em nghe được nha.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Bài 2 <eng>Listen and circle the phrases you hear.</eng> Nghe và khoanh tròn 
 **6.** use solar panels *(sử dụng tấm năng lượng mặt trời)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a3e37fb9.mp3">
 Nghe lại và khoanh tròn các cụm từ nghe được nha. 1 phút.
 </teacher_script>
 
@@ -146,7 +146,7 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b1d02437.mp3">
 Bài 3 <eng>Listen again and tick T True or F False for each sentence.</eng> Nghe lại và đánh dấu Đúng hay Sai cho mỗi câu nha.
 </teacher_script>
 
@@ -175,12 +175,12 @@ Bài 3 <eng>Listen again and tick T True or F False for each sentence.</eng> Ngh
 *Minh sử dụng năng lượng mặt trời để nấu ăn.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_6ccd86af.mp3">
 Nghe lại và làm bài nha. 1 phút.
 </teacher_script>
 
-<teacher_script pause="0">
-Ok đáp án nè. Cô giải thích từng câu luôn.
+<teacher_script pause="0" href="audio/tts_fbc44697.mp3">
+Ok đáp án nè. Thầy giải thích từng câu luôn.
 </teacher_script>
 
 <answer>
@@ -200,7 +200,7 @@ Ok đáp án nè. Cô giải thích từng câu luôn.
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d15bf8f4.mp3">
 Phần <eng>Writing</eng> nè. Bài 4 <eng>Work in pairs. Read some ways to save energy at home. Choose three ways and write them in your notebook.</eng> Làm việc theo cặp, đọc một số cách tiết kiệm năng lượng ở nhà, chọn 3 cách và viết vào vở.
 </teacher_script>
 
@@ -221,7 +221,7 @@ Phần <eng>Writing</eng> nè. Bài 4 <eng>Work in pairs. Read some ways to save
 - Turn off electrical appliances when not using them *(Tắt các thiết bị điện khi không sử dụng)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a7298c57.mp3">
 Chọn 3 cách mà em hay làm ở nhà rồi viết vào vở nha. 1 phút.
 </teacher_script>
 
@@ -233,7 +233,7 @@ Chọn 3 cách mà em hay làm ở nhà rồi viết vào vở nha. 1 phút.
 </answer>
 
 <!-- chunk: exercise-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1ceaa6cd.mp3">
 Bài 5 <eng>Write a paragraph of about 70 words about how you save energy at home.</eng> Viết một đoạn văn khoảng 70 từ về cách em tiết kiệm năng lượng ở nhà.
 </teacher_script>
 
@@ -258,7 +258,7 @@ We use a lot of energy at home and it costs us a lot. To save energy, we should 
   *Ví dụ: Remember to turn off the lights when you are not using them.* (Hãy nhớ tắt đèn khi không dùng.)
 </grammar>
 
-<teacher_script pause="300" action="photo">
+<teacher_script pause="300" action="photo" href="audio/tts_8eb4b276.mp3">
 Viết đoạn văn khoảng 70 từ nha. Dùng cấu trúc <eng>We should</eng> và <eng>Remember to</eng>. 5 phút. Xong rồi chụp hình bài viết gửi lên.
 </teacher_script>
 
@@ -273,6 +273,6 @@ Chúng ta sử dụng rất nhiều năng lượng ở nhà và chúng ta tốn 
 </answer>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_12ab0460.mp3">
 Ok xong bài <eng>Skills 2</eng> Unit 10 rồi nha. Các em đã học được cách nghe và viết về chủ đề tiết kiệm năng lượng. Nhớ thực hành tiết kiệm năng lượng ở nhà nha. Về nhà ôn bài và chuẩn bị bài <eng>Looking Back</eng> hen. Tạm biệt các em!
 </teacher_script>

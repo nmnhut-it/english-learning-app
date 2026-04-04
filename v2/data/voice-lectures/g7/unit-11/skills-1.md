@@ -2,7 +2,7 @@
 ## SKILLS 1 - Reading and Speaking
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e361c590.mp3">
 Ok lớp 7, Unit 11 bài <eng>Skills 1</eng> nha. Bài này mình học <eng>Reading</eng> và <eng>Speaking</eng> về xe điện trong tương lai. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi vô tập nha.
 </teacher_script>
 
@@ -20,7 +20,7 @@ Ok lớp 7, Unit 11 bài <eng>Skills 1</eng> nha. Bài này mình học <eng>Rea
 </vocabulary>
 
 <!-- chunk: reading -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_352c53ff.mp3">
 Giờ mình đọc bài đọc nha. Bài đọc về công ty xe điện Roadrunner. Đọc và hiểu nội dung nè.
 </teacher_script>
 
@@ -38,14 +38,14 @@ Công ty sẽ giới thiệu một mô hình mới vào năm tới có tên là 
 Cả hai mô hình đều có chức năng lái tự động, vì vậy chúng không cần người lái. Hành khách có thể đọc, chơi trò chơi hoặc thậm chí ngủ trong khi đi du lịch.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_d2bd6576.mp3">
 Các em đọc bài và dịch vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
 ### Bài 1 trang 119 - Speaking
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d28c6009.mp3">
 Bài 1 <eng>Work in pairs. Look at the picture and find the words or phrases to describe it</eng>. Nhìn hình trong sách và tìm các từ hoặc cụm từ để mô tả nó nha.
 </teacher_script>
 
@@ -61,7 +61,7 @@ Nhìn hình trong sách và mô tả bức tranh bằng tiếng Anh.
 *Nhìn hình trong sách nha.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a23ef9fc.mp3">
 Các em suy nghĩ và trả lời nha. 1 phút.
 </teacher_script>
 
@@ -84,7 +84,7 @@ Nhìn hình trong sách, mình thấy cô gái đang ngồi trong xe mà không 
 <!-- chunk: exercise-2 -->
 ### Bài 2 trang 119 - Multiple Choice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2f5d2d5f.mp3">
 Bài 2 nè. <eng>Read the passage and answer the question: What is its main idea?</eng> Đọc đoạn văn và trả lời câu hỏi: Ý chính của bài là gì? Chọn A, B hoặc C nha.
 </teacher_script>
 
@@ -107,7 +107,7 @@ Bài 2 nè. <eng>Read the passage and answer the question: What is its main idea
 *C. Ô tô của Roadrunner có chức năng lái tự động.*
 </questions>
 
-<teacher_script pause="45">
+<teacher_script pause="45" href="audio/tts_eb2c45e4.mp3">
 Các em đọc lại bài và chọn đáp án nha. 45 giây.
 </teacher_script>
 
@@ -130,7 +130,7 @@ Ok đáp án nè.
 <!-- chunk: exercise-3 -->
 ### Bài 3 trang 119 - Fill in the Blanks
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_34297880.mp3">
 Bài 3 nè. <eng>Read the passage again and complete the fact file with no more than TWO words or a number</eng>. Đọc lại đoạn văn và hoàn thành bảng thông tin với không quá hai từ hoặc một số nha.
 </teacher_script>
 
@@ -151,7 +151,7 @@ Bài 3 nè. <eng>Read the passage again and complete the fact file with no more 
 | **Passengers can** | read, sleep, play games |
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_9f3187e5.mp3">
 Các em đọc lại bài và điền vô bảng nha. 1 phút.
 </teacher_script>
 
@@ -185,7 +185,7 @@ Ok đáp án nè.
 <!-- chunk: exercise-4 -->
 ### Bài 4 trang 119 - Speaking: Ask and Answer
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_59c62584.mp3">
 Giờ qua phần <eng>Speaking</eng> nha. Bài 4, <eng>Work in pairs. Look at the fact file in 3 then ask and answer questions about it</eng>. Làm việc theo cặp. Nhìn vào bảng thông tin ở bài 3 rồi hỏi và trả lời các câu hỏi về nó nha.
 </teacher_script>
 
@@ -206,11 +206,11 @@ Giờ qua phần <eng>Speaking</eng> nha. Bài 4, <eng>Work in pairs. Look at th
 | **B:** In 2015. | **B:** Vào năm 2015. |
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_58c52e8e.mp3">
 Các em thực hành hỏi và trả lời theo mẫu nha. Ghi âm lại bài nói của mình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_cbccfd49.mp3">
 Đây là thêm một số câu hỏi và trả lời mẫu nè.
 </teacher_script>
 
@@ -236,7 +236,7 @@ Các em dựa vào bảng <eng>Fact File</eng> ở bài 3 để hỏi và trả 
 <!-- chunk: exercise-5 -->
 ### Bài 5 trang 119 - Speaking: Discussion
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b19a2553.mp3">
 Bài 5 nè. <eng>Work in groups. Discuss why Roadrunner's cars will or won't become popular in the near future. Report your reasons to the class</eng>. Làm việc nhóm. Thảo luận tại sao xe của Roadrunner sẽ hoặc sẽ không trở nên phổ biến trong tương lai gần nha.
 </teacher_script>
 
@@ -258,11 +258,11 @@ Bài 5 nè. <eng>Work in groups. Discuss why Roadrunner's cars will or won't bec
 *(Chúng tôi nghĩ rằng những chiếc xe của Roadrunner sẽ không trở nên phổ biến trong tương lai gần vì chúng có thể nguy hiểm / đắt tiền ...)*
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_54914d7e.mp3">
 Các em thảo luận nhóm rồi ghi âm lại ý kiến của mình nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_81767e73.mp3">
 Đây là một số câu trả lời mẫu nè.
 </teacher_script>
 
@@ -294,6 +294,6 @@ Lý do xe sẽ không phổ biến: phụ thuộc vào pin (<eng>dependent on ba
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_3b987486.mp3">
 Ok vậy là xong bài <eng>Skills 1</eng> Unit 11 rồi nha. Các em đã học về công ty xe điện Roadrunner với hai mẫu xe Speed và Safety. Nhớ ôn lại từ vựng và luyện nói hen. Bài sau mình học <eng>Skills 2</eng> về <eng>Listening</eng> và <eng>Writing</eng>. Tạm biệt các em!
 </teacher_script>

@@ -174,7 +174,7 @@ Bài 3 — điền từ trong ô vào chỗ trống. Dùng đúng dạng từ nh
 Điền bài 3 đi — 1 phút nha. Nhớ chọn từ cho đúng nghĩa và dạng!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c9b107b4.mp3">
 Đáp án bài 3 nè!
 </teacher_script>
 

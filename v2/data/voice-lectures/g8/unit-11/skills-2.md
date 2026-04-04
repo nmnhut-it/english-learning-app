@@ -201,7 +201,7 @@ Bài 3 — Đúng hay Sai nha. Đọc kỹ từng câu rồi so sánh với bài
 Làm bài 3 — 1 phút. Đọc kỹ từng câu, đừng vội nha!
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c9b107b4.mp3">
 Đáp án bài 3 nè!
 </teacher_script>
 

@@ -2,12 +2,12 @@
 ## COMMUNICATION - Persuading and Earth's Habitats
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_981a4ad1.mp3">
 Ok lớp 9 nha, hôm nay mình học bài <eng>Communication</eng> Unit 10 hen. Bài này có hai phần: <eng>Everyday English</eng> về cách thuyết phục ai đó làm gì đó, và phần <eng>Earth's habitats</eng> về các môi trường sống trên Trái Đất. Mở sách trang 108 đi nha.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_36fb0a7f.mp3">
 Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để học từ vựng, máy đọc các em đọc theo. Xong rồi làm bài trắc nghiệm từ vựng rồi ghi vô tập.
 </teacher_script>
 
@@ -45,7 +45,7 @@ Trước tiên mình học từ vựng nha. Bấm nút "Bắt đầu" để họ
 </vocabulary>
 
 <!-- chunk: everyday-english-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1f2c0248.mp3">
 Ok bây giờ mình vào phần <eng>Everyday English</eng> nha. Chủ đề là <eng>Persuading someone to do something and responding</eng> - tức là Thuyết phục ai đó làm điều gì đó và cách phản hồi. Đây là kỹ năng giao tiếp rất hữu ích đó nha.
 </teacher_script>
 
@@ -56,7 +56,7 @@ Ok bây giờ mình vào phần <eng>Everyday English</eng> nha. Chủ đề là
 *(Thuyết phục ai đó làm điều gì đó và phản hồi)*
 
 <!-- chunk: bai-1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e79505ab.mp3">
 Bài 1 <eng>Listen and read the conversations. Pay attention to the highlighted parts.</eng> - Nghe và đọc đoạn hội thoại. Hãy chú ý đến những phần được đánh dấu. Các em nghe audio rồi đọc theo nha.
 </teacher_script>
 
@@ -72,7 +72,7 @@ Bài 1 <eng>Listen and read the conversations. Pay attention to the highlighted 
 **Audio:** Everyday English - Persuading someone
 </audio>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_2370fcae.mp3">
 Day la hoi thoai thu nhat nha. Mi thuyet phuc Tom doc sach ve He Mat troi.
 </teacher_script>
 
@@ -92,7 +92,7 @@ Day la hoi thoai thu nhat nha. Mi thuyet phuc Tom doc sach ve He Mat troi.
 **Tom:** **Duoc roi, toi se suy nghi ve dieu do.**
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c3302c30.mp3">
 Cau noi de thuyet phuc la <eng>Why don't you give it a go?</eng> nghia la "Tai sao ban khong thu di?". Va cach tra loi dong y la <eng>OK, I'll think about that</eng> - "Duoc roi, toi se suy nghi ve dieu do". Bay gio nghe hoi thoai thu hai nha.
 </teacher_script>
 
@@ -112,12 +112,12 @@ Cau noi de thuyet phuc la <eng>Why don't you give it a go?</eng> nghia la "Tai s
 **Nguoi dan dia phuong:** **Duoc roi. Toi se dong gop.**
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_332aceda.mp3">
 O hoi thoai nay, cau thuyet phuc la <eng>How would you feel about + V-ing?</eng> nghia la "Ban cam thay the nao ve viec...?". Va cau <eng>Your contribution would really help us out</eng> de nhan manh su dong gop se giup ich. Cach tra loi dong y la <eng>Alright. I'll make a contribution</eng> - "Duoc roi. Toi se dong gop".
 </teacher_script>
 
 <!-- chunk: useful-expressions -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e47ee39a.mp3">
 Cac em ghi lai cac mau cau nay nha:
 </teacher_script>
 
@@ -137,7 +137,7 @@ Cac em ghi lai cac mau cau nay nha:
 </grammar>
 
 <!-- chunk: bai-2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_78c7ab99.mp3">
 Bai 2 nha. <eng>Work in pairs. Make similar conversations with the following situations.</eng> - Lam viec theo cap. Thuc hien cac cuoc hoi thoai tuong tu voi cac tinh huong sau. Co hai tinh huong, cac em xem de roi lam nha.
 </teacher_script>
 
@@ -157,11 +157,11 @@ Bai 2 nha. <eng>Work in pairs. Make similar conversations with the following sit
 *(Ban thuyet phuc nguoi dan dia phuong dong gop vao quy xay dung khu bao ton thien nhien.)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c515d916.mp3">
 Cac em suy nghi va viet hoi thoai trong 1 phut nha. Dung cac mau cau da hoc.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bc5837e9.mp3">
 Ok đáp án mẫu nè.
 </teacher_script>
 
@@ -200,7 +200,7 @@ Ok đáp án mẫu nè.
 </answer>
 
 <!-- chunk: earths-habitats-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fb14cc31.mp3">
 Bay gio minh chuyen sang phan <eng>Earth's habitats</eng> - Moi truong song cua Trai Dat nha. Phan nay se gioi thieu ve cac loai moi truong song khac nhau tren hanh tinh cua chung ta.
 </teacher_script>
 
@@ -208,7 +208,7 @@ Bay gio minh chuyen sang phan <eng>Earth's habitats</eng> - Moi truong song cua 
 *(Moi truong song cua Trai Dat)*
 
 <!-- chunk: bai-3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_f1d08d4a.mp3">
 Bai 3 nha. <eng>Read the short descriptions of various habitats and match them with their features.</eng> - Doc nhung mo ta ngan gon ve cac moi truong song khac nhau va noi chung voi cac dac diem cua chung. Cac em doc ky bai doc roi lam bai noi nha.
 </teacher_script>
 
@@ -240,7 +240,7 @@ Bai 3 nha. <eng>Read the short descriptions of various habitats and match them w
 **Dong co** bao gom dong co nhiet doi va on doi. Cay trong chu yeu la co. Chung rat quan trong de chan tha gia suc. Dong vat dong co bao gom huou cao co, ngua van, su tu, voi, v.v.
 </translation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8adbaf12.mp3">
 Bay gio cac em lam bai noi nha. Noi moi truong song voi dac diem cua no.
 </teacher_script>
 
@@ -258,11 +258,11 @@ Bay gio cac em lam bai noi nha. Noi moi truong song voi dac diem cua no.
 *(4. Dong co - d. la phoi cua Trai Dat, noi sinh song cua nhieu loai)*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_0d6ce773.mp3">
 Cac em lam bai trong 1 phut nha.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_29c83a10.mp3">
 Ok đáp án nè.
 </teacher_script>
 
@@ -295,7 +295,7 @@ Ok đáp án nè.
 </answer>
 
 <!-- chunk: bai-4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26a7ffa6.mp3">
 Bai 4 nha. <eng>Work in pairs. Choose two habitats and compare them.</eng> - Lam viec theo cap. Chon hai moi truong song va so sanh chung. Cac em co the tham khao cac diem sau.
 </teacher_script>
 
@@ -315,7 +315,7 @@ You can refer to the following:
 - other special features *(cac dac diem dac biet khac)*
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0ea9ea6a.mp3">
 Day la bang so sanh mau giua Dai duong va Rung nha.
 </teacher_script>
 
@@ -330,12 +330,12 @@ Day la bang so sanh mau giua Dai duong va Rung nha.
 | **Plants/animals** *(Thuc vat/dong vat)* | Fish, whales, dolphins, sharks, sea turtles, coral reefs, plankton, etc. *(Ca, ca voi, ca heo, ca map, rua bien, ran san ho, sinh vat phu du, v.v.)* | Trees (oak, maple, pine), mammals (bears, deer, monkeys), birds (eagles, owls, parrots), insects (butterflies, ants, beetles), amphibians (frogs, salamanders), etc. *(Cay coi (soi, phong, thong), dong vat co vu (gau, huou, khi), chim (dai bang, cu, vet), con trung (buom, kien, bo canh cung), dong vat luong cu (ech, ky nhong), v.v.)* |
 </answer>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_ee81fc70.mp3">
 Cac em chon hai moi truong song va tu lam bang so sanh tuong tu nha. 1 phut ruoi.
 </teacher_script>
 
 <!-- chunk: bai-5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_04d89514.mp3">
 Bai 5 nha. <eng>Report the results of your comparison to the class.</eng> - Bao cao ket qua so sanh cua ban voi ca lop. Day la vi du mau nha.
 </teacher_script>
 
@@ -350,7 +350,7 @@ Example: While oceans are water bodies, forests are landform habitats. Both ocea
 *(Vi du: Trong khi dai duong la cac vung nuoc thi rung la moi truong song co dia hinh. Ca dai duong va rung deu cung cap oxy cho Trai Dat.)*
 </task>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_129db3eb.mp3">
 Day la bai mau day du nha.
 </teacher_script>
 
@@ -374,11 +374,11 @@ In conclusion, while oceans and forests may seem worlds apart, they are both ens
 *Tom lai, mac du dai duong va rung duong nhu cach xa nhau nhung chung deu dam bao su song cho hanh tinh cua chung ta va tat ca cu dan tren do. Chung ta hay tran trong va bao ve nhung he sinh thai vo gia nay cho cac the he mai sau.*
 </answer>
 
-<teacher_script pause="120" action="record">
+<teacher_script pause="120" action="record" href="audio/tts_6f3fed5d.mp3">
 Bay gio den luot cac em nha. Chon hai moi truong song va trinh bay bai so sanh. Ghi am lai bai noi cua minh. 2 phut nha.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_8c5b70e2.mp3">
 Ok vay la xong bai <eng>Communication</eng> Unit 10 roi nha. Hom nay cac em da hoc cach thuyet phuc ai do lam gi do voi cac mau cau nhu <eng>Why don't you give it a go?</eng> va <eng>How would you feel about + V-ing?</eng>. Ngoai ra, cac em con tim hieu ve bon loai moi truong song tren Trai Dat: vung cuc, rung, dai duong va dong co. Nho on bai va chuan bi cho bai hoc tiep theo nha. Bye bye!
 </teacher_script>

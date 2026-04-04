@@ -2,7 +2,7 @@
 ## SKILLS 2 - Nghe & Viết
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a32a9c60.mp3">
 Ok lớp 9, bài <eng>Skills 2</eng> Unit 11 nha — hôm nay nghe về máy hút bụi robot, rồi viết đoạn văn về thiết bị điện tử yêu thích. Mở sách, ghi tựa bài, học từ vựng trước đi nha.
 </teacher_script>
 
@@ -19,19 +19,19 @@ Ok lớp 9, bài <eng>Skills 2</eng> Unit 11 nha — hôm nay nghe về máy hú
 10. **improvement** : (n) sự cải tiến /ɪmˈpruːvmənt/
 </vocabulary>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6b644f47.mp3">
 Làm trắc nghiệm từ vựng đi rồi ghi vô tập nha. Chú ý *laborious* = vất vả, *crumb* = mảnh vụn, *recognise* = nhận ra — ba từ quan trọng nhất trong bài nghe.
 </teacher_script>
 
 <audio src="https://img.loigiaihay.com/picture/2024/0516/71.mp3"></audio>
 
 <!-- chunk: listening-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_992d6064.mp3">
 Bài 1 — thảo luận theo cặp hai câu hỏi: thiết bị trong hình là gì, và bạn có muốn có cái đó ở nhà không? Nhìn hình trong sách, rồi mình nghe bài chính nha.
 </teacher_script>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c04cce78.mp3">
 Bài 2 trang 56 — nghe Trang nói về thiết bị điện tử yêu thích của cô ấy, rồi chọn đáp án đúng A, B hoặc C. Có 4 câu — làm trong 1 phút nha.
 </teacher_script>
 
@@ -87,7 +87,7 @@ Ok đáp án nè.
 <audio src="https://img.loigiaihay.com/picture/2024/0516/72.mp3"></audio>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_922dc87f.mp3">
 Bài 3 trang 56 — nghe lại và điền vào mỗi chỗ trống MỘT từ mà bạn nghe được. Có 4 câu — 1 phút nha.
 </teacher_script>
 
@@ -129,7 +129,7 @@ Ok đáp án nè.
 </explanation>
 
 <!-- chunk: tapescript -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7fb4c31c.mp3">
 Đây là toàn bộ bài nghe của Trang — đọc lại để hiểu rõ hơn nha.
 </teacher_script>
 
@@ -143,17 +143,17 @@ My favourite electronic device is a robotic vacuum cleaner which helps me to cle
 Thiết bị điện tử yêu thích của tôi là máy hút bụi robot giúp tôi lau sàn, một công việc vất vả và nhàm chán. Đầu tiên, nó có thể tự động làm sạch hầu hết bụi, vết bẩn và vết bẩn trong nhà tôi. Thứ hai, tôi có thể điều khiển nó bằng ứng dụng trên điện thoại thông minh khi tôi đi xa nhà. Cuối cùng, máy hút bụi robot dễ cất giữ và mang theo vì nó nhỏ hơn máy hút bụi thông thường. Tôi nghĩ rằng sẽ có rất nhiều thứ mà máy hút bụi robot có thể làm trong tương lai. Đầu tiên, nó sẽ có thể nhận ra các mẫu và sau đó thực hiện hành động. Nó sẽ đến nơi bạn đã ăn và hút sạch tất cả các mảnh vụn ở đó. Thứ hai, nó sẽ có thể leo cầu thang và thậm chí mở cửa hoặc ngăn kéo. Vì vậy, nó sẽ có thể đến bất kỳ tầng hoặc phòng nào trong nhà chúng ta. Cuối cùng, công nghệ laser sẽ giúp nó nhận ra mọi thứ trên mặt đất như bụi hoặc đất. Với những cải tiến này, tôi nghĩ rằng máy hút bụi robot sẽ hữu ích hơn với chúng ta trong tương lai.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_8a8a377e.mp3">
 Đọc lại bài nghe và dịch vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: writing-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e8c6bbea.mp3">
 Giờ mình tới phần <eng>Writing</eng> nha. Bài 4 — nghĩ về một thiết bị điện tử yêu thích của bản thân rồi ghi lại câu trả lời cho ba câu hỏi: thiết bị đó là gì, bây giờ nó làm được gì, và trong tương lai nó sẽ làm được gì. Đọc bài mẫu trước rồi viết bài của mình nha.
 </teacher_script>
 
 <!-- chunk: writing-sample -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ba2fd9af.mp3">
 Đây là bài mẫu về đồng hồ thông minh — đọc để lấy ý tưởng về cấu trúc nha.
 </teacher_script>
 
@@ -173,16 +173,16 @@ Thiết bị điện tử yêu thích của tôi là đồng hồ thông minh. N
 Trong tương lai, nó có thể có các tính năng theo dõi sức khỏe tiên tiến hơn như lượng oxy trong máu và theo dõi huyết áp. Trong bối cảnh công nghệ không ngừng phát triển, nó có thể sử dụng các thuật toán để dự đoán các vấn đề sức khỏe hoặc đưa ra các khuyến nghị về sức khỏe được cá nhân hóa dựa trên dữ liệu thu thập được.
 </translation>
 
-<teacher_script pause="300">
+<teacher_script pause="300" href="audio/tts_8de758ff.mp3">
 Xong bài mẫu rồi nha. Thấy cấu trúc chưa? Đoạn 1 nói về *hiện tại* — thiết bị làm được gì bây giờ. Đoạn 2 nói về *tương lai* — nó sẽ làm được gì. Giờ viết bài của mình khoảng 100 từ — có thể viết về điện thoại, máy tính bảng, tai nghe, hay bất kỳ thiết bị nào bạn thích. Có 5 phút nha. Sau đó chụp ảnh bài lại nha.
 </teacher_script>
 
 <!-- chunk: writing-photo -->
-<teacher_script action="photo" pause="0">
+<teacher_script action="photo" pause="0" href="audio/tts_cb2025b4.mp3">
 Xong chưa nha? Chụp ảnh bài viết lại để nộp đi nha. Bấm nút chụp ảnh ở dưới luôn.
 </teacher_script>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d9a28d7c.mp3">
 Xong <eng>Skills 2</eng> Unit 11 rồi nha! Hôm nay nghe về máy hút bụi robot của Trang — hiện tại và tương lai. Nhớ từ quan trọng: *laborious*, *automatically*, *recognise*, *improvement* nha. Bài sau là <eng>Looking Back</eng> — ôn tập toàn bộ Unit 11 luôn. Cố lên nhé!
 </teacher_script>

@@ -2,7 +2,7 @@
 ## SKILLS 1 - Reading and Speaking
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_afcf33f4.mp3">
 Ok lớp 7, Unit 10 bài <eng>Skills 1</eng> nha. Bài này mình học <eng>Reading</eng> và <eng>Speaking</eng> về nguồn năng lượng. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi vô tập nha.
 </teacher_script>
 
@@ -21,7 +21,7 @@ Ok lớp 7, Unit 10 bài <eng>Skills 1</eng> nha. Bài này mình học <eng>Rea
 </vocabulary>
 
 <!-- chunk: reading-intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_ac1f5795.mp3">
 Giờ mình đọc bài đọc nha. Ông Lâm đang giảng bài về các nguồn năng lượng. Đọc và hiểu nội dung nè.
 </teacher_script>
 
@@ -41,14 +41,14 @@ Các nguồn tái tạo đến từ mặt trời, gió hoặc nước. Khi năng
 Trong tương lai, chúng ta sẽ dựa nhiều hơn vào các nguồn năng lượng tái tạo. Chúng tốt hơn cho môi trường và chúng sẽ không cạn kiệt.
 </translation>
 
-<teacher_script pause="180">
+<teacher_script pause="180" href="audio/tts_d2bd6576.mp3">
 Các em đọc bài và dịch vô vở nha. 3 phút.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
 ### Bài 1 trang 110 - Discussion
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_7ab7e356.mp3">
 Bài 1 <eng>Work in pairs. Discuss the following questions</eng>. Làm việc theo cặp và thảo luận các câu hỏi sau nha.
 </teacher_script>
 
@@ -68,7 +68,7 @@ Bài 1 <eng>Work in pairs. Discuss the following questions</eng>. Làm việc th
 *Chúng ta sẽ sử dụng (những) loại nguồn năng lượng nào trong tương lai?*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_a23ef9fc.mp3">
 Các em suy nghĩ và trả lời nha. 1 phút.
 </teacher_script>
 
@@ -97,7 +97,7 @@ Câu 2: Trong tương lai chúng ta sẽ sử dụng năng lượng mặt trời
 <!-- chunk: exercise-2 -->
 ### Bài 2 trang 110 - Multiple Choice
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d4be7544.mp3">
 Bài 2 nè. <eng>Mr Lam is giving a lecture on energy sources. Read the text and choose the best option (A, B, or C) to complete the sentences</eng>. Ông Lâm đang giảng bài về các nguồn năng lượng. Đọc văn bản và chọn phương án tốt nhất A, B hoặc C để hoàn thành các câu nha.
 </teacher_script>
 
@@ -141,7 +141,7 @@ Bài 2 nè. <eng>Mr Lam is giving a lecture on energy sources. Read the text and
 *Các nguồn năng lượng tái tạo tốt hơn cho _______.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_75c02bf7.mp3">
 Các em làm bài nha. 1 phút.
 </teacher_script>
 
@@ -166,7 +166,7 @@ Ok đáp án nè.
 <!-- chunk: exercise-3 -->
 ### Bài 3 trang 110 - Answer Questions
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e40e7f57.mp3">
 Bài 3 nè. <eng>Read the text again and answer the questions</eng>. Đọc lại văn bản và trả lời các câu hỏi nha.
 </teacher_script>
 
@@ -194,7 +194,7 @@ Bài 3 nè. <eng>Read the text again and answer the questions</eng>. Đọc lạ
 *Chúng ta sẽ dựa vào điều gì nhiều hơn trong tương lai?*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_cdcaf6a6.mp3">
 Các em đọc bài và trả lời các câu hỏi nha. 1 phút rưỡi.
 </teacher_script>
 
@@ -237,7 +237,7 @@ Câu 4 tìm ở đoạn cuối: "In the future we will rely more on renewable en
 <!-- chunk: exercise-4 -->
 ### Bài 4 trang 110 - Speaking: Advantages and Disadvantages
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_db08ff2e.mp3">
 Giờ qua phần <eng>Speaking</eng> nha. Bài 4, <eng>Work in groups. Discuss and put the following words or phrases in the appropriate columns</eng>. Làm việc theo nhóm. Thảo luận và đặt các từ hoặc cụm từ sau vào các cột thích hợp nha.
 </teacher_script>
 
@@ -255,7 +255,7 @@ Giờ qua phần <eng>Speaking</eng> nha. Bài 4, <eng>Work in groups. Discuss a
 | ? | ? |
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_295cfdaa.mp3">
 Các em phân loại các từ nha. 1 phút.
 </teacher_script>
 
@@ -286,7 +286,7 @@ Nhớ nha: <eng>run out</eng> là cạn kiệt - đó là bất lợi vì năng 
 <!-- chunk: exercise-5 -->
 ### Bài 5 trang 110 - Speaking: Ask and Answer
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4cacedac.mp3">
 Bài 5 nè. <eng>Work in pairs. Ask and answer questions about the advantages and disadvantages of different energy sources</eng>. Làm việc theo cặp. Hỏi và trả lời các câu hỏi về ưu điểm và nhược điểm của các nguồn năng lượng khác nhau nha.
 </teacher_script>
 
@@ -307,11 +307,11 @@ Bài 5 nè. <eng>Work in pairs. Ask and answer questions about the advantages an
 | **B:** It's expensive to produce. | **B:** Nó đắt tiền để sản xuất. |
 </questions>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_58c52e8e.mp3">
 Các em thực hành hỏi và trả lời theo mẫu nha. Ghi âm lại bài nói của mình.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_e8656021.mp3">
 Đây là một mẫu hội thoại khác về năng lượng từ than đá nè.
 </teacher_script>
 
@@ -338,6 +338,6 @@ Nhớ phân biệt:
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_67d4740e.mp3">
 Ok vậy là xong bài <eng>Skills 1</eng> Unit 10 rồi nha. Các em đã học về các nguồn năng lượng tái tạo và không tái tạo, ưu điểm và nhược điểm của chúng. Nhớ ôn lại từ vựng và luyện nói hen. Bài sau mình học <eng>Skills 2</eng> về <eng>Listening</eng> và <eng>Writing</eng>. Tạm biệt các em!
 </teacher_script>

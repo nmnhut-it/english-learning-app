@@ -2,14 +2,14 @@
 ## A CLOSER LOOK 2 - Grammar: Articles a/an/the
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_423d4d6e.mp3">
 Ok lớp 7, hôm nay mình học ngữ pháp <eng>A Closer Look 2</eng> Unit 12 nha. Bài này ôn lại và học sâu hơn về mạo từ <eng>a, an, the</eng>. Phần này hay ra thi lắm á! Mở sách trang 43 đi!
 </teacher_script>
 
 <!-- chunk: grammar_basic -->
 ### Grammar: Mạo từ A / AN / THE
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a6c54555.mp3">
 Mình ôn lại cơ bản về mạo từ trước nha. Có 3 mạo từ: <eng>a, an, the</eng>. Mỗi cái dùng khác nhau.
 </teacher_script>
 
@@ -30,7 +30,7 @@ Mình ôn lại cơ bản về mạo từ trước nha. Có 3 mạo từ: <eng>a
 - **an hour** (/ˈaʊər/ - chữ h câm, bắt đầu bằng /aʊ/) → dùng **an**
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6f9f8aa4.mp3">
 Giờ học về <eng>the</eng> nha. Đây là phần quan trọng nhất và hay nhầm nhất!
 </teacher_script>
 
@@ -65,7 +65,7 @@ Giờ học về <eng>the</eng> nha. Đây là phần quan trọng nhất và ha
    > *(nhưng:* go **north** / in **northern** Scotland - hướng thường thì không dùng the*)*
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_891dc3bf.mp3">
 Phần cuối: khi **KHÔNG** dùng mạo từ nha.
 </teacher_script>
 
@@ -85,7 +85,7 @@ Phần cuối: khi **KHÔNG** dùng mạo từ nha.
 <!-- chunk: exercise_1 -->
 ### Bài 1 trang 43 - Complete with a/an or the
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_eda59542.mp3">
 Bài 1 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đúng nha. 1 phút.
 </teacher_script>
 
@@ -102,7 +102,7 @@ Bài 1 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đ
 **5.** I love _______ New Zealand's countryside. *(Tôi yêu _______ vùng nông thôn của New Zealand.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c527e43f.mp3">
 Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
@@ -121,7 +121,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 <!-- chunk: exercise_2 -->
 ### Bài 2 trang 43 - Put in THE
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_7f1adeae.mp3">
 Bài 2 <eng>Put in the where necessary</eng>. Điền <eng>the</eng> vào chỗ cần thiết nha. Chỗ nào không cần thì bỏ trống. 1 phút.
 </teacher_script>
 
@@ -138,7 +138,7 @@ Bài 2 <eng>Put in the where necessary</eng>. Điền <eng>the</eng> vào chỗ 
 **5.** Bangkok is _______ most popular city for tourists in _______ Kingdom of Thailand. *(Bangkok là thành phố _______ nổi tiếng nhất đối với khách du lịch ở _______ Vương quốc Thái Lan.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_11df809b.mp3">
 Ok đáp án nè. Giải thích kỹ từng câu luôn.
 </teacher_script>
 
@@ -162,7 +162,7 @@ Ok đáp án nè. Giải thích kỹ từng câu luôn.
 <!-- chunk: exercise_3 -->
 ### Bài 3 trang 43 - Articles with Nationalities
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_5ded4313.mp3">
 Bài 3 <eng>Put in a/an or the</eng>. Điền mạo từ đúng cho tên quốc tịch nha. 1 phút.
 </teacher_script>
 
@@ -180,7 +180,7 @@ Bài 3 <eng>Put in a/an or the</eng>. Điền mạo từ đúng cho tên quốc 
 | New Zealand | (5) _______ New Zealander | New Zealanders |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_c527e43f.mp3">
 Ok đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
@@ -199,7 +199,7 @@ Ok đáp án nè. Giải thích từng câu luôn.
 <!-- chunk: exercise_4 -->
 ### Bài 4 trang 43 - Complete the Sentences
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_534cf903.mp3">
 Bài 4 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đúng vào câu nha. 1 phút.
 </teacher_script>
 
@@ -217,7 +217,7 @@ Bài 4 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đ
 **6.** _______ Statue of Liberty was a present from France. *(_______ Tượng Nữ thần Tự do là một món quà từ Pháp.)*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_785c99f7.mp3">
 Đáp án nè. Giải thích từng câu luôn.
 </teacher_script>
 
@@ -237,7 +237,7 @@ Bài 4 <eng>Complete the sentences with a/an or the</eng>. Điền mạo từ đ
 <!-- chunk: exercise_5 -->
 ### Bài 5 trang 43 - Tick Correct Articles
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_3f788cf7.mp3">
 Bài 5 <eng>Tick if the underlined articles are correct</eng>. Đánh dấu ✓ nếu mạo từ đúng, sai thì sửa lại nha. 1 phút.
 </teacher_script>
 
@@ -254,7 +254,7 @@ Bài 5 <eng>Tick if the underlined articles are correct</eng>. Đánh dấu ✓ 
 **5.** Where can you see **a** red telephone box?
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_238cb035.mp3">
 Ok đáp án nè. Giải thích kỹ luôn nha.
 </teacher_script>
 
@@ -276,6 +276,6 @@ Ok đáp án nè. Giải thích kỹ luôn nha.
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_70c6f02a.mp3">
 Bài <eng>A Closer Look 2</eng> Unit 12 xong rồi nha! Nhớ 3 quy tắc chính: <eng>a/an</eng> cho danh từ số ít chưa xác định, <eng>the</eng> cho đã xác định/duy nhất/so sánh nhất và tên đại dương, sông, nước có Kingdom/States. Phần này thi hay ra lắm á! Ôn bài kỹ hen!
 </teacher_script>

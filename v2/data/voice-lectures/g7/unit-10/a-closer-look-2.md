@@ -2,12 +2,12 @@
 ## A CLOSER LOOK 2 - Grammar
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4cafcc5f.mp3">
 Ok lớp 7, Unit 10 nha, bài <eng>A Closer Look 2</eng> trang 107. Bài này mình học ngữ pháp về thì hiện tại tiếp diễn nha. Mở sách ra đi.
 </teacher_script>
 
 <!-- chunk: vocabulary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_10264e5b.mp3">
 Trước khi vô bài, mình học từ vựng trước nha. Bấm nút "Bắt đầu" bên dưới để học từ vựng. Máy sẽ đọc và các em đọc theo. Sau đó làm bài trắc nghiệm từ vựng rồi ghi vô tập.
 </teacher_script>
 
@@ -23,7 +23,7 @@ Trước khi vô bài, mình học từ vựng trước nha. Bấm nút "Bắt �
 </vocabulary>
 
 <!-- chunk: grammar-theory -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_b3154a48.mp3">
 Ok, giờ mình học ngữ pháp nha. Thì hiện tại tiếp diễn, tiếng Anh gọi là <eng>The Present Continuous</eng>. Thì này dùng để diễn tả hành động đang xảy ra ngay lúc nói, hoặc đang xảy ra trong thời gian gần đây. Ghi vô tập nha.
 </teacher_script>
 
@@ -69,12 +69,12 @@ Ok, giờ mình học ngữ pháp nha. Thì hiện tại tiếp diễn, tiếng 
 - this week/month/year (tuan/thang/nam nay)
 </grammar>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_17706336.mp3">
 Nho cau truc nay nha: Subject cong am, is, are, cong V them ing. Meo nho nha: Am cho I, Is cho he she it, Are cho you we they. Nho cau "I am, He is, They are" la duoc. Gio lam bai tap di.
 </teacher_script>
 
 <!-- chunk: bai1 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6c1efdd2.mp3">
 Bai 1 trang 107 nha. <eng>Work in pairs. Tell your partner what the people in the pictures are doing.</eng> Lam theo cap. Noi voi ban nhung nguoi trong hinh dang lam gi. Nhin hinh roi viet cau voi thi hien tai tiep dien nha.
 </teacher_script>
 
@@ -94,11 +94,11 @@ Bai 1 trang 107 nha. <eng>Work in pairs. Tell your partner what the people in th
 **f.** _______
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_10f04663.mp3">
 1 phut nha. Nhin hinh roi viet cau.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26d7a046.mp3">
 Ok đáp án nha. Cac em nhin hinh roi mo ta bang thi hien tai tiep dien.
 </teacher_script>
 
@@ -134,7 +134,7 @@ Ok đáp án nha. Cac em nhin hinh roi mo ta bang thi hien tai tiep dien.
 </explanation>
 
 <!-- chunk: bai2 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_4f3b8a83.mp3">
 Bai 2 trang 107 nha. <eng>Complete the sentences, using the present continuous form of the verbs in brackets.</eng> Hoan thanh cac cau, su dung dang hien tai tiep dien cua dong tu trong ngoac. Doc ky cau roi dien dang dung nha.
 </teacher_script>
 
@@ -160,11 +160,11 @@ Bai 2 trang 107 nha. <eng>Complete the sentences, using the present continuous f
 *Ngay nay chung ta dang giam viec su dung nang luong hat nhan.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_578bf414.mp3">
 1 phut nha. Dien dang dung cua dong tu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_235e24d6.mp3">
 Ok đáp án nha. Minh giai thich tung cau.
 </teacher_script>
 
@@ -200,7 +200,7 @@ Ok đáp án nha. Minh giai thich tung cau.
 </explanation>
 
 <!-- chunk: bai3 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0430d142.mp3">
 Bai 3 trang 108 nha. <eng>Circle the correct form of the verb in each sentence.</eng> Khoanh tron dang dung cua dong tu trong moi cau. Bai nay phan biet giua thi hien tai don va hien tai tiep dien nha. Chu y dau hieu nhan biet.
 </teacher_script>
 
@@ -226,11 +226,11 @@ Bai 3 trang 108 nha. <eng>Circle the correct form of the verb in each sentence.<
 *Chung toi co tieng Anh ba lan mot tuan.*
 </questions>
 
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_94bdad23.mp3">
 1 phut nha. Chon dang dung cua dong tu.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_606feb1b.mp3">
 Ok đáp án nha. Bai nay quan trong lam, phan biet 2 thi ne.
 </teacher_script>
 
@@ -261,12 +261,12 @@ Ok đáp án nha. Bai nay quan trong lam, phan biet 2 thi ne.
 - Chu y: "have" o day nghia la "co" (lich hoc), khong phai "dang co"
 </explanation>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_61b8bf00.mp3">
 Nho nha: Thay now, right now, at the moment, these days, this year thi dung hien tai tiep dien. Thay always, usually, often, every day, once a week thi dung hien tai don. Meo: Dau hieu thoi gian la chia khoa!
 </teacher_script>
 
 <!-- chunk: bai4 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a45e7aa9.mp3">
 Bai 4 trang 108 nha. <eng>Write sentences about what the people are doing or not doing, using the suggestions.</eng> Viet cac cau ve nhung gi moi nguoi dang lam hoac khong lam, su dung cac goi y. Dung cau truc thi hien tai tiep dien nha.
 </teacher_script>
 
@@ -292,11 +292,11 @@ Bai 4 trang 108 nha. <eng>Write sentences about what the people are doing or not
 *Ngay nay, nguoi dan o Iceland / khong su dung nang luong tu than da.*
 </questions>
 
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_f1ff37fe.mp3">
 1 phut ruoi nha. Viet cau hoan chinh.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_a43b7c53.mp3">
 Ok đáp án nha.
 </teacher_script>
 
@@ -344,7 +344,7 @@ Ok đáp án nha.
 </explanation>
 
 <!-- chunk: bai5 -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_6ec28397.mp3">
 Bai 5 trang 108 nha. <eng>Work in pairs. Ask and answer the following questions.</eng> Lam viec theo cap. Hoi va tra loi cac cau hoi sau. Day la bai noi, cac em hoi va tra loi ve ban than minh nha.
 </teacher_script>
 
@@ -367,11 +367,11 @@ Bai 5 trang 108 nha. <eng>Work in pairs. Ask and answer the following questions.
 *(Ban dang lam gi de tiet kiem nang luong?)*
 </questions>
 
-<teacher_script pause="120">
+<teacher_script pause="120" href="audio/tts_92d15236.mp3">
 2 phut nha. Tra loi cau hoi bang cau hoan chinh.
 </teacher_script>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_bdefdcfb.mp3">
 Ok, day la cau tra loi mau nha.
 </teacher_script>
 
@@ -399,11 +399,11 @@ Hoac: I am taking a math course this term. *(Toi dang hoc them toan hoc ky nay.)
 Hoac: I am turning off the lights when I leave the room. *(Toi dang tat den khi roi khoi phong.)*
 </answer>
 
-<teacher_script pause="0" action="record">
+<teacher_script pause="0" action="record" href="audio/tts_3faac45c.mp3">
 Cac em tu tra loi 4 cau hoi tren bang cau hoan chinh nha. Bam nut ghi am ben duoi de ghi lai cau tra loi cua minh.
 </teacher_script>
 
 <!-- chunk: summary -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_1d7398a0.mp3">
 Ok, tom tat bai hoc nha. Hom nay minh hoc thi hien tai tiep dien. Nho 3 dang: Khang dinh la Subject cong am is are cong V-ing. Phu dinh thi them not. Cau hoi thi dao am is are len truoc. Dau hieu nhan biet la now, right now, at the moment, these days, this week, this month, this year. Nho phan biet voi hien tai don khi thay tan suat nhu always, every day, once a week nha. Lam bai xong thi ghi vao vo, hoc thuoc cong thuc. Hen gap lai cac em o bai sau nha. Bye bye!
 </teacher_script>

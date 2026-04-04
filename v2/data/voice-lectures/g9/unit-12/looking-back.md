@@ -2,12 +2,12 @@
 ## LOOKING BACK - Ôn tập
 
 <!-- chunk: intro -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_26a4e9d5.mp3">
 Ok lớp 9, bài cuối Unit 12 rồi nha — <eng>Looking Back</eng> — ôn tập toàn bộ những gì đã học. Mình sẽ ôn từ vựng, ngữ pháp mệnh đề trạng ngữ, và làm bài tập tổng hợp. Mở sách trang 138 đi.
 </teacher_script>
 
 <!-- chunk: exercise-1 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_59ab1914.mp3">
 Bài 1 trang 138 — <eng>Put the words and phrases in the appropriate column</eng>. Xếp các từ và cụm từ vào cột thích hợp: <eng>Jobs</eng>, <eng>Job features</eng>, và <eng>Job skills</eng>. Làm 1 phút rưỡi đi.
 </teacher_script>
 
@@ -25,7 +25,7 @@ Bài 1 trang 138 — <eng>Put the words and phrases in the appropriate column</e
 | ___ | ___ | ___ |
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_5f84e779.mp3">
 Đáp án bài 1 nè.
 </teacher_script>
 
@@ -50,7 +50,7 @@ hand-eye coordination / teamwork
 </explanation>
 
 <!-- chunk: exercise-2 -->
-<teacher_script pause="60">
+<teacher_script pause="60" href="audio/tts_c7a5299c.mp3">
 Bài 2 trang 138 — <eng>Complete the text, using words or phrases from the box</eng>. Điền từ đúng vào chỗ trống trong đoạn văn. Làm 1 phút nha.
 </teacher_script>
 
@@ -67,7 +67,7 @@ My mum first learnt (1) _______ skills from my grandmother. She got her (2) ____
 *Mẹ tôi lần đầu tiên học được kỹ năng may vá từ bà tôi. Cô ấy có được công việc thợ may khi mới 16 tuổi. Bây giờ cô ấy sở hữu một tiệm may nhỏ trong làng. Cô ấy sáng tạo và chăm chỉ. Cô ấy có phong cách tuyệt vời đến nỗi nhiều phụ nữ yêu thích những bộ quần áo cô ấy may. Mặc dù đôi khi cô ấy phải làm việc muộn vào ban đêm, nhưng cô ấy thấy công việc của mình bổ ích vì cô ấy có thể làm hài lòng khách hàng của mình. Tôi nghĩ mẹ tôi đã có một sự nghiệp thành công trong nghề may.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_fcb7ff01.mp3">
 Đáp án bài 2 nè.
 </teacher_script>
 
@@ -93,7 +93,7 @@ My mum first learnt (1) _______ skills from my grandmother. She got her (2) ____
 </explanation>
 
 <!-- chunk: exercise-3 -->
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_686ad16c.mp3">
 Bài 3 trang 139 — phần <eng>Grammar</eng>. <eng>Combine each pair of sentences into one, using the given word in brackets</eng>. Nối mỗi cặp câu thành một câu, dùng từ cho sẵn trong ngoặc. Làm 2 phút nha. Nhớ: though = mặc dù, such...that = đến nỗi, because = bởi vì, so...that = đến mức, although = mặc dù.
 </teacher_script>
 
@@ -124,7 +124,7 @@ Bài 3 trang 139 — phần <eng>Grammar</eng>. <eng>Combine each pair of senten
 *Clara không thích các môn học thuật. Mẹ cô nhất quyết bắt cô phải học đại học.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_0b4a7c0b.mp3">
 Đáp án bài 3 nè. Nghe câu mẫu xong tự kiểm tra nha.
 </teacher_script>
 
@@ -150,7 +150,7 @@ Bài 3 trang 139 — phần <eng>Grammar</eng>. <eng>Combine each pair of senten
 </explanation>
 
 <!-- chunk: exercise-4 -->
-<teacher_script pause="90">
+<teacher_script pause="90" href="audio/tts_c018a64b.mp3">
 Bài 4 trang 139 — <eng>Fill in each gap in the text with a conjunction from the box</eng>. Điền từ nối vào chỗ trống trong đoạn văn. 5 chỗ trống, 5 từ nối. Làm 2 phút nha.
 </teacher_script>
 
@@ -167,7 +167,7 @@ Making career choices is (1) ______ a difficult process that conflicts happen in
 *Lựa chọn nghề nghiệp là một quá trình khó khăn đến nỗi xung đột xảy ra ở nhiều gia đình khi họ thảo luận về nghề nghiệp tương lai của con mình. Vì một số bậc cha mẹ cho rằng công việc mơ ước của con mình là viển vông nên họ cố gắng ngăn cản con theo đuổi nó. Đôi khi, cha mẹ ép con đi học để làm một công việc đòi hỏi khắt khe đến mức con cảm thấy căng thẳng chỉ vì họ đánh giá quá cao khả năng của con mình. Mặc dù cha mẹ muốn giúp con mình đưa ra những quyết định đúng đắn về nghề nghiệp nhưng họ thực sự cần hiểu rõ niềm đam mê và khả năng của con mình.*
 </questions>
 
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_d58ad3c7.mp3">
 Đáp án bài 4 nè — bài tổng hợp cuối Unit 12.
 </teacher_script>
 
@@ -188,6 +188,6 @@ Making career choices is (1) ______ a difficult process that conflicts happen in
 </explanation>
 
 <!-- chunk: end -->
-<teacher_script pause="0">
+<teacher_script pause="0" href="audio/tts_597a3800.mp3">
 Ok xong Unit 12 rồi nha! Chúc mừng các em đã học hết <eng>My Future Career</eng>. Tóm tắt những gì đã học: từ vựng về nghề nghiệp và kỹ năng, ba loại mệnh đề trạng ngữ — nhường bộ, kết quả và lý do. Ôn lại từ vựng và ngữ pháp, chuẩn bị cho bài kiểm tra nha. Các em làm tốt lắm!
 </teacher_script>
