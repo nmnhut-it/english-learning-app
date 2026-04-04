@@ -44,6 +44,15 @@ jobs:
           cp -r v2/audio _site/audio
           # Copy exercise game files
           [ -d v2/tieu-hoc ] && cp -r v2/tieu-hoc _site/tieu-hoc || true
+          # Mirror everything under /v2/ so both /units/ and /v2/units/ work
+          mkdir -p _site/v2
+          cp -r _site/data _site/v2/data
+          cp -r _site/units _site/v2/units
+          cp -r _site/audio _site/v2/audio
+          [ -d _site/tieu-hoc ] && cp -r _site/tieu-hoc _site/v2/tieu-hoc || true
+          cp _site/voice-lecture-viewer.html _site/v2/ 2>/dev/null || true
+          cp _site/voice-lecture-viewer-v2.html _site/v2/ 2>/dev/null || true
+          cp _site/index.html _site/v2/index.html 2>/dev/null || true
           # Ensure no Jekyll processing
           touch _site/.nojekyll
 
