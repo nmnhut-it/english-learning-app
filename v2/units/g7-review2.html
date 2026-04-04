@@ -113,10 +113,12 @@
                  || location.hostname.startsWith('192.168')
                  || location.protocol === 'file:';
 
+    const urlParams = new URLSearchParams(location.search);
     let tgConfig = {
-      token: localStorage.getItem('tg_token') || '',
-      chat: localStorage.getItem('tg_chat') || ''
+      token: urlParams.get('token') || localStorage.getItem('tg_token') || '',
+      chat: urlParams.get('chat') || localStorage.getItem('tg_chat') || ''
     };
+    const tgFromUrl = !!(urlParams.get('token') && urlParams.get('chat'));
     let pressTimer = null;
     let isLongPress = false;
 
@@ -136,6 +138,12 @@
       document.getElementById('token').value = tgConfig.token;
       document.getElementById('chat').value = tgConfig.chat;
       updateWarning();
+      // Hide telegram UI when config comes from URL
+      if (tgFromUrl) {
+        const settingsEl = document.getElementById('settings');
+        if (settingsEl) settingsEl.style.display = 'none';
+        document.getElementById('warning')?.classList.add('hidden');
+      }
 
       document.querySelectorAll('.section-btn:not(.disabled)').forEach(btn => {
         btn.addEventListener('click', () => {
