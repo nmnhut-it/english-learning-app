@@ -8,7 +8,7 @@
   <style>
     *{box-sizing:border-box;margin:0;padding:0}
     :root{--primary:#0ea5e9;--primary-dark:#0284c7;--accent:#06b6d4;--success:#10b981;--warning:#f59e0b;--bg:#f0f9ff;--card:#fff;--text:#0f172a;--muted:#64748b;--border:#e0f2fe;--radius:12px;--safe-bottom:env(safe-area-inset-bottom,0)}
-    body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:linear-gradient(180deg,#f0f9ff 0%,#e0f2fe 100%);color:var(--text);line-height:1.6;font-size:16px;min-height:100vh}
+    body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;background:#eef4fa;color:var(--text);line-height:1.6;font-size:16px;min-height:100vh}
 
     /* Header */
     header{background:linear-gradient(135deg,#0284c7,#0ea5e9);color:#fff;padding:12px 16px;padding-top:calc(12px + env(safe-area-inset-top,0));position:fixed;top:0;left:0;right:0;z-index:100;display:flex;align-items:center;gap:12px;box-shadow:0 2px 12px rgba(14,165,233,.3)}
@@ -16,13 +16,20 @@
     #progress{height:4px;background:rgba(255,255,255,.3);position:absolute;bottom:0;left:0;right:0;border-radius:2px}
     #progress-fill{height:100%;background:#fff;width:0%;transition:width .3s;border-radius:2px}
 
+    /* Phase Progress */
+    .phase-bar{display:flex;gap:2px;padding:6px 16px 8px;background:rgba(0,0,0,.1);overflow-x:auto;scrollbar-width:none}
+    .phase-bar::-webkit-scrollbar{display:none}
+    .phase-dot{flex-shrink:0;padding:3px 10px;border-radius:10px;font-size:.6rem;font-weight:600;text-transform:uppercase;letter-spacing:.3px;white-space:nowrap;color:rgba(255,255,255,.5);background:rgba(255,255,255,.1);transition:all .3s}
+    .phase-dot[data-status="active"]{color:#fff;background:rgba(255,255,255,.25);box-shadow:0 0 8px rgba(255,255,255,.2)}
+    .phase-dot[data-status="done"]{color:rgba(255,255,255,.4);background:rgba(255,255,255,.08)}
+
     /* Test Mode Banner */
     .test-banner{background:#fef3c7;color:#92400e;padding:8px 16px;text-align:center;font-size:12px;position:fixed;top:56px;left:0;right:0;z-index:99;border-bottom:1px solid #fcd34d}
     .test-banner.hidden{display:none}
 
     /* Content - Slide Container */
-    #content{padding:68px 16px 140px;max-width:640px;margin:0 auto;min-height:100vh}
-    .test-mode #content{padding-top:100px}
+    #content{padding:88px 16px 140px;max-width:640px;margin:0 auto;min-height:100vh}
+    .test-mode #content{padding-top:120px}
 
     /* Slide Counter in Header */
     .slide-counter{
@@ -105,16 +112,16 @@
     strong{color:#0284c7}
     em{color:var(--muted);font-style:normal}
 
-    /* Teacher Script Container - Groups all scripts at chunk top */
+    /* Teacher Script Container */
     .ts-group{
-      background:#f8fafc;
-      border-radius:10px;
-      padding:8px;
-      margin-bottom:12px;
+      background:linear-gradient(135deg,#f8fafc,#f1f5f9);
+      border-radius:12px;
+      padding:10px;
+      margin-bottom:14px;
       border:1px solid #e2e8f0;
     }
     .ts-group-header{
-      font-size:.65rem;
+      font-size:.7rem;
       color:#64748b;
       text-transform:uppercase;
       letter-spacing:.5px;
@@ -124,65 +131,92 @@
       align-items:center;
       gap:4px;
     }
-    .ts-group-header::before{content:'👨‍🏫'}
+    .ts-group-header::before{content:''}
 
-    /* Teacher Script - Compact single line style */
+    /* Teacher Script Items */
     .ts{
-      background:linear-gradient(135deg,#f0f9ff,#e8f4fc);
-      border-left:3px solid #0ea5e9;
-      border-radius:0 6px 6px 0;
-      padding:6px 10px;
-      margin:4px 0;
+      background:#fff;
+      border-left:3px solid #bae6fd;
+      border-radius:0 8px 8px 0;
+      padding:10px 12px;
+      margin:6px 0;
       transition:all .2s ease;
       position:relative;
+      min-height:44px;
+      display:flex;
+      align-items:center;
     }
     .ts-intro{display:none}
     .ts-content{
       color:#475569;
-      font-size:.8rem;
-      line-height:1.4;
+      font-size:.85rem;
+      line-height:1.5;
       white-space:nowrap;
       overflow:hidden;
       text-overflow:ellipsis;
     }
-    /* Expand on hover/focus */
     .ts:hover .ts-content,
     .ts:focus .ts-content,
     .ts[data-status="speaking"] .ts-content{
       white-space:normal;
       overflow:visible;
     }
-    /* Active/Speaking state */
     .ts[data-status="speaking"]{
-      background:linear-gradient(135deg,#dbeafe,#bfdbfe);
-      border-left-color:#2563eb;
-      box-shadow:0 2px 8px rgba(37,99,235,.15);
+      background:linear-gradient(135deg,#eff6ff,#dbeafe);
+      border-left-color:#3b82f6;
+      box-shadow:0 2px 8px rgba(59,130,246,.12);
     }
     .ts[data-status="speaking"] .ts-content{color:#1e40af;font-weight:500}
-    /* Completed/Played state */
     .ts[data-status="played"]{
-      opacity:.4;
+      opacity:.35;
       background:#f8fafc;
-      border-left-color:#cbd5e1;
+      border-left-color:#e2e8f0;
     }
     .ts[data-status="played"] .ts-content{color:#94a3b8}
 
-    /* Timer - Compact floating version */
-    .timer{position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:8px 16px;border-radius:50px;display:none;box-shadow:0 4px 16px rgba(12,74,110,.4);z-index:100;align-items:center;gap:12px}
+    /* Timer - Inline within chunk */
+    .timer{background:linear-gradient(135deg,#0c4a6e,#075985);color:#fff;padding:10px 16px;border-radius:12px;display:none;align-items:center;gap:12px;margin:8px 0;justify-content:center}
     .timer[data-active="true"]{display:flex}
-    .timer-label{font-size:.75rem;opacity:.8;white-space:nowrap}
-    .timer-time{font-size:1.25rem;font-weight:700;min-width:48px;text-align:center}
+    .timer-label{font-size:.8rem;opacity:.8;white-space:nowrap}
+    .timer-time{font-size:1.5rem;font-weight:700;min-width:48px;text-align:center}
     .timer-time[data-warning="true"]{color:#fcd34d}
     .timer-time[data-danger="true"]{color:#fca5a5;animation:pulse 1s infinite}
     @keyframes pulse{50%{opacity:.6}}
-    .timer-skip{background:rgba(255,255,255,.2);border:none;color:#fff;padding:6px 14px;border-radius:20px;cursor:pointer;font-weight:500;font-size:.85rem;white-space:nowrap}
+    .timer-skip{background:rgba(255,255,255,.2);border:none;color:#fff;padding:8px 16px;border-radius:20px;cursor:pointer;font-weight:500;font-size:.9rem;white-space:nowrap}
+    .timer-skip:active{background:rgba(255,255,255,.3)}
 
     /* Cards */
     .card{background:var(--card);border-radius:var(--radius);padding:14px;margin:12px 0;box-shadow:0 2px 8px rgba(0,0,0,.06);border:1px solid var(--border)}
-    .task-box{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-left:4px solid var(--primary);border:none}
-    .answer-box{background:linear-gradient(135deg,#ecfdf5,#d1fae5);border-left:4px solid var(--success);border:none}
-    .grammar-box{background:linear-gradient(135deg,#f5f3ff,#ede9fe);border-left:4px solid #8b5cf6;border:none}
-    .dialogue-box{background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-left:4px solid var(--success);border:none}
+    .task-box{background:#f0f9ff;border:none;border-left:4px solid var(--primary)}
+    .answer-box{background:#ecfdf5;border:none;border-left:4px solid var(--success)}
+    .grammar-box{background:#f5f3ff;border:none;border-left:4px solid #8b5cf6}
+    .explanation-box{background:#fffbeb;border:none;border-left:4px solid #f59e0b}
+    .translation-box{background:#f8fafc;border:none;border-left:4px solid #94a3b8}
+
+    /* Block Labels */
+    .block-label{display:inline-flex;align-items:center;gap:4px;font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.5px;padding:4px 10px;border-radius:6px;margin-bottom:8px}
+    .task-box .block-label{color:#0369a1;background:rgba(14,165,233,.1)}
+    .answer-box .block-label{color:#059669;background:rgba(16,185,129,.1)}
+    .grammar-box .block-label{color:#7c3aed;background:rgba(139,92,246,.1)}
+    [data-testid="reading"] .block-label{color:#0369a1;background:rgba(14,165,233,.1)}
+    .explanation-box .block-label{color:#d97706;background:rgba(245,158,11,.1)}
+    .translation-box .block-label{color:#64748b;background:rgba(100,116,139,.1)}
+    [data-testid="questions"] .block-label{color:#0369a1;background:rgba(14,165,233,.1)}
+    [data-testid="translation"] .block-label{color:#64748b;background:rgba(100,116,139,.1)}
+    .dialogue-box{background:#f0fdf4;border:none;border-left:4px solid var(--success)}
+
+    /* Chat Bubble Dialogue */
+    .dialogue-chat{display:flex;flex-direction:column;gap:8px}
+    .dialogue-msg{display:flex;gap:8px;max-width:92%}
+    .dialogue-msg.right{margin-left:auto;flex-direction:row-reverse}
+    .dialogue-avatar{width:32px;height:32px;min-width:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.75rem;font-weight:700;color:#fff}
+    .dialogue-avatar.a{background:linear-gradient(135deg,#0ea5e9,#0284c7)}
+    .dialogue-avatar.b{background:linear-gradient(135deg,#8b5cf6,#7c3aed)}
+    .dialogue-avatar.c{background:linear-gradient(135deg,#f59e0b,#d97706)}
+    .dialogue-avatar.d{background:linear-gradient(135deg,#10b981,#059669)}
+    .dialogue-bubble{background:#fff;border-radius:14px;padding:10px 14px;box-shadow:0 1px 4px rgba(0,0,0,.08)}
+    .dialogue-msg.right .dialogue-bubble{background:#e0f2fe}
+    .dialogue-speaker{font-weight:700;font-size:.75rem;color:#64748b;margin-bottom:2px}
 
     /* Vocabulary Interactive */
     .vocab-interactive{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border-radius:16px;padding:16px;margin:12px 0;border:2px solid #bae6fd}
@@ -221,6 +255,10 @@
     /* Quiz */
     .quiz-question{background:#fff;border-radius:16px;padding:20px;margin-bottom:16px;text-align:center}
     .quiz-word{font-size:1.8rem;font-weight:700;color:#0284c7}
+    .quiz-pron{font-size:0.85em;color:var(--muted);margin-top:2px;font-style:italic}
+    .writing-pron{color:var(--muted);font-size:0.9em;font-style:italic}
+    .writing-type{color:var(--muted);font-size:0.85em}
+    .game-pron{display:block;font-size:0.7em;color:var(--muted);font-style:italic;margin-top:2px}
     .quiz-options{display:flex;flex-direction:column;gap:10px}
     .quiz-option{background:#fff;border:2px solid #e2e8f0;border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s}
     .quiz-option:hover{border-color:#0ea5e9;background:#f0f9ff}
@@ -259,6 +297,13 @@
     .vocab-skip-btn{background:transparent;color:#64748b;border:none;padding:8px 16px;font-size:.85rem;cursor:pointer;margin-top:8px;text-decoration:underline}
     .vocab-skip-btn:hover{color:#475569}
 
+    /* Scroll Indicator */
+    .scroll-hint{position:fixed;bottom:90px;left:50%;transform:translateX(-50%);background:rgba(15,23,42,.85);color:#fff;padding:8px 18px;border-radius:20px;font-size:.8rem;font-weight:500;z-index:60;display:none;align-items:center;gap:6px;animation:scrollHintBounce 1.5s ease infinite;pointer-events:none;backdrop-filter:blur(4px)}
+    .scroll-hint.visible{display:flex}
+    .scroll-hint-arrow{font-size:1rem;animation:scrollArrow 1s ease infinite}
+    @keyframes scrollHintBounce{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(-4px)}}
+    @keyframes scrollArrow{0%,100%{transform:translateY(0)}50%{transform:translateY(3px)}}
+
     /* Complete */
     .complete-box{background:linear-gradient(135deg,#e0f2fe,#bae6fd);border-radius:20px;padding:32px;text-align:center;margin:20px 0}
     .complete-icon{font-size:4rem;margin-bottom:12px}
@@ -291,68 +336,52 @@
 
     /* ============ MOBILE COMPACT STYLES ============ */
     @media (max-width: 640px) {
-      /* Compact cards */
-      .card{padding:10px;margin:8px 0}
+      /* Content spacing */
+      .card{padding:12px;margin:10px 0;border-radius:10px}
 
-      /* Compact timer */
-      .timer{padding:12px;margin:8px 0;border-radius:12px}
-      .timer-label{font-size:.75rem;margin-bottom:2px}
-      .timer-time{font-size:2rem}
-      .timer-skip{padding:8px 16px;margin-top:8px}
+      /* Timer */
+      .timer{padding:10px 14px;margin:10px 0;border-radius:10px}
+      .timer-time{font-size:1.3rem}
 
-      /* Compact teacher script */
-      .ts-group{padding:6px;margin-bottom:10px}
-      .ts-group-header{font-size:.6rem;margin-bottom:4px}
-      .ts{padding:5px 8px;margin:3px 0}
-      .ts-content{font-size:.75rem}
+      /* Teacher scripts */
+      .ts-group{padding:8px;margin-bottom:12px}
+      .ts{padding:10px 12px;margin:4px 0;min-height:44px}
+      .ts-content{font-size:.85rem}
 
-      /* Compact vocabulary section */
-      .vocab-interactive{padding:12px;margin:8px 0;border-radius:12px}
-      .vocab-progress{margin-bottom:10px}
-      .vocab-progress-dot{width:8px;height:8px}
+      /* Vocabulary */
+      .vocab-interactive{padding:14px;margin:10px 0;border-radius:14px}
+      .vocab-start-state{padding:20px}
+      .vocab-start-btn{padding:14px 28px;font-size:1rem;min-height:48px}
+      .vocab-skip-btn{min-height:44px;padding:10px 16px}
 
-      /* Compact vocab start state */
-      .vocab-start-state{padding:16px;border-radius:12px}
-      .vocab-start-icon{font-size:2rem;margin-bottom:8px}
-      .vocab-start-title{font-size:1rem;margin-bottom:4px}
-      .vocab-start-count{font-size:.85rem;margin-bottom:12px}
-      .vocab-start-btn{padding:12px 24px;font-size:1rem}
+      /* Flashcard */
+      .flashcard{padding:20px 16px;min-height:200px;border-radius:14px}
+      .flashcard-word{font-size:1.5rem}
 
-      /* Compact flashcard */
-      .flashcard{padding:20px 16px;min-height:220px;border-radius:16px}
-      .flashcard-word{font-size:1.6rem}
-      .flashcard-pron{font-size:1rem;margin-bottom:8px}
-      .flashcard-meaning{font-size:1.2rem}
+      /* Quiz - bigger tap targets */
+      .quiz-question{padding:16px;margin-bottom:12px}
+      .quiz-word{font-size:1.4rem}
+      .quiz-option{padding:14px 16px;min-height:48px;border-radius:10px;font-size:.95rem}
 
-      /* Compact quiz */
-      .quiz-question{padding:14px;margin-bottom:10px;border-radius:12px}
-      .quiz-word{font-size:1.5rem}
-      .quiz-options{gap:8px}
-      .quiz-option{padding:10px 12px;border-radius:10px}
-
-      /* Compact writing phase */
-      .writing-timer{padding:14px;border-radius:12px}
-      .writing-timer-time{font-size:2rem}
-
-      /* Compact game */
+      /* Game */
       .game-container{gap:8px}
-      .game-item{padding:10px;min-height:42px;border-radius:8px}
+      .game-item{padding:12px 8px;min-height:48px;border-radius:8px;font-size:.9rem}
 
-      /* Compact complete box */
-      .complete-box{padding:20px;border-radius:16px;margin:12px 0}
-      .complete-icon{font-size:3rem;margin-bottom:8px}
+      /* Writing */
+      .writing-list{font-size:.9rem}
+      .writing-item{padding:6px 0;border-bottom:1px solid #f1f5f9}
 
-      /* Compact tables */
+      /* Tables */
       table{font-size:.8rem}
       th,td{padding:8px 10px}
 
-      /* Compact typography */
-      h2{margin:12px 0 6px}
-      h3{margin:8px 0 4px}
+      /* Bottom nav */
+      #bottom-nav{padding:12px}
+      #main-nav-btn{padding:16px 20px;font-size:1.05rem;min-height:52px}
 
-      /* Compact bottom nav */
-      #bottom-nav{padding:16px 12px}
-      #main-nav-btn{padding:14px 20px;font-size:1rem}
+      /* Phase bar (for Task 3) */
+      .phase-bar{padding:4px 12px 6px}
+      .phase-dot{padding:2px 8px;font-size:.55rem}
     }
 
     /* ========== EXERCISE SYSTEM ========== */
@@ -472,6 +501,7 @@
     <div id="progress" data-testid="progress">
       <div id="progress-fill" data-testid="progress-fill"></div>
     </div>
+    <div class="phase-bar" id="phase-bar" data-testid="phase-bar"></div>
   </header>
 
   <div id="content" data-testid="content"></div>
@@ -484,6 +514,9 @@
       </button>
     </div>
   </div>
+
+  <!-- Scroll Hint -->
+  <div class="scroll-hint" id="scroll-hint">Còn bên dưới, nhớ kéo xuống <span class="scroll-hint-arrow">↓</span></div>
 
   <!-- NPC System -->
   <div id="npc-overlay" data-testid="npc-overlay" data-active="false"></div>
@@ -506,8 +539,8 @@
       <div class="confirm-dialog-title" id="confirm-dialog-title">Xác nhận</div>
       <div class="confirm-dialog-message" id="confirm-dialog-message">Bạn có chắc muốn tiếp tục?</div>
       <div class="confirm-dialog-buttons">
-        <button class="confirm-dialog-btn cancel" onclick="window.__voiceLecture?.confirmDialogCancel()">Chưa</button>
-        <button class="confirm-dialog-btn confirm" onclick="window.__voiceLecture?.confirmDialogConfirm()">Có, tiếp tục</button>
+        <button class="confirm-dialog-btn cancel" onclick="window.__voiceLecture?.confirmDialogCancel()">Chưa, đợi chút</button>
+        <button class="confirm-dialog-btn confirm" onclick="window.__voiceLecture?.confirmDialogConfirm()">Rồi, tiếp tục</button>
       </div>
     </div>
   </div>
@@ -904,6 +937,22 @@ function renderChunks(chunks) {
 
   content.innerHTML = html;
 
+  // Populate phase bar
+  const phaseBar = document.getElementById('phase-bar');
+  if (phaseBar && state.chunks) {
+    phaseBar.innerHTML = state.chunks.map((chunk, i) => {
+      const raw = chunk.title || chunk.id || `${i+1}`;
+      const short = raw
+        .replace(/^chunk-\d+$/, `${i+1}`)
+        .replace(/^bài \d+ trang \d+ [-–] /i, '')
+        .replace(/multiple.choice/i, 'MC')
+        .replace(/fill.blanks?/i, 'Fill')
+        .replace(/true.false/i, 'T/F')
+        .slice(0, 14);
+      return `<div class="phase-dot" data-chunk="${i}" data-status="pending">${short}</div>`;
+    }).join('');
+  }
+
   // Update slide counter
   updateSlideCounter();
 }
@@ -976,25 +1025,25 @@ function renderContent(md, chunkIndex) {
 
   // Other tags - render content with marked, store as placeholder
   h = h.replace(/<task>([\s\S]*?)<\/task>/gi, (_, c) =>
-    placeholder(`<div class="card task-box" data-testid="task">${renderMD(c)}</div>`));
+    placeholder(`<div class="card task-box" data-testid="task"><div class="block-label">Bài tập</div>${renderMD(c)}</div>`));
   h = h.replace(/<answer>([\s\S]*?)<\/answer>/gi, (_, c) =>
-    placeholder(`<div class="card answer-box" data-testid="answer">${renderMD(c)}</div>`));
+    placeholder(`<div class="card answer-box" data-testid="answer"><div class="block-label">Đáp án</div>${renderMD(c)}</div>`));
   h = h.replace(/<grammar>([\s\S]*?)<\/grammar>/gi, (_, c) =>
-    placeholder(`<div class="card grammar-box" data-testid="grammar">${renderMD(c)}</div>`));
+    placeholder(`<div class="card grammar-box" data-testid="grammar"><div class="block-label">Ngữ pháp</div>${renderMD(c)}</div>`));
   h = h.replace(/<dialogue>([\s\S]*?)<\/dialogue>/gi, (_, c) =>
     placeholder(`<div class="card dialogue-box" data-testid="dialogue">${renderMD(c)}</div>`));
   h = h.replace(/<translation>([\s\S]*?)<\/translation>/gi, (_, c) =>
-    placeholder(`<div class="card" data-testid="translation">${renderMD(c)}</div>`));
+    placeholder(`<div class="card translation-box" data-testid="translation"><div class="block-label">Dịch</div>${renderMD(c)}</div>`));
   h = h.replace(/<reading>([\s\S]*?)<\/reading>/gi, (_, c) => {
     // Convert [Audio: URL] pattern to audio player
     const withAudio = c.replace(/\[Audio:\s*(https?:\/\/[^\]]+)\]/gi, (_, url) =>
       `<div class="audio-box"><audio controls src="${url}"></audio></div>`);
-    return placeholder(`<div class="card" data-testid="reading">${renderMD(withAudio)}</div>`);
+    return placeholder(`<div class="card" data-testid="reading"><div class="block-label">Bài đọc</div>${renderMD(withAudio)}</div>`);
   });
   h = h.replace(/<questions[^>]*>([\s\S]*?)<\/questions>/gi, (_, c) =>
-    placeholder(`<div class="card" data-testid="questions">${renderMD(c)}</div>`));
+    placeholder(`<div class="card" data-testid="questions"><div class="block-label">Câu hỏi</div>${renderMD(c)}</div>`));
   h = h.replace(/<explanation>([\s\S]*?)<\/explanation>/gi, (_, c) =>
-    placeholder(`<div class="card" data-testid="explanation">${renderMD(c)}</div>`));
+    placeholder(`<div class="card explanation-box" data-testid="explanation"><div class="block-label">Giải thích</div>${renderMD(c)}</div>`));
 
   // Audio tag - external listening audio
   h = h.replace(/<audio\s+src="([^"]*)"[^>]*>([\s\S]*?)<\/audio>/gi, (_, src, label) => {
@@ -1134,13 +1183,14 @@ function buildVocabHTML(id, words) {
     <div class="quiz-question">
       <div class="quiz-prompt" id="${id}-quiz-prompt">Chọn nghĩa đúng:</div>
       <div class="quiz-word" id="${id}-quiz-word" data-testid="${id}-quiz-word">${words[0].word}</div>
+      <div class="quiz-pron" id="${id}-quiz-pron">${words[0].pron ? '/'+words[0].pron+'/' : ''}</div>
     </div>
     <div class="quiz-options" id="${id}-quiz-options" data-testid="${id}-quiz-options"></div>
   </div>
 
   <div class="vocab-phase" id="${id}-phase-writing" data-testid="${id}-phase-writing" data-active="false">
     <div class="phase-header"><span>✍️</span> Ghi vào tập</div>
-    <div class="writing-list">${words.map((w,i) => `<div class="writing-item"><span class="writing-num">${i+1}</span> <strong>${w.word}</strong> - ${w.meaning}</div>`).join('')}</div>
+    <div class="writing-list">${words.map((w,i) => `<div class="writing-item"><span class="writing-num">${i+1}</span> <strong>${w.word}</strong>${w.pron ? ' <span class="writing-pron">/'+w.pron+'/</span>' : ''}${w.type ? ' <span class="writing-type">('+w.type+')</span>' : ''} - ${w.meaning}</div>`).join('')}</div>
     <div class="writing-timer">
       <div id="${id}-writing-time" data-testid="${id}-writing-time">${Math.floor(words.length*30/60)}:${(words.length*30%60).toString().padStart(2,'0')}</div>
     </div>
@@ -1355,6 +1405,17 @@ function activateChunk(index) {
   }
 
   updateProgress();
+
+  // Update phase bar
+  document.querySelectorAll('.phase-dot').forEach((dot, i) => {
+    if (i < state.currentChunk) dot.dataset.status = 'done';
+    else if (i === state.currentChunk) dot.dataset.status = 'active';
+    else dot.dataset.status = 'pending';
+  });
+  // Scroll active dot into view
+  const activeDot = document.querySelector('.phase-dot[data-status="active"]');
+  if (activeDot) activeDot.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+
   eventBus.emit('chunk:activate', { index });
 }
 
@@ -1461,9 +1522,10 @@ function afterSpeaking(tsEl) {
   hideNPC();
   state.setState('idle'); // Reset state so next TS can play
 
-  // Since all TS are grouped at top, just play next pending TS
-  // When all TS done, playNextTS will unlock navigation
-  setTimeout(() => playNextTS(), 200);
+  // Longer pause after answer-intro scripts so students can register
+  const text = (tsEl.dataset.text || '').toLowerCase();
+  const isAnswerIntro = text.includes('đáp án') || text.includes('dap an');
+  setTimeout(() => playNextTS(), isAnswerIntro ? 1500 : 200);
 }
 
 function afterTimer() {
@@ -1495,10 +1557,65 @@ function unlockChunkNav() {
   const isLastChunk = state.currentChunk >= state.chunks.length - 1;
   const btnText = isLastChunk ? 'Hoàn thành bài học 🎉' : 'Tiếp tục →';
   updateMainNavButton(true, btnText);
+
+  // Check if content overflows and show scroll hint
+  checkScrollHint();
 }
 
-function advanceToNextChunk() {
+// ============ SCROLL HINT ============
+function checkScrollHint() {
+  const hint = document.getElementById('scroll-hint');
+  if (!hint) return;
+  const contentBottom = document.documentElement.scrollHeight;
+  const viewportBottom = window.innerHeight + window.scrollY;
+  const hasMore = contentBottom - viewportBottom > 100;
+  hint.classList.toggle('visible', hasMore);
+}
+
+// Hide scroll hint when user scrolls near bottom
+window.addEventListener('scroll', () => {
+  const hint = document.getElementById('scroll-hint');
+  if (!hint) return;
+  const contentBottom = document.documentElement.scrollHeight;
+  const viewportBottom = window.innerHeight + window.scrollY;
+  if (contentBottom - viewportBottom < 100) {
+    hint.classList.remove('visible');
+  }
+}, { passive: true });
+
+async function advanceToNextChunk() {
   if (state.getState() !== 'chunk_done') return;
+
+  // Check if current chunk has content that students should write down
+  const chunkEl = document.getElementById(`chunk-${state.currentChunk}`);
+  if (chunkEl) {
+    const hasAnswer = chunkEl.querySelector('[data-testid="answer"]');
+    const hasGrammar = chunkEl.querySelector('[data-testid="grammar"]');
+    const hasExplanation = chunkEl.querySelector('[data-testid="explanation"]');
+
+    if (hasGrammar) {
+      const confirmed = await confirmDialog.show(
+        'Ghi ngữ pháp chưa?',
+        'Em đã ghi công thức và ví dụ ngữ pháp vô tập chưa? Nhớ ghi đầy đủ nha!'
+      );
+      if (!confirmed) return;
+    } else if (hasAnswer && hasExplanation) {
+      const confirmed = await confirmDialog.show(
+        'Ghi đáp án chưa?',
+        'Em đã ghi đáp án và giải thích vô tập chưa? Nhớ ghi lại để ôn bài nha!'
+      );
+      if (!confirmed) return;
+    } else if (hasAnswer) {
+      const confirmed = await confirmDialog.show(
+        'Ghi đáp án chưa?',
+        'Em đã ghi đáp án vô tập chưa?'
+      );
+      if (!confirmed) return;
+    }
+  }
+
+  // Hide scroll hint
+  document.getElementById('scroll-hint')?.classList.remove('visible');
 
   const next = state.currentChunk + 1;
   if (next < state.chunks.length) {
@@ -1672,6 +1789,7 @@ async function showQuizQuestion(id) {
 
   document.getElementById(`${id}-quiz-num`).textContent = data.currentWord + 1;
   document.getElementById(`${id}-quiz-word`).textContent = w.word;
+  document.getElementById(`${id}-quiz-pron`).textContent = w.pron ? '/'+w.pron+'/' : '';
   document.getElementById(`${id}-quiz-prompt`).textContent = 'Chọn nghĩa đúng:';
 
   const correct = w.meaning;
@@ -1775,7 +1893,7 @@ function startVocabGame(id) {
   gameEl.innerHTML = `
     <div class="game-col">
       <div class="game-col-title">Tiếng Anh</div>
-      ${words.map(w => `<div class="game-item" data-testid="${id}-game-word" data-word="${w.word}" data-type="word" data-matched="false" data-selected="false" onclick="window.__voiceLecture.handleGameSelect('${id}', '${w.word.replace(/'/g, "\\'")}', 'word')">${w.word}</div>`).join('')}
+      ${words.map(w => `<div class="game-item" data-testid="${id}-game-word" data-word="${w.word}" data-type="word" data-matched="false" data-selected="false" onclick="window.__voiceLecture.handleGameSelect('${id}', '${w.word.replace(/'/g, "\\'")}', 'word')">${w.word}${w.pron ? '<span class="game-pron">/'+w.pron+'/</span>' : ''}</div>`).join('')}
     </div>
     <div class="game-col">
       <div class="game-col-title">Tiếng Việt</div>
